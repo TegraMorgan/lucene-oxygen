@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.shaie.irclass;
+package oxygen;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
@@ -32,8 +32,6 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 
 import java.util.List;
-
-import static com.shaie.irclass.Utils.format;
 
 public class PassageSearchDemo {
 
@@ -99,7 +97,7 @@ public class PassageSearchDemo {
                 final List<Passage> passages = passageSearcher.search(q, td, 3, 50);
                 for (final Passage passage : passages) {
                     System.out.println(
-                            format("doc=%s, doc_score=%.4f, psg_score=%.4f, query_terms=%s, offsets=(%d,%d)\n%s\n",
+                            Utils.format("doc=%s, doc_score=%.4f, psg_score=%.4f, query_terms=%s, offsets=(%d,%d)\n%s\n",
                                     passage.getDocID(), passage.getDocScore(), passage.getScore(),
                                     passage.getQueryTerms(), passage.getStartOffset(), passage.getEndOffset(),
                                     passage.getText()));

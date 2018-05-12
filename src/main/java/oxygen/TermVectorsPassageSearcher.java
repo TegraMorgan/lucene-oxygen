@@ -14,23 +14,23 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.shaie.irclass;
+package oxygen;
 
-import com.shaie.irclass.Passage.Interval;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.*;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
+import oxygen.Passage.Interval;
 
 import java.io.IOException;
 import java.util.*;
 import java.util.stream.Collectors;
 
-import static com.shaie.irclass.Utils.format;
+import static oxygen.Utils.format;
 
-public class TermVectorsPassageSearcher implements com.shaie.irclass.PassageSearcher {
+public class TermVectorsPassageSearcher implements PassageSearcher {
 
     private final IndexSearcher searcher;
     private final String field;

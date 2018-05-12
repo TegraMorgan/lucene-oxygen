@@ -14,14 +14,22 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.shaie.irclass;
+package oxygen;
 
-import java.util.Locale;
+import org.apache.lucene.search.Query;
+import org.apache.lucene.search.TopDocs;
 
-public interface Utils {
+import java.io.IOException;
+import java.util.List;
 
-    static String format(String pattern, Object... args) {
-        return String.format(Locale.ENGLISH, pattern, args);
-    }
+/**
+ * An interface for retrieving relevant passages to a query.
+ */
+public interface PassageSearcher {
+
+    /**
+     * Extracts relevant passages to a query from a given set of documents.
+     */
+    List<Passage> search(Query query, TopDocs topDocs, int numPassages, int passageLength) throws IOException;
 
 }

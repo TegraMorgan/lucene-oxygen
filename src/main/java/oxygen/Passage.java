@@ -14,14 +14,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.shaie.irclass;
+package oxygen;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
-import static com.shaie.irclass.Utils.format;
 
 public class Passage {
 
@@ -112,7 +110,7 @@ public class Passage {
 
         @Override
         public String toString() {
-            return format("(%d,%d)", start, end);
+            return Utils.format("(%d,%d)", start, end);
         }
     }
 

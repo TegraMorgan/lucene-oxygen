@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.shaie.irclass;
+package oxygen;
 
 import com.google.common.collect.Iterables;
 import org.apache.lucene.analysis.Analyzer;
@@ -39,7 +39,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
-import static com.shaie.irclass.Utils.format;
+import static oxygen.Utils.format;
 
 public class HandsOnDemo {
 
@@ -101,7 +101,7 @@ public class HandsOnDemo {
 
     private static Directory newDirectory() throws IOException {
         // return new RAMDirectory();
-        return FSDirectory.open(new File("d:/tmp/ir-class/demo").toPath());
+        return FSDirectory.open(new File("e:/tmp/ir-class/demo").toPath());
     }
 
     private static Analyzer newAnalyzer() {
