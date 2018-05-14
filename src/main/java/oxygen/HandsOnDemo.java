@@ -19,10 +19,6 @@ package oxygen;
 import com.google.common.collect.Iterables;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
-import org.apache.lucene.analysis.phonetic.DaitchMokotoffSoundexFilter; //Create tokens for phonetic matches based on Daitch–Mokotoff Soundex.
-import org.apache.lucene.analysis.phonetic.DaitchMokotoffSoundexFilterFactory; //Factory for DaitchMokotoffSoundexFilter.
-
-
 import org.apache.lucene.codecs.simpletext.SimpleTextCodec;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field.Store;
@@ -37,10 +33,6 @@ import org.apache.lucene.search.vectorhighlight.FastVectorHighlighter;
 import org.apache.lucene.search.vectorhighlight.FieldQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.queries.function.*; // Queries that compute score based upon a function.
-import org.apache.lucene.queries.function.valuesource.*; //A variety of functions to use with FunctionQuery.
-import org.apache.lucene.queries.mlt.*; //Document similarity query generators.
-
 
 import java.io.File;
 import java.io.IOException;
