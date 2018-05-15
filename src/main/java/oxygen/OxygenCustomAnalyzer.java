@@ -9,12 +9,17 @@ import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.analysis.standard.StandardFilter;
 import org.apache.lucene.analysis.standard.StandardTokenizer;
 
+import java.util.Arrays;
+import java.util.List;
+
 public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
     private final CharArraySet stemExclusionSet;
+    public static final CharArraySet OXYGEN_STOP_SET;
+    protected final CharArraySet stopwords;
 
 
     public OxygenCustomAnalyzer() {
-        this(DefaultSetHolder.DEFAULT_STOP_SET);
+        this(getDefaultStopSet());
     }
 
     /**
@@ -37,6 +42,7 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
     public OxygenCustomAnalyzer(CharArraySet stopWords, CharArraySet stemExclusionSet) {
         super(stopWords);
         this.stemExclusionSet = CharArraySet.unmodifiableSet(CharArraySet.copy(stemExclusionSet));
+        this.stopwords = CharArraySet.unmodifiableSet(CharArraySet.copy(stopWords));
     }
 
     @Override
@@ -75,7 +81,21 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
      * accesses the static final set the first time.;
      */
     private static class DefaultSetHolder {
-        static final CharArraySet DEFAULT_STOP_SET = StandardAnalyzer.STOP_WORDS_SET;
+       static final CharArraySet DEFAULT_STOP_SET = OXYGEN_STOP_SET;
+    }
+
+
+    static {
+        /* TODO Change this list to /res/stopwords.csv */
+        final List<String> stopWords = Arrays.asList(
+                "a", "an", "and", "are", "as", "at", "be", "but", "by",
+                "for", "if", "in", "into", "is", "it",
+                "no", "not", "of", "on", "or", "such",
+                "that", "the", "their", "then", "there", "these",
+                "they", "this", "to", "was", "will", "with"
+        );
+        final CharArraySet stopSet = new CharArraySet(stopWords, false);
+        OXYGEN_STOP_SET = CharArraySet.unmodifiableSet(stopSet);
     }
 
 }
