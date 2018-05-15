@@ -18,6 +18,7 @@ package oxygen;
 
 import com.google.common.collect.Iterables;
 import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.phonetic.DaitchMokotoffSoundexFilter; //Create tokens for phonetic matches based on Daitch–Mokotoff Soundex.
@@ -43,9 +44,9 @@ import org.apache.lucene.queries.function.valuesource.*; //A variety of function
 import org.apache.lucene.queries.mlt.*; //Document similarity query generators.
 
 
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
 import java.util.Arrays;
+import java.util.List;
 import java.util.stream.Collectors;
 
 import static oxygen.Utils.format;
@@ -71,16 +72,26 @@ public class HandsOnDemo {
     public static void main(String[] args) throws Exception {
         try (Directory dir = newDirectory();
              Analyzer analyzer = newAnalyzer()) {
-            Gson gson = new Gson();
-            // Index
-            try (IndexWriter writer = new IndexWriter(dir, newIndexWriterConfig(analyzer))) {
-                for (final String[] docData : DATA) {
-                    final Document doc = new Document();
-                    doc.add(new StringField("id", docData[0], Store.YES));
-                    doc.add(new TextField("body", docData[1], Store.YES));
-                    // doc.add(new Field(BODY_FIELD, docData[1], TERM_VECTOR_TYPE));
-                    writer.addDocument(doc);
+            try {
+                BufferedReader br = new BufferedReader(new FileReader("../nfL6.json"));
+                List<Question> questions = Arrays.asList(new Gson().fromJson(br, Question[].class));
+                List<Document> corpus;
+                for (q: questions) {
+                   corpus.addAll(q.nbestanswers)
                 }
+                // Index
+                try (IndexWriter writer = new IndexWriter(dir, newIndexWriterConfig(analyzer))) {
+                    for (Integer i = 0; i <  corpus.size(); ++i) {
+                        final Document doc = new Document();
+                        doc.add(new StringField("id", i.toString(), Store.YES));
+                        doc.add(new TextField("body", docData[1], Store.YES));
+                        // doc.add(new Field(BODY_FIELD, docData[1], TERM_VECTOR_TYPE));
+                        writer.addDocument(doc);
+                    }
+                }
+
+            } catch (FileNotFoundException e){
+                e.printStackTrace();
             }
 
             // Search
