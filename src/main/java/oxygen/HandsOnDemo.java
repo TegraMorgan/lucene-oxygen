@@ -115,7 +115,8 @@ public class HandsOnDemo {
     private static Analyzer newAnalyzer() {
         // return new WhitespaceAnalyzer();
         // return new StandardAnalyzer();
-        return new EnglishAnalyzer();
+        // return new EnglishAnalyzer();
+        return new OxygenCustomAnalyzer();
     }
 
     private static IndexWriterConfig newIndexWriterConfig(Analyzer analyzer) {
