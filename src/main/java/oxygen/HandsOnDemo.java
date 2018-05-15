@@ -17,6 +17,7 @@
 package oxygen;
 
 import com.google.common.collect.Iterables;
+import com.google.gson.Gson;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.phonetic.DaitchMokotoffSoundexFilter; //Create tokens for phonetic matches based on Daitch–Mokotoff Soundex.
@@ -70,6 +71,7 @@ public class HandsOnDemo {
     public static void main(String[] args) throws Exception {
         try (Directory dir = newDirectory();
              Analyzer analyzer = newAnalyzer()) {
+            Gson gson = new Gson();
             // Index
             try (IndexWriter writer = new IndexWriter(dir, newIndexWriterConfig(analyzer))) {
                 for (final String[] docData : DATA) {
