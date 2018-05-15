@@ -10,7 +10,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="Lucene" level="project" />
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
@@ -20,7 +19,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="com.google.code.gson:gson:2.8.4" level="project" />
-    <orderEntry type="library" name="gson-2.8.4" level="project" />
+    <orderEntry type="library" exported="" name="google" level="project" />
+    <orderEntry type="library" exported="" name="lucene" level="project" />
   </component>
 </module>
