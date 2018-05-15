@@ -13,8 +13,7 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
     private final CharArraySet stemExclusionSet;
 
 
-
-    public OxygenCustomAnalyzer(){
+    public OxygenCustomAnalyzer() {
         this(DefaultSetHolder.DEFAULT_STOP_SET);
     }
 
@@ -32,7 +31,7 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
      * provided this analyzer will add a {@link SetKeywordMarkerFilter} before
      * stemming.
      *
-     * @param stopWords a stopword set
+     * @param stopWords        a stopword set
      * @param stemExclusionSet a set of terms not to be stemmed
      */
     public OxygenCustomAnalyzer(CharArraySet stopWords, CharArraySet stemExclusionSet) {
@@ -45,11 +44,11 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
         /* This is the main point of the analyzer - Tegra */
         //TODO Change the analyzer
         final Tokenizer source = new StandardTokenizer();
-        TokenStream result = new StandardFilter(source);
-        result = new EnglishPossessiveFilter(result);
-        result = new LowerCaseFilter(result);
-        result = new StopFilter(result, stopwords);
-        if(!stemExclusionSet.isEmpty())
+        TokenStream result = new StandardFilter(source);    // Basic initialization
+        result = new EnglishPossessiveFilter(result);       // Removes ' symbol (exmpl: Harry's book -> Harry book)
+        result = new LowerCaseFilter(result);               // Self explanatory
+        result = new StopFilter(result, stopwords);         // Same
+        if (!stemExclusionSet.isEmpty())
             result = new SetKeywordMarkerFilter(result, stemExclusionSet);
         result = new PorterStemFilter(result);
         return new TokenStreamComponents(source, result);
@@ -64,9 +63,10 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
 
     /**
      * Returns an unmodifiable instance of the default stop words set.
+     *
      * @return default stop words set.
      */
-    public static CharArraySet getDefaultStopSet(){
+    public static CharArraySet getDefaultStopSet() {
         return OxygenCustomAnalyzer.DefaultSetHolder.DEFAULT_STOP_SET;
     }
 
