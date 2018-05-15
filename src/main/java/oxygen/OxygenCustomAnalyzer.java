@@ -86,7 +86,6 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
 
 
     static {
-        /* TODO Change this list to /res/stopwords.csv */
         final List<String> stopWords = Arrays.asList(
                 "a","about","above","after","again","against","all","am","an","and","any","are","aren't","as","at","be",
                 "because","been","before","being","below","between","both","but","by","can't","cannot","could",
