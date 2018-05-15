@@ -45,11 +45,11 @@ import org.apache.lucene.queries.mlt.*; //Document similarity query generators.
 
 
 import java.io.*;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
 
 import static oxygen.Utils.format;
+import oxygen.Question;
 
 public class HandsOnDemo {
 
@@ -75,16 +75,17 @@ public class HandsOnDemo {
             try {
                 BufferedReader br = new BufferedReader(new FileReader("../nfL6.json"));
                 List<Question> questions = Arrays.asList(new Gson().fromJson(br, Question[].class));
-                List<Document> corpus;
-                for (q: questions) {
-                   corpus.addAll(q.nbestanswers)
+
+                List<String> allAnswers= new ArrayList<String>();
+                for (Integer i = 0; i <  questions.size(); ++i) {
+                    allAnswers.addAll(questions.get(i).nbestanswers);
                 }
                 // Index
                 try (IndexWriter writer = new IndexWriter(dir, newIndexWriterConfig(analyzer))) {
-                    for (Integer i = 0; i <  corpus.size(); ++i) {
+                    for (Integer i = 0; i <  allAnswers.size(); ++i) {
                         final Document doc = new Document();
                         doc.add(new StringField("id", i.toString(), Store.YES));
-                        doc.add(new TextField("body", docData[1], Store.YES));
+                        doc.add(new TextField("body", allAnswers.get(i), Store.YES));
                         // doc.add(new Field(BODY_FIELD, docData[1], TERM_VECTOR_TYPE));
                         writer.addDocument(doc);
                     }
