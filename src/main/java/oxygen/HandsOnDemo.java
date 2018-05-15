@@ -109,7 +109,7 @@ public class HandsOnDemo {
 
     private static Directory newDirectory() throws IOException {
         // return new RAMDirectory();
-        return FSDirectory.open(new File("e:/tmp/ir-class/demo").toPath());
+        return FSDirectory.open(new File("./tmp/ir-class/demo").toPath());
     }
 
     private static Analyzer newAnalyzer() {
