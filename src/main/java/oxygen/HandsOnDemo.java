@@ -130,7 +130,7 @@ public class HandsOnDemo {
         // return new WhitespaceAnalyzer();
         // return new StandardAnalyzer();
         // return new EnglishAnalyzer();
-        return new OxygenCustomAnalyzer();
+        return new oxygen.OxygenCustomAnalyzer();
     }
 
     private static IndexWriterConfig newIndexWriterConfig(Analyzer analyzer) {
