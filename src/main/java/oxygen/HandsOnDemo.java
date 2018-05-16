@@ -87,7 +87,7 @@ public class HandsOnDemo {
                         final Document doc = new Document();
                         doc.add(new StringField("id", i.toString(), Store.YES));
                         System.out.println(i.toString());
-                        doc.add(new TextField("body", allAnswers.get(i), Store.YES));
+                        doc.add(new TextField(BODY_FIELD, allAnswers.get(i), Store.YES));
                         System.out.println(allAnswers.get(i));
                         writer.addDocument(doc);
                     }
