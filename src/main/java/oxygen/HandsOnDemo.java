@@ -139,14 +139,10 @@ public class HandsOnDemo {
     }
 
     private static Directory newDirectory() throws IOException {
-        // return new RAMDirectory();
         return FSDirectory.open(new File("./tmp/ir-class/demo").toPath());
     }
 
     private static Analyzer newAnalyzer() {
-        // return new WhitespaceAnalyzer();
-        // return new StandardAnalyzer();
-        // return new EnglishAnalyzer();
         return new oxygen.OxygenCustomAnalyzer();
     }
 
@@ -154,7 +150,6 @@ public class HandsOnDemo {
         return new IndexWriterConfig(analyzer)
                 .setOpenMode(OpenMode.CREATE)
                 .setCodec(new SimpleTextCodec())
-                // .setUseCompoundFile(false)
                 .setCommitOnClose(true);
     }
 
