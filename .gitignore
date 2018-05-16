@@ -25,3 +25,5 @@ hs_err_pid*
 src/main/main.iml
 .idea/workspace.xml
 .idea/*
+tmp/
+

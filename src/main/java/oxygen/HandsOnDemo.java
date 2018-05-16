@@ -86,7 +86,7 @@ public class HandsOnDemo {
                         final Document doc = new Document();
                         doc.add(new StringField("id", i.toString(), Store.YES));
                         doc.add(new TextField("body", allAnswers.get(i), Store.YES));
-                        // doc.add(new Field(BODY_FIELD, docData[1], TERM_VECTOR_TYPE));
+                        // doc.add(new Field(BODY_FIELD, docData[1], TERM_VECTOR_TYPE));gin dev-Tegra
                         writer.addDocument(doc);
                     }
                 }
