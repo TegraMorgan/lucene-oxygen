@@ -49,7 +49,9 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 import static oxygen.Utils.format;
+import org.apache.commons.cli.ParseException;
 import oxygen.Question;
+import utils.CmdParser;
 
 public class HandsOnDemo {
 
@@ -70,45 +72,52 @@ public class HandsOnDemo {
     }
 
     public static void main(String[] args) throws Exception {
+        CmdParser parser = new CmdParser();
+        try {
+            parser.extract(args);
+        } catch (ParseException e) {
+            System.exit(1);
+        }
         try (Directory dir = newDirectory();
              Analyzer analyzer = newAnalyzer()) {
-            try {
-                BufferedReader br = new BufferedReader(new FileReader("../nfL6.json"));
-                List<Question> questions = Arrays.asList(new Gson().fromJson(br, Question[].class));
+            if (parser.hasIndexingOption()) {
+                try {
+                    BufferedReader br = new BufferedReader(new FileReader("../nfL6.json"));
+                    List<Question> questions = Arrays.asList(new Gson().fromJson(br, Question[].class));
 
-                List<String> allAnswers= new ArrayList<String>();
-                for (Integer i = 0; i <  questions.size(); ++i) {
-                    allAnswers.addAll(questions.get(i).nbestanswers);
-                }
-//                for (String s: allAnswers) {
-//                    System.out.println(s);
-//                }
-                // Index
-                try (IndexWriter writer = new IndexWriter(dir, newIndexWriterConfig(analyzer))) {
-                    for (Integer i = 0; i <  allAnswers.size(); ++i) {
-                        final Document doc = new Document();
-                        doc.add(new StringField("id", i.toString(), Store.YES));
-                        System.out.println(i.toString());
-                        doc.add(new TextField("body", allAnswers.get(i), Store.YES));
-                        System.out.println(allAnswers.get(i));
-                        // doc.add(new Field(BODY_FIELD, docData[1], TERM_VECTOR_TYPE));gin dev-Tegra
-                        writer.addDocument(doc);
+                    List<String> allAnswers = new ArrayList<String>();
+                    for (Integer i = 0; i < questions.size(); ++i) {
+                        allAnswers.addAll(questions.get(i).nbestanswers);
                     }
-                }
+//                for (String s: allAnswers) {
+//                    System.out.println(s);
+//                }
+                    // Index
+                    try (IndexWriter writer = new IndexWriter(dir, newIndexWriterConfig(analyzer))) {
+                        for (Integer i = 0; i < allAnswers.size(); ++i) {
+                            final Document doc = new Document();
+                            doc.add(new StringField("id", i.toString(), Store.YES));
+                            //System.out.println(i.toString());
+                            doc.add(new TextField("body", allAnswers.get(i), Store.YES));
+                            //System.out.println(allAnswers.get(i));
+                            // doc.add(new Field(BODY_FIELD, docData[1], TERM_VECTOR_TYPE));gin dev-Tegra
+                            writer.addDocument(doc);
+                        }
+                    }
 //                for (String s: allAnswers) {
 //                    System.out.println(s);
 //                }
 
-            } catch (FileNotFoundException e){
-                e.printStackTrace();
+                } catch (FileNotFoundException e) {
+                    e.printStackTrace();
+                }
             }
-
             // Search
             try (DirectoryReader reader = DirectoryReader.open(dir)) {
-                logIndexInfo(reader);
+                //logIndexInfo(reader);
 
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);
-                final Query q = qp.parse("sentences");
+                final Query q = qp.parse("Why did the U.S Invade Iraq ");
                 System.out.println("Query: " + q);
                 System.out.println();
 
