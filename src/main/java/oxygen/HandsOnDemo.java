@@ -80,9 +80,7 @@ public class HandsOnDemo {
                 for (Integer i = 0; i <  questions.size(); ++i) {
                     allAnswers.addAll(questions.get(i).nbestanswers);
                 }
-//                for (String s: allAnswers) {
-//                    System.out.println(s);
-//                }
+
                 // Index
                 try (IndexWriter writer = new IndexWriter(dir, newIndexWriterConfig(analyzer))) {
                     for (Integer i = 0; i <  allAnswers.size(); ++i) {
@@ -91,13 +89,9 @@ public class HandsOnDemo {
                         System.out.println(i.toString());
                         doc.add(new TextField("body", allAnswers.get(i), Store.YES));
                         System.out.println(allAnswers.get(i));
-                        // doc.add(new Field(BODY_FIELD, docData[1], TERM_VECTOR_TYPE));gin dev-Tegra
                         writer.addDocument(doc);
                     }
                 }
-//                for (String s: allAnswers) {
-//                    System.out.println(s);
-//                }
 
             } catch (FileNotFoundException e){
                 e.printStackTrace();
@@ -130,14 +124,10 @@ public class HandsOnDemo {
     }
 
     private static Directory newDirectory() throws IOException {
-        // return new RAMDirectory();
         return FSDirectory.open(new File("./tmp/ir-class/demo").toPath());
     }
 
     private static Analyzer newAnalyzer() {
-        // return new WhitespaceAnalyzer();
-        // return new StandardAnalyzer();
-        // return new EnglishAnalyzer();
         return new oxygen.OxygenCustomAnalyzer();
     }
 
@@ -145,7 +135,6 @@ public class HandsOnDemo {
         return new IndexWriterConfig(analyzer)
                 .setOpenMode(OpenMode.CREATE)
                 .setCodec(new SimpleTextCodec())
-                // .setUseCompoundFile(false)
                 .setCommitOnClose(true);
     }
 
