@@ -116,10 +116,13 @@ public class HandsOnDemo {
             try (DirectoryReader reader = DirectoryReader.open(dir)) {
                 //logIndexInfo(reader);
 
-                final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);
-                final Query q = qp.parse("Why did the U.S Invade Iraq ");
+                final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser
+                final Query q = qp.parse("Why did the U.S Invade Iraq ");     // Boolean Query
+                // PhraseQuery should be added perhaps?
+
                 System.out.println("Query: " + q);
                 System.out.println();
+
 
                 final IndexSearcher searcher = new IndexSearcher(reader);
                 final TopDocs td = searcher.search(q, 10);
