@@ -98,7 +98,7 @@ public class HandsOnDemo {
                             final Document doc = new Document();
                             doc.add(new StringField("id", i.toString(), Store.YES));
                             //System.out.println(i.toString());
-                            doc.add(new TextField("body", allAnswers.get(i), Store.YES));
+                            doc.add(new TextField(BODY_FIELD, allAnswers.get(i), Store.YES));
                             //System.out.println(allAnswers.get(i));
                             // doc.add(new Field(BODY_FIELD, docData[1], TERM_VECTOR_TYPE));gin dev-Tegra
                             writer.addDocument(doc);
@@ -116,9 +116,15 @@ public class HandsOnDemo {
             try (DirectoryReader reader = DirectoryReader.open(dir)) {
                 //logIndexInfo(reader);
 
-                final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser
+                final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
                 final Query q = qp.parse("Why did the U.S Invade Iraq ");     // Boolean Query
                 // PhraseQuery should be added perhaps?
+                /* Viable classes are as follows:
+                PhraseQuery
+                TermQuery
+                BooleanQuery
+                 */
+
 
                 System.out.println("Query: " + q);
                 System.out.println();
