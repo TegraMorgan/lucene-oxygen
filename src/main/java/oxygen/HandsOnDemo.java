@@ -35,10 +35,12 @@ import org.apache.lucene.index.*;
 import org.apache.lucene.index.IndexWriterConfig.OpenMode;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.*;
+import org.apache.lucene.search.similarities.TFIDFSimilarity;
 import org.apache.lucene.search.vectorhighlight.FastVectorHighlighter;
 import org.apache.lucene.search.vectorhighlight.FieldQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
+import org.apache.lucene.search.similarities.*;
 import org.apache.lucene.queries.function.*; // Queries that compute score based upon a function.
 import org.apache.lucene.queries.function.valuesource.*; //A variety of functions to use with FunctionQuery.
 import org.apache.lucene.queries.mlt.*; //Document similarity query generators.
@@ -80,6 +82,10 @@ public class HandsOnDemo {
         }
         try (Directory dir = newDirectory();
              Analyzer analyzer = newAnalyzer()) {
+
+            Similarity [] similarities = {new BM25Similarity(), new LMJelinekMercerSimilarity(0.5f)};
+            MultiSimilarity multisimilarity = new MultiSimilarity(similarities);
+
             if (parser.hasIndexingOption()) {
                 try {
                     BufferedReader br = new BufferedReader(new FileReader("../nfL6.json"));
@@ -93,7 +99,7 @@ public class HandsOnDemo {
 //                    System.out.println(s);
 //                }
                     // Index
-                    try (IndexWriter writer = new IndexWriter(dir, newIndexWriterConfig(analyzer))) {
+                    try (IndexWriter writer = new IndexWriter(dir, newIndexWriterConfig(analyzer, multisimilarity))) {
                         for (Integer i = 0; i < allAnswers.size(); ++i) {
                             final Document doc = new Document();
                             doc.add(new StringField("id", i.toString(), Store.YES));
@@ -131,6 +137,7 @@ public class HandsOnDemo {
 
 
                 final IndexSearcher searcher = new IndexSearcher(reader);
+                searcher.setSimilarity(multisimilarity);
                 final TopDocs td = searcher.search(q, 10);
 
                 final FastVectorHighlighter highlighter = new FastVectorHighlighter();
@@ -155,8 +162,9 @@ public class HandsOnDemo {
         return new oxygen.OxygenCustomAnalyzer();
     }
 
-    private static IndexWriterConfig newIndexWriterConfig(Analyzer analyzer) {
+    private static IndexWriterConfig newIndexWriterConfig(Analyzer analyzer, Similarity similarity) {
         return new IndexWriterConfig(analyzer)
+                .setSimilarity(similarity)
                 .setOpenMode(OpenMode.CREATE)
                 .setCodec(new SimpleTextCodec())
                 .setCommitOnClose(true);
