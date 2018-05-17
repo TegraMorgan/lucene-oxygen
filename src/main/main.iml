@@ -10,6 +10,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="Google_and_Lucene" level="project" />
+    <orderEntry type="library" name="Lucene" level="project" />
   </component>
 </module>
