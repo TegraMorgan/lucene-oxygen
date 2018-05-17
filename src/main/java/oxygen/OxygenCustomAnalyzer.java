@@ -16,6 +16,7 @@ import java.util.List;
 public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
     private final CharArraySet stemExclusionSet;
     public static final CharArraySet OXYGEN_STOP_SET;
+    public static final CharArraySet OXYGEN_EXCLUSION_SET;
     protected final CharArraySet stopwords;
 
 
@@ -23,13 +24,12 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
         this(getDefaultStopSet());
     }
 
-    /**
-     * Builds an analyzer with the given stop words.
-     *
-     * @param stopWords a stopword set
-     */
-    public OxygenCustomAnalyzer(CharArraySet stopWords) {
-        this(stopWords, CharArraySet.EMPTY_SET);
+    static {
+        final List<String> exclusionSet = Arrays.asList(
+                "U.S.A", "U.S.", "U.S"
+        );
+        final CharArraySet stopSet = new CharArraySet(exclusionSet, false);
+        OXYGEN_EXCLUSION_SET = CharArraySet.unmodifiableSet(stopSet);
     }
 
     /**
@@ -46,19 +46,13 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
         this.stopwords = CharArraySet.unmodifiableSet(CharArraySet.copy(stopWords));
     }
 
-    @Override
-    protected TokenStreamComponents createComponents(String fieldName) {
-        /* This is the main point of the analyzer - Tegra */
-        //TODO Change the analyzer
-        final Tokenizer source = new StandardTokenizer();
-        TokenStream result = new StandardFilter(source);    // Basic initialization
-        result = new EnglishPossessiveFilter(result);       // Removes ' symbol (exmpl: Harry's book -> Harry book)
-        result = new LowerCaseFilter(result);               // Self explanatory
-        result = new StopFilter(result, stopwords);         // Stop words
-        if (!stemExclusionSet.isEmpty())
-            result = new SetKeywordMarkerFilter(result, stemExclusionSet); // Stem exclusions
-        result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
-        return new TokenStreamComponents(source, result);
+    /**
+     * Builds an analyzer with the given stop words.
+     *
+     * @param stopWords a stopword set
+     */
+    public OxygenCustomAnalyzer(CharArraySet stopWords) {
+        this(stopWords, OXYGEN_EXCLUSION_SET);
     }
 
     @Override
@@ -104,6 +98,21 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
         );
         final CharArraySet stopSet = new CharArraySet(stopWords, false);
         OXYGEN_STOP_SET = CharArraySet.unmodifiableSet(stopSet);
+    }
+
+    @Override
+    protected TokenStreamComponents createComponents(String fieldName) {
+        /* This is the main point of the analyzer - Tegra */
+        //TODO Change the analyzer
+        final Tokenizer source = new StandardTokenizer();
+        TokenStream result = new StandardFilter(source);    // Basic initialization
+        result = new EnglishPossessiveFilter(result);       // Removes ' symbol (exmpl: Harry's book -> Harry book)
+        result = new LowerCaseFilter(result);               // Self explanatory
+        result = new StopFilter(result, stopwords);         // Stop words
+        if (!stemExclusionSet.isEmpty())
+            result = new SetKeywordMarkerFilter(result, stemExclusionSet); // Stemming exclusions
+        result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
+        return new TokenStreamComponents(source, result);
     }
 
 }
