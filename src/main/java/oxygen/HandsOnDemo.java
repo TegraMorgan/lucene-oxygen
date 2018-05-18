@@ -51,6 +51,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 import static oxygen.Utils.format;
+
 import org.apache.commons.cli.ParseException;
 import oxygen.Question;
 import utils.CmdParser;
@@ -83,7 +84,11 @@ public class HandsOnDemo {
         try (Directory dir = newDirectory();
              Analyzer analyzer = newAnalyzer()) {
 
+<<<<<<< HEAD
             Similarity [] similarities = {new BM25Similarity(), new LMJelinekMercerSimilarity(0.7f)};
+=======
+            Similarity[] similarities = {new BM25Similarity(), new LMJelinekMercerSimilarity(0.5f)};
+>>>>>>> bba29c7200d8fca662be1fe319807f46fc31bc44
             MultiSimilarity multisimilarity = new MultiSimilarity(similarities);
 
             if (parser.hasIndexingOption()) {
@@ -122,8 +127,10 @@ public class HandsOnDemo {
             try (DirectoryReader reader = DirectoryReader.open(dir)) {
                 //logIndexInfo(reader);
 
+                String queryString = "Why did the U.S Invade Iraq?";                // String to search
+                queryString = OxygenCustomAnalyzer.symbolRemoval(queryString);      // Making string lucene friendly
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
-                final Query q = qp.parse("Why did the U.S Invade Iraq ");     // Boolean Query
+                final Query q = qp.parse(queryString);                              // Boolean Query
                 // PhraseQuery should be added perhaps?
                 /* Viable classes are as follows:
                 PhraseQuery
@@ -137,6 +144,7 @@ public class HandsOnDemo {
 
 
                 final IndexSearcher searcher = new IndexSearcher(reader);
+                /* There is also a PassageSearcher */
                 searcher.setSimilarity(multisimilarity);
                 final TopDocs td = searcher.search(q, 10);
 
