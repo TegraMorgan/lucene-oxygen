@@ -97,9 +97,9 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
         char[] qu = q.toCharArray();
 
         /* query deWildcardization
-        we expect regular user input, so all potential wildcards have to be preceded by '\' symbol
+        we expect regular user input, so all potential wildcards or lucene special symbols have to be preceded by '\' symbol
         + - && || ! ( ) { } [ ] ^ " ~ * ? : \ /
-         */
+        */
         int i = 0, j = 0;
         for (; i < l; i++) {
             if (isAwildcard(qu[i])) res[j++] = '\\';

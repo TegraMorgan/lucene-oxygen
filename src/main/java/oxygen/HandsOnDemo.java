@@ -123,9 +123,9 @@ public class HandsOnDemo {
             try (DirectoryReader reader = DirectoryReader.open(dir)) {
                 //logIndexInfo(reader);
 
+                String queryString = "Why did the U.S Invade Iraq?";                // String to search
+                queryString = OxygenCustomAnalyzer.symbolRemoval(queryString);      // Making string lucene friendly
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
-                String queryString = "Why did the U.S Invade Iraq?";
-                queryString = OxygenCustomAnalyzer.symbolRemoval(queryString);
                 final Query q = qp.parse(queryString);                              // Boolean Query
                 // PhraseQuery should be added perhaps?
                 /* Viable classes are as follows:
