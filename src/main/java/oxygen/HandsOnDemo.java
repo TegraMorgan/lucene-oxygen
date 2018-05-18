@@ -124,9 +124,9 @@ public class HandsOnDemo {
                 //logIndexInfo(reader);
 
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
-                String queryString = "Why did the U.S Invade Iraq? a";
+                String queryString = "Why did the U.S Invade Iraq?";
                 queryString = OxygenCustomAnalyzer.symbolRemoval(queryString);
-                final Query q = qp.parse(queryString);     // Boolean Query
+                final Query q = qp.parse(queryString);                              // Boolean Query
                 // PhraseQuery should be added perhaps?
                 /* Viable classes are as follows:
                 PhraseQuery

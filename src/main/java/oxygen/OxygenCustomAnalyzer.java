@@ -108,8 +108,7 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
             }
             res[j++] = qu[i];
         }
-        res[j] = '\0';
-        return String.valueOf(res);
+        return String.valueOf(res).trim();
     }
 
     @Override
