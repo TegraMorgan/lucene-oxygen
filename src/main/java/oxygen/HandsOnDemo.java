@@ -84,11 +84,7 @@ public class HandsOnDemo {
         try (Directory dir = newDirectory();
              Analyzer analyzer = newAnalyzer()) {
 
-<<<<<<< HEAD
             Similarity [] similarities = {new BM25Similarity(), new LMJelinekMercerSimilarity(0.7f)};
-=======
-            Similarity[] similarities = {new BM25Similarity(), new LMJelinekMercerSimilarity(0.5f)};
->>>>>>> bba29c7200d8fca662be1fe319807f46fc31bc44
             MultiSimilarity multisimilarity = new MultiSimilarity(similarities);
 
             if (parser.hasIndexingOption()) {
