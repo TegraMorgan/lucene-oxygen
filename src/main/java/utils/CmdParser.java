@@ -47,8 +47,11 @@ public class CmdParser {
 
 
   public boolean hasIndexingOption() {
+    /*
     String option = cmd.getOptionValue("index");
     return option != null;
+    */
+    return cmd.hasOption("index");
   }
 
 }
