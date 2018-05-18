@@ -18,11 +18,7 @@ package oxygen;
 
 import com.google.common.collect.Iterables;
 import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
 import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.analysis.en.EnglishAnalyzer;
-import org.apache.lucene.analysis.phonetic.DaitchMokotoffSoundexFilter; //Create tokens for phonetic matches based on Daitch–Mokotoff Soundex.
-import org.apache.lucene.analysis.phonetic.DaitchMokotoffSoundexFilterFactory; //Factory for DaitchMokotoffSoundexFilter.
 
 
 import org.apache.lucene.codecs.simpletext.SimpleTextCodec;
@@ -35,15 +31,11 @@ import org.apache.lucene.index.*;
 import org.apache.lucene.index.IndexWriterConfig.OpenMode;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.*;
-import org.apache.lucene.search.similarities.TFIDFSimilarity;
 import org.apache.lucene.search.vectorhighlight.FastVectorHighlighter;
 import org.apache.lucene.search.vectorhighlight.FieldQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.search.similarities.*;
-import org.apache.lucene.queries.function.*; // Queries that compute score based upon a function.
-import org.apache.lucene.queries.function.valuesource.*; //A variety of functions to use with FunctionQuery.
-import org.apache.lucene.queries.mlt.*; //Document similarity query generators.
 
 
 import java.io.*;
@@ -52,72 +44,54 @@ import java.util.stream.Collectors;
 
 import static oxygen.Utils.format;
 
-import org.apache.commons.cli.ParseException;
-import oxygen.Question;
 import utils.CmdParser;
 
 public class HandsOnDemo {
 
+    private static final String PATH_TO_JSON = "../nfL6.json";
+    private static final String PATH_TO_INDEX = "./tmp/ir-class/demo";
     private static final String BODY_FIELD = "body";
+    private static final FieldType termVector_t;
 
-    private static final FieldType TERM_VECTOR_TYPE;
-    private static final String[][] DATA = new String[][]{
-            new String[]{"doc0", "First document with one sentence."},
-            new String[]{"doc1", "Second document. With two sentences."}
-    };
+    private static IndexWriter indexWriter = null;
+
+    private static Similarity[] similarities;
+    private static MultiSimilarity similarity;
 
     static {
-        TERM_VECTOR_TYPE = new FieldType(TextField.TYPE_STORED);
-        TERM_VECTOR_TYPE.setStoreTermVectors(true);
-        TERM_VECTOR_TYPE.setStoreTermVectorPositions(true);
-        TERM_VECTOR_TYPE.setStoreTermVectorOffsets(true);
-        TERM_VECTOR_TYPE.freeze();
+        //TODO check
+        //similarities = new Similarity[] {new BooleanSimilarity()};
+        //similarities = new Similarity[] {new OxygenCustomSimilarity()};
+        //similarities = new Similarity[] {new LMJelinekMercerSimilarity(0.7f)};
+
+        //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity()};
+        //similarities = new Similarity[] {new BooleanSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
+        similarities = new Similarity[] {new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
+
+        //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
+
+        similarity = new MultiSimilarity(similarities);
+
+        termVector_t = new FieldType(TextField.TYPE_STORED);
+        termVector_t.setStoreTermVectors(true);
+        termVector_t.setStoreTermVectorPositions(true);
+        termVector_t.setStoreTermVectorOffsets(true);
+        termVector_t.freeze();
     }
 
     public static void main(String[] args) throws Exception {
+
         CmdParser parser = new CmdParser();
         try {
             parser.extract(args);
-        } catch (ParseException e) {
+        } catch (Exception e) {
             System.exit(1);
         }
-        try (Directory dir = newDirectory();
-             Analyzer analyzer = newAnalyzer()) {
 
-            Similarity [] similarities = {new BM25Similarity(), new LMJelinekMercerSimilarity(0.7f)};
-            MultiSimilarity multisimilarity = new MultiSimilarity(similarities);
+        try (Directory dir = newDirectory(); Analyzer analyzer = newAnalyzer()) {
 
-            if (parser.hasIndexingOption()) {
-                try {
-                    BufferedReader br = new BufferedReader(new FileReader("../nfL6.json"));
-                    List<Question> questions = Arrays.asList(new Gson().fromJson(br, Question[].class));
-
-                    List<String> allAnswers = new ArrayList<String>();
-                    for (Integer i = 0; i < questions.size(); ++i) {
-                        allAnswers.addAll(questions.get(i).nbestanswers);
-                    }
-//                for (String s: allAnswers) {
-//                    System.out.println(s);
-//                }
-                    // Index
-                    try (IndexWriter writer = new IndexWriter(dir, newIndexWriterConfig(analyzer, multisimilarity))) {
-                        for (Integer i = 0; i < allAnswers.size(); ++i) {
-                            final Document doc = new Document();
-                            doc.add(new StringField("id", i.toString(), Store.YES));
-                            //System.out.println(i.toString());
-                            doc.add(new TextField(BODY_FIELD, allAnswers.get(i), Store.YES));
-                            //System.out.println(allAnswers.get(i));
-                            // doc.add(new Field(BODY_FIELD, docData[1], TERM_VECTOR_TYPE));gin dev-Tegra
-                            writer.addDocument(doc);
-                        }
-                    }
-//                for (String s: allAnswers) {
-//                    System.out.println(s);
-//                }
-
-                } catch (FileNotFoundException e) {
-                    e.printStackTrace();
-                }
+            if (parser.hasIndexingOption() || indexWriter == null) {
+                indexCorpus(dir, PATH_TO_JSON, analyzer, similarity);
             }
             // Search
             try (DirectoryReader reader = DirectoryReader.open(dir)) {
@@ -127,6 +101,7 @@ public class HandsOnDemo {
                 queryString = OxygenCustomAnalyzer.symbolRemoval(queryString);      // Making string lucene friendly
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
                 final Query q = qp.parse(queryString);                              // Boolean Query
+
                 // PhraseQuery should be added perhaps?
                 /* Viable classes are as follows:
                 PhraseQuery
@@ -134,14 +109,12 @@ public class HandsOnDemo {
                 BooleanQuery
                  */
 
-
                 System.out.println("Query: " + q);
                 System.out.println();
 
-
                 final IndexSearcher searcher = new IndexSearcher(reader);
                 /* There is also a PassageSearcher */
-                searcher.setSimilarity(multisimilarity);
+                searcher.setSimilarity(similarity);
                 final TopDocs td = searcher.search(q, 10);
 
                 final FastVectorHighlighter highlighter = new FastVectorHighlighter();
@@ -159,7 +132,7 @@ public class HandsOnDemo {
     }
 
     private static Directory newDirectory() throws IOException {
-        return FSDirectory.open(new File("./tmp/ir-class/demo").toPath());
+        return FSDirectory.open(new File(PATH_TO_INDEX).toPath());
     }
 
     private static Analyzer newAnalyzer() {
@@ -174,6 +147,41 @@ public class HandsOnDemo {
                 .setCommitOnClose(true);
     }
 
+    private static void indexCorpus(Directory dir, String jsonPath, Analyzer analyzer, Similarity similarity) {
+        try {
+            BufferedReader br = new BufferedReader(new FileReader(jsonPath));
+            List<Question> questions = Arrays.asList(new Gson().fromJson(br, Question[].class));
+
+            List<String> allAnswers = new ArrayList<String>();
+            for (Integer i = 0; i < questions.size(); ++i) {
+                allAnswers.addAll(questions.get(i).nbestanswers);
+            }
+
+            // Index
+            try (IndexWriter writer = new IndexWriter(dir, newIndexWriterConfig(analyzer, similarity))) {
+                for (Integer i = 0; i < allAnswers.size(); ++i) {
+                    final Document doc = new Document();
+                    doc.add(new StringField("id", i.toString(), Store.YES));
+                    doc.add(new TextField(BODY_FIELD, allAnswers.get(i), Store.YES));
+                    // doc.add(new Field(BODY_FIELD, docData[1], termVector_t));gin dev-Tegra
+                    writer.addDocument(doc);
+                }
+            }
+            //printCorpus(allAnswers);
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    @SuppressWarnings("unused")
+    private static void printCorpus(List<String> corpus) {
+        for (String answer : corpus) {
+            System.out.println(answer);
+        }
+    }
+
+    @SuppressWarnings("unused")
     private static void logIndexInfo(IndexReader reader) throws IOException {
         System.out.println("Index info:");
         System.out.println("----------");
@@ -209,5 +217,4 @@ public class HandsOnDemo {
         }
         System.out.println();
     }
-
 }

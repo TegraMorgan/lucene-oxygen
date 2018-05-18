@@ -25,33 +25,27 @@ public class CmdParser {
    * @param args
    * @throws ParseException
    */
-  public void extract(String[] args) throws ParseException {
+  public void extract(String[] args) throws Exception {
 
     Options options = new Options();
 
-    Option address = new Option("i", "index", false, "Reindex documents");
-    address.setRequired(false);
-    options.addOption(address);
-
-    CommandLineParser parser = new DefaultParser();
-    HelpFormatter formatter = new HelpFormatter();
-
     try {
+      Option address = new Option("i", "index", false, "Reindex documents");
+      address.setRequired(false);
+      options.addOption(address);
+
+      CommandLineParser parser = new DefaultParser();
       cmd = parser.parse(options, args);
+
     } catch (ParseException e) {
       System.out.println(e.getMessage());
+      HelpFormatter formatter = new HelpFormatter();
       formatter.printHelp("java -jar yourJarName.jar", options);
-      throw e;
+      throw new Exception();
     }
   }
 
-
   public boolean hasIndexingOption() {
-    /*
-    String option = cmd.getOptionValue("index");
-    return option != null;
-    */
     return cmd.hasOption("index");
   }
-
 }
