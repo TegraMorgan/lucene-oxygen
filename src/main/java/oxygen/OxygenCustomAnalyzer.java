@@ -96,16 +96,23 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
         char[] res = new char[l * 2];
         char[] qu = q.toCharArray();
 
-        /* query deWildcardization
-        we expect regular user input, so all potential wildcards or lucene special symbols have to be preceded by '\' symbol
+        /* Part 1 - Query deWildcardization
+        We expect regular user input, so all potential wildcards or lucene special symbols have to be preceded by '\' symbol
         + - && || ! ( ) { } [ ] ^ " ~ * ? : \ /
         */
+
+        /* Part 2 - Stemmer has a problem with periods and stops ',' '.'
+        So, we will put spaces before them
+         */
         int i = 0, j = 0;
         for (; i < l; i++) {
+            // Part 1
             if (isAwildcard(qu[i])) res[j++] = '\\';
             if (i + 1 < l && isDoubleWC(qu[i], qu[i + 1])) {
                 res[j++] = '\\';
             }
+            // Part 2
+            if (toSpace(qu[i])) res[j++] = ' ';
             res[j++] = qu[i];
         }
         return String.valueOf(res).trim();
@@ -157,6 +164,16 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
             case '\\':
             case '/':
             case '"':
+                return true;
+            default:
+                return false;
+        }
+    }
+
+    private static boolean toSpace(char c) {
+        switch (c) {
+            case '.':
+            case ',':
                 return true;
             default:
                 return false;
