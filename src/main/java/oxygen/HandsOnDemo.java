@@ -66,7 +66,7 @@ public class HandsOnDemo {
 
         //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity()};
         //similarities = new Similarity[] {new BooleanSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
-        similarities = new Similarity[] {new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
+        similarities = new Similarity[]{new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
 
         //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
 
@@ -97,17 +97,19 @@ public class HandsOnDemo {
             try (DirectoryReader reader = DirectoryReader.open(dir)) {
                 //logIndexInfo(reader);
 
-                String queryString = "Why did the U.S Invade Iraq?";                // String to search
+                String queryString = "Why in the world do I have to press 1 to get English when the official national language \"IS\" English?";      // String to search
                 queryString = OxygenCustomAnalyzer.symbolRemoval(queryString);      // Making string lucene friendly
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
                 final Query q = qp.parse(queryString);                              // Boolean Query
 
                 // PhraseQuery should be added perhaps?
                 /* Viable classes are as follows:
+
                 PhraseQuery
                 TermQuery
                 BooleanQuery
-                 */
+
+                */
 
                 System.out.println("Query: " + q);
                 System.out.println();
