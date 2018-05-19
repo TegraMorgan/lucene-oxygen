@@ -46,7 +46,7 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
 
     static {
         final List<String> exclusionSet = Arrays.asList(
-                "U.S.A", "U.S.", "U.S"
+                "u.s.a", "u.s.a.", "u.s", "u.s."
         );
         final CharArraySet stopSet = new CharArraySet(exclusionSet, false);
         OXYGEN_EXCLUSION_SET = CharArraySet.unmodifiableSet(stopSet);
@@ -103,6 +103,7 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
 
         /* Part 2 - Stemmer has a problem with periods and stops ',' '.'
         So, we will put spaces before them
+        This is disabled for now
          */
         int i = 0, j = 0;
         for (; i < l; i++) {
@@ -112,8 +113,11 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
                 res[j++] = '\\';
             }
             // Part 2
+            /*
             if (toSpace(qu[i])) res[j++] = ' ';
+            */
             res[j++] = qu[i];
+
         }
         return String.valueOf(res).trim();
     }
@@ -125,7 +129,7 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
         final Tokenizer source = new StandardTokenizer();
         TokenStream result = new StandardFilter(source);    // Basic initialization
         result = new EnglishPossessiveFilter(result);       // Removes ' symbol (exmpl: Harry's book -> Harry book)
-        result = new LowerCaseFilter(result);               // Self explanatory
+        result = new LowerCaseFilter(result);         // Self explanatory
         result = new StopFilter(result, stopwords);         // Stop words
         if (!stemExclusionSet.isEmpty())
             result = new SetKeywordMarkerFilter(result, stemExclusionSet); // Stemming exclusions

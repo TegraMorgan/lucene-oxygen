@@ -90,14 +90,14 @@ public class HandsOnDemo {
 
         try (Directory dir = newDirectory(); Analyzer analyzer = newAnalyzer()) {
 
-            if (parser.hasIndexingOption() || indexWriter == null) {
+            if (parser.hasIndexingOption()) {
                 indexCorpus(dir, PATH_TO_JSON, analyzer, similarity);
             }
             // Search
             try (DirectoryReader reader = DirectoryReader.open(dir)) {
                 //logIndexInfo(reader);
 
-                String queryString = "Why in the world do I have to press 1 to get English when the official national language \"IS\" English?";      // String to search
+                String queryString = "us US U.S.A U.S. u.s";      // String to search
                 queryString = OxygenCustomAnalyzer.symbolRemoval(queryString);      // Making string lucene friendly
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
                 final Query q = qp.parse(queryString);                              // Boolean Query
