@@ -52,6 +52,10 @@ public class HandsOnDemo {
     private static final String PATH_TO_INDEX = "./tmp/ir-class/demo";
     private static final String BODY_FIELD = "body";
     private static final FieldType termVector_t;
+    private static long startTime;
+    private static long beginQuery;
+    private static long endQuery;
+    private static long endRun;
 
     private static IndexWriter indexWriter = null;
 
@@ -81,6 +85,8 @@ public class HandsOnDemo {
 
     public static void main(String[] args) throws Exception {
 
+        startTime = System.currentTimeMillis();
+
         CmdParser parser = new CmdParser();
         try {
             parser.extract(args);
@@ -93,6 +99,8 @@ public class HandsOnDemo {
             if (parser.hasIndexingOption()) {
                 indexCorpus(dir, PATH_TO_JSON, analyzer, similarity);
             }
+            beginQuery = System.currentTimeMillis();
+            System.out.printf("Index ready.\nTime elapsed : %d seconds\n", (beginQuery - startTime) / 1000);
             // Search
             try (DirectoryReader reader = DirectoryReader.open(dir)) {
                 //logIndexInfo(reader);
@@ -110,9 +118,10 @@ public class HandsOnDemo {
                 BooleanQuery
 
                 */
-
+                endQuery = System.currentTimeMillis();
                 System.out.println("Query: " + q);
                 System.out.println();
+                System.out.printf("Time elapsed : %d seconds\n", (endQuery - startTime) / 1000);
 
                 final IndexSearcher searcher = new IndexSearcher(reader);
                 /* There is also a PassageSearcher */
@@ -130,7 +139,8 @@ public class HandsOnDemo {
                 }
             }
         }
-
+        endRun = System.currentTimeMillis();
+        System.out.printf("Time elapsed : %d seconds\n", (endRun - startTime) / 1000);
     }
 
     private static Directory newDirectory() throws IOException {
