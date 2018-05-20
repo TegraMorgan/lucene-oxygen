@@ -52,12 +52,14 @@ public class HandsOnDemo {
     private static final String PATH_TO_INDEX = "./tmp/ir-class/demo";
     private static final String BODY_FIELD = "body";
     private static final FieldType termVector_t;
-    private static long startTime;
-    private static long beginQuery;
-    private static long endQuery;
-    private static long endRun;
 
-    private static IndexWriter indexWriter = null;
+    private static long overallTime = 0;
+    private static long startIndexing;
+    private static long endIndexing;
+    private static long startQueryParse;
+    private static long endQueryParse;
+    private static long startSearch;
+    private static long endSearch;
 
     private static Similarity[] similarities;
     private static MultiSimilarity similarity;
@@ -87,7 +89,6 @@ public class HandsOnDemo {
 
     public static void main(String[] args) throws Exception {
 
-        startTime = System.currentTimeMillis();
 
         CmdParser parser = new CmdParser();
         try {
@@ -99,20 +100,29 @@ public class HandsOnDemo {
         try (Directory dir = newDirectory(); Analyzer analyzer = newAnalyzer()) {
 
             if (parser.hasIndexingOption()) {
+
+                startIndexing = System.currentTimeMillis();
                 indexCorpus(dir, PATH_TO_JSON, analyzer, similarity);
+                endIndexing = System.currentTimeMillis();
+                overallTime += (endIndexing - startIndexing) / 1000;
+
+                System.out.printf("Index ready.\nTime elapsed : %d seconds\n", (endIndexing - startIndexing) / 1000);
+
+                // Search
             }
-            beginQuery = System.currentTimeMillis();
-            System.out.printf("Index ready.\nTime elapsed : %d seconds\n", (beginQuery - startTime) / 1000);
-            // Search
             try (DirectoryReader reader = DirectoryReader.open(dir)) {
                 //logIndexInfo(reader);
 
                 String queryString = "us US U.S.A U.S. u.s";      // String to search
                 queryString = OxygenCustomAnalyzer.symbolRemoval(queryString);      // Making string lucene friendly
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
+                startQueryParse = System.currentTimeMillis();
                 final Query q = qp.parse(queryString);                              // Boolean Query
+                endQueryParse = System.currentTimeMillis();
 
-                // PhraseQuery should be added perhaps?
+                overallTime += (endQueryParse - startQueryParse) / 1000;
+
+                        // PhraseQuery should be added perhaps?
                 /* Viable classes are as follows:
 
                 PhraseQuery
@@ -120,16 +130,25 @@ public class HandsOnDemo {
                 BooleanQuery
 
                 */
-                endQuery = System.currentTimeMillis();
+
                 System.out.println("Query: " + q);
                 System.out.println();
-                System.out.printf("Time elapsed : %d seconds\n", (endQuery - startTime) / 1000);
+                System.out.printf("Query parsed.\nTime elapsed : %d seconds\n", (endQueryParse - startQueryParse) / 1000);
 
                 final IndexSearcher searcher = new IndexSearcher(reader);
                 /* There is also a PassageSearcher */
                 searcher.setSimilarity(similarity);
-                final TopDocs td = searcher.search(q, 10);
 
+                startSearch = System.currentTimeMillis();
+                final TopDocs td = searcher.search(q, 10);
+                endSearch = System.currentTimeMillis();
+
+                overallTime += (endSearch - startSearch) / 1000;
+
+                System.out.printf("Search finished.\nTime elapsed : %d seconds\n", (endSearch - startSearch) / 1000);
+                System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTime);
+
+                System.out.printf("\nSearch results:\n");
                 final FastVectorHighlighter highlighter = new FastVectorHighlighter();
                 final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
                 for (final ScoreDoc sd : td.scoreDocs) {
@@ -141,8 +160,6 @@ public class HandsOnDemo {
                 }
             }
         }
-        endRun = System.currentTimeMillis();
-        System.out.printf("Time elapsed : %d seconds\n", (endRun - startTime) / 1000);
     }
 
     private static Directory newDirectory() throws IOException {
