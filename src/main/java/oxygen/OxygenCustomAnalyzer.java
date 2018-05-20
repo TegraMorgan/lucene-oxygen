@@ -103,7 +103,7 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
 
         /* Part 2 - Stemmer has a problem with periods and stops ',' '.'
         So, we will put spaces before them
-        This is disabled for now
+        This is disabled for now because of exclusion set
          */
         int i = 0, j = 0;
         for (; i < l; i++) {
