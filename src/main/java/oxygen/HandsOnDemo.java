@@ -66,7 +66,7 @@ public class HandsOnDemo {
 
         //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity()};
         //similarities = new Similarity[] {new BooleanSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
-        similarities = new Similarity[] {new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
+        similarities = new Similarity[] {new OxygenCustomSimilarity()};
 
         //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
 

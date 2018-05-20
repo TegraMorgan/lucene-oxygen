@@ -23,7 +23,7 @@ public class CmdParser {
 
   /**
    * @param args
-   * @throws ParseException
+   * @throws Exception
    */
   public void extract(String[] args) throws Exception {
 
