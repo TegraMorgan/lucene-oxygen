@@ -52,6 +52,10 @@ public class HandsOnDemo {
     private static final String PATH_TO_INDEX = "./tmp/ir-class/demo";
     private static final String BODY_FIELD = "body";
     private static final FieldType termVector_t;
+    private static long startTime;
+    private static long beginQuery;
+    private static long endQuery;
+    private static long endRun;
 
     private static IndexWriter indexWriter = null;
 
@@ -66,7 +70,9 @@ public class HandsOnDemo {
 
         //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity()};
         //similarities = new Similarity[] {new BooleanSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
-        similarities = new Similarity[] {new OxygenCustomSimilarity()};
+
+        similarities = new Similarity[]{new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
+
 
         //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
 
@@ -81,6 +87,8 @@ public class HandsOnDemo {
 
     public static void main(String[] args) throws Exception {
 
+        startTime = System.currentTimeMillis();
+
         CmdParser parser = new CmdParser();
         try {
             parser.extract(args);
@@ -90,27 +98,32 @@ public class HandsOnDemo {
 
         try (Directory dir = newDirectory(); Analyzer analyzer = newAnalyzer()) {
 
-            if (parser.hasIndexingOption() || indexWriter == null) {
+            if (parser.hasIndexingOption()) {
                 indexCorpus(dir, PATH_TO_JSON, analyzer, similarity);
             }
+            beginQuery = System.currentTimeMillis();
+            System.out.printf("Index ready.\nTime elapsed : %d seconds\n", (beginQuery - startTime) / 1000);
             // Search
             try (DirectoryReader reader = DirectoryReader.open(dir)) {
                 //logIndexInfo(reader);
 
-                String queryString = "Why did the U.S Invade Iraq?";                // String to search
+                String queryString = "us US U.S.A U.S. u.s";      // String to search
                 queryString = OxygenCustomAnalyzer.symbolRemoval(queryString);      // Making string lucene friendly
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
                 final Query q = qp.parse(queryString);                              // Boolean Query
 
                 // PhraseQuery should be added perhaps?
                 /* Viable classes are as follows:
+
                 PhraseQuery
                 TermQuery
                 BooleanQuery
-                 */
 
+                */
+                endQuery = System.currentTimeMillis();
                 System.out.println("Query: " + q);
                 System.out.println();
+                System.out.printf("Time elapsed : %d seconds\n", (endQuery - startTime) / 1000);
 
                 final IndexSearcher searcher = new IndexSearcher(reader);
                 /* There is also a PassageSearcher */
@@ -128,7 +141,8 @@ public class HandsOnDemo {
                 }
             }
         }
-
+        endRun = System.currentTimeMillis();
+        System.out.printf("Time elapsed : %d seconds\n", (endRun - startTime) / 1000);
     }
 
     private static Directory newDirectory() throws IOException {
