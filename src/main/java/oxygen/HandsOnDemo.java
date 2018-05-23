@@ -100,7 +100,6 @@ public class HandsOnDemo {
         try (Directory dir = newDirectory(); Analyzer analyzer = newAnalyzer()) {
 
             if (parser.hasIndexingOption()) {
-
                 startIndexing = System.currentTimeMillis();
                 indexCorpus(dir, PATH_TO_JSON, analyzer, similarity);
                 endIndexing = System.currentTimeMillis();
@@ -122,7 +121,7 @@ public class HandsOnDemo {
 
                 overallTime += (endQueryParse - startQueryParse) / 1000;
 
-                        // PhraseQuery should be added perhaps?
+                // PhraseQuery should be added perhaps?
                 /* Viable classes are as follows:
 
                 PhraseQuery

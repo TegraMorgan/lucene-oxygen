@@ -24,6 +24,10 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
         this(getDefaultStopSet());
     }
 
+
+    //Abbigious abbr. removed
+    //TODO special quotation filter: (Eddisson) etc.
+
     static {
         final List<String> stopWords = Arrays.asList(
                 "a", "about", "above", "after", "again", "against", "all", "am", "an", "and", "any", "are", "aren't", "as", "at", "be",
@@ -43,7 +47,7 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
         final CharArraySet stopSet = new CharArraySet(stopWords, false);
         OXYGEN_STOP_SET = CharArraySet.unmodifiableSet(stopSet);
     }
-
+// US
     static {
         final List<String> exclusionSet = Arrays.asList(
                 "u.s.a", "u.s.a.", "u.s", "u.s."
@@ -108,7 +112,9 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
         int i = 0, j = 0;
         for (; i < l; i++) {
             // Part 1
-            if (isAwildcard(qu[i])) res[j++] = '\\';
+            if (isAwildcard(qu[i])) {
+                res[j++] = '\\';
+            }
             if (i + 1 < l && isDoubleWC(qu[i], qu[i + 1])) {
                 res[j++] = '\\';
             }
