@@ -1,0 +1,882 @@
+<table class="sortable wikitable">
+<tbody><tr>
+<td>EG&nbsp;abb</td>
+<th>EG&nbsp;full&nbsp;name</th>
+<th>Other<br>
+(ver change, need to know...etc.)</th>
+</tr>
+<tr>
+<td>ABG</td>
+<td>arterial&nbsp;blood&nbsp;gas</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>ACE</td>
+<td>angiotensin-converting&nbsp;enzyme</td>
+<td></td>
+</tr>
+<tr>
+<td>ACTH</td>
+<td>adrenocorticotropic&nbsp;hormone</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>ADH</td>
+<td>antidiuretic&nbsp;hormone</td>
+<td></td>
+</tr>
+<tr>
+<td>AED</td>
+<td>automated&nbsp;external&nbsp;defibrillator</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>AIDS</td>
+<td>acquired&nbsp;immunodeficiency&nbsp;syndrome</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>ALP</td>
+<td>alkaline&nbsp;phosphatase</td>
+<td></td>
+</tr>
+<tr>
+<td>ALT</td>
+<td>alanine&nbsp;aminotransferase&nbsp;</td>
+<td>old version is&nbsp;SGPT</td>
+</tr>
+<tr>
+<td>ASA</td>
+<td>acetylsalicylic&nbsp;acid</td>
+<td>aspirin</td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>AST</td>
+<td>aspartate&nbsp;aminotransferase&nbsp;</td>
+<td>old version is SGOT</td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>ATP</td>
+<td>adenosine&nbsp;triphosphate</td>
+<td></td>
+</tr>
+<tr>
+<td>BCG</td>
+<td>bacille&nbsp;Calmette-Guérin</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>bid</td>
+<td>2&nbsp;times&nbsp;a&nbsp;day</td>
+<td></td>
+</tr>
+<tr>
+<td>BLS</td>
+<td>basic&nbsp;life&nbsp;support</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>BMR</td>
+<td>basal&nbsp;metabolic&nbsp;rate</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>BP</td>
+<td>blood&nbsp;pressure</td>
+<td></td>
+</tr>
+<tr>
+<td>BSA</td>
+<td>body&nbsp;surface&nbsp;area</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>BUN</td>
+<td>blood&nbsp;urea&nbsp;nitrogen</td>
+<td></td>
+</tr>
+<tr>
+<td>BR</td>
+<td>bedside&nbsp;rounds</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>BPD</td>
+<td>borderline&nbsp;personality&nbsp;disorder</td>
+</tr>
+<tr>
+<td>C</td>
+<td>Celsius;&nbsp;centigrade;&nbsp;complement</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>Ca</td>
+<td>calcium</td>
+<td></td>
+</tr>
+<tr>
+<td>cAMP</td>
+<td>cyclic&nbsp;adenosine&nbsp;monophosphate</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>CBC</td>
+<td>complete&nbsp;blood&nbsp;count</td>
+<td></td>
+</tr>
+<tr>
+<td>cGy</td>
+<td>centigray</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>Ci</td>
+<td>curie</td>
+<td></td>
+</tr>
+<tr>
+<td>CK</td>
+<td>creatine&nbsp;kinase</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>Cl</td>
+<td>chloride;&nbsp;chlorine</td>
+<td></td>
+</tr>
+<tr>
+<td>cm</td>
+<td>centimeter</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>CNS</td>
+<td>central&nbsp;nervous&nbsp;system</td>
+<td></td>
+</tr>
+<tr>
+<td>CO2</td>
+<td>carbon&nbsp;dioxide</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>COPD</td>
+<td>chronic&nbsp;obstructive&nbsp;pulmonary&nbsp;disease</td>
+<td></td>
+</tr>
+<tr>
+<td>CPK</td>
+<td>creatine&nbsp;phosphokinase</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>CPK-MB</td>
+<td>creatine&nbsp;phosphokinase&nbsp;muscle&nbsp;bandisoenzyme</td>
+<td></td>
+</tr>
+<tr>
+<td>CPR</td>
+<td>cardiopulmonary&nbsp;resuscitation</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>CSF</td>
+<td>cerebrospinal&nbsp;fluid</td>
+<td></td>
+</tr>
+<tr>
+<td>CT</td>
+<td>computed&nbsp;tomography</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>Cu</td>
+<td>cubic</td>
+<td></td>
+</tr>
+<tr>
+<td>D&nbsp;&amp;&nbsp;C</td>
+<td>dilation&nbsp;and&nbsp;curettage</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>dL</td>
+<td>deciliter</td>
+<td>1&nbsp;dL =&nbsp;100&nbsp;mL</td>
+</tr>
+<tr>
+<td>DNA</td>
+<td>deoxyribonucleic&nbsp;acid</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>DTP</td>
+<td>diphtheria-tetanus-pertussis(toxoids/vaccine)</td>
+<td></td>
+</tr>
+<tr>
+<td>D/W</td>
+<td>dextrose&nbsp;in&nbsp;water</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>ECF</td>
+<td>extracellular&nbsp;fluid</td>
+<td></td>
+</tr>
+<tr>
+<td>ECG</td>
+<td>electrocardiogram</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>EEG</td>
+<td>electroencephalogram</td>
+<td></td>
+</tr>
+<tr>
+<td>EGD</td>
+<td>esophagogastroduodenoscopy</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>ENT</td>
+<td>ear&nbsp;nose&nbsp;and&nbsp;throat</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>ERCP</td>
+<td>endoscopic&nbsp;retrograde&nbsp;cholangiopancreatography</td>
+<td></td>
+</tr>
+<tr>
+<td>ESR</td>
+<td>erythrocyte&nbsp;sedimentation&nbsp;rate</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>F</td>
+<td>Fahrenheit</td>
+<td></td>
+</tr>
+<tr>
+<td>FDA</td>
+<td>U.S.&nbsp;Food&nbsp;and&nbsp;Drug&nbsp;Administration</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>Ft</td>
+<td>foot;&nbsp;feet</td>
+<td>measure unit</td>
+</tr>
+<tr>
+<td>FUO</td>
+<td>fever&nbsp;of&nbsp;unknown&nbsp;origin</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>G</td>
+<td>gram</td>
+<td></td>
+</tr>
+<tr>
+<td>GFR</td>
+<td>glomerular&nbsp;filtration&nbsp;rate</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>GI</td>
+<td>gastrointestinal</td>
+<td></td>
+</tr>
+<tr>
+<td>GVHD</td>
+<td><a href="/wiki/Graft-versus-host_disease" title="Graft-versus-host disease">Graft-versus-host disease</a></td>
+<td></td>
+</tr>
+<tr>
+<td>G6PD</td>
+<td>glucose-6-phosphate&nbsp;dehydrogenase</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>GU</td>
+<td>genitourinary</td>
+<td></td>
+</tr>
+<tr>
+<td>Gy</td>
+<td>gray</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>H</td>
+<td>hour</td>
+<td></td>
+</tr>
+<tr>
+<td>Hb</td>
+<td>hemoglobin</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>HCl</td>
+<td>hydrochloric&nbsp;acid;&nbsp;hydrochloride</td>
+<td></td>
+</tr>
+<tr>
+<td>HCO3</td>
+<td>bicarbonate</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>Hct</td>
+<td>hematocrit</td>
+<td></td>
+</tr>
+<tr>
+<td>Hg</td>
+<td>mercury</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>HIPAA</td>
+<td>Health&nbsp;Insurance&nbsp;Portability&nbsp;and&nbsp;Accountability&nbsp;Act</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>HIV</td>
+<td>human&nbsp;immunodeficiency&nbsp;virus</td>
+<td></td>
+</tr>
+<tr>
+<td>HLA</td>
+<td>human&nbsp;leukocyte&nbsp;antigen</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>HMG-CoA</td>
+<td>hydroxymethyl&nbsp;glutaryl&nbsp;coenzyme&nbsp;A</td>
+<td></td>
+</tr>
+<tr>
+<td>Hz</td>
+<td>hertz&nbsp;</td>
+<td>cycles/second unit</td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>hs</td>
+<td>at bedtime&nbsp;</td>
+<td></td>
+</tr>
+<tr>
+<td>ICF</td>
+<td>intracellular&nbsp;fluid</td>
+<td></td>
+</tr>
+<tr>
+<td>ICU</td>
+<td>intensive&nbsp;care&nbsp;unit</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>IgA</td>
+<td>etc.&nbsp;immunoglobin&nbsp;A</td>
+<td></td>
+</tr>
+<tr>
+<td>IL</td>
+<td>interleukin</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>IM</td>
+<td>intramuscular(ly)</td>
+<td></td>
+</tr>
+<tr>
+<td>INR</td>
+<td>international&nbsp;normalized&nbsp;ratio</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>IPPB</td>
+<td>intermittent&nbsp;positive&nbsp;pressure&nbsp;breathing</td>
+<td></td>
+</tr>
+<tr>
+<td>IU</td>
+<td>international&nbsp;unit</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>IV</td>
+<td>intravenous(ly)</td>
+<td></td>
+</tr>
+<tr>
+<td>IVU</td>
+<td>intravenous&nbsp;urography</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>K</td>
+<td>potassium</td>
+<td></td>
+</tr>
+<tr>
+<td>kcal</td>
+<td>kilocalorie</td>
+<td>mean food&nbsp;calorie</td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>kg</td>
+<td>kilogram</td>
+<td></td>
+</tr>
+<tr>
+<td>L</td>
+<td>liter</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>lb</td>
+<td>pound</td>
+<td></td>
+</tr>
+<tr>
+<td>LDH</td>
+<td>lactic&nbsp;dehydrogenase</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>LDLc</td>
+<td>low-density&nbsp;lipoprotein&nbsp;cholesterol</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>M</td>
+<td>molar</td>
+<td></td>
+</tr>
+<tr>
+<td>m</td>
+<td>meter</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>MCH</td>
+<td>mean&nbsp;corpuscular&nbsp;hemoglobin</td>
+<td></td>
+</tr>
+<tr>
+<td>MCHC</td>
+<td>mean&nbsp;corpuscular&nbsp;hemoglobin&nbsp;concentration</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>mCi</td>
+<td>millicurie</td>
+<td></td>
+</tr>
+<tr>
+<td>MCV</td>
+<td>mean&nbsp;corpuscular&nbsp;volume</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>mEq</td>
+<td>Milliequivalent</td>
+<td></td>
+</tr>
+<tr>
+<td>Mg</td>
+<td>magnesium</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>mg</td>
+<td>milligram</td>
+<td></td>
+</tr>
+<tr>
+<td>MI</td>
+<td>myocardial&nbsp;infarction</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>MIC</td>
+<td>minimum&nbsp;inhibitory&nbsp;concentration</td>
+<td></td>
+</tr>
+<tr>
+<td>mIU</td>
+<td>milli-international&nbsp;unit</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>mL</td>
+<td>milliliter</td>
+<td></td>
+</tr>
+<tr>
+<td>mm</td>
+<td>millimeter</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>mmol</td>
+<td>millimole</td>
+<td></td>
+</tr>
+<tr>
+<td>mo</td>
+<td>month</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>mol</td>
+<td>wt&nbsp;molecular&nbsp;weight</td>
+<td></td>
+</tr>
+<tr>
+<td>mOsm</td>
+<td>Milliosmole</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>MRI</td>
+<td>magnetic&nbsp;resonance&nbsp;imaging</td>
+<td></td>
+</tr>
+<tr>
+<td>N</td>
+<td>nitrogen;&nbsp;normal</td>
+<td>unit to measure strength&nbsp;of&nbsp;solution</td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>Na</td>
+<td>sodium</td>
+<td></td>
+</tr>
+<tr>
+<td>NaCl</td>
+<td>sodium&nbsp;chloride</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>ng</td>
+<td>nanogram&nbsp;</td>
+<td>also name as millimicrogram</td>
+</tr>
+<tr>
+<td>nm</td>
+<td>nanometer&nbsp;</td>
+<td>also name as millimicron</td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>nmol</td>
+<td>nanomole</td>
+<td></td>
+</tr>
+<tr>
+<td>Npo</td>
+<td>nothing&nbsp;by&nbsp;mouth</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>NSAID</td>
+<td>nonsteroidal&nbsp;anti-inflammatory&nbsp;drug</td>
+<td></td>
+</tr>
+<tr>
+<td>O2</td>
+<td>oxygen</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>OTC</td>
+<td>over-the-counter&nbsp;</td>
+<td>pharmaceuticals</td>
+</tr>
+<tr>
+<td>oz</td>
+<td>ounce</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>P</td>
+<td>phosphorus;&nbsp;pressure</td>
+<td></td>
+</tr>
+<tr>
+<td>PAco2</td>
+<td>alveolar&nbsp;carbon&nbsp;dioxide&nbsp;partial&nbsp;pressure</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>Paco2</td>
+<td>arterial&nbsp;carbon&nbsp;dioxide&nbsp;partial&nbsp;pressure</td>
+<td></td>
+</tr>
+<tr>
+<td>PAo2</td>
+<td>alveolar&nbsp;oxygen&nbsp;partial&nbsp;pressure</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>Pao2</td>
+<td>arterial&nbsp;oxygen&nbsp;partial&nbsp;pressure</td>
+<td></td>
+</tr>
+<tr>
+<td>PAS</td>
+<td>periodic&nbsp;acid-Schiff</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>Pco2</td>
+<td>carbon&nbsp;dioxide&nbsp;partial&nbsp;pressure</td>
+<td>or&nbsp;tension</td>
+</tr>
+<tr>
+<td>PCR</td>
+<td>polymerase&nbsp;chain&nbsp;reaction</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>PET</td>
+<td>positron&nbsp;emission&nbsp;tomography</td>
+<td></td>
+</tr>
+<tr>
+<td>pg</td>
+<td>picogram</td>
+<td>micromicrogram</td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>pH</td>
+<td>hydrogen&nbsp;ion&nbsp;concentration</td>
+<td></td>
+</tr>
+<tr>
+<td>PMN</td>
+<td>polymorphonuclear&nbsp;leukocyte</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>po</td>
+<td>orally</td>
+<td></td>
+</tr>
+<tr>
+<td>Po2</td>
+<td>oxygen&nbsp;partial&nbsp;pressure&nbsp;</td>
+<td>or&nbsp;tension</td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>PPD</td>
+<td>purified&nbsp;protein&nbsp;derivative&nbsp;</td>
+<td>tuberculin</td>
+</tr>
+<tr>
+<td>ppm</td>
+<td>parts&nbsp;per&nbsp;million</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>prn</td>
+<td>as&nbsp;needed</td>
+<td></td>
+</tr>
+<tr>
+<td>PT</td>
+<td>prothrombin&nbsp;time</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>PTT</td>
+<td>partial&nbsp;thromboplastin&nbsp;time</td>
+<td></td>
+</tr>
+<tr>
+<td>q</td>
+<td>every</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>qid</td>
+<td>4&nbsp;times&nbsp;a&nbsp;day</td>
+<td></td>
+</tr>
+<tr>
+<td>RA</td>
+<td>rheumatoid&nbsp;arthritis</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>RBC</td>
+<td>red&nbsp;blood&nbsp;cell</td>
+<td></td>
+</tr>
+<tr>
+<td>RNA</td>
+<td>ribonucleic&nbsp;acid</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>Sao2</td>
+<td>arterial&nbsp;oxygen&nbsp;saturation</td>
+<td></td>
+</tr>
+<tr>
+<td>SBE</td>
+<td>subacute&nbsp;bacterial&nbsp;endocarditis</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>sc</td>
+<td>subcutaneous(ly)</td>
+<td></td>
+</tr>
+<tr>
+<td>SI</td>
+<td>International&nbsp;System&nbsp;of&nbsp;Units</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>SIDS</td>
+<td>sudden&nbsp;infant&nbsp;death&nbsp;syndrome</td>
+<td></td>
+</tr>
+<tr>
+<td>SLE</td>
+<td>systemic&nbsp;lupus&nbsp;erythematosus</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>soln</td>
+<td>solution</td>
+<td></td>
+</tr>
+<tr>
+<td>sp</td>
+<td>species</td>
+<td>singular</td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>spp</td>
+<td>species&nbsp;</td>
+<td>plural</td>
+</tr>
+<tr>
+<td>sp&nbsp;gr</td>
+<td>specific&nbsp;gravity</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>sq</td>
+<td>square</td>
+<td></td>
+</tr>
+<tr>
+<td>SSRI</td>
+<td>selective&nbsp;serotonin&nbsp;reuptake&nbsp;inhibitor</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>STS</td>
+<td>serologic&nbsp;test(s)&nbsp;for&nbsp;syphilis</td>
+<td></td>
+</tr>
+<tr>
+<td>T&amp;A</td>
+<td>tonsillectomy&nbsp;and&nbsp;adenoidectomy</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>TB</td>
+<td>tuberculosis</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>TIBC</td>
+<td>total&nbsp;iron-binding&nbsp;capacity</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>tid</td>
+<td>3&nbsp;times&nbsp;a&nbsp;day</td>
+<td></td>
+</tr>
+<tr>
+<td>TPN</td>
+<td>total&nbsp;parenteral&nbsp;nutrition</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>URI</td>
+<td>upper&nbsp;respiratory&nbsp;infection</td>
+<td></td>
+</tr>
+<tr>
+<td>UTI</td>
+<td>urinary&nbsp;tract&nbsp;infection</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>WBC</td>
+<td>white&nbsp;blood&nbsp;cell</td>
+<td></td>
+</tr>
+<tr>
+<td>WHO</td>
+<td>World&nbsp;Health&nbsp;Organization</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>wt</td>
+<td>weight</td>
+<td></td>
+</tr>
+<tr>
+<td>μ</td>
+<td>micro-;&nbsp;micron</td>
+<td></td>
+</tr>
+<tr style="background:#fcf0f5;">
+<td>μCi</td>
+<td>microcurie</td>
+<td></td>
+</tr>
+<tr>
+<td>μg</td>
+<td>microgram</td>
+<td></td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>μL</td>
+<td>microliter</td>
+<td></td>
+</tr>
+<tr>
+<td>μm</td>
+<td>micrometer&nbsp;</td>
+<td>also name micron</td>
+</tr>
+<tr style="background:#f8ecf2;">
+<td>μmol</td>
+<td>micromole</td>
+<td></td>
+</tr>
+<tr>
+<td>μOsm</td>
+<td>micro-osmole</td>
+<td></td>
+</tr>
+<tr style="background:#f5e8ec;">
+<td>mμ</td>
+<td>millimicron&nbsp;</td>
+<td>also name nanometer</td>
+</tr>
+</tbody></table>

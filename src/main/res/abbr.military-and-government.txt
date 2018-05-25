@@ -1,0 +1,887 @@
+<div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tbody><tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</tbody></table>
+<p><a href="/wiki/Enumeration" title="Enumeration">List</a> of <a href="/wiki/Initialism" class="mw-redirect" title="Initialism">initialisms</a>, <a href="/wiki/Acronym" title="Acronym">acronyms</a> ("words made from parts of other words, pronounceable"), and other abbreviations used by the government and the military of the United States. Note that this list is intended to be specific to the United States government and military—other nations will have their own acronyms.</p>
+<div role="note" class="hatnote navigation-not-searchable plainlinks">This is a <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">dynamic list</a> and may never be able to satisfy particular standards for completeness. You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit">expanding it</a> with <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliably sourced</a> entries.</div>
+<div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="text-align:left;">
+<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents:&nbsp;</span></div>
+<div style="margin:auto;white-space:nowrap;display:inline-block;">
+<ul>
+<li><a href="#top">Top</a></li>
+<li><a href="#0–9">0–9</a></li>
+<li><a href="#A">A</a></li>
+<li><a href="#B">B</a></li>
+<li><a href="#C">C</a></li>
+<li><a href="#D">D</a></li>
+<li><a href="#E">E</a></li>
+<li><a href="#F">F</a></li>
+<li><a href="#G">G</a></li>
+<li><a href="#H">H</a></li>
+<li><a href="#I">I</a></li>
+<li><a href="#J">J</a></li>
+<li><a href="#K">K</a></li>
+<li><a href="#L">L</a></li>
+<li><a href="#M">M</a></li>
+<li><a href="#N">N</a></li>
+<li><a href="#O">O</a></li>
+<li><a href="#P">P</a></li>
+<li><a href="#Q">Q</a></li>
+<li><a href="#R">R</a></li>
+<li><a href="#S">S</a></li>
+<li><a href="#T">T</a></li>
+<li><a href="#U">U</a></li>
+<li><a href="#V">V</a></li>
+<li><a href="#W">W</a></li>
+<li><a href="#X">X</a></li>
+<li><a href="#Y">Y</a></li>
+<li><a href="#Z">Z</a></li>
+<li><a href="#See_also">See also</a></li>
+</ul>
+</div>
+</div>
+<h2><span id="0.E2.80.939"></span><span class="mw-headline" id="0–9">0–9</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=1" title="Edit section: 0–9">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>0K</b> – Zero Killed (pronounced OK, as the expression that everything is okay)</li>
+<li><b><a href="/wiki/First_Lieutenant_(United_States)" class="mw-redirect" title="First Lieutenant (United States)">1LT</a></b> – First Lieutenant (U.S. Army) (USMC uses "1Lt" and USAF uses "1st Lt")</li>
+<li><b><a href="/wiki/Second_Lieutenant_(United_States)" class="mw-redirect" title="Second Lieutenant (United States)">2LT</a></b> – Second Lieutenant (U.S. Army) (USMC uses "2Lt" and USAF uses "2d Lt")</li>
+<li><b>2IC</b> – Second In Command</li>
+<li><b>1SG</b> – First Sergeant (E-8 Army)</li>
+</ul>
+<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=2" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>A</b> – Analog</li>
+<li><b><a href="/wiki/Airman_First_Class" class="mw-redirect" title="Airman First Class">A1C</a></b> – Airman First Class (USAF E-3)</li>
+<li><b>A2C2</b> – Army Airspace Command And Control</li>
+<li><b>A-3</b> – (Operations Directorate (COMAFFOR))</li>
+<li><b>A-5</b> – (Plans Directorate (COMAFFOR))</li>
+<li><b><a href="/wiki/Anti-Aircraft_Warfare" class="mw-redirect" title="Anti-Aircraft Warfare">AA</a></b> – Anti-Aircraft</li>
+<li><b>AA</b> – Armed Forces America</li>
+<li><b>AA</b> – Assembly Area</li>
+<li><b>AA</b> – Assessment Agent</li>
+<li><b>AA</b> – Avenue Of Approach</li>
+<li><b>AAA</b> – Army Audit Agency</li>
+<li><b>AAA</b> – Antiaircraft Artillery</li>
+<li><b>AAA</b> – Arrival And Assembly Area</li>
+<li><b>AAA</b> – Assign Alternate Area</li>
+<li><b>AAAD</b> – Airborne Anti-Armor Defense<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li><b>AAAS</b> – Amphibious Aviation Assault Ship</li>
+<li><b><a href="/wiki/AABB" title="AABB">AABB</a></b> – American Association of Blood Banks</li>
+<li><b>AABWS</b> – Amphibious Assault Bulk Water System</li>
+<li><b>AAC</b> – Activity Address Code</li>
+<li><b>AACG</b> – Arrival Airfield Control Group</li>
+<li><b>AADC</b> – Area Air Defense Commander</li>
+<li><b>AADP</b> – Area Air Defense Plan</li>
+<li><b>AA&amp;E</b> – Arms, Ammunition, And Explosives</li>
+<li><b>AAEC</b> – Aeromedical Evacuation Control Team</li>
+<li><b><a href="/wiki/Australian_Air_Force_Cadets" title="Australian Air Force Cadets">AAFC</a></b> – Australian Air Force Cadets (Australia)</li>
+<li><b><a href="/wiki/Army_and_Air_Force_Exchange_Service" title="Army and Air Force Exchange Service">AAFES</a></b> – Army and Air Force Exchange Service</li>
+<li><b>AAFIF</b> – Automated Air Facility Information File</li>
+<li><b>AAFS</b> – Amphibious Assault Fuel System</li>
+<li><b>AAFSF</b> – Amphibious Assault Fuel Supply Facility</li>
+<li><b>AAGS</b> – Army Air-Ground System</li>
+<li><b>AAI</b> – Air-To-Air Interface</li>
+<li><b>AAM</b> – Air-To-Air Missile</li>
+<li><b>AAMDC</b> – US Army Air And Missile Defense Command</li>
+<li><b>AAOE</b> – Arrival And Assembly Operations Element</li>
+<li><b>AAOG</b> – Arrival And Assembly Operations Group</li>
+<li><b>AAP</b> – Allied Administrative Publication</li>
+<li><b>AAP</b> – Assign Alternate Parent</li>
+<li><b>AAR</b> – After Action Report</li>
+<li><b>AAR</b> – After Action Review</li>
+<li><b>AAS</b> – Army Apprentice School (Australia)</li>
+<li><b>AAST</b> – Aeromedical Evacuation Administrative Support Team</li>
+<li><b>AAT</b> – Automatic Analog Test</li>
+<li><b>AAT</b> – Aviation Advisory Team</li>
+<li><b>AAU</b> – Analog Applique Unit</li>
+<li><b>AAV</b> – Amphibious Assault Vehicle</li>
+<li><b>AAW</b> – Antiair Warfare</li>
+<li><b>AB</b> – Airbase</li>
+<li><b>AB</b> – Airman Basic (USAF E-1)</li>
+<li><b>ABCA</b> – American, British, Canadian, Australian Armies Program</li>
+<li><b>ABCS</b> – Army Battle Command System</li>
+<li><b>ABD</b> – Airbase Defense</li>
+<li><b>ABV</b> – Assault Breacher Vehicle (U.S. Army)</li>
+<li><b>ABFC</b> – Advanced Base Functional Component</li>
+<li><b>ADOS</b> – Active Duty, Operational Support</li>
+<li><b>ADSW</b> – Active Duty, Special Work</li>
+<li><b>AE</b> – Armed Forces Europe</li>
+<li><b><a href="/wiki/AEW%26C" class="mw-redirect" title="AEW&amp;C">AEW&amp;C</a></b> – Airborne Early Warning And Control</li>
+<li><b>AFI</b> – Awaiting Further Instruction/Air Force Instruction (requirement guide)</li>
+<li><b>AFMC</b> – Armed Forces Medical College</li>
+<li><b>AFOQT</b> – Air Force Officer Qualifying Test</li>
+<li><b><a href="/wiki/United_States_Air_Force_Office_of_Special_Investigations" title="United States Air Force Office of Special Investigations">AFOSI</a></b> – United States Air Force Office of Special Investigations</li>
+<li><b>AFSC</b> – Air Force Specialty Code</li>
+<li><b>AHA</b> – Ammunition Holding Area</li>
+<li><b>AIM</b> – Airborne Intercept Missile (U.S. Military)</li>
+<li><b>AIPD</b> – Army Institute For Professional Development</li>
+<li><b><a href="/wiki/Automated_information_system" title="Automated information system">AIS</a></b> – Automated Information System</li>
+<li><b>AIT</b> – Advanced Individual Training (U.S. Army)</li>
+<li><b><a href="/wiki/Airman" title="Airman">Amn</a></b> – Airman (USAF E-2)</li>
+<li><b>ALCON</b> – All Concerned (U.S. Military)</li>
+<li><b>AMU</b> – Aircraft Maintenance Unit</li>
+<li><b>AMXG</b> – Aircraft Maintenance Group</li>
+<li><b>AMXS</b> – Aircraft Maintenance Squadron</li>
+<li><b>AOC</b> - Air Operations Center</li>
+<li><b><a href="/wiki/AWOL" class="mw-redirect" title="AWOL">AOL</a></b> – Absent Over Leave (U.S. Navy)</li>
+<li><b>AO</b> – Area Of Operations</li>
+<li><b>A&amp;P</b> – Administrative And Personnel</li>
+<li><b>AP</b> – Armed Forces Pacific</li>
+<li><b><a href="/w/index.php?title=Armor-Piercing&amp;action=edit&amp;redlink=1" class="new" title="Armor-Piercing (page does not exist)">AP</a></b> – Armor-Piercing</li>
+<li><b><a href="/wiki/Armoured_Personnel_Carrier" class="mw-redirect" title="Armoured Personnel Carrier">APC</a></b> – Armored Personnel Carrier</li>
+<li><b><a href="/wiki/Kinetic_energy_penetrator" title="Kinetic energy penetrator">APFSDS</a></b> – Armor-Piercing Fin-Stabilized Discarding Sabot</li>
+<li><b><a href="/w/index.php?title=Military_Mail&amp;action=edit&amp;redlink=1" class="new" title="Military Mail (page does not exist)">APO</a></b> – Army Post Office; See Also <a href="#F">FPO</a></li>
+<li><b>APPN</b> – Appropriation Number (U.S. Military)</li>
+<li><b>APRT</b> – Army Physical Readiness Test (U.S. Army)</li>
+<li><b>ARCENT/TUSA</b> – US Army Forces Central Command (CENTCOM)/Hq Third US Army (TUSA)<sup id="cite_ref-Auto_2-0" class="reference"><a href="#cite_note-Auto-2">[2]</a></sup></li>
+<li><b><a href="/wiki/ARPANET" title="ARPANET">ARPANET</a></b> – Advanced Research Projects Agency Network (e.g., 1969 to 1989; antecedent of the information superhighway; now <a href="/wiki/DARPA" title="DARPA">DARPA</a>)</li>
+<li><b><a href="/w/index.php?title=Anti-Radiation_Missile&amp;action=edit&amp;redlink=1" class="new" title="Anti-Radiation Missile (page does not exist)">ARM</a></b> – Anti-Radar Missile</li>
+<li><b><a href="/w/index.php?title=Anti-Radiation_Missile&amp;action=edit&amp;redlink=1" class="new" title="Anti-Radiation Missile (page does not exist)">ARM</a></b> – Anti-Radiation Missile</li>
+<li><b>ARMS</b> – Automated Recruit Management System (U.S. Military)</li>
+<li><b>ARMS</b> – Aviation Resource Management System (USAF)</li>
+<li><b>ART</b> – Alarm Response Team (USAF)</li>
+<li><b><a href="/wiki/ARVN" class="mw-redirect" title="ARVN">ARVN</a></b> – Army Of The Republic Of (South) Viet Nam (U.S. Military)</li>
+<li><b>ASAP</b> – Army Substance Abuse Program (U.S. Military)</li>
+<li><b>ASAP</b> – As Soon As Possible</li>
+<li><b><a href="/wiki/ASEAN" class="mw-redirect" title="ASEAN">ASEAN</a></b> – Association Of South East Asian Nations</li>
+<li><b><a href="/w/index.php?title=Air-To-Surface_Missile&amp;action=edit&amp;redlink=1" class="new" title="Air-To-Surface Missile (page does not exist)">ASM</a></b> – Air-To-Surface Missile</li>
+<li><b><a href="/w/index.php?title=Anti-Ship_Crise_Missile&amp;action=edit&amp;redlink=1" class="new" title="Anti-Ship Crise Missile (page does not exist)">ASCM</a></b> – Anti-Ship C Missile</li>
+<li><b><a href="/w/index.php?title=Anti-Surface_Vessel&amp;action=edit&amp;redlink=1" class="new" title="Anti-Surface Vessel (page does not exist)">ASV</a></b> – Anti-Surface Vessel (airborne radar)</li>
+<li><b><a href="/wiki/Armed_Services_Vocational_Aptitude_Battery" title="Armed Services Vocational Aptitude Battery">ASVAB</a></b> – Armed Services Vocational Aptitude Battery</li>
+<li><b><a href="/wiki/Anti-Submarine_Warfare" class="mw-redirect" title="Anti-Submarine Warfare">ASW</a></b> – Anti-Submarine Warfare</li>
+<li><b><a href="/wiki/Air_Training_Corps" title="Air Training Corps">ATC</a></b> – Air Training Corps</li>
+<li><b><a href="/wiki/Air_Traffic_Control" class="mw-redirect" title="Air Traffic Control">ATC</a></b> – Air Traffic Control</li>
+<li><b>ATFU</b> – Ate The Fuck Up (not squared away)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+<li><b>ATO</b> – Air Tasking Order</li>
+<li><b>ATO</b> – Antiterrorism Officer</li>
+<li><b>ATRRS</b> – Army Training Requirements And Resources System</li>
+<li><b><a href="/wiki/Airborne_early_warning_and_control" title="Airborne early warning and control">AWACS</a></b> – Airborne Warning and Control System</li>
+<li><b><a href="/wiki/AWOL" class="mw-redirect" title="AWOL">AWOL</a></b> – Absent Without Leave</li>
+</ul>
+<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=3" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>BAMCIS</b> – Begin planning Arrange Recon Make the plan Complete the plan Issue the order Supervise (US Marine Corps)</li>
+<li><b>BAH</b> – Basic Allowance for Housing</li>
+<li><b>BAR</b> – Browning Automatic Rifle</li>
+<li><b>BAU</b> – Behavioural Analysis Unit</li>
+<li><b>BCD</b> – Battlefield Coordination Detachment</li>
+<li><b>BCD</b> – Bad Conduct Discharge (aka Big Chicken Dinner)</li>
+<li><b>BCG</b> – Birth Control Glasses (U.S. Military Slang)</li>
+<li><b>BCT</b> – Basic Combat Training (U.S. Army)</li>
+<li><b>BCT</b> – Brigade Combat Team</li>
+<li><b>BDA</b> – Battle Damage Assessment</li>
+<li><b>BDF</b> – Barbados Defence Force (Barbados)</li>
+<li><b><a href="/wiki/Battle_Dress_Uniform" title="Battle Dress Uniform">BDU</a></b> – Battle Dress Uniform (U.S. Military)</li>
+<li><b><a href="/wiki/Beriev" title="Beriev">Be</a></b> – Beriev (Russian)</li>
+<li><b>BEA</b> – Budget Execution Authority (U.S. Navy)</li>
+<li><b>BFT</b> – Blue Force Tracker (U.S. Military)</li>
+<li><b>BG</b> – Bodyguard</li>
+<li><b>BGHR</b> – By God He's Right (U.S Military)</li>
+<li><b>BLUF</b> – Bottom Line Up Front (US Military)</li>
+<li><b>BMNT</b> – Begin Morning Nautical Twilight (U.S Army)</li>
+<li><b>BN</b> – Battalion (U.S. Army)</li>
+<li><b>BDE</b> – Brigade (U.S. Army)</li>
+<li><b><a href="/wiki/BOHICA" class="mw-redirect" title="BOHICA">BOHICA</a></b> – Bend Over Here It Comes Again (US Military Slang)</li>
+<li><b>BRAC</b> – Base Realignment And Closure</li>
+<li><b>BRAT</b> (American) – Born Raised And Transferred (American usage, refers to dependent children of military personnel) Usually Pronounced "Military Brat" (Or "Air Force BRAT", or Army "Brat", Navy "Brat" etc.).<sup id="cite_ref-Military_Brats_4-0" class="reference"><a href="#cite_note-Military_Brats-4">[4]</a></sup></li>
+<li><b>BRAT</b> (British) – British RegimentAttachedTraveler (British military usage, may have been the original usage, which was later adapted to the American military: Means "child that travels with a soldier") Usually pronounced "Military Brat" or "Base Brat".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li><b>BUB</b> – Battle Update Brief</li>
+<li><b><a href="/wiki/BVR" class="mw-redirect" title="BVR">BVR</a></b> – Beyond Visual Range (USAF)</li>
+<li><b><a href="/wiki/Base_exchange" class="mw-redirect" title="Base exchange">BX</a></b> – Base Exchange (USAF)</li>
+<li><b>BZ</b> – spoken "Bravo Zulu", meaning "congratulations, job well done"</li>
+</ul>
+<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=4" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>C1</b> – Command</li>
+<li><b>C2</b> – Command And Control</li>
+<li><b>C3</b> – Command Control And Communication</li>
+<li><b>C4IR</b> – Command Control Communication Computers Intelligence And Recognition</li>
+<li><b><a href="/wiki/Common_Access_Card" title="Common Access Card">CAC</a></b> – Common Access Card (U.S. DoD, pron. "cac")</li>
+<li><b><a href="/wiki/Commander,_Air_Group" class="mw-redirect" title="Commander, Air Group">CAG</a></b> – Commander, Air Group (U.S. Navy, pron. "cag")</li>
+<li><b><a href="/w/index.php?title=Civil_Affairs_Group&amp;action=edit&amp;redlink=1" class="new" title="Civil Affairs Group (page does not exist)">CAG</a></b> – Civil Affairs Group. Term used for military members assigned to assist civilian governments with restoring infrastructure (All U.S. branches, pron. "cag")</li>
+<li><b><a href="/wiki/Commercial_and_Government_Entity" class="mw-redirect" title="Commercial and Government Entity">CAGE</a></b> – Commercial and Government Entity</li>
+<li><b><a href="/wiki/U.S._Army_Center_for_Army_Lessons_Learned" title="U.S. Army Center for Army Lessons Learned">CALL</a></b> – Center for Army Lessons Learned</li>
+<li><b>CAPT</b> – <a href="/wiki/Captain_(United_States_O-6)" title="Captain (United States O-6)">Captain</a> (US Navy, USCG O-6)</li>
+<li><b>Capt</b> – <a href="/wiki/Captain_(United_States_O-3)" title="Captain (United States O-3)">Captain</a> (USMC, US Army, USAF O-3)</li>
+<li><b><a href="/wiki/Close_air_support" title="Close air support">CAS</a></b> – Close Air Support</li>
+<li><b><a href="/w/index.php?title=Coordinated_Anti-Submarine_Exercise&amp;action=edit&amp;redlink=1" class="new" title="Coordinated Anti-Submarine Exercise (page does not exist)">CASEX</a></b> – Coordinated Anti-Submarine EXercise<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li><b><a href="/wiki/Casualty_evacuation" title="Casualty evacuation">CASEVAC</a></b> – Casualty Evacuation</li>
+<li><b>CAT</b> – Combat Application Tourniquets</li>
+<li><b><a href="/wiki/CBRN" class="mw-redirect" title="CBRN">CBRN</a></b> – Chemical Biological Radiological Nuclear</li>
+<li><b>CBU</b> – Cluster Bomb Unit</li>
+<li><b>CCIP</b> – Continually Calculated Impact Point (USAF/USMC Aviation)</li>
+<li><b>CCIR</b> – Commanders Critical Information Requirements</li>
+<li><b>CCP</b> – Casualty Collection Point</li>
+<li><b>CCRP</b> – Continually Calculated Release Point (USAF/USMC Aviation)</li>
+<li><b>CDAT –</b> Computerized Dumb Ass Tanker (<a href="/wiki/M1_Abrams" title="M1 Abrams">M1 Abrams</a> Crewmen)</li>
+<li><b><a href="/wiki/Carbon_Dioxide_Information_Analysis_Center" title="Carbon Dioxide Information Analysis Center">CDIAC</a></b> – Carbon Dioxide Information Analysis Center</li>
+<li><b>CDRUSPACOM</b> – Commander United States Pacific Command</li>
+<li><b><a href="/wiki/U.S._Central_Command" class="mw-redirect" title="U.S. Central Command">CENTCOM</a></b> – Central Command (U.S. Military)</li>
+<li><b>CF</b> – Cluster Fuck (always pronounced phonetically "Charlie Foxtrot")</li>
+<li><b>CH</b> – Cunt Hair (a unit of measurement)</li>
+<li><b>CHU</b> – Containerized Housing Unit</li>
+<li><b>Chief</b> – Chief Warrant Officer</li>
+<li><b><a href="/wiki/CIA" class="mw-redirect" title="CIA">CIA</a></b> – Central Intelligence Agency</li>
+<li><b>CIB</b> – Combat Infantry Badge</li>
+<li><b>CIC</b> – Command Intelligence Center (U.S. Navy)</li>
+<li><b>CINCLANT</b> – Commander-in-chief, Atlantic Forces (U.S. Navy before 2002)</li>
+<li><b>CINCLANTFLT</b> – Commander-in-chief, Atlantic Fleet (U.S. Navy before 2002)</li>
+<li><b>CINCPAC</b> – Commander-in-chief, Pacific Forces (U.S. Navy before 2002)</li>
+<li><b><a href="/wiki/CIWS" class="mw-redirect" title="CIWS">CIWS</a></b> – Close-In Weapon System</li>
+<li><b><a href="/wiki/Chief_Justice_of_the_United_States" title="Chief Justice of the United States">CJOTUS</a></b> – Chief Justice of the United States</li>
+<li><b><a href="/wiki/Chief_master_sergeant" title="Chief master sergeant">CMSgt</a></b> – Chief Master Sergeant (USAF E-9; highest AF enlisted rank)</li>
+<li><b><a href="/wiki/CMSAF" class="mw-redirect" title="CMSAF">CMSAF</a></b> – Chief Master Sergeant of the Air Force (USAF E-9 – Senior Enlisted Member)</li>
+<li><b>CO</b> – Commanding Officer</li>
+<li><b>COA</b> – Course of Action</li>
+<li><b>COB</b> – Chief Of the Boat (Chief Petty Officer in charge of the Boat usually a Master Chief (USN Submariner Terminology))</li>
+<li><b>COCOM</b> – Combatant Commander</li>
+<li><b>CODELS</b> – Congressional Delegations</li>
+<li><b>Col</b> – Colonel</li>
+<li><b><a href="/wiki/COMINT" class="mw-redirect" title="COMINT">COMINT</a></b> – Communications Intelligence</li>
+<li><b>COMPACFLT</b> – Commander, Pacific Fleet (U.S. Navy)</li>
+<li>COMSEC – Communication Security</li>
+<li><b>CONUS</b> – Continental <a href="/wiki/United_States" title="United States">United States</a> (U.S. military, pron. "cone-us")</li>
+<li><b>CONUSA</b> – Continental <a href="/wiki/United_States" title="United States">United States</a> Army (numbered Armies of U.S. military)</li>
+<li><b><a href="/wiki/Civil_Operations_and_Revolutionary_Development_Support" title="Civil Operations and Revolutionary Development Support">CORDS</a></b> – (U.S. military, <a href="/wiki/Vietnam" title="Vietnam">Vietnam</a> era)</li>
+<li><b>COP</b> – Combat Out Post</li>
+<li><b>CoS</b> – Chief of Staff</li>
+<li><b>COT</b> – Commissioned Officer Training</li>
+<li><b><a href="/wiki/Corporal#United_States" title="Corporal">CPL</a></b> – Corporal (U.S. Army and Marine Corps E-4)</li>
+<li><b><a href="/wiki/Chief_petty_officer_(United_States)" title="Chief petty officer (United States)">CPO</a></b> – Chief Petty Officer (USCG/USN E-7)</li>
+<li><b><a href="https://en.wiktionary.org/wiki/captain" class="extiw" title="wiktionary:captain">CPT</a></b> – Captain (US Army O-3)</li>
+<li><b>CP</b> – Check Point (Usually Numbered i.e. "CP1")</li>
+<li><b>CPX</b> – Command Post Exercise</li>
+<li><b><a href="/wiki/CQB" class="mw-redirect" title="CQB">CQB</a></b> – Close Quarters Battle</li>
+<li><b>CRC</b> – CONUS Replacement Center (a military processing center at <a href="/wiki/Fort_Benning" title="Fort Benning">Fort Benning</a>, <a href="/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a>, US)</li>
+<li><b>CSM</b> – Command Sergeant Major (U.S. Army E9 highest Army enlisted rank))</li>
+<li><b><a href="/wiki/Combat_search_and_rescue" title="Combat search and rescue">CSAR</a></b> – Combat Search And Rescue</li>
+<li><b>CT</b> – <a href="/wiki/Counter-terrorism" title="Counter-terrorism">Counter-terrorism</a> Team</li>
+<li><b>CTR</b> – Close Target Reconnaissance</li>
+<li><b>CUB</b> – Commander Update Brief</li>
+<li><b><a href="/wiki/Nuclear_marine_propulsion" title="Nuclear marine propulsion">CVN</a></b> – Nuclear-powered Aircraft Carrier (NOTE: the V comes from the expression "heavier than air flying machine")</li>
+<li><b>CWO</b> – Chief Warrant Officer</li>
+<li><b>CZN</b> – Nuclear-powered <a href="/wiki/Airship" title="Airship">Airship</a> Carrier (NOTE: the Z comes from the use of the word <a href="/wiki/Zeppelin" title="Zeppelin">Zeppelin</a> although non-Zeppelin airships would also be transported on a CZN)</li>
+</ul>
+<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=5" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>DA</b> – Defence Attaché</li>
+<li><b>DAC</b> – Department of the Army Civilian</li>
+<li><b><a href="/wiki/DAGO_(United_States_Army)" title="DAGO (United States Army)">DAGO</a></b> - Department of the Army General Officer</li>
+<li><b>DAGR</b> – Defense Advanced GPS Receiver</li>
+<li><b><a href="/wiki/Defense_Advanced_Research_Projects_Agency" class="mw-redirect" title="Defense Advanced Research Projects Agency">DARPA</a></b> – Defense Advanced Research Projects Agency (U.S. Military)</li>
+<li><b><a href="/wiki/DoD_Cyber_Crime_Center" class="mw-redirect" title="DoD Cyber Crime Center">DC3</a></b> – Department of Defense Cyber Crime Center</li>
+<li><b><a href="/wiki/Defense_Contract_Audit_Agency" title="Defense Contract Audit Agency">DCAA</a></b> – Defense Contract Audit Agency</li>
+<li><b><a href="/wiki/Defense_Contract_Management_Agency" title="Defense Contract Management Agency">DCMA</a></b> – Defense Contract Management Agency</li>
+<li><b>DEROS</b> – Date Estimated Return From Overseas</li>
+<li><b><a href="/wiki/DEVGRU" class="mw-redirect" title="DEVGRU">DEVGRU</a></b> – <a href="/wiki/United_States_Naval_Special_Warfare_Command" title="United States Naval Special Warfare Command">the United States naval special warfare</a> DEVelopment GRoUp</li>
+<li><b>DFAC</b> – Dining Facility (U.S. Military)</li>
+<li><b><a href="/wiki/Defense_Finance_and_Accounting_Service" title="Defense Finance and Accounting Service">DFAS</a></b> – Defense Finance and Accounting Service (U.S. Military)</li>
+<li><b>D.I.A</b> – Defensive Intelligence Agency</li>
+<li><b>DINFAC</b> – Dining Facility (U.S. Military)</li>
+<li><b><a href="/wiki/Defense_Information_Systems_Agency" title="Defense Information Systems Agency">DISA</a></b> – Defense Information Systems Agency</li>
+<li><b>DLB</b> – Dead Letter Box</li>
+<li><b><a href="/wiki/Defense_Manpower_Data_Center" title="Defense Manpower Data Center">DMDC</a></b> – Defense Manpower Data Center</li>
+<li><b>DME</b> – Depot Maintenance Enterprise (U.S. Military)</li>
+<li><b>DMEA</b> – Defense Microelectronics Activity</li>
+<li><b>DMS</b> – Defense Message System (U.S. Military)</li>
+<li><b><a href="/wiki/Demilitarized_zone" title="Demilitarized zone">DMZ</a></b> – Demilitarized Zone</li>
+<li><b>DOA</b> – Dead on Arrival</li>
+<li><b><a href="/wiki/DoDAAC" title="DoDAAC">DoDAAC</a></b> – Department of Defense Activity Address Code (U.S. Military)</li>
+<li><b><a href="/wiki/DoDAF" class="mw-redirect" title="DoDAF">DoDAF</a></b> – Department of Defense Architectural Framework (U.S. Military)</li>
+<li><b>DoDIC</b> – Department of Defense Identification Code (U.S. Military)</li>
+<li><b>DOEHRS</b> – Defense Occupational and Environmental Health Readiness System (U.S. Military)</li>
+<li><b>DOP</b> – Drop-Off Point</li>
+<li><b>DPMs</b> – Disruptive Pattern Material</li>
+<li><b>DRT</b> – Dead Right There; wounded in such a way as to indicate immediate and/or unavoidable death; often used as a sarcastic form of the civilian acronym <a href="/wiki/Dead_on_arrival" title="Dead on arrival">DOA</a> (Dead On Arrival)</li>
+<li><b>DTO</b> – Daily Tasking Order</li>
+<li><b><a href="/wiki/DTRA" class="mw-redirect" title="DTRA">DTRA</a></b> – Defense Threat Reduction agency</li>
+<li><b>DZ</b> – Drop Zone</li>
+</ul>
+<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=6" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>E&amp;E</b> – Escape and Evade</li>
+<li><b>EA</b> – Electronic Attack</li>
+<li><b>ECP</b> – Entry Control Point</li>
+<li><b>EDCSA</b> – Effective Date of Change of Strength Accountability (obsolete for U. S. Army)</li>
+<li><b>EHRS</b> – Electronic Health Records (Software)</li>
+<li><b><a href="/w/index.php?title=Engineering_and_Installation&amp;action=edit&amp;redlink=1" class="new" title="Engineering and Installation (page does not exist)">EI</a></b> – Engineering and Installation</li>
+<li><b><a href="/w/index.php?title=Engineering_and_Installation_Squadron&amp;action=edit&amp;redlink=1" class="new" title="Engineering and Installation Squadron (page does not exist)">EIS</a></b> – Engineering and Installation Squadron, Environmental Impact Statement</li>
+<li><b>EIB</b> – Expert Infantry Badge</li>
+<li><b>EI SIT</b> – Engineering and Installation Site Implementation Team</li>
+<li><b>EKIA</b> – Enemy Killed in Action</li>
+<li><b><a href="/wiki/ELINT" class="mw-redirect" title="ELINT">ELINT</a></b> – Electronic Intelligence</li>
+<li><b>EMI</b> – Extra Military Instruction</li>
+<li><b>ENS</b> – Ensign (US Navy junior officer rank, O-1)</li>
+<li><b><a href="/wiki/Explosive_Ordnance_Disposal" class="mw-redirect" title="Explosive Ordnance Disposal">EOD</a></b> – Explosive Ordnance Disposal</li>
+<li><b>EOS</b> – End of Service</li>
+<li><b>EP</b> – Electronic Protection</li>
+<li><b>EPW</b> – Enemy Prisoner of War</li>
+<li><b>ERV</b> – Emergency Rendezvous</li>
+<li><b>ESSENCE</b> – Electronic Surveillance System for Early Notification of Community-based Epidemics (U.S. Military)</li>
+<li><b>ETA</b> – Estimated time of arrival</li>
+<li><b>ETS</b> – Estimated Termination of Service</li>
+<li><b>EUCOM</b> – European Command (U.S. Military)</li>
+<li><b>EW</b> – Electronic Warfare (comprises EA, EP)</li>
+<li><b><a href="/wiki/Exfil" class="mw-redirect" title="Exfil">Exfil</a></b> – Exfiltration (Opposite of infiltration; exiting undetected)</li>
+</ul>
+<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=7" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>FA</b> – Field Artillery</li>
+<li><b>FAK</b> – First Aid Kit</li>
+<li><b>FAR</b> – Federal Acquisition Regulation</li>
+<li><b><a href="/wiki/FBCB2" class="mw-redirect" title="FBCB2">FBCB2</a></b> – Force XXI Battlefield Command Brigade and Below</li>
+<li><b><a href="/wiki/Federal_Bureau_of_Investigation" title="Federal Bureau of Investigation">FBI</a></b> – Federal Bureau of Investigation</li>
+<li><b>FEBA</b> – Forward Edge of the Battle Area</li>
+<li><b>FFE</b> – <a href="/wiki/Fire_for_effect" title="Fire for effect">Fire for effect</a></li>
+<li><b>FIDO</b> – FIre Direction Officer</li>
+<li><b>FIGMO</b> – Fuck It, Got My Orders</li>
+<li><b>FIST</b> – Fire Support Team</li>
+<li><b>FISTer</b> – Member of a Fire Support Team</li>
+<li><b>FIST-V</b> – Fire Support Team Vehicle</li>
+<li><b><a href="/wiki/FISINT" title="FISINT">FISINT</a></b> – Foreign Instrumentation Signals Intelligence</li>
+<li><b>FISHDO</b> – Fuck It, Shit Happens, Drive On</li>
+<li><b>FitRep</b> – Fitness Report</li>
+<li><b>FLOT</b> – Forward Line of Troops</li>
+<li><b><a href="/wiki/First_Lady_of_the_United_States" title="First Lady of the United States">FLOTUS</a></b> – First Lady of the United States (U.S. – see <a href="#P">POTUS</a>)</li>
+<li><b>FM</b> – Field Marshal; more commonly "Field Manual"</li>
+<li><b>FMC</b> – Fully Mission Capable</li>
+<li><b>FNG</b> – Fucking New Guy</li>
+<li><b>FO</b> – Forward Observer</li>
+<li><b>FO</b> – Foxtrot Oscar (i.e. Fuck Off) (US/UK Forces)</li>
+<li><b><a href="/wiki/Forward_operating_base" title="Forward operating base">FOB</a></b> – Forward Operating Base</li>
+<li><b>FOD</b> – Foreign Object Damage (U.S.)</li>
+<li><b>FOD</b> – Foreign Object Debris (U.S.)</li>
+<li><b><a href="/wiki/Military_mail" title="Military mail">FPO</a></b> – Fleet Post Office; See also <a href="#A">APO</a></li>
+<li><b>FSA</b> – Force Structure Allowance</li>
+<li><b>FSTE</b> – Foreign Service Tour Extension</li>
+<li><b>FTUS</b> – Full Time Unit Specialist</li>
+<li><b><span id="[[List_of_military_slang_terms#FUBAR|FUBAR]]"><a href="/wiki/List_of_military_slang_terms#FUBAR" title="List of military slang terms">FUBAR</a></span></b> – Fouled Up Beyond All Recognition or Fucked Up Beyond All Repair</li>
+<li><b>FYSA</b> – For Your Situational Awareness</li>
+<li><b>FYI</b> – For Your Information</li>
+</ul>
+<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=8" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>G1</b> – General Staff Level office for Personnel and Manpower (Division and Above)</li>
+<li><b>G2</b> – General Staff Level office for Military Intelligence (Division and Above)</li>
+<li><b>G3</b> – General Staff Level office for Operations and Plans (Division and Above)</li>
+<li><b>G4</b> – General Staff Level office for Logistics (Division and Above)</li>
+<li><b>G5</b> – General Staff Level office for Military/Civil Affairs (Division and Above)</li>
+<li><b>G6</b> – General Staff Level office for Signal and Communication (Division and Above)</li>
+<li><b>G7</b> – General Staff Level office for Training and Exercises (Division and Above)</li>
+<li><b>G8</b> – General Staff Level office for Force Development and Analysis (Division and Above)</li>
+<li><b>G9</b> – General Staff Level office for Civil Operations (Division and Above)</li>
+<li><b>GBU</b> – Guided Bomb Unit</li>
+<li><b><a href="/wiki/General" class="mw-redirect" title="General">GEN</a></b> – General</li>
+<li><b>GI</b> – Government Issue</li>
+<li><b><a href="/wiki/Global_Information_Grid" title="Global Information Grid">GIG</a></b> – Global Information Grid</li>
+<li><b>GIGO</b> – Garbage In Garbage Out</li>
+<li><b>GM</b> – Gone Mersault</li>
+<li><b>GO</b> – General Officer</li>
+<li><b>GOCO</b> – Government owned, contractor operated</li>
+<li><b><a href="/wiki/GPMG" class="mw-redirect" title="GPMG">GPMG</a></b> – General Purpose Machine Gun</li>
+<li><b><a href="/wiki/Global_Positioning_System" title="Global Positioning System">GPS</a></b> – Global Positioning System</li>
+<li><b><a href="/wiki/General_Schedule_(US_civil_service_pay_scale)" title="General Schedule (US civil service pay scale)">GS</a></b> – General Schedule</li>
+</ul>
+<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=9" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b><a href="/wiki/High_Altitude_Low_Opening" class="mw-redirect" title="High Altitude Low Opening">HALO</a></b> – High Altitude Low Opening (<a href="/wiki/Airborne_forces" title="Airborne forces">Airborne</a>)</li>
+<li><b><a href="/wiki/HAHO" class="mw-redirect" title="HAHO">HAHO</a></b> – High Altitude High Opening</li>
+<li><b><a href="/wiki/High-altitude_military_parachuting" title="High-altitude military parachuting">HAAMS</a></b> – High Altitude Airdrop Missions</li>
+<li><b>HBL</b> – Holiday Block Leave (U.S. Army)</li>
+<li><b><a href="/wiki/Explosive_material" title="Explosive material">HE</a></b> – High Explosive</li>
+<li><b><a href="/wiki/High_explosive_anti-tank_warhead" class="mw-redirect" title="High explosive anti-tank warhead">HEAT</a></b> – High Explosive Anti-Tank warhead</li>
+<li><b><a href="/wiki/High_explosive_plastic" class="mw-redirect" title="High explosive plastic">HEP</a></b> – High Explosive, Plastic (US usage)</li>
+<li><b><a href="/wiki/High-explosive_squash_head" title="High-explosive squash head">HESH</a></b> – High Explosive Squash Head (British anti-tank round)</li>
+<li><b><a href="/wiki/HMAS" class="mw-redirect" title="HMAS">HMAS</a></b> – Her Majesty's Australian Ship (<a href="/wiki/Australia" title="Australia">Australia</a>)</li>
+<li><b><a href="/wiki/Her_Majesty%27s_Canadian_Ship" title="Her Majesty's Canadian Ship">HMCS</a></b> – Her Majesty's Canadian Ship (<a href="/wiki/Canada" title="Canada">Canada</a>)</li>
+<li><b>HMFIC</b> – Head Motherfucker In Charge – colloquialism for the highest-ranking person present; more commonly used by <a href="/wiki/Non-commissioned_officer" title="Non-commissioned officer">NCO</a>'s than by officers (<a href="/wiki/Military_of_the_United_States" class="mw-redirect" title="Military of the United States">U.S. Military</a>)</li>
+<li><b><a href="/wiki/HMMWV" class="mw-redirect" title="HMMWV">HMMWV</a></b> – High Mobility Multipurpose Wheeled Vehicle (<a href="/wiki/Military_of_the_United_States" class="mw-redirect" title="Military of the United States">U.S. Military</a>) (Pronounced Humvee)</li>
+<li><b><a href="/wiki/HMNZS" class="mw-redirect" title="HMNZS">HMNZS</a></b> – Her Majesty's New Zealand Ship (<a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>)</li>
+<li><b>HMS</b> – Hans Majestäts Skepp (His Majesty's ship, <a href="/wiki/Sweden" title="Sweden">Sweden</a>)</li>
+<li><b><a href="/wiki/Her_Majesty%27s_Ship" title="Her Majesty's Ship">HMS</a></b> – Her Majesty's Ship (Royal Navies such as <a href="/wiki/United_Kingdom" title="United Kingdom">Royal British Navy</a>) (His Majesty's Ship if King)</li>
+<li><b><a href="/w/index.php?title=Hr.Ms&amp;action=edit&amp;redlink=1" class="new" title="Hr.Ms (page does not exist)">Hr.Ms</a></b> – <a href="/wiki/His/Her_Dutch_Majesty%27s_Ship" class="mw-redirect" title="His/Her Dutch Majesty's Ship">His/Her Dutch Majesty's Ship</a> (Dutch Royal Navy ship)</li>
+<li><b><a href="/wiki/Homeland_security" title="Homeland security">HOMSEC</a></b> – Homeland Security</li>
+<li><b><a href="/w/index.php?title=HRAP&amp;action=edit&amp;redlink=1" class="new" title="HRAP (page does not exist)">HRAP</a></b> – Hometown Recruiter Assistance Program</li>
+<li><b><a href="/wiki/Headquarters" title="Headquarters">HQ</a></b> – Headquarters</li>
+<li><b><a href="/wiki/Headquarters_and_Headquarters_Company" class="mw-redirect" title="Headquarters and Headquarters Company">HHB</a></b> – Headquarters and Headquarters Battery</li>
+<li><b><a href="/wiki/Headquarters_and_Headquarters_Company" class="mw-redirect" title="Headquarters and Headquarters Company">HHC</a></b> – Headquarters and Headquarters Company</li>
+<li><b><a href="/wiki/Headquarters_and_Headquarters_Company" class="mw-redirect" title="Headquarters and Headquarters Company">HHT</a></b> – Headquarters and Headquarters Troop</li>
+<li><b><a href="/wiki/HUMINT" class="mw-redirect" title="HUMINT">HUMINT</a></b> – Human Intelligence</li>
+<li><b>HVI</b> – High Value Individual</li>
+<li><b><a href="/wiki/High-value_target" title="High-value target">HVT</a></b> – High Value Target</li>
+<li><b><a href="/wiki/High_Year_Tenure" title="High Year Tenure">HYT</a></b> – High Year Tenure</li>
+</ul>
+<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=10" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b><a href="/wiki/Indian_Air_Force" title="Indian Air Force">IAF</a></b> – Indian Air Force</li>
+<li><b><a href="/wiki/Israeli_Air_Force" title="Israeli Air Force">IAF</a></b> – Israeli Air Force</li>
+<li><b>IAVA</b> – Information Assurance Vulnerability Alert (U.S. Military)</li>
+<li><b><a href="/wiki/Intercontinental_ballistic_missile" title="Intercontinental ballistic missile">ICBM</a></b> – Intercontinental Ballistic Missile</li>
+<li><b>ICE</b> – Individual Carrying Equipment</li>
+<li><b>ID</b> – IDentification</li>
+<li><b><a href="/wiki/Improvised_explosive_device" title="Improvised explosive device">IED</a></b> – Improvised Explosive Device</li>
+<li><b>IFAK</b> – Individual First Aid Kit</li>
+<li><b>IFF</b> – Identification Friend or Foe</li>
+<li><b>IFF</b> – Introduction to Fighter Fundamentals (USAF)</li>
+<li><b><a href="/wiki/Office_of_Inspector_General_(United_States)#U.S._military" title="Office of Inspector General (United States)">IG</a></b> – Inspector General (US Military)</li>
+<li><b><a href="/wiki/Infantry_Fighting_Vehicle" class="mw-redirect" title="Infantry Fighting Vehicle">IFV</a></b> – Infantry Fighting Vehicle</li>
+<li><b><a href="/wiki/Infantry" title="Infantry">IN</a></b> – Infantry</li>
+<li><b><a href="/wiki/INSCOM" class="mw-redirect" title="INSCOM">INSCOM</a></b> – United States Army Intelligence and Security Command</li>
+<li><b><a href="/wiki/Ilyushin" title="Ilyushin">Il</a></b> – Ilyushin</li>
+<li><b><a href="/wiki/Interpol" title="Interpol">Interpol</a></b> – International Criminal Police Organization</li>
+<li><b>ISO</b> – Inter School Course</li>
+<li><b>ISR</b> – Intelligence, Surveillance, and Reconnaissance</li>
+<li><b><a href="/wiki/AMMO_(U.S._Air_Force)" class="mw-redirect" title="AMMO (U.S. Air Force)">IYAAYAS</a></b> – If You Ain't AMMO, You Ain't Shit</li>
+</ul>
+<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=11" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>JA</b> – Judge Advocate [General]</li>
+<li><b><a href="/wiki/JAFO" class="mw-redirect" title="JAFO">JAFO</a></b> – Just Another Fucking Observer<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+<li><b>JAG</b> – Judge Advocate General</li>
+<li><b><a href="/wiki/Joint_Direct_Attack_Munition" title="Joint Direct Attack Munition">JDAM</a></b> – Joint Direct Attack Munition</li>
+<li><b><a href="/wiki/Joint_Strike_Fighter_program" title="Joint Strike Fighter program">JSF</a></b> – Joint Strike Fighter</li>
+<li><b><a href="/wiki/JATO" title="JATO">JATO</a></b> – Jet-assisted Take Off</li>
+<li><b><a href="/wiki/Joint_Electronics_Type_Designation_System" title="Joint Electronics Type Designation System">JETDS</a></b> – Joint Electronics Type Designation System</li>
+<li><b>JSAM</b> – Joint Service Achievement Medal</li>
+<li><b>JSTARS</b> – Joint Surveillance Target Attack Radar System</li>
+<li><b>JSOC</b> – Joint Special Operations Command</li>
+<li><b><a href="/wiki/Joint_Task_Force" title="Joint Task Force">JTF</a></b> – Joint Task Force</li>
+<li><b>JEEP</b> – Just Enough Essential Parts</li>
+</ul>
+<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=12" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b><a href="/wiki/KATUSA" class="mw-redirect" title="KATUSA">KATUSA</a></b> – Korean Augmentation Troops to the United States Army</li>
+<li><b>KIA</b> – Killed In Action</li>
+<li><b>KISS</b> – Keep It Simple, Stupid – USAF</li>
+<li><b>KP</b> – Kitchen Police or Kitchen Patrol</li>
+<li><b>KBO</b> – Keep Buggering On</li>
+</ul>
+<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=13" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b><a href="/w/index.php?title=Low_Altitude_Air_Defense&amp;action=edit&amp;redlink=1" class="new" title="Low Altitude Air Defense (page does not exist)">LAAD</a></b> – Low Altitude Air Defense</li>
+<li><b><a href="/w/index.php?title=Land_Artillery_Vehicle&amp;action=edit&amp;redlink=1" class="new" title="Land Artillery Vehicle (page does not exist)">LAV</a></b> – Land Artillery Vehicle</li>
+<li><b><a href="/wiki/Lieutenant_Commander" class="mw-redirect" title="Lieutenant Commander">LCDR</a></b> – Lieutenant Commander (US Navy)</li>
+<li><b><a href="/wiki/Lance_Corporal" class="mw-redirect" title="Lance Corporal">LCPL</a></b> – Lance Corporal (US Marines)</li>
+<li><b><a href="/wiki/Leave_and_Earnings_Statement" title="Leave and Earnings Statement">LES</a></b> – Leave and Earnings Statement</li>
+<li><b><a href="/wiki/Listening_Post" class="mw-redirect" title="Listening Post">LP</a></b> – Listening Post</li>
+<li><b><a href="/w/index.php?title=Listening_Post_/_Observation_Post&amp;action=edit&amp;redlink=1" class="new" title="Listening Post / Observation Post (page does not exist)">LP/OP</a></b> – Listening Post Observation Post</li>
+<li><b><a href="/w/index.php?title=Leather_Personnel_Carrier&amp;action=edit&amp;redlink=1" class="new" title="Leather Personnel Carrier (page does not exist)">LPC</a></b> – Leather Personnel Carrier (boot)</li>
+<li><b><a href="/w/index.php?title=Little_Group_Of_Paratroopers&amp;action=edit&amp;redlink=1" class="new" title="Little Group Of Paratroopers (page does not exist)">LGOP</a></b> – Little Group Of Paratroopers</li>
+<li><b><a href="/wiki/Leading_Petty_Officer" class="mw-redirect" title="Leading Petty Officer">LPO</a></b> – Leading Petty Officer (US Navy)</li>
+<li><b><a href="/wiki/Lieutenant" title="Lieutenant">LT</a></b> – Lieutenant</li>
+<li><b><a href="/wiki/Lieutenant_colonel_(United_States)" title="Lieutenant colonel (United States)">LTC</a></b> or <b>Lt Col</b> – Lieutenant Colonel</li>
+<li><b><a href="/wiki/Lieutenant_general_(United_States)" title="Lieutenant general (United States)">LTG</a></b> or <b>Lt Gen</b> – Lieutenant General</li>
+<li><b><a href="/wiki/Lieutenant_(junior_grade)" title="Lieutenant (junior grade)">LTJG</a> – Lieutenant, Junior Grade (US Navy)</b></li>
+<li><b>LUP</b> – Lying-Up Point</li>
+<li><b><a href="/wiki/Landing_Zone" class="mw-redirect" title="Landing Zone">LZ</a></b> – Landing Zone</li>
+</ul>
+<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=14" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>MACV/SOG</b> – Military Assistance Command Vietnam / Special Operations Group</li>
+<li><b>MAJ</b> – Major</li>
+<li><b>MARCORSYSCOM</b> – MARine CORps SYStems COMmand (U.S. Military)</li>
+<li><b>MARCENT</b> Marine Corps Central Command<sup id="cite_ref-Auto_2-1" class="reference"><a href="#cite_note-Auto-2">[2]</a></sup></li>
+<li><b>MARFORRES</b> – MARine FORces REServe (U.S. Marine Corps)</li>
+<li><b><a href="/wiki/MARSOC" class="mw-redirect" title="MARSOC">MARSOC</a></b> – Marine Corps Forces Special Operations Command</li>
+<li><b>MAV</b> – Micro Air Vehicle</li>
+<li><b>MAW</b> – Maximum Allowable Weight</li>
+<li><b><a href="/wiki/Main_Battle_Tank" class="mw-redirect" title="Main Battle Tank">MBT</a></b> – Main Battle Tank</li>
+<li><b>MC 326/2</b> – ″NATO Medical Support Principles and Policies″, approved by Military Committee, second revision.</li>
+<li><b>MCCS</b> – Marine Corps Community Services (also known by the humorous <a href="/wiki/Backronym" title="Backronym">backronym</a> Marine Corps Crime Syndicate)</li>
+<li><b>MCEN</b> – Marine Corps Enterprise Network (U.S. Military)</li>
+<li><b>MCEITS</b> – Marine Corps Enterprise Information Technology Service (U.S. Military)</li>
+<li><b>MCPO</b> – Master Chief Petty Officer (USCG/USN E-9)</li>
+<li><b>MedEvac</b> – Medical Evacuation</li>
+<li><b><a href="/wiki/Ministry_of_Foreign_Affairs" title="Ministry of Foreign Affairs">MFA</a></b> – Ministry of Foreign Affairs</li>
+<li><b>MG</b> – Machine Gun</li>
+<li><b><a href="/wiki/Major_general" title="Major general">MG</a></b> – Major General</li>
+<li><b><a href="/wiki/Military_Intelligence" class="mw-redirect" title="Military Intelligence">MI</a></b> – Military Intelligence</li>
+<li><b><a href="/wiki/Mil_Moscow_Helicopter_Plant" title="Mil Moscow Helicopter Plant">Mi</a></b> – Mil Moscow Helicopter Plant (Russian)</li>
+<li><b><a href="/wiki/Missing_in_action" title="Missing in action">MIA</a></b> – Missing In Action</li>
+<li><b>MICV</b> – Mechanized <a href="/wiki/Infantry" title="Infantry">Infantry</a> Combat Vehicle</li>
+<li><b><a href="/wiki/MiG" class="mw-redirect" title="MiG">MiG</a></b> – Mikoyan-Gurevich (Russian)</li>
+<li><b>MILCON</b> – Military Construction</li>
+<li><b>MK</b> – Mark</li>
+<li><b>MK</b> – Machinery Technician (U.S. Coast Guard)</li>
+<li><b><a href="/wiki/M270_Multiple_Launch_Rocket_System" title="M270 Multiple Launch Rocket System">MLRS</a></b> – Multiple Launch Rocket System</li>
+<li><b>MMFD</b> – Miles and Miles of F...ing Desert (unofficial report in Gulf War)</li>
+<li><b>MOA</b> – Military Operating Area (USAF Airspace)</li>
+<li><b><a href="/wiki/Massive_Ordnance_Air_Blast_bomb" class="mw-redirect" title="Massive Ordnance Air Blast bomb">MOAB</a></b> – Massive Ordnance Air Blast bomb, also known as "Mother Of All Bombs".</li>
+<li><b>MOAC</b> – Mother of All Coffee (Green Bean Coffee)</li>
+<li><b>MOB</b> – Main Operating Base</li>
+<li><b>MOBCOM</b> – MOBile COMmand</li>
+<li><b><a href="/wiki/MOPP" title="MOPP">MOPP</a></b> – Mission Oriented Protective Posture</li>
+<li><b><a href="/wiki/United_States_military_occupation_code" title="United States military occupation code">MOS</a></b> – Military Occupation Specialty</li>
+<li><b>MOUT</b> – Military Operations in Urban Terrain</li>
+<li><b>MPDS</b> – Military Planning Data Allowance</li>
+<li><b>MRAP</b> – <a href="/wiki/Land_mine" title="Land mine">Mine</a> Resistant Ambush Protected</li>
+<li><b><a href="/wiki/MRE" class="mw-redirect" title="MRE">MRE</a></b> – Meal Ready to Eat (U.S. Military)</li>
+<li><b><a href="/w/index.php?title=Mission_Rehearsal_Exercise&amp;action=edit&amp;redlink=1" class="new" title="Mission Rehearsal Exercise (page does not exist)">MRX</a></b> – Mission Rehearsal Exercise</li>
+<li><b>MSG</b> – Master Sergeant (US Army E-8)</li>
+<li><b>MSgt</b> – Master Sergeant (USAF E-7)</li>
+<li><b>MTOE</b> – Modified Table Of Organizational Equipment</li>
+<li><b>MTS+</b> – Movement Tracking System Plus</li>
+<li><b>MSDC+</b> – Marine Science Diving Club (Diving Club Of Hasanudin University)</li>
+<li><b>MSR</b> – Main Supply Route</li>
+<li><b>MSR</b> – Major Supply Route</li>
+<li><b>MWR</b> – Morale Welfare Recreation</li>
+</ul>
+<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=15" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b><a href="/wiki/NAFTA" class="mw-redirect" title="NAFTA">NAFTA</a></b> – North American Free Trade Agreement</li>
+<li><b>NAS</b> – Naval Air Station</li>
+<li><b><a href="/wiki/NATO" title="NATO">NATO</a></b> – North Atlantic Treaty Organisation</li>
+<li><b><a href="/wiki/Naval_Criminal_Investigative_Service" title="Naval Criminal Investigative Service">NCIS</a></b> – Naval Criminal Investigative Service (U.S. Navy)</li>
+<li><b>NAVAIR</b> – Naval Air Systems Command</li>
+<li><b>NAVCENT</b> – Naval Forces Central Command (U.S. Navy)<sup id="cite_ref-Auto_2-2" class="reference"><a href="#cite_note-Auto-2">[2]</a></sup></li>
+<li><b><a href="/wiki/Naval_Oceanographic_Office" title="Naval Oceanographic Office">NAVOCEANO</a></b> – Naval Oceanographic Office</li>
+<li><b><a href="/wiki/National_Biodefense_Analysis_and_Countermeasures_Center" title="National Biodefense Analysis and Countermeasures Center">NBACC</a></b> – National Biodefense Analysis and Countermeasures Center</li>
+<li><b><a href="/wiki/National_Cancer_Institute" title="National Cancer Institute">NCI</a></b> – National Cancer Institute</li>
+<li><b>NCO</b> – Non-Commissioned Officer</li>
+<li><b>NCOIC</b> – <a href="/wiki/Non-Commissioned_Officer_in_Charge" title="Non-Commissioned Officer in Charge">Non-Commissioned Officer in Charge</a></li>
+<li><b>NCOES</b> – Non-Commissioned Officer Education System</li>
+<li><b>ND</b> – Negligent Discharge</li>
+<li><b>NDP</b> – Night Defensive Position</li>
+<li><b>NEFF</b> – New Equipment Fielding Facility</li>
+<li><b><a href="/w/index.php?title=NIBC&amp;action=edit&amp;redlink=1" class="new" title="NIBC (page does not exist)">NIBC</a></b> <a href="/wiki/National_Interagency_Biodefense_Campus" title="National Interagency Biodefense Campus">National Interagency Biodefense Campus</a></li>
+<li><b><a href="/wiki/NICBR" class="mw-redirect" title="NICBR">NICBR</a></b> – National Interagency Confederation for Biological Research</li>
+<li><b>NLT</b> – No Later Than</li>
+<li><b>NMC</b> – Not Mission Capable</li>
+<li><b>NME</b> – Non-Mission Essential</li>
+<li><b>NMCI</b> – Naval Marine Corps Intranet (U.S. Navy)</li>
+<li><b>NNMSA</b> – Non-Nuclear Munitions Storage Area</li>
+<li><b><a href="/wiki/NORAD" class="mw-redirect" title="NORAD">NORAD</a></b> – North American Aerospace Defense Command</li>
+<li><b>NPDES</b> – National Pollutant Discharge Elimination System</li>
+<li><b>NS</b> – Network Services</li>
+<li><b><a href="/wiki/NSA" class="mw-redirect" title="NSA">NSA</a></b> – National Security Agency</li>
+<li><b><a href="/wiki/NSW" class="mw-redirect" title="NSW">NSW</a></b> – Naval Special Warfare</li>
+<li><b><a href="/wiki/NSWDG" class="mw-redirect" title="NSWDG">NSWDG</a></b> – Naval Special Warfare Development Group</li>
+<li><b>NUB</b> – Non-Useful Body / Nuclear Unqualified Bitch (U.S. Nuclear Navy)</li>
+</ul>
+<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=16" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>OBE</b> – Overcome/Overrun By Events</li>
+<li><b>OCONUS</b> – Outside <a href="/wiki/Continental_United_States" class="mw-redirect" title="Continental United States">Continental United States</a></li>
+<li><b>OCS</b> – Officer Candidate School</li>
+<li><b>ODA</b> – Operational Detachment-Alpha (the standard 12-man team composed of <a href="/wiki/US_Army_Special_Forces" class="mw-redirect" title="US Army Special Forces">US Army Special Forces</a> operators)</li>
+<li><b>ODU</b> – Operational Dress Uniform (U.S. Coast Guard)</li>
+<li><b><a href="/wiki/Duty_officer" title="Duty officer">OIC</a></b> – Officer in Charge</li>
+<li><b><a href="/wiki/Office_of_Inspector_General_(United_States)" title="Office of Inspector General (United States)">OIG</a></b> – Office of Inspector General</li>
+<li><b>OM</b> – On the Move (Normally just spelled out Oscar Mike)</li>
+<li><b>O&amp;M, MC</b> – Operations &amp; Maintenance, <a href="/wiki/United_States_Marine_Corps" title="United States Marine Corps">Marine Corps</a> (<a href="/wiki/United_States_Navy" title="United States Navy">U.S. Navy</a>)</li>
+<li><b>O&amp;M, N</b> – Operations &amp; Maintenance, Navy (U.S. Navy)</li>
+<li><b><a href="/wiki/OODA_loop" title="OODA loop">OODA</a></b> – Observe, Orient, Decide, and Act</li>
+<li><b>OP</b> – Observation Post</li>
+<li><b>ORM</b> – Operational Risk Management</li>
+<li><b>OSM</b> – Oh Shit Moment (U.S. Marine Corps)</li>
+<li><b>OSP</b> – On Site Procurement</li>
+<li><b>OPORD</b> – Operations Order</li>
+<li><b><a href="/wiki/Operations_security" title="Operations security">OPSEC</a></b> – Operations Security</li>
+<li><b>OTF</b> – Out There Flapping (Airborne)</li>
+<li><b>OTS</b> – Officer Training School</li>
+<li><b>OTV</b> – Outer Tactical Vest</li>
+</ul>
+<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=17" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>PACOM</b> – Pacific Command</li>
+<li><b>PAQ</b> – PALACE Acquire</li>
+<li><b>PCS</b> – Permanent Change of Station</li>
+<li><b>PDS</b> – Permanent Duty Station (U.S. Military)</li>
+<li><b>PDT</b> – Pre-Deployment Training</li>
+<li><b>PE</b> – Plastic Explosive</li>
+<li><b>PFC</b> – Private First Class (U.S. Military)</li>
+<li><b>PFM</b> – Pure Fuckin Magic (U.S. Military)</li>
+<li><b><a href="/wiki/Physical_Fitness_Test" class="mw-redirect" title="Physical Fitness Test">PFT</a></b> – Physical Fitness Test</li>
+<li><b><a href="/wiki/Personally_identifiable_information" title="Personally identifiable information">PII</a></b> – Personally Identifiable Information or Personal Identity Information</li>
+<li><b>PL</b> – Platoon Leader (U.S. Army)</li>
+<li><b>PLT</b> – Platoon (U.S. Army)</li>
+<li><b>PMC</b> – Partially Mission Capable</li>
+<li><b>PME</b> – Professional Military Education</li>
+<li><b>PMS</b> – Planned Maintenance Schedule (U.S. Navy)</li>
+<li><b>PNG</b> – Passive Night Goggles</li>
+<li><b><a href="/wiki/Post_office" title="Post office">PO</a></b> – Post Office</li>
+<li><b>PO1</b> – Petty Officer 1st Class (USCG/USN E-6)</li>
+<li><b>PO2</b> – Petty Officer 2nd Class (USCG/USN E-5)</li>
+<li><b>PO3</b> – Petty Officer 3rd Class (USCG/USN E-4)</li>
+<li><b>POBCAK</b> – Problem Occurs Between Chair And Keyboard</li>
+<li><b>POL</b> – Petroleum Oil &amp; Lubricants (U.S. Air Force)</li>
+<li><b>POC</b> – Point Of Contact</li>
+<li><b><a href="/wiki/President_of_the_United_States" title="President of the United States">POTUS</a></b> – President of the United States</li>
+<li><b>POG</b> – Person Other than Grunt (All non-combat arms job fields i.e. any <a href="/wiki/United_States_military_occupation_code" title="United States military occupation code">MOS</a> or CMF other than <a href="/wiki/Infantry" title="Infantry">infantry</a>, <a href="/wiki/Cavalry" title="Cavalry">cavalry</a>, <a href="/wiki/Armor" class="mw-redirect" title="Armor">armor</a>, and <a href="/wiki/Artillery" title="Artillery">artillery</a>; among infantrymen, refers to anyone other than infantry or <a href="/wiki/Special_Forces" class="mw-redirect" title="Special Forces">Special Forces</a>)</li>
+<li><b><a href="/wiki/Prisoner_of_war" title="Prisoner of war">POW</a></b> – Prisoner Of War</li>
+<li><b>POV</b> – Privately Owned Vehicle</li>
+<li><b>PPG</b> – PT Parade Games</li>
+<li><span id="PPPPPPP"></span><b>PPPPPPP</b> – Proper Prior Planning Prevents Piss Poor Performance</li>
+<li><b>PRP</b> – Personnel ReliabilityProgram</li>
+<li><b>PRP</b> – Pretty Retarded Program</li>
+<li><b>PRT</b> – Provincial Reconstruction Team</li>
+<li><b>PRT</b> – Physical Readiness Training (U.S. Army)</li>
+<li><b><a href="/wiki/Physical_education_class" class="mw-redirect" title="Physical education class">PT</a></b> – Physical Training</li>
+<li><b>PTB</b> – Powers That Be</li>
+<li><b>PV2</b> – Private 2nd class (U.S. Army E-2)</li>
+<li><b>PVT</b> – Private (U.S. Army and Marine Corps E-1)</li>
+<li><b>PX</b> – Post Exchange (U.S. Army)</li>
+</ul>
+<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>RavMonE</b> – Known as the Trojan that opens a backdoor on computers running Microsoft Windows however nicknamed for a new enlisted soldier that is deployed to a unit during combat operations.</li>
+<li><b><a href="/wiki/Royal_Australian_Air_Force" title="Royal Australian Air Force">RAAF</a></b> – Royal Australian Air Force</li>
+<li><b><a href="/wiki/Royal_Air_Force" title="Royal Air Force">RAF</a></b> – Royal Air Force (UK)</li>
+<li><b><a href="/wiki/Royal_Australian_Navy" title="Royal Australian Navy">RAN</a></b> – Royal Australian Navy</li>
+<li><b>RATO</b> – Rocket Assisted Take Off</li>
+<li><b><a href="/wiki/Royal_Canadian_Sea_Cadets" title="Royal Canadian Sea Cadets">RCSC</a></b> – Royal Canadian Sea Cadets (Canada)</li>
+<li><b><a href="/wiki/Pogue" title="Pogue">REMF</a></b> – Rear Echelon Mother Fucker</li>
+<li><b><a href="/wiki/Pogue" title="Pogue">RFL</a></b> – Response Force Leader</li>
+<li><b><a href="/wiki/Royal_Military_College_of_Canada" title="Royal Military College of Canada">RMC</a></b> – <a href="/wiki/Royal_Military_College_of_Canada" title="Royal Military College of Canada">Royal Military College of Canada</a></li>
+<li><b><a href="/wiki/Royal_Navy" title="Royal Navy">RN</a></b> – Royal Navy (UK)</li>
+<li><b>ROE</b> – Rules Of Engagement</li>
+<li><b>ROMA Data</b>, Right Out of My Ass Data. Unverifiable created data (different from SWAG)</li>
+<li><b>ROWPU</b> – Reverse Osmosis Water Purification Unit</li>
+<li><b><a href="/wiki/Royal_New_Zealand_Air_Force" title="Royal New Zealand Air Force">RNZAF</a></b> – Royal New Zealand Air Force</li>
+<li><b>ROZ</b> – Restricted Operating Zone</li>
+<li><b><a href="/wiki/Rocket-propelled_grenade" title="Rocket-propelled grenade">RPG</a></b> – Rocket-Propelled Grenade</li>
+<li><b><a href="/wiki/Rate_of_fire" title="Rate of fire">RPM</a></b> – Rounds per minute</li>
+<li><b>RS</b> – RatShit (Australia – related to <a href="#U">US – Unserviceable</a>)</li>
+<li><b><a href="/wiki/Regional_Security_System" title="Regional Security System">RSS</a></b> – Regional Security System (Caribbean)</li>
+<li><b>RTB</b> – Return To Base</li>
+<li><b><a href="https://en.wiktionary.org/wiki/rendezvous" class="extiw" title="wikt:rendezvous">RV</a></b> – Rendez-Vous</li>
+<li><b>RTO</b> – Radio Telephone Operator</li>
+</ul>
+<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>SWAK</b> – Sealed With A Kiss</li>
+<li><b>SA</b> – Seaman Apprentice (USCG/USN E-2)</li>
+<li><b>SA</b> – Situation Awareness</li>
+<li><b><a href="/wiki/Special_Air_Service" title="Special Air Service">SAS</a></b> – Special Air Service (British special forces)</li>
+<li><b><a href="/wiki/Special_Boat_Service" title="Special Boat Service">SBS</a></b> – Special Boat Service (British special forces)</li>
+<li><b>SAAS</b> – Standard Army Ammunition System (U.S. Army)</li>
+<li><b><a href="/wiki/Surface-to-Air_missile" class="mw-redirect" title="Surface-to-Air missile">SAM</a></b> – Surface-to-Air Missile</li>
+<li><b>SARS</b> - Search and Rescue Swimmer</li>
+<li><b>SARSS</b> – Standard Army Retail Supply System (U.S. Army)</li>
+<li><b>SCIF</b> – <a href="/wiki/Sensitive_Compartmented_Information_Facility" title="Sensitive Compartmented Information Facility">Sensitive Compartmented Information Facility</a></li>
+<li><b>SCO</b> – Squadron Commander (Squadron as used in the <a href="/wiki/U.S._Army_Regimental_System" title="U.S. Army Regimental System">U.S. Army Regimental System</a>)</li>
+<li><b><a href="/wiki/Supreme_Court_of_the_United_States" title="Supreme Court of the United States">SCOTUS</a></b> – Supreme Court of the United States</li>
+<li><b>SCPO</b> – Senior Chief Petty Officer (USCG/USN E-8)</li>
+<li><b>SD</b> – "Status Destroyed" or "Salty Dog". (Equipment that is written off as unrepairable and unsalvageable. )</li>
+<li><b>SEAC</b> – <a href="/wiki/Senior_Enlisted_Advisor_to_the_Chairman" title="Senior Enlisted Advisor to the Chairman">Senior Enlisted Advisor to the Chairman</a> of the Joint Chiefs of Staff</li>
+<li><b><a href="/wiki/United_States_Navy_SEALs" title="United States Navy SEALs">SEAL</a></b> – Sea, Air and Land (US Navy SEALs)</li>
+<li><b><a href="/wiki/Survival,_Evasion,_Resistance_and_Escape" title="Survival, Evasion, Resistance and Escape">SERE</a></b> – Survival, Evasion, Resistance and Escape</li>
+<li><b><a href="/wiki/Sergeant_First_Class" class="mw-redirect" title="Sergeant First Class">SFC</a></b> – Sergeant First Class (U.S. Army E7)</li>
+<li><b><a href="/wiki/Sergeant_major#United_States" title="Sergeant major">SGM</a></b> – Sergeant Major (U.S. Army E9 – Sometimes referred to as Staff Sergeant Major)</li>
+<li><b><a href="/wiki/Sergeant#Army_13" title="Sergeant">SGT</a></b> – Sergeant (U.S. Army E5) (U.S. Marines uses Sgt)</li>
+<li><b>SITREP</b> – Situation Report</li>
+<li><b>SOCCENT</b> – Special Operations Command CENTCOM<sup id="cite_ref-Auto_2-3" class="reference"><a href="#cite_note-Auto-2">[2]</a></sup></li>
+<li><b>SDD</b> – Solution Delivery Division (Military Health)</li>
+<li><b>SJA</b> – Staff Judge Advocate</li>
+<li><b>SLAM</b> – Standoff Land Attack Missile</li>
+<li><b><a href="/wiki/Second_Lady_of_the_United_States" title="Second Lady of the United States">SLOTUS</a></b> – Second Lady of the United States</li>
+<li><b><a href="/wiki/Sergeant_Major_of_the_Army" title="Sergeant Major of the Army">SMA</a></b> – Sergeant Major of the Army (U.S. Army E9 – Senior Enlisted Member)</li>
+<li><b><a href="/wiki/SMEAC" class="mw-redirect" title="SMEAC">SMEAC</a></b> – Situation Mission Execution Admin/logistics Command/signal (US Marine Corps basic knowledge)</li>
+<li><b>SMSgt</b> – Senior Master Sergeant (USAF E-8)</li>
+<li><b>SN</b> – Seaman (USCG/USN E-3)</li>
+<li><b>SNAFU</b> – Situation Normal: All Fucked/Fouled Up</li>
+<li><b><a href="/wiki/United_States_Special_Operations_Command" title="United States Special Operations Command">SOCOM</a></b> – United States Special Operations Command</li>
+<li><b><a href="/wiki/Status_of_Forces_Agreement" class="mw-redirect" title="Status of Forces Agreement">SOFA</a></b> – Status of Forces Agreement</li>
+<li><b>SOP</b> – Standard Operating Procedures</li>
+<li><b>SOS</b> – Shit On a Shingle, or creamed <a href="/wiki/Chipped_beef" title="Chipped beef">chipped beef</a> on toast.</li>
+<li><b>SPC</b> – Specialist (U.S. Army E-4)</li>
+<li><b>SR</b> – Seaman Recruit (USCG/USN E-1)</li>
+<li><b>SrA</b> – Senior Airman (USAF E-4)</li>
+<li><b>SRR</b> – Special Reconnaissance Regiment (British special Forces)</li>
+<li><b>SSDD</b> – Same Shit Different Day</li>
+<li><b>SSDDBS</b> – Same Shit Different Day Bigger Shovel</li>
+<li><b>SSG</b> – Staff Sergeant (US Army E-6)</li>
+<li><b>SSgt</b> – Staff Sergeant (US Air Force E-5) (U.S. Marines E-6)</li>
+<li><b>SOL</b> – Shit Out of Luck (US Army)</li>
+<li><b>SOLJWF</b> – Shit Out of Luck and Jolly Well Fucked (U.S. Marines)</li>
+<li><b>STOVL</b> – Short Takeoff, Vertical Landing</li>
+<li><b><a href="/wiki/SUSFU" class="mw-redirect" title="SUSFU">SUSFU</a></b> – Situation Unchanged, Still Fucked Up</li>
+<li><b><a href="/wiki/Scientific_Wild-Ass_Guess" class="mw-redirect" title="Scientific Wild-Ass Guess">SWAG</a></b> – Scientific Wild Ass Guess</li>
+</ul>
+<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>TACP</b> – Tactical Air Control Party (USAF)</li>
+<li><b>TAD</b> – Temporary Additional Duty (U.S. Military)</li>
+<li><b>TAO</b> – Tactical Action Officer (U.S. Military)</li>
+<li><b>TBD</b> – To Be Determined</li>
+<li><b>TC3</b> – <a href="/wiki/Tactical_Combat_Casualty_Care" class="mw-redirect" title="Tactical Combat Casualty Care">Tactical Combat Casualty Care</a></li>
+<li><b>TCCC</b> – <a href="/wiki/Tactical_Combat_Casualty_Care" class="mw-redirect" title="Tactical Combat Casualty Care">Tactical Combat Casualty Care</a></li>
+<li><b>TDPFO</b> – Temporary Duty Pending Further Orders (U.S. Military)</li>
+<li><b>TDY</b> – Temporary Duty (U.S. Military)</li>
+<li><b>TF</b> – Task Force</li>
+<li><b>TFOA</b> – Things Falling Off Aircraft</li>
+<li><b>TG6</b> – Task Group 6 (group designation for NZ SAS – NZ Army)</li>
+<li><b>TOC</b> – Tactical Operations Center</li>
+<li><b>TIC</b> – Troops In Contact</li>
+<li><b>TSgt</b> – Technical Sergeant (USAF E-6)</li>
+<li><b>TU</b> – Tits Up (Dead, Inoperable), a.k.a. "tango uniform"</li>
+<li><b>TARFU</b> – Things Are Really Fucked Up, or Totally And Royally Fucked Up</li>
+<li>'<i>TRADOC</i>- Training Doctorate Command</li>
+</ul>
+<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=21" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>UA</b> – Unauthorized Absence</li>
+<li><b>UAS</b> – Unmanned Aerial System</li>
+<li><b><a href="/wiki/Unmanned_aerial_vehicle" title="Unmanned aerial vehicle">UAV</a></b> – Unmanned Aerial Vehicle</li>
+<li><b><a href="/wiki/Unmanned_combat_air_vehicle" class="mw-redirect" title="Unmanned combat air vehicle">UCAV</a></b> – Unmanned Combat Air Vehicle</li>
+<li><b>ULLS</b> – Unit Level Logisitics System (U.S. Army)</li>
+<li><b>UMA</b> – Unit Mobilization Assistor</li>
+<li><b><a href="/wiki/United_Nations" title="United Nations">UN</a></b> – United Nations</li>
+<li><b>US</b> – Unserviceable</li>
+<li><b><a href="/wiki/United_States_Ship" title="United States Ship">USS</a></b> – United States Ship</li>
+<li><b><a href="/wiki/United_States_Secret_Service" title="United States Secret Service">USSS</a></b> – United States Secret Service</li>
+<li><b><a href="/wiki/United_States_Air_Force" title="United States Air Force">USAF</a></b> – United States Air Force</li>
+<li><b><a href="/wiki/United_States_Air_Force_Academy" title="United States Air Force Academy">USAFA</a></b> – the United States Air Force Academy at Colorado Springs, Colorado</li>
+<li><b><a href="/wiki/United_States_Air_Forces_in_Europe" class="mw-redirect" title="United States Air Forces in Europe">USAFE</a></b> – United States Air Forces in Europe</li>
+<li><b><a href="/wiki/USAMRICD" class="mw-redirect" title="USAMRICD">USAMRICD</a></b> – United States Army Medical Research Institute of Chemical Defense</li>
+<li><b><a href="/wiki/USAMRIID" class="mw-redirect" title="USAMRIID">USAMRIID</a></b> – United States Army Medical Research Institute of Infectious Disease</li>
+<li><b><a href="/wiki/USAMRMC" class="mw-redirect" title="USAMRMC">USAMRMC</a></b> – United States Army Medical Research and Materiél Command</li>
+<li><b><a href="/w/index.php?title=USAMRAA&amp;action=edit&amp;redlink=1" class="new" title="USAMRAA (page does not exist)">USAMRAA</a></b> – United States Army Medical Research Acquisition Activity</li>
+<li><b><a href="/wiki/USA_PATRIOT_Act" class="mw-redirect" title="USA PATRIOT Act">USA PATRIOT Act</a></b> – Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act</li>
+<li><b>USAREC</b> – US Army REcruiting Command</li>
+<li><b><a href="/wiki/Seventh_United_States_Army" title="Seventh United States Army">USAREUR</a></b> – US Army European Command</li>
+<li><b><a href="/wiki/United_States_Coast_Guard" title="United States Coast Guard">USCG</a></b> - United States Coast Guard</li>
+<li><b><a href="/wiki/United_States_Coast_Guard_Cutter" title="United States Coast Guard Cutter">USCGC</a></b> - United States Coast Guard Cutter</li>
+<li><b><a href="/wiki/United_States_Military_Academy" title="United States Military Academy">USMA</a></b> – the United States Military Academy (US Army) at West Point, New York</li>
+<li><b><a href="/wiki/United_States_Marine_Corps" title="United States Marine Corps">USMC</a></b> – United States Marine Corps</li>
+<li><b><a href="/wiki/United_States_Navy" title="United States Navy">USN</a></b> – United States Navy</li>
+<li><b><a href="/wiki/United_States_Naval_Academy" title="United States Naval Academy">USNA</a></b> – the United States Naval Academy (US Navy) at Annapolis, Maryland</li>
+<li><b><a href="/wiki/United_Service_Organizations" title="United Service Organizations">USO</a></b> – United Service Organizations (U.S. Military)</li>
+<li><b>USR</b> – Unit Status Report</li>
+<li><b><a href="/wiki/Autonomous_underwater_vehicle" title="Autonomous underwater vehicle">UUV</a></b> – Unmanned Underwater Vehicle</li>
+<li><b>UXB</b> – Unexploded Bomb (bomb disposal; British)</li>
+<li><b>UXO</b> – Unexploded Ordnance</li>
+</ul>
+<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=22" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b><a href="/wiki/Car_bomb" title="Car bomb">VBIED</a></b> – Vehicle-Borne Improvised Explosive Device</li>
+<li><b>VDM</b> – Visual Distinguishing Mark</li>
+<li><b>VFD</b> – Volunteer Fire Department</li>
+<li><b>VFR</b> – Volunteer Fire and Rescue (or in Aviation <a href="/wiki/Visual_Flight_Rules" class="mw-redirect" title="Visual Flight Rules">Visual Flight Rules</a>)</li>
+<li><b>VPOTUS</b> – Vice President of the United States</li>
+</ul>
+<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=23" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b><a href="/wiki/Wounded_in_action" title="Wounded in action">WIA</a></b> – Wounded In Action</li>
+<li><b><a href="/wiki/Warrant_Officer_(United_States)" class="mw-redirect" title="Warrant Officer (United States)">WO1</a></b> – Warrant Officer 1</li>
+<li><b>WSA</b> – Weapons Storage Area</li>
+<li><b>WMD</b> – Weapons of Mass Destruction</li>
+<li><b>WILCO</b> – Will Comply</li>
+<li><b>WCS</b> - Worst Case Scenario</li>
+</ul>
+<h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=24" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b><a href="/wiki/Executive_officer" title="Executive officer">XO</a></b> – Executive Officer</li>
+</ul>
+<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=25" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b><a href="/wiki/Wild_Weasel" title="Wild Weasel">YGBSM</a></b> – You Gotta Be Shitting Me</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=26" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Military_slang" title="Military slang">Military slang</a></li>
+<li><a href="/wiki/List_of_acronyms" title="List of acronyms">List of acronyms</a></li>
+<li><a href="/wiki/List_of_government_and_military_acronyms" title="List of government and military acronyms">List of government and military acronyms</a></li>
+<li><a href="/wiki/List_of_U.S._Air_Force_acronyms_and_expressions" title="List of U.S. Air Force acronyms and expressions">List of U.S. Air Force acronyms and expressions</a></li>
+<li><a href="/wiki/List_of_U.S._Marine_Corps_acronyms_and_expressions" class="mw-redirect" title="List of U.S. Marine Corps acronyms and expressions">List of U.S. Marine Corps acronyms and expressions</a></li>
+<li><a href="/wiki/List_of_U.S._Navy_acronyms" title="List of U.S. Navy acronyms">List of U.S. Navy acronyms</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=27" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">US Army Termonology/82nd Airborne Division Termonology (late 1970s era)</span></li>
+<li id="cite_note-Auto-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Auto_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Auto_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Auto_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Auto_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">US CENTCOM Command Structure</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://Www.Acronymfinder.Com/Ate-The-Fudge-Up-(polite-form%3B-Military-Slang-For-Someone-Constantly-Making-Mistakes)-(ATFU).Html">http://Www.Acronymfinder.Com/Ate-The-Fudge-Up-(polite-form%3B-Military-Slang-For-Someone-Constantly-Making-Mistakes)-(ATFU).Html</a></span></li>
+<li id="cite_note-Military_Brats-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Military_Brats_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Wertsch, Mary E. (January 2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=QxaITfanaUcC&amp;pg=PA310#v=onepage&amp;q=&amp;f=false"><i>Military Brats: Legacies of Childhood Inside the Fortress</i></a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-9776033-0-X" title="Special:BookSources/0-9776033-0-X">0-9776033-0-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Military+Brats%3A+Legacies+of+Childhood+Inside+the+Fortress&amp;rft.date=2006-01&amp;rft.isbn=0-9776033-0-X&amp;rft.aulast=Wertsch&amp;rft.aufirst=Mary+E.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DQxaITfanaUcC%26pg%3DPA310%23v%3Donepage%26q%3D%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+U.S.+government+and+military+acronyms" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Clifton, Grace, "Making the Case for the BRAT (British Regiment Attached Traveler)", <a href="/wiki/British_Educational_Research_Association" title="British Educational Research Association">British Educational Research Journal</a>, Vol. 30, No. 3 2004</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Adams, Leah; Kirova, Anna (2006). <i>Global Migration and education</i>. Mahwah, NJ: Lawrence Erlbaum Associates, Inc. pp.&nbsp;263–64. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-8058-5838-5" title="Special:BookSources/0-8058-5838-5">0-8058-5838-5</a>{{inconsistent citations}}</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Global+Migration+and+education&amp;rft.place=Mahwah%2C+NJ&amp;rft.pages=263-64&amp;rft.pub=Lawrence+Erlbaum+Associates%2C+Inc.&amp;rft.date=2006&amp;rft.isbn=0-8058-5838-5&amp;rft.aulast=Adams&amp;rft.aufirst=Leah&amp;rft.au=Kirova%2C+Anna&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+U.S.+government+and+military+acronyms" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://acronyms.thefreedictionary.com/CASEX">"CASEX"</a>. <i>TheFreeDictionary.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TheFreeDictionary.com&amp;rft.atitle=CASEX&amp;rft_id=http%3A%2F%2Facronyms.thefreedictionary.com%2FCASEX&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+U.S.+government+and+military+acronyms" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://militarywords.com/result.aspx?term=JAFO">http://militarywords.com/result.aspx?term=JAFO</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_U.S._government_and_military_acronyms&amp;action=edit&amp;section=28" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://milgov.acronymfinder.com/">AcronymFinder – Military and Government</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.abbreviations.com/acronyms/MILITARY">Abbreviation.com – Military Abbreviations</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.all-acronyms.com/?g=2">All Acronyms – Military Acronyms</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.acronymslist.com/cat/us-military-acronyms.html">Acronyms List – US Military Acronyms</a></li>
+</ul>
+<div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="text-align:left;">
+<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents:&nbsp;</span></div>
+<div style="margin:auto;white-space:nowrap;display:inline-block;">
+<ul>
+<li><a href="#top">Top</a></li>
+<li><a href="#0–9">0–9</a></li>
+<li><a href="#A">A</a></li>
+<li><a href="#B">B</a></li>
+<li><a href="#C">C</a></li>
+<li><a href="#D">D</a></li>
+<li><a href="#E">E</a></li>
+<li><a href="#F">F</a></li>
+<li><a href="#G">G</a></li>
+<li><a href="#H">H</a></li>
+<li><a href="#I">I</a></li>
+<li><a href="#J">J</a></li>
+<li><a href="#K">K</a></li>
+<li><a href="#L">L</a></li>
+<li><a href="#M">M</a></li>
+<li><a href="#N">N</a></li>
+<li><a href="#O">O</a></li>
+<li><a href="#P">P</a></li>
+<li><a href="#Q">Q</a></li>
+<li><a href="#R">R</a></li>
+<li><a href="#S">S</a></li>
+<li><a href="#T">T</a></li>
+<li><a href="#U">U</a></li>
+<li><a href="#V">V</a></li>
+<li><a href="#W">W</a></li>
+<li><a href="#X">X</a></li>
+<li><a href="#Y">Y</a></li>
+<li><a href="#Z">Z</a></li>
+<li><a href="#See_also">See also</a></li>
+</ul>
+</div>
+</div>
+
+
+<!--
+NewPP limit report
+Parsed by mw1276
+Cached time: 20180517201304
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.196 seconds
+Real time usage: 0.243 seconds
+Preprocessor visited node count: 1304/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 13834/2097152 bytes
+Template argument size: 315/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5529/5000000 bytes
+Lua time usage: 0.050/10.000 seconds
+Lua memory usage: 2.33 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  156.528      1 -total
+ 35.43%   55.459      1 Template:Refimprove
+ 35.36%   55.341      1 Template:Reflist
+ 21.82%   34.147      2 Template:Cite_book
+ 21.04%   32.936      1 Template:Ambox
+  9.06%   14.183      2 Template:Compact_ToC
+  5.27%    8.246      1 Template:Dynamic_list
+  4.48%    7.018      1 Template:Anchor
+  3.09%    4.836      1 Template:Hatnote
+  2.88%    4.510      1 Template:Cite_web
+-->
+</div>

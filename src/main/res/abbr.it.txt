@@ -1,0 +1,1625 @@
+<div class="mw-parser-output"><p>This is a <b>list of computing and IT acronyms and abbreviations</b>.</p>
+<div role="navigation" aria-labelledby="toc-title-text" class="toc plainlinks hlist" id="toc" style="clear: left;">
+<div class="toctitle">
+<h2 id="toc-title-text"><span class="mw-headline" id="Contents">Contents</span></h2>
+</div>
+<ul>
+<li><a href="#0–9">0–9</a></li>
+<li><a href="#A">A</a> <a href="#B">B</a> <a href="#C">C</a> <a href="#D">D</a> <a href="#E">E</a> <a href="#F">F</a> <a href="#G">G</a> <a href="#H">H</a> <a href="#I">I</a> <a href="#J">J</a> <a href="#K">K</a> <a href="#L">L</a> <a href="#M">M</a> <a href="#N">N</a> <a href="#O">O</a> <a href="#P">P</a> <a href="#Q">Q</a> <a href="#R">R</a> <a href="#S">S</a> <a href="#T">T</a> <a href="#U">U</a> <a href="#V">V</a> <a href="#W">W</a> <a href="#X">X</a> <a href="#Y">Y</a> <a href="#Z">Z</a></li>
+<li><a href="#See_also">See also</a></li>
+<li><a href="#References">References</a></li>
+<li><a href="#External_links">External links</a></li>
+</ul>
+</div>
+<h2><span id="0.E2.80.939"></span><span class="mw-headline" id="0–9">0–9</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=1" title="Edit section: 0–9">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Shebang_(Unix)" title="Shebang (Unix)">#!</a>—Shebang</li>
+<li><a href="/wiki/Slashdot" title="Slashdot">/.</a>—Slashdot</li>
+<li><a href="/wiki/First-generation_programming_language" title="First-generation programming language">1GL</a>—First-Generation Programming Language</li>
+<li><a href="/wiki/First_normal_form" title="First normal form">1NF</a>—First Normal Form</li>
+<li><a href="/wiki/10BASE2" title="10BASE2">10B2</a>—10BASE-2</li>
+<li><a href="/wiki/10BASE5" title="10BASE5">10B5</a>—10BASE-5</li>
+<li><a href="/wiki/10BASE-F" title="10BASE-F">10B-F</a>—10BASE-F</li>
+<li><a href="/wiki/10BASE-FB" class="mw-redirect" title="10BASE-FB">10B-FB</a>—10BASE-FB</li>
+<li><a href="/wiki/10BASE-FL" class="mw-redirect" title="10BASE-FL">10B-FL</a>—10BASE-FL</li>
+<li><a href="/wiki/10BASE%E2%80%91FP" class="mw-redirect" title="10BASE‑FP">10B-FP</a>—10BASE-FP</li>
+<li><a href="/wiki/10BASE-T" class="mw-redirect" title="10BASE-T">10B-T</a>—10BASE-T</li>
+<li><a href="/wiki/100BASE-FX" class="mw-redirect" title="100BASE-FX">100B-FX</a>—100BASE-FX</li>
+<li><a href="/wiki/100BASE-T" class="mw-redirect" title="100BASE-T">100B-T</a>—100BASE-T</li>
+<li><a href="/wiki/100BASE-TX" class="mw-redirect" title="100BASE-TX">100B-TX</a>—100BASE-TX</li>
+<li><a href="/wiki/100BaseVG" title="100BaseVG">100BVG</a>—100BASE-VG</li>
+<li><a href="/wiki/Intel_80286" title="Intel 80286">286</a>—Intel 80286 processor</li>
+<li><a href="/wiki/2B1Q" title="2B1Q">2B1Q</a>—2 Binary 1 Quaternary</li>
+<li><a href="/wiki/Multi-factor_authentication" title="Multi-factor authentication">2FA</a>—Two-factor authentication</li>
+<li><a href="/wiki/Second-generation_programming_language" title="Second-generation programming language">2GL</a>—Second-Generation Programming Language</li>
+<li><a href="/wiki/2NF" class="mw-redirect" title="2NF">2NF</a>—Second Normal Form</li>
+<li><a href="/wiki/Third-generation_programming_language" title="Third-generation programming language">3GL</a>—Third-Generation Programming Language</li>
+<li><a href="/wiki/3GPP" title="3GPP">3GPP</a>—<a href="/wiki/3rd_Generation_Partnership_Project" class="mw-redirect" title="3rd Generation Partnership Project">3rd Generation Partnership Project</a>—'3G comms</li>
+<li><a href="/wiki/3GPP2" class="mw-redirect" title="3GPP2">3GPP2</a>—<a href="/wiki/3rd_Generation_Partnership_Project_2" title="3rd Generation Partnership Project 2">3rd Generation Partnership Project 2</a></li>
+<li><a href="/wiki/3NF" class="mw-redirect" title="3NF">3NF</a>—Third Normal Form</li>
+<li><a href="/wiki/Intel_80386" title="Intel 80386">386</a>—Intel 80386 processor</li>
+<li><a href="/wiki/Intel_i486" class="mw-redirect" title="Intel i486">486</a>—Intel 80486 processor</li>
+<li><a href="/wiki/4B5B" title="4B5B">4B5B</a>LF—4 Byte 5 Byte Local Fiber</li>
+<li><a href="/wiki/Fourth-generation_programming_language" title="Fourth-generation programming language">4GL</a>—Fourth-Generation Programming Language</li>
+<li><a href="/wiki/4NF" class="mw-redirect" title="4NF">4NF</a>—Fourth Normal Form</li>
+<li><a href="/wiki/Fifth-generation_programming_language" title="Fifth-generation programming language">5GL</a>—Fifth-Generation Programming Language</li>
+<li><a href="/wiki/5NF" class="mw-redirect" title="5NF">5NF</a>—Fifth Normal Form</li>
+<li><a href="/wiki/6NF" class="mw-redirect" title="6NF">6NF</a>—Sixth Normal Form</li>
+<li><a href="/wiki/8b/10b_encoding" title="8b/10b encoding">8B10BLF</a>—8 Byte 10 Byte Local Fiber</li>
+<li><a href="/wiki/802.11" class="mw-redirect" title="802.11">802.11</a>—Wireless LAN</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=2" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/AAA_protocol" class="mw-redirect" title="AAA protocol">AAA</a>—Authentication Authorization, Accounting</li>
+<li><a href="/wiki/Minimum_bounding_box" title="Minimum bounding box">AABB</a>—Axis Aligned Bounding Box</li>
+<li><a href="/wiki/Advanced_Audio_Coding" title="Advanced Audio Coding">AAC</a>—Advanced Audio Coding</li>
+<li><a href="/wiki/ATM_adaptation_layer" title="ATM adaptation layer">AAL</a>—ATM Adaptation Layer</li>
+<li><a href="/wiki/ATM_adaptation_layer" title="ATM adaptation layer">AALC</a>—ATM Adaptation Layer Connection</li>
+<li><a href="/wiki/AppleTalk" title="AppleTalk">AARP</a>—AppleTalk Address Resolution Protocol</li>
+<li><a href="/wiki/Attribute-Based_Access_Control" class="mw-redirect" title="Attribute-Based Access Control">ABAC</a>—Attribute-Based Access Control</li>
+<li><a href="/wiki/Actor-Based_Concurrent_Language" title="Actor-Based Concurrent Language">ABCL</a>—Actor-Based Concurrent Language</li>
+<li><a href="/wiki/Application_binary_interface" title="Application binary interface">ABI</a>—Application Binary Interface</li>
+<li><a href="/wiki/Asynchronous_Balanced_Mode" class="mw-redirect" title="Asynchronous Balanced Mode">ABM</a>—Asynchronous Balanced Mode</li>
+<li><a href="/wiki/Area_Border_Router" class="mw-redirect" title="Area Border Router">ABR</a>—Area Border Router</li>
+<li><a href="/wiki/Automatic_baud_rate_detection" title="Automatic baud rate detection">ABR</a>—Auto Baud-Rate detection</li>
+<li><a href="/wiki/Available_Bit_Rate" class="mw-redirect" title="Available Bit Rate">ABR</a>—Available Bitrate</li>
+<li><a href="/wiki/Average_bitrate" title="Average bitrate">ABR</a>—Average Bitrate</li>
+<li><a href="/wiki/Acoustic_coupler" title="Acoustic coupler">AC</a>—Acoustic Coupler</li>
+<li><a href="/wiki/Alternating_current" title="Alternating current">AC</a>—Alternating Current</li>
+<li><a href="/wiki/Automatic_call_distributor" title="Automatic call distributor">ACD</a>—Automatic Call Distributor</li>
+<li><a href="/wiki/Advanced_Computing_Environment" title="Advanced Computing Environment">ACE</a>—Advanced Computing Environment</li>
+<li><a href="/wiki/ACID" title="ACID">ACID</a>—Atomicity Consistency Isolation Durability</li>
+<li><a href="/wiki/Acknowledge_character" class="mw-redirect" title="Acknowledge character">ACK</a>—ACKnowledgement</li>
+<li><a href="/wiki/Amsterdam_Compiler_Kit" title="Amsterdam Compiler Kit">ACK</a>—Amsterdam Compiler Kit</li>
+<li><a href="/wiki/Access_control_list" title="Access control list">ACL</a>—Access Control List</li>
+<li><a href="/wiki/Active_current_loop" class="mw-redirect" title="Active current loop">ACL</a>—Active Current Loop</li>
+<li><a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a>—Association for Computing Machinery</li>
+<li><a href="/wiki/Automated_Classification_of_Medical_Entities" class="mw-redirect" title="Automated Classification of Medical Entities">ACME</a>—Automated Classification of Medical Entities</li>
+<li><a href="/wiki/IBM_Airline_Control_Program" title="IBM Airline Control Program">ACP</a>—Airline Control Program</li>
+<li><a href="/wiki/Advanced_Configuration_and_Power_Interface" title="Advanced Configuration and Power Interface">ACPI</a>—Advanced Configuration and Power Interface</li>
+<li><a href="/wiki/Allowed_cell_rate" title="Allowed cell rate">ACR</a>—Allowed Cell Rate</li>
+<li><a href="/wiki/Attenuation_to_crosstalk_ratio" class="mw-redirect" title="Attenuation to crosstalk ratio">ACR</a>—Attenuation to Crosstalk Ratio</li>
+<li><a href="/wiki/Active_Directory" title="Active Directory">AD</a>—Active Directory</li>
+<li><a href="/wiki/Administrative_domain" title="Administrative domain">AD</a>—Administrative Domain</li>
+<li><a href="/wiki/Analog-to-digital_converter" title="Analog-to-digital converter">ADC</a>—Analog-to-Digital Converter</li>
+<li><a href="/wiki/Apple_Display_Connector" title="Apple Display Connector">ADC</a>—Apple Display Connector</li>
+<li><a href="/wiki/Apple_Desktop_Bus" title="Apple Desktop Bus">ADB</a>—Apple Desktop Bus</li>
+<li><a href="/wiki/Advanced_Data_Communication_Control_Procedures" title="Advanced Data Communication Control Procedures">ADCCP</a>—Advanced Data Communications Control Procedures</li>
+<li><a href="/wiki/ActiveX_Data_Objects" title="ActiveX Data Objects">ADO</a>—ActiveX Data Objects</li>
+<li><a href="/wiki/Asymmetric_digital_subscriber_line" title="Asymmetric digital subscriber line">ADSL</a>—Asymmetric Digital Subscriber Line</li>
+<li><a href="/wiki/Abstract_data_type" title="Abstract data type">ADT</a>—Abstract Data Type</li>
+<li><a href="/wiki/Adaptive_equalizer" title="Adaptive equalizer">AE</a>—Adaptive Equalizer</li>
+<li><a href="/wiki/Advanced_Encryption_Standard" title="Advanced Encryption Standard">AES</a>—Advanced Encryption Standard</li>
+<li><a href="/wiki/Anisotropic_filtering" title="Anisotropic filtering">AF</a>—Anisotropic Filtering</li>
+<li><a href="/wiki/Apple_Filing_Protocol" title="Apple Filing Protocol">AFP</a>—Apple Filing Protocol</li>
+<li><a href="/wiki/Accelerated_Graphics_Port" title="Accelerated Graphics Port">AGP</a>—Accelerated Graphics Port</li>
+<li><a href="/wiki/Active_hub" class="mw-redirect" title="Active hub">AH</a>—Active Hub</li>
+<li><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">AI</a>—Artificial Intelligence</li>
+<li><a href="/wiki/IBM_AIX" title="IBM AIX">AIX</a>—Advanced Interactive eXecutive</li>
+<li><a href="/wiki/Ajax_(programming)" title="Ajax (programming)">Ajax</a>—Asynchronous JavaScript and XML</li>
+<li><a href="/wiki/Hyperlink" title="Hyperlink">AL</a>—Active Link</li>
+<li><a href="/wiki/Access_list" class="mw-redirect" title="Access list">AL</a>—Access List</li>
+<li><a href="/wiki/Apple_Lossless_Audio_Codec" class="mw-redirect" title="Apple Lossless Audio Codec">ALAC</a>—Apple Lossless Audio Codec</li>
+<li><a href="/wiki/ALGOL" title="ALGOL">ALGOL</a>—Algorithmic Language</li>
+<li><a href="/wiki/Advanced_Linux_Sound_Architecture" title="Advanced Linux Sound Architecture">ALSA</a>—Advanced Linux Sound Architecture</li>
+<li><a href="/wiki/Arithmetic_logic_unit" title="Arithmetic logic unit">ALU</a>—Arithmetic and Logical Unit</li>
+<li><a href="/wiki/Access_method" title="Access method">AM</a>—Access Method</li>
+<li><a href="/wiki/Active-matrix_liquid_crystal_display" class="mw-redirect" title="Active-matrix liquid crystal display">AM</a>—Active Matrix</li>
+<li><a href="/wiki/AMOLED" title="AMOLED">AMOLED</a>—Active-Matrix Organic Light-Emitting Diode</li>
+<li><a href="/wiki/Active_monitor" class="mw-redirect" title="Active monitor">AM</a>—Active Monitor</li>
+<li><a href="/wiki/I_Have_No_Mouth,_and_I_Must_Scream" title="I Have No Mouth, and I Must Scream">AM</a>—Allied Mastercomputer</li>
+<li><a href="/wiki/Amplitude_modulation" title="Amplitude modulation">AM</a>—Amplitude Modulation</li>
+<li><a href="/wiki/Advanced_Micro_Devices" title="Advanced Micro Devices">AMD</a>—Advanced Micro Devices</li>
+<li><a href="/wiki/Advanced_Message_Queuing_Protocol" title="Advanced Message Queuing Protocol">AMQP</a>—Advanced Message Queuing Protocol</li>
+<li><a href="/wiki/Audio/modem_riser" title="Audio/modem riser">AMR</a>—Audio Modem Riser</li>
+<li><a href="/wiki/Artificial_neural_network" title="Artificial neural network">ANN</a>—Artificial Neural Network</li>
+<li><a href="/wiki/American_National_Standards_Institute" title="American National Standards Institute">ANSI</a>—American National Standards Institute</li>
+<li><a href="/wiki/Apache_Ant" title="Apache Ant">ANT</a>—Another Neat Tool</li>
+<li><a href="/wiki/ATA_over_Ethernet" title="ATA over Ethernet">AoE</a>—ATA over Ethernet</li>
+<li><a href="/wiki/Aspect-oriented_programming" title="Aspect-oriented programming">AOP</a>—Aspect-Oriented Programming</li>
+<li><a href="/wiki/Application_Layer" class="mw-redirect" title="Application Layer">APCI</a>—Application-Layer Protocol Control Information</li>
+<li><a href="/wiki/Application_programming_interface" title="Application programming interface">API</a>—Application Programming Interface</li>
+<li><a href="/wiki/Advanced_Programmable_Interrupt_Controller" title="Advanced Programmable Interrupt Controller">APIC</a>—Advanced Programmable Interrupt Controller</li>
+<li><a href="/wiki/Zero_configuration_networking" class="mw-redirect" title="Zero configuration networking">APIPA</a>—Automatic Private IP Addressing</li>
+<li><a href="/wiki/APL_(programming_language)" title="APL (programming language)">APL</a>—A Programming Language</li>
+<li><a href="/wiki/Apache_Portable_Runtime" title="Apache Portable Runtime">APR</a>—Apache Portable Runtime</li>
+<li><a href="/wiki/Adaptive_replacement_cache" title="Adaptive replacement cache">ARC</a>—Adaptive Replacement Cache</li>
+<li><a href="/wiki/Advanced_RISC_Computing" title="Advanced RISC Computing">ARC</a>—Advanced RISC Computing</li>
+<li><a href="/wiki/American_Registry_for_Internet_Numbers" title="American Registry for Internet Numbers">ARIN</a>—American Registry for Internet Numbers</li>
+<li><a href="/wiki/ARM_Holdings" class="mw-redirect" title="ARM Holdings">ARM</a>—Advanced RISC Machines</li>
+<li><a href="/wiki/AROS_Research_Operating_System" title="AROS Research Operating System">AROS</a>—AROS Research Operating System</li>
+<li><a href="/wiki/Address_Resolution_Protocol" title="Address Resolution Protocol">ARP</a>—Address Resolution Protocol</li>
+<li><a href="/wiki/.arpa" title=".arpa">ARPA</a>—Address and Routing Parameter Area</li>
+<li><a href="/wiki/Advanced_Research_Projects_Agency" class="mw-redirect" title="Advanced Research Projects Agency">ARPA</a>—Advanced Research Projects Agency</li>
+<li><a href="/wiki/ARPANET" title="ARPANET">ARPANET</a>—Advanced Research Projects Agency Network</li>
+<li><a href="/wiki/Network_access_server" title="Network access server">AS</a>—Access Server</li>
+<li><a href="/wiki/ASCII" title="ASCII">ASCII</a>—American Standard Code for Information Interchange</li>
+<li><a href="/wiki/AuthIP" title="AuthIP">AuthIP</a>—Authenticated Internet Protocol</li>
+<li><a href="/w/index.php?title=Automated_Security_Enhancement_Tool&amp;action=edit&amp;redlink=1" class="new" title="Automated Security Enhancement Tool (page does not exist)">ASET</a>—Automated Security Enhancement Tool</li>
+<li><a href="/wiki/Abstract_semantic_graph" title="Abstract semantic graph">ASG</a>—Abstract Semantic Graph</li>
+<li><a href="/wiki/Application-specific_integrated_circuit" title="Application-specific integrated circuit">ASIC</a>—Application-Specific Integrated Circuit</li>
+<li><a href="/wiki/ASIMO" title="ASIMO">ASIMO</a>—Advanced Step in Innovative Mobility</li>
+<li><a href="/wiki/Address_space_layout_randomization" title="Address space layout randomization">ASLR</a>—Address Space Layout Randomization</li>
+<li><a href="/wiki/Algorithmic_state_machine" title="Algorithmic state machine">ASM</a>—Algorithmic State Machine</li>
+<li><a href="/wiki/Asymmetric_multiprocessing" title="Asymmetric multiprocessing">ASMP</a>—Asymmetric Multiprocessing</li>
+<li><a href="/wiki/Abstract_Syntax_Notation_One" title="Abstract Syntax Notation One">ASN.1</a>—Abstract Syntax Notation 1</li>
+<li><a href="/wiki/Active_Server_Pages" title="Active Server Pages">ASP</a>—Active Server Pages</li>
+<li><a href="/wiki/Application_service_provider" title="Application service provider">ASP</a>—Application Service Provider</li>
+<li><a href="/wiki/Signal_(computing)" class="mw-redirect" title="Signal (computing)">ASR</a>—Asynchronous Signal Routine</li>
+<li><a href="/wiki/Abstract_syntax_tree" title="Abstract syntax tree">AST</a>—Abstract Syntax Tree</li>
+<li><a href="/wiki/IBM_Personal_Computer/AT" title="IBM Personal Computer/AT">AT</a>—Advanced Technology</li>
+<li><a href="/wiki/Access_time" title="Access time">AT</a>—Access Time</li>
+<li><a href="/wiki/Active_terminator" class="mw-redirect" title="Active terminator">AT</a>—Active Terminator</li>
+<li><a href="/wiki/Advanced_Technology_Attachment" class="mw-redirect" title="Advanced Technology Attachment">ATA</a>—Advanced Technology Attachment</li>
+<li><a href="/wiki/Authoring_Tool_Accessibility_Guidelines" class="mw-redirect" title="Authoring Tool Accessibility Guidelines">ATAG</a>—Authoring Tool Accessibility Guidelines</li>
+<li><a href="/wiki/AT_Attachment" class="mw-redirect" title="AT Attachment">ATAPI</a>—Advanced Technology Attachment Packet Interface</li>
+<li><a href="/wiki/Asynchronous_transfer_mode" class="mw-redirect" title="Asynchronous transfer mode">ATM</a>—Asynchronous Transfer Mode</li>
+<li><a href="/wiki/Antivirus_software" title="Antivirus software">AV</a>—Antivirus</li>
+<li><a href="/wiki/H.264/MPEG-4_AVC" title="H.264/MPEG-4 AVC">AVC</a>—Advanced Video Coding</li>
+<li><a href="/wiki/Audio_Video_Interleave" title="Audio Video Interleave">AVI</a>—Audio Video Interleaved</li>
+<li><a href="/wiki/AWK" title="AWK">AWK</a>—Aho Weinberger Kernighan</li>
+<li><a href="/wiki/Abstract_Window_Toolkit" title="Abstract Window Toolkit">AWT</a>—Abstract Window Toolkit</li>
+<li><a href="/w/index.php?title=Acronym_With_Four_Letters&amp;action=edit&amp;redlink=1" class="new" title="Acronym With Four Letters (page does not exist)">AWFL</a>—Acronym With Four Letters</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=3" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Business-to-business" title="Business-to-business">B2B</a>—Business-to-Business</li>
+<li><a href="/wiki/Business-to-consumer" class="mw-redirect" title="Business-to-consumer">B2C</a>—Business-to-Consumer</li>
+<li><a href="/wiki/Business-to-employee" title="Business-to-employee">B2E</a>—Business-to-Employee</li>
+<li><a href="/wiki/IBM_Basic_assembly_language" class="mw-redirect" title="IBM Basic assembly language">BAL</a>—Basic Assembly Language</li>
+<li><a href="/wiki/Block_availability_map" title="Block availability map">BAM</a>—Block Availability Map</li>
+<li><a href="/wiki/Bash_(Unix_shell)" title="Bash (Unix shell)">Bash</a>—Bourne-again shell</li>
+<li><a href="/wiki/BASIC" title="BASIC">BASIC</a>—Beginner's All-Purpose Symbolic Instruction Code</li>
+<li><a href="/wiki/Baseband_processor" title="Baseband processor">BBP</a>—Baseband Processor</li>
+<li><a href="/wiki/Bulletin_board_system" title="Bulletin board system">BBS</a>—Bulletin Board System</li>
+<li><a href="/wiki/Binary-coded_decimal" title="Binary-coded decimal">BCD</a>—Binary Coded Decimal</li>
+<li><a href="/wiki/Boot_Configuration_Data" class="mw-redirect" title="Boot Configuration Data">BCD</a>—Boot Configuration Data</li>
+<li><a href="/wiki/Boyce%E2%80%93Codd_normal_form" title="Boyce–Codd normal form">BCNF</a>—Boyce–Codd normal form</li>
+<li><a href="/wiki/BEEP" title="BEEP">BEEP</a>—Blocks Extensible Exchange Protocol</li>
+<li><a href="/wiki/Bit_error_ratio" class="mw-redirect" title="Bit error ratio">BER</a>—Bit Error Rate</li>
+<li><a href="/wiki/Bidirectional_Forwarding_Detection" title="Bidirectional Forwarding Detection">BFD</a>—Bidirectional Forwarding Detection</li>
+<li><a href="/wiki/Binary_File_Descriptor_library" title="Binary File Descriptor library">BFD</a>—Binary File Descriptor</li>
+<li><a href="/wiki/Breadth-first_search" title="Breadth-first search">BFS</a>—Breadth-First Search</li>
+<li><a href="/wiki/Byzantine_fault_tolerance" title="Byzantine fault tolerance">BFT</a>—Byzantine Fault Tolerant</li>
+<li><a href="/wiki/Border_Gateway_Protocol" title="Border Gateway Protocol">BGP</a>—Border Gateway Protocol</li>
+<li><a href="/wiki/Business_intelligence" title="Business intelligence">BI</a>—Business Intelligence</li>
+<li><a href="/wiki/Bi-directional_text" title="Bi-directional text">BiDi</a>—Bi-Directional</li>
+<li><a href="/wiki/Binary_file" title="Binary file">bin</a>—binary</li>
+<li><a href="/wiki/BINAC" title="BINAC">BINAC</a>—Binary Automatic Computer</li>
+<li><a href="/wiki/BIND" title="BIND">BIND</a>—Berkeley Internet Name Domain</li>
+<li><a href="/wiki/BIOS" title="BIOS">BIOS</a>—Basic Input Output System</li>
+<li><a href="/wiki/Bipolar_junction_transistor" title="Bipolar junction transistor">BJT</a>—Bipolar Junction Transistor</li>
+<li><a href="/wiki/Bit" title="Bit">bit</a>—binary digit</li>
+<li><a href="/wiki/Binary_large_object" title="Binary large object">Blob</a>—Binary large object</li>
+<li><a href="/wiki/Blog" title="Blog">Blog</a>—Web Log</li>
+<li><a href="/wiki/Basic_Multilingual_Plane" class="mw-redirect" title="Basic Multilingual Plane">BMP</a>—Basic Multilingual Plane</li>
+<li><a href="/wiki/BNC_connector" title="BNC connector">BNC</a>—Bayonet Neill-Concelman</li>
+<li><a href="/wiki/Berkeley_Open_Infrastructure_for_Network_Computing" title="Berkeley Open Infrastructure for Network Computing">BOINC</a>—Berkeley Open Infrastructure for Network Computing</li>
+<li><a href="/wiki/Byte_order_mark" title="Byte order mark">BOM</a>—Byte Order Mark</li>
+<li><a href="/wiki/Bootstrap_Protocol" title="Bootstrap Protocol">BOOTP</a>—Bootstrap Protocol</li>
+<li><a href="/wiki/BPDU" class="mw-redirect" title="BPDU">BPDU</a>—Bridge Protocol Data Unit</li>
+<li><a href="/wiki/Business_Process_Execution_Language" title="Business Process Execution Language">BPEL</a>—Business Process Execution Language</li>
+<li><a href="/wiki/Power_line_communication" class="mw-redirect" title="Power line communication">BPL</a>—Broadband over Power Lines</li>
+<li><a href="/wiki/Business_Process_Management" class="mw-redirect" title="Business Process Management">BPM</a>—Business Process Management</li>
+<li><a href="/wiki/Business_process_modeling" title="Business process modeling">BPM</a>—Business Process Modeling</li>
+<li><a href="/wiki/Bit_rate" title="Bit rate">bps</a>—bits per second</li>
+<li><a href="/wiki/Business_reference_model" title="Business reference model">BRM</a>—Business Reference Model</li>
+<li><a href="/wiki/Business_rule_management_system" title="Business rule management system">BRMS</a>—Business Rule Management System</li>
+<li><a href="/wiki/Business_Readiness_Rating" title="Business Readiness Rating">BRR</a>—Business Readiness Rating</li>
+<li><a href="/wiki/Multichannel_Multipoint_Distribution_Service" title="Multichannel Multipoint Distribution Service">BRS</a>—Broadband Radio Service</li>
+<li><a href="/wiki/Business_Software_Alliance" class="mw-redirect" title="Business Software Alliance">BSA</a>—Business Software Alliance</li>
+<li><a href="/wiki/Back-side_bus" title="Back-side bus">BSB</a>—Backside Bus</li>
+<li><a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">BSD</a>—Berkeley Software Distribution</li>
+<li><a href="/wiki/Blue_Screen_of_Death" title="Blue Screen of Death">BSoD</a>—Blue Screen of Death</li>
+<li><a href="/wiki/.bss" title=".bss">BSS</a>—Block Started by Symbol</li>
+<li><a href="/wiki/BitTorrent_(protocol)" class="mw-redirect" title="BitTorrent (protocol)">BT</a>—BitTorrent</li>
+<li><a href="/wiki/Bluetooth" title="Bluetooth">BT</a>—Bluetooth</li>
+<li><a href="/wiki/Basic_telecommunications_access_method" title="Basic telecommunications access method">B TAM</a>—Basic Telecommunications Access Method</li>
+<li><a href="/wiki/Bandwidth_(computing)" title="Bandwidth (computing)">BW</a>—Bandwidth</li>
+<li><a href="/wiki/Bring_your_own_device" title="Bring your own device">BYOD</a>—Bring Your Own Device</li>
+<li><a href="/wiki/Byte" title="Byte">Byte</a>—By eight (group of 8 bits)</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=4" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Computer_architecture" title="Computer architecture">CA</a>—Computer Accountancy</li>
+<li><a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a>—Computer-Aided Design</li>
+<li><a href="/wiki/Computer-aided_engineering" title="Computer-aided engineering">CAE</a>—Computer-Aided Engineering</li>
+<li><a href="/wiki/Computer-aided_industrial_design" title="Computer-aided industrial design">CAID</a>—Computer-Aided Industrial Design</li>
+<li><a href="/wiki/E-learning" class="mw-redirect" title="E-learning">CAI</a>—Computer-Aided Instruction</li>
+<li><a href="/wiki/Computer-aided_manufacturing" title="Computer-aided manufacturing">CAM</a>—Computer-Aided Manufacturing</li>
+<li><a href="/wiki/CAPTCHA" title="CAPTCHA">CAPTCHA</a>—Completely Automated Public Turing Test to tell Computers and Humans Apart</li>
+<li><a href="/wiki/Computer-assisted_translation" title="Computer-assisted translation">CAT</a>—Computer-Aided Translation</li>
+<li><a href="/wiki/Computer-aided_quality" class="mw-redirect" title="Computer-aided quality">CAQ</a>—Computer-Aided Quality Assurance</li>
+<li><a href="/wiki/Computer-aided_software_engineering" title="Computer-aided software engineering">CASE</a>—Computer-Aided Software Engineering</li>
+<li><a href="/wiki/GNU_Compiler_Collection" title="GNU Compiler Collection">cc</a>—C Compiler</li>
+<li><a href="/wiki/Compact_Disc" class="mw-redirect" title="Compact Disc">CD</a>—Compact Disc</li>
+<li><a href="/wiki/Common_Desktop_Environment" title="Common Desktop Environment">CDE</a>—Common Desktop Environment</li>
+<li><a href="/w/index.php?title=Compact_Disk_File_System&amp;action=edit&amp;redlink=1" class="new" title="Compact Disk File System (page does not exist)">CDFS</a>—Compact Disk File System</li>
+<li><a href="/wiki/Code_division_multiple_access" class="mw-redirect" title="Code division multiple access">CDMA</a>—Code Division Multiple Access</li>
+<li><a href="/wiki/Content_delivery_network" title="Content delivery network">CDN</a>—Content Delivery Network</li>
+<li><a href="/wiki/Cisco_Discovery_Protocol" title="Cisco Discovery Protocol">CDP</a>—Cisco Discovery Protocol</li>
+<li><a href="/wiki/Continuous_data_protection" title="Continuous data protection">CDP</a>—Continuous Data Protection</li>
+<li><a href="/wiki/CD-R" title="CD-R">CD-R</a>—CD-Recordable</li>
+<li><a href="/wiki/CD-ROM" title="CD-ROM">CD-ROM</a>—CD Read-Only Memory</li>
+<li><a href="/wiki/CD-RW" title="CD-RW">CD-RW</a>—CD-Rewritable</li>
+<li><a href="/wiki/Computer_security#Security_architecture" title="Computer security">CDSA</a>—Common Data Security Architecture</li>
+<li><a href="/wiki/Computer_Emergency_Response_Team" class="mw-redirect" title="Computer Emergency Response Team">CERT</a>—Computer Emergency Response Team</li>
+<li><a href="/wiki/Consumer_Electronics_Show" title="Consumer Electronics Show">CES</a>—Consumer Electronics Show</li>
+<li><a href="/wiki/Compact_Flash" class="mw-redirect" title="Compact Flash">CF</a>—Compact Flash</li>
+<li><a href="/wiki/Computational_fluid_dynamics" title="Computational fluid dynamics">CFD</a>—Computational Fluid Dynamics</li>
+<li><a href="/wiki/Context-free_grammar" title="Context-free grammar">CFG</a>—Context-Free Grammar</li>
+<li><a href="/wiki/Control_flow_graph" title="Control flow graph">CFG</a>—Control Flow Graph</li>
+<li><a href="/wiki/Computer_graphics" title="Computer graphics">CG</a>—Computer Graphics</li>
+<li><a href="/wiki/Color_Graphics_Adapter" title="Color Graphics Adapter">CGA</a>—Color Graphics Array</li>
+<li><a href="/wiki/Common_Gateway_Interface" title="Common Gateway Interface">CGI</a>—Common Gateway Interface</li>
+<li><a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">CGI</a>—Computer-Generated Imagery</li>
+<li><a href="/wiki/Graph_theory" title="Graph theory">CGT</a>—Computational Graph Theory</li>
+<li><a href="/wiki/Challenge-handshake_authentication_protocol" class="mw-redirect" title="Challenge-handshake authentication protocol">CHAP</a>—Challenge-Handshake Authentication Protocol</li>
+<li><a href="/wiki/Cylinder-head-sector" title="Cylinder-head-sector">CHS</a>—Cylinder-Head-Sector</li>
+<li><a href="/wiki/Classless_Inter-Domain_Routing" title="Classless Inter-Domain Routing">CIDR</a>—Classless Inter-Domain Routing</li>
+<li><a href="/wiki/Server_Message_Block" title="Server Message Block">CIFS</a>—Common Internet Filesystem</li>
+<li><a href="/wiki/Common_Information_Model_(computing)" title="Common Information Model (computing)">CIM</a>—Common Information Model</li>
+<li><a href="/w/index.php?title=Computationally_Independent_Model&amp;action=edit&amp;redlink=1" class="new" title="Computationally Independent Model (page does not exist)">CIM</a>—Computationally Independent Model</li>
+<li><a href="/wiki/Chief_information_officer" title="Chief information officer">CIO</a>—Chief Information Officer</li>
+<li><a href="/wiki/Committed_information_rate" title="Committed information rate">CIR</a>—Committed information rate</li>
+<li><a href="/wiki/Complex_instruction_set_computer" title="Complex instruction set computer">CISC</a>—Complex Instruction Set Computer</li>
+<li><a href="/wiki/CJK_characters" title="CJK characters">CJK</a>—Chinese, Japanese, and Korean</li>
+<li><a href="/wiki/CJKV" class="mw-redirect" title="CJKV">CJKV</a>—Chinese, Japanese, Korean, and Vietnamese</li>
+<li><a href="/wiki/Command-line_interface" title="Command-line interface">CLI</a>—Command Line Interface</li>
+<li><a href="/wiki/Common_Language_Runtime" title="Common Language Runtime">CLR</a>—Common Language Runtime</li>
+<li><a href="/wiki/Configuration_management" title="Configuration management">CM</a>—Configuration Management</li>
+<li><a href="/wiki/Content_management" title="Content management">CM</a>—Content Management</li>
+<li><a href="/wiki/Configuration_management_database" title="Configuration management database">CMDB</a>—Configuration Management Database</li>
+<li><a href="/wiki/Capability_Maturity_Model_Integration" title="Capability Maturity Model Integration">CMMI</a>—Capability Maturity Model Integration</li>
+<li><a href="/wiki/CMOS" title="CMOS">CMOS</a>—Complementary Metal-Oxide Semiconductor</li>
+<li><a href="/w/index.php?title=Current_Mode_of_Operation&amp;action=edit&amp;redlink=1" class="new" title="Current Mode of Operation (page does not exist)">CMO</a>—Current Mode of Operation</li>
+<li><a href="/wiki/Content_management_system" title="Content management system">CMS</a>—Content Management System</li>
+<li><a href="/wiki/Active_Directory" title="Active Directory">CN</a>—Canonical Name</li>
+<li><a href="/wiki/Lightweight_Directory_Access_Protocol" title="Lightweight Directory Access Protocol">CN</a>—Common Name</li>
+<li><a href="/wiki/CNC" class="mw-redirect" title="CNC">CNC</a>—Computer Numerical Control</li>
+<li><a href="/w/index.php?title=Cryptographic_Next_Generation&amp;action=edit&amp;redlink=1" class="new" title="Cryptographic Next Generation (page does not exist)">CNG</a>—Cryptographic Next Generation</li>
+<li><a href="/wiki/Cryptography_Next_Generation" class="mw-redirect" title="Cryptography Next Generation">CNG</a>—Cryptography Next Generation</li>
+<li><a href="/wiki/Communications_and_Networking_Riser" class="mw-redirect" title="Communications and Networking Riser">CNR</a>—Communications and Networking Riser</li>
+<li><a href="/wiki/COBOL" title="COBOL">COBOL</a>—Common Business-Oriented Language</li>
+<li><a href="/wiki/Component_Object_Model" title="Component Object Model">COM</a>—Component Object Model or communication</li>
+<li><a href="/wiki/Common_Object_Request_Broker_Architecture" title="Common Object Request Broker Architecture">CORBA</a>—Common Object Request Broker Architecture</li>
+<li><a href="/wiki/Commercial_off-the-shelf" title="Commercial off-the-shelf">COTS</a>—Commercial Off-The-Shelf</li>
+<li><a href="/wiki/Cell_(microprocessor)" title="Cell (microprocessor)">CPA</a>—Cell Processor Architecture</li>
+<li><a href="/wiki/CPAN" title="CPAN">CPAN</a>—Comprehensive Perl Archive Network</li>
+<li><a href="/wiki/CP/M" title="CP/M">CP/M</a>—Control Program/Monitor</li>
+<li><a href="/wiki/Common_Public_Radio_Interface" title="Common Public Radio Interface">CPRI</a>—Common Public Radio Interface</li>
+<li><a href="/wiki/Characters_Per_Second" class="mw-redirect" title="Characters Per Second">CPS</a>—characters per second</li>
+<li><a href="/wiki/Central_processing_unit" title="Central processing unit">CPU</a>—Central Processing Unit</li>
+<li><a href="/wiki/Carriage_return" title="Carriage return">CR</a>—Carriage Return</li>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">CRAN</a>—Comprehensive R Archive Network</li>
+<li><a href="/wiki/Cyclic_redundancy_check" title="Cyclic redundancy check">CRC</a>—Cyclic Redundancy Check</li>
+<li><a href="/wiki/Newline" title="Newline">CRLF</a>—Carriage Return Line Feeds</li>
+<li><a href="/wiki/Customer_relationship_management" title="Customer relationship management">CRM</a>—Customer Relationship Management</li>
+<li><a href="/wiki/Computer_reservations_system" class="mw-redirect" title="Computer reservations system">CRS</a>—Computer Reservations System</li>
+<li><a href="/wiki/Cathode_ray_tube" title="Cathode ray tube">CRT</a>—Cathode Ray Tube</li>
+<li><a href="/wiki/Create,_read,_update_and_delete" title="Create, read, update and delete">CRUD</a>—Create, Read, Update and Delete</li>
+<li><a href="/wiki/AT_Attachment" class="mw-redirect" title="AT Attachment">CS</a>—Cable Select</li>
+<li><a href="/wiki/Computer_science" title="Computer science">CS</a>—Computer Science</li>
+<li><a href="/wiki/Computer_Science_and_Engineering" title="Computer Science and Engineering">CSE</a>—Computer Science and Engineering</li>
+<li><a href="/wiki/Common_System_Interface" class="mw-redirect" title="Common System Interface">CSI</a>—Common System Interface</li>
+<li><a href="/wiki/Compatibility_Support_Module" class="mw-redirect" title="Compatibility Support Module">CSM</a>—Compatibility Support Module</li>
+<li><a href="/wiki/Carrier_sense_multiple_access_with_collision_detection" class="mw-redirect" title="Carrier sense multiple access with collision detection">CSMA/CD</a>—Carrier sense multiple access with collision detection</li>
+<li><a href="/w/index.php?title=Cloud_service_provider&amp;action=edit&amp;redlink=1" class="new" title="Cloud service provider (page does not exist)">CSP</a>—Cloud Service Provider</li>
+<li><a href="/wiki/Communicating_sequential_processes" title="Communicating sequential processes">CSP</a>—Communicating Sequential Processes</li>
+<li><a href="/wiki/Cross-site_request_forgery" title="Cross-site request forgery">CSRF</a>—Cross-Site Request Forgery</li>
+<li><a href="/wiki/Cascading_Style_Sheets" title="Cascading Style Sheets">CSS</a>—Cascading Style Sheets</li>
+<li><a href="/wiki/Content_Scramble_System" title="Content Scramble System">CSS</a>—Content-Scrambling System</li>
+<li><a href="/wiki/Closed_source" class="mw-redirect" title="Closed source">CSS</a>—Closed Source Software</li>
+<li><a href="/wiki/Cross-site_scripting" title="Cross-site scripting">CSS</a>—Cross-Site Scripting</li>
+<li><a href="/wiki/Comma-separated_values" title="Comma-separated values">CSV</a>—Comma-Separated Values</li>
+<li><a href="/wiki/Computed_axial_tomography" class="mw-redirect" title="Computed axial tomography">CT</a>—Computerized Tomography</li>
+<li><a href="/wiki/CTAN" title="CTAN">CTAN</a>—Comprehensive TeX Archive Network</li>
+<li><a href="/wiki/Client-to-client_protocol" title="Client-to-client protocol">CTCP</a>—Client-To-Client Protocol</li>
+<li><a href="/wiki/Computer_telephony_integration" title="Computer telephony integration">CTI</a>—Computer Telephony Integration</li>
+<li><a href="/wiki/Compile_time_function_execution" title="Compile time function execution">CTFE</a>—Compile Time Function Execution</li>
+<li><a href="/wiki/Computation_tree_logic" title="Computation tree logic">CTL</a>—Computational Tree Logic</li>
+<li><a href="/wiki/Close_to_Metal" title="Close to Metal">CTM</a>—Close To Metal</li>
+<li><a href="/wiki/Flow_control_(data)" title="Flow control (data)">CTS</a>—Clear To Send</li>
+<li><a href="/wiki/Compatible_Time-Sharing_System" title="Compatible Time-Sharing System">CTSS</a>—Compatible Time-Sharing System</li>
+<li><a href="/wiki/IBM_Common_User_Access" title="IBM Common User Access">CUA</a>—Common User Access</li>
+<li><a href="/wiki/Concurrent_Versions_System" title="Concurrent Versions System">CVS</a>—Concurrent Versioning System</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=5" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Digital-to-analog_converter" title="Digital-to-analog converter">DAC</a>—Digital-To-Analog Converter</li>
+<li><a href="/wiki/Discretionary_access_control" title="Discretionary access control">DAC</a>—Discretionary Access Control</li>
+<li><a href="/wiki/Database_Abstraction_Layer" class="mw-redirect" title="Database Abstraction Layer">DAL</a>—Database Abstraction Layer</li>
+<li><a href="/wiki/Data_access_object" title="Data access object">DAO</a>—Data Access Object</li>
+<li><a href="/wiki/Data_Access_Objects" class="mw-redirect" title="Data Access Objects">DAO</a>—Data Access Objects</li>
+<li><a href="/wiki/Optical_disc_recording_modes" title="Optical disc recording modes">DAO</a>—Disk-At-Once</li>
+<li><a href="/wiki/Directory_Access_Protocol" title="Directory Access Protocol">DAP</a>—Directory Access Protocol</li>
+<li><a href="/wiki/DARPA" title="DARPA">DARPA</a>—Defense Advanced Research Projects Agency</li>
+<li><a href="/wiki/Digital_Audio_Tape" title="Digital Audio Tape">DAT</a>—Digital Audio Tape</li>
+<li><a href="/wiki/Database" title="Database">DB</a>—Database</li>
+<li><a href="/wiki/Database_administrator" title="Database administrator">DBA</a>—Database Administrator</li>
+<li><a href="/wiki/DBCS" title="DBCS">DBCS</a>—Double Byte Character Set</li>
+<li><a href="/wiki/Database_management_system" class="mw-redirect" title="Database management system">DBMS</a>—Database Management System</li>
+<li><a href="/wiki/Direct_Client-to-Client" title="Direct Client-to-Client">DCC</a>—Direct Client-to-Client</li>
+<li><a href="/wiki/Datagram_Congestion_Control_Protocol" title="Datagram Congestion Control Protocol">DCCP</a>—Datagram Congestion Control Protocol</li>
+<li><a href="/wiki/DCC_Alliance" title="DCC Alliance">DCCA</a>—Debian Common Core Alliance</li>
+<li><a href="/wiki/Data_Control_Language" class="mw-redirect" title="Data Control Language">DCL</a>—Data Control Language</li>
+<li><a href="/wiki/Distributed_Control_System" class="mw-redirect" title="Distributed Control System">DCS</a>—Distributed Control System</li>
+<li><a href="/wiki/Dublin_Core" title="Dublin Core">DCMI</a>—Dublin Core Metadata Initiative</li>
+<li><a href="/wiki/Distributed_Component_Object_Model" title="Distributed Component Object Model">DCOM</a>—Distributed Component Object Model</li>
+<li><a href="/wiki/Double_density" class="mw-redirect" title="Double density">DD</a>—Double Density</li>
+<li><a href="/wiki/Dynamic_Data_Exchange" title="Dynamic Data Exchange">DDE</a>—Dynamic Data Exchange</li>
+<li><a href="/w/index.php?title=DNS_DHCP_IP_Address_management&amp;action=edit&amp;redlink=1" class="new" title="DNS DHCP IP Address management (page does not exist)">DDI</a>—DNS DHCP &amp; IP Address management</li>
+<li><a href="/wiki/Data_Definition_Language" class="mw-redirect" title="Data Definition Language">DDL</a>—Data Definition Language</li>
+<li><a href="/wiki/DDoS" class="mw-redirect" title="DDoS">DDoS</a>—Distributed Denial of Service</li>
+<li><a href="/wiki/DDR_SDRAM" title="DDR SDRAM">DDR</a>—Double Data Rate</li>
+<li><a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">DEC</a>—Digital Equipment Corporation</li>
+<li><a href="/wiki/Data_Encryption_Standard" title="Data Encryption Standard">DES</a>—Data Encryption Standard</li>
+<li><a href="/wiki//dev" class="mw-redirect" title="/dev">dev</a>—development</li>
+<li><a href="/wiki/Deterministic_finite_automaton" title="Deterministic finite automaton">DFA</a>—Deterministic Finite Automaton</li>
+<li><a href="/wiki/Data_flow_diagram" title="Data flow diagram">DFD</a>—Data Flow Diagram</li>
+<li><a href="/wiki/Depth-first_search" title="Depth-first search">DFS</a>—Depth-First Search</li>
+<li><a href="/wiki/Distributed_file_system" class="mw-redirect" title="Distributed file system">DFS</a>—Distributed File System</li>
+<li><a href="/wiki/Dworkin%27s_Game_Driver" title="Dworkin's Game Driver">DGD</a>—Dworkin's Game Driver</li>
+<li><a href="/wiki/Dynamic_Host_Configuration_Protocol" title="Dynamic Host Configuration Protocol">DHCP</a>—Dynamic Host Configuration Protocol</li>
+<li><a href="/wiki/Dynamic_HTML" title="Dynamic HTML">DHTML</a>—Dynamic Hypertext Markup Language</li>
+<li><a href="/wiki/Data_Integrity_Field" title="Data Integrity Field">DIF</a>—Data Integrity Field</li>
+<li><a href="/wiki/DIMM" title="DIMM">DIMM</a>—Dual Inline Memory Module</li>
+<li><a href="/wiki/Deutsches_Institut_f%C3%BCr_Normung" title="Deutsches Institut für Normung">DIN</a>—Deutsches Institut für Normung</li>
+<li><a href="/wiki/Dual_in-line_package" title="Dual in-line package">DIP</a>—Dual In-line Package</li>
+<li><a href="/w/index.php?title=DISM&amp;action=edit&amp;redlink=1" class="new" title="DISM (page does not exist)">DISM</a>—Deployment Image and Service Management Tool</li>
+<li><a href="/wiki/DIVX_(Digital_Video_Express)" class="mw-redirect" title="DIVX (Digital Video Express)">DIVX</a>—Digital Video Express</li>
+<li><a href="/wiki/DomainKeys_Identified_Mail" title="DomainKeys Identified Mail">DKIM</a>—Domain Keys Identified Mail</li>
+<li><a href="/wiki/Download" title="Download">DL</a>—Download</li>
+<li><a href="/wiki/Dynamic-link_library" title="Dynamic-link library">DLL</a>—Dynamic Link Library</li>
+<li><a href="/wiki/Digital_Living_Network_Alliance" title="Digital Living Network Alliance">DLNA</a>—Digital Living Network Alliance</li>
+<li><a href="/w/index.php?title=Data_loss_protection&amp;action=edit&amp;redlink=1" class="new" title="Data loss protection (page does not exist)">DLP</a>—Data loss protection</li>
+<li><a href="/wiki/Direct_memory_access" title="Direct memory access">DMA</a>—Direct Memory Access</li>
+<li><a href="/wiki/Digital_Millennium_Copyright_Act" title="Digital Millennium Copyright Act">DMCA</a>—Digital Millennium Copyright Act</li>
+<li><a href="/wiki/Direct_Media_Interface" title="Direct Media Interface">DMI</a>—Direct Media Interface</li>
+<li><a href="/wiki/Data_Manipulation_Language" class="mw-redirect" title="Data Manipulation Language">DML</a>—Data Manipulation Language</li>
+<li><a href="/wiki/Definitive_Media_Library" title="Definitive Media Library">DML</a>—Definitive Media Library</li>
+<li><a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">DMR</a>—Dennis M. Ritchie</li>
+<li><a href="/wiki/DMZ_(computing)" title="DMZ (computing)">DMZ</a>—Demilitarized Zone</li>
+<li><a href="/wiki/Lightweight_Directory_Access_Protocol" title="Lightweight Directory Access Protocol">DN</a>—Distinguished Name</li>
+<li><a href="/wiki/Drag-and-drop" class="mw-redirect" title="Drag-and-drop">DND</a>—Drag-and-Drop</li>
+<li><a href="/wiki/Domain_Name_System" title="Domain Name System">DNS</a>—Domain Name System</li>
+<li><a href="/wiki/Dead_on_arrival" title="Dead on arrival">DOA</a>—Dead on Arrival</li>
+<li><a href="/wiki/DOCSIS" title="DOCSIS">DOCSIS</a>—Data Over Cable Service Interface Specification</li>
+<li><a href="/wiki/Document_Object_Model" title="Document Object Model">DOM</a>—Document Object Model</li>
+<li><a href="/wiki/Denial-of-service_attack" title="Denial-of-service attack">DoS</a>—Denial of Service</li>
+<li><a href="/wiki/DOS" title="DOS">DOS</a>—Disk Operating System</li>
+<li><a href="/wiki/Dot_pitch" title="Dot pitch">DP</a>—Dot Pitch</li>
+<li><a href="/wiki/Deferred_Procedure_Call" title="Deferred Procedure Call">DPC</a>—Deferred Procedure Call</li>
+<li><a href="/wiki/Deep_packet_inspection" title="Deep packet inspection">DPI</a>—Deep Packet Inspection</li>
+<li><a href="/wiki/Dots_per_inch" title="Dots per inch">DPI</a>—Dots Per Inch</li>
+<li><a href="/wiki/DOS_Protected_Mode_Interface" title="DOS Protected Mode Interface">DPMI</a>—DOS Protected Mode Interface</li>
+<li><a href="/wiki/VESA_Display_Power_Management_Signaling" title="VESA Display Power Management Signaling">DPMS</a>—Display Power Management Signaling</li>
+<li><a href="/wiki/Disaster_recovery" title="Disaster recovery">DR</a>—Disaster Recovery</li>
+<li><a href="/wiki/Dynamic_random-access_memory" title="Dynamic random-access memory">DRAM</a>—Dynamic Random-Access Memory</li>
+<li><a href="/wiki/DR-DOS" title="DR-DOS">DR-DOS</a>—Digital Research - Disk Operating System</li>
+<li><a href="/wiki/Direct_Rendering_Infrastructure" title="Direct Rendering Infrastructure">DRI</a>—Direct Rendering Infrastructure</li>
+<li><a href="/wiki/Digital_rights_management" title="Digital rights management">DRM</a>—Digital Rights Management</li>
+<li><a href="/wiki/Direct_Rendering_Manager" title="Direct Rendering Manager">DRM</a>—Direct Rendering Manager</li>
+<li><a href="/wiki/Digital_Signature_Algorithm" title="Digital Signature Algorithm">DSA</a>—Digital Signature Algorithm</li>
+<li><a href="/wiki/Document_Schema_Definition_Languages" title="Document Schema Definition Languages">DSDL</a>—Document Schema Definition Languages</li>
+<li><a href="/wiki/Dynamic_Systems_Development_Method" class="mw-redirect" title="Dynamic Systems Development Method">DSDM</a>—Dynamic Systems Development Method</li>
+<li><a href="/wiki/Digital_subscriber_line" title="Digital subscriber line">DSL</a>—Digital Subscriber Line</li>
+<li><a href="/wiki/Domain-specific_language" title="Domain-specific language">DSL</a>—Domain-Specific Language</li>
+<li><a href="/wiki/Digital_subscriber_line_access_multiplexer" title="Digital subscriber line access multiplexer">DSLAM</a>—Digital Subscriber Line Access Multiplexer</li>
+<li><a href="/wiki/Database_Source_Name" class="mw-redirect" title="Database Source Name">DSN</a>—Database Source Name</li>
+<li><a href="/wiki/Data_set_(IBM_mainframe)" title="Data set (IBM mainframe)">DSN</a>—Data Set Name</li>
+<li><a href="/wiki/Digital_signal_processor" title="Digital signal processor">DSP</a>—Digital Signal Processor</li>
+<li><a href="/wiki/Document_Style_Semantics_and_Specification_Language" title="Document Style Semantics and Specification Language">DSSSL</a>—Document Style Semantics and Specification Language</li>
+<li><a href="/wiki/Document_Type_Definition" class="mw-redirect" title="Document Type Definition">DTD</a>—Document Type Definition</li>
+<li><a href="/wiki/Data_terminal_equipment" title="Data terminal equipment">DTE</a>—Data Terminal Equipment or data transfer rate</li>
+<li><a href="/wiki/Desktop_publishing" title="Desktop publishing">DTP</a>—Desktop Publishing</li>
+<li><a href="/wiki/RS-232" title="RS-232">DTR</a>—Data Terminal Ready or Data transfer rate</li>
+<li><a href="/wiki/DVD" title="DVD">DVD</a>—Digital Versatile Disc</li>
+<li><a href="/wiki/DVD-R" class="mw-redirect" title="DVD-R">DVD-R</a>—DVD-Recordable</li>
+<li><a href="/wiki/DVD-ROM" class="mw-redirect" title="DVD-ROM">DVD-ROM</a>—DVD-Read Only Memory</li>
+<li><a href="/wiki/DVD-RW" class="mw-redirect" title="DVD-RW">DVD-RW</a>—DVD-Rewritable</li>
+<li><a href="/wiki/Digital_Visual_Interface" title="Digital Visual Interface">DVI</a>—Digital Visual Interface</li>
+<li><a href="/wiki/Digital_video_recorder" title="Digital video recorder">DVR</a>—Digital Video Recorder</li>
+<li><a href="/wiki/Data_Warehouse" class="mw-redirect" title="Data Warehouse">DW</a>—Data Warehouse</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=6" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Enterprise_application_integration" title="Enterprise application integration">EAI</a>—Enterprise Application Integration</li>
+<li><a href="/wiki/Extensible_Authentication_Protocol" title="Extensible Authentication Protocol">EAP</a>—Extensible Authentication Protocol</li>
+<li><a href="/wiki/Exchange_ActiveSync" title="Exchange ActiveSync">EAS</a>—Exchange ActiveSync</li>
+<li><a href="/wiki/Extended_Binary_Coded_Decimal_Interchange_Code" class="mw-redirect" title="Extended Binary Coded Decimal Interchange Code">EBCDIC</a>—Extended Binary Coded Decimal Interchange Code</li>
+<li><a href="/wiki/Extensible_Binary_Meta_Language" title="Extensible Binary Meta Language">EBML</a>—Extensible Binary Meta Language</li>
+<li><a href="/wiki/Elliptic_curve_cryptography" class="mw-redirect" title="Elliptic curve cryptography">ECC</a>—Elliptic Curve Cryptography</li>
+<li><a href="/wiki/Ecma_International" title="Ecma International">ECMA</a>—European Computer Manufacturers Association</li>
+<li><a href="/wiki/Explicit_Congestion_Notification" title="Explicit Congestion Notification">ECN</a>—Explicit Congestion Notification</li>
+<li><a href="/wiki/ECos" title="ECos">ECOS</a>—Embedded Configurable Operating System</li>
+<li><a href="/wiki/Expense_and_Cost_Recovery_System_(ECRS)" class="mw-redirect" title="Expense and Cost Recovery System (ECRS)">ECRS</a>—Expense and Cost Recovery System</li>
+<li><a href="/wiki/Electronic_design_automation" title="Electronic design automation">EDA</a>—Electronic Design Automation</li>
+<li><a href="/wiki/Enhanced_Data_Rates_for_GSM_Evolution" title="Enhanced Data Rates for GSM Evolution">EDGE</a>— Enhanced Data rates for GSM Evolution</li>
+<li><a href="/wiki/Electronic_Data_Interchange" class="mw-redirect" title="Electronic Data Interchange">EDI</a>—Electronic Data Interchange</li>
+<li><a href="/wiki/Dynamic_random_access_memory" class="mw-redirect" title="Dynamic random access memory">EDO</a>—Extended Data Out</li>
+<li><a href="/wiki/Electronic_Delay_Storage_Automatic_Calculator" class="mw-redirect" title="Electronic Delay Storage Automatic Calculator">EDSAC</a>—Electronic Delay Storage Automatic Calculator</li>
+<li><a href="/wiki/EDVAC" title="EDVAC">EDVAC</a>—Electronic Discrete Variable Automatic Computer</li>
+<li><a href="/wiki/EEPROM" title="EEPROM">EEPROM</a>—Electronically Erasable Programmable Read-Only Memory</li>
+<li><a href="/wiki/Electronic_Frontier_Foundation" title="Electronic Frontier Foundation">EFF</a>—Electronic Frontier Foundation</li>
+<li><a href="/wiki/Extensible_Firmware_Interface" class="mw-redirect" title="Extensible Firmware Interface">EFI</a>—Extensible Firmware Interface</li>
+<li><a href="/wiki/Eight-to-fourteen_modulation" title="Eight-to-fourteen modulation">EFM</a>—Eight-to-Fourteen Modulation</li>
+<li><a href="/wiki/Ethernet_in_the_First_Mile" class="mw-redirect" title="Ethernet in the First Mile">EFM</a>—Ethernet in the First Mile</li>
+<li><a href="/wiki/Encrypting_File_System" title="Encrypting File System">EFS</a>—Encrypting File System</li>
+<li><a href="/wiki/Enhanced_Graphics_Adapter" title="Enhanced Graphics Adapter">EGA</a>—Enhanced Graphics Array</li>
+<li><a href="/wiki/Electronic_mail" class="mw-redirect" title="Electronic mail">E-mail</a>—Electronic mail</li>
+<li><a href="/wiki/Exterior_Gateway_Protocol" title="Exterior Gateway Protocol">EGP</a>—Exterior Gateway Protocol</li>
+<li><a href="/wiki/Electronic_identity_card" class="mw-redirect" title="Electronic identity card">eID</a>—electronic ID card</li>
+<li><a href="/wiki/EIDE" class="mw-redirect" title="EIDE">EIDE</a>—Enhanced IDE</li>
+<li><a href="/wiki/Enhanced_Interior_Gateway_Routing_Protocol" title="Enhanced Interior Gateway Routing Protocol">EIGRP</a>—Enhanced Interior Gateway Routing Protocol</li>
+<li><a href="/wiki/Extended_Industry_Standard_Architecture" title="Extended Industry Standard Architecture">EISA</a>—Extended Industry Standard Architecture</li>
+<li><a href="/wiki/Extremely_low_frequency" title="Extremely low frequency">ELF</a>—Extremely Low Frequency</li>
+<li><a href="/wiki/Executable_and_Linkable_Format" title="Executable and Linkable Format">ELF</a>—Executable and Linkable Format</li>
+<li><a href="/wiki/Elm_(e-mail_client)" class="mw-redirect" title="Elm (e-mail client)">ELM</a>—ELectronic Mail</li>
+<li><a href="/wiki/Emacs" title="Emacs">EMACS</a>—Editor MACroS</li>
+<li><a href="/wiki/Expanded_memory" title="Expanded memory">EMS</a>—Expanded Memory Specification</li>
+<li><a href="/wiki/ENIAC" title="ENIAC">ENIAC</a>—Electronic Numerical Integrator And Computer</li>
+<li><a href="/w/index.php?title=End-of-Day&amp;action=edit&amp;redlink=1" class="new" title="End-of-Day (page does not exist)">EOD</a>—End of Day</li>
+<li><a href="/wiki/End-of-file" title="End-of-file">EOF</a>—End of File</li>
+<li><a href="/wiki/Newline" title="Newline">EOL</a>—End of Line</li>
+<li><a href="/wiki/End_of_Message" class="mw-redirect" title="End of Message">EOM</a>—End Of Message</li>
+<li><a href="/w/index.php?title=End_of_Support&amp;action=edit&amp;redlink=1" class="new" title="End of Support (page does not exist)">EOS</a>—End OF Support</li>
+<li><a href="/wiki/Explicitly_parallel_instruction_computing" title="Explicitly parallel instruction computing">EPIC</a>—Explicitly Parallel Instruction Computing</li>
+<li><a href="/wiki/EPROM" title="EPROM">EPROM</a>—Erasable Programmable Read-Only Memory</li>
+<li><a href="/wiki/Entity-relationship_diagram" class="mw-redirect" title="Entity-relationship diagram">ERD</a>—Entity-Relationship Diagram</li>
+<li><a href="/wiki/Entity-relationship_model" class="mw-redirect" title="Entity-relationship model">ERM</a>—Entity-Relationship Model</li>
+<li><a href="/wiki/Enterprise_resource_planning" title="Enterprise resource planning">ERP</a>—Enterprise Resource Planning</li>
+<li><a href="/wiki/External_SATA" class="mw-redirect" title="External SATA">eSATA</a>—external SATA</li>
+<li><a href="/wiki/Enterprise_service_bus" title="Enterprise service bus">ESB</a>—Enterprise service bus</li>
+<li><a href="/wiki/ESCON" title="ESCON">ESCON</a>—Enterprise Systems Connection</li>
+<li><a href="/wiki/Electrostatic_discharge" title="Electrostatic discharge">ESD</a>—Electrostatic Discharge</li>
+<li><a href="/wiki/Eric_S._Raymond" title="Eric S. Raymond">ESR</a>—Eric Steven Raymond</li>
+<li><a href="/wiki/Extract,_transform,_load" title="Extract, transform, load">ETL</a>—Extract, Transform, Load</li>
+<li><a href="/w/index.php?title=Event_Tracing_for_Windows&amp;action=edit&amp;redlink=1" class="new" title="Event Tracing for Windows (page does not exist)">ETW</a>—Event Tracing for Windows</li>
+<li><a href="/wiki/Extended_Unix_Code" title="Extended Unix Code">EUC</a>—Extended Unix Code</li>
+<li><a href="/wiki/End_user_license_agreement" class="mw-redirect" title="End user license agreement">EULA</a>—End User License Agreement</li>
+<li><a href="/wiki/Extended_Window_Manager_Hints" title="Extended Window Manager Hints">EWMH</a>—Extended Window Manager Hints</li>
+<li><a href="/wiki/Extended_file_system" title="Extended file system">EXT</a>—EXTended file system</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=7" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/FORTRAN_Assembly_Program" class="mw-redirect" title="FORTRAN Assembly Program">FAP</a>—FORTRAN Assembly Program</li>
+<li><a href="/wiki/FASM" title="FASM">FASM</a>—Flat ASseMbler</li>
+<li><a href="/wiki/File_Allocation_Table" title="File Allocation Table">FAT</a>—File Allocation Table</li>
+<li><a href="/wiki/FAQ" title="FAQ">FAQ</a>—Frequently Asked Questions</li>
+<li><a href="/wiki/Fully_Buffered_DIMM" title="Fully Buffered DIMM">FBDIMM</a>—Fully Buffered Dual Inline Memory Module</li>
+<li><a href="/wiki/FC-AL" class="mw-redirect" title="FC-AL">FC-AL</a>—Fibre Channel Arbitrated Loop</li>
+<li><a href="/wiki/File_control_block" class="mw-redirect" title="File control block">FCB</a>—File Control Block</li>
+<li><a href="/wiki/Frame_check_sequence" title="Frame check sequence">FCS</a>—Frame Check Sequence</li>
+<li><a href="/wiki/Floppy_disk_controller" class="mw-redirect" title="Floppy disk controller">FDC</a>—Floppy Disk Controller</li>
+<li><a href="/wiki/Fedora_Directory_Server" class="mw-redirect" title="Fedora Directory Server">FDS</a>—Fedora Directory Server</li>
+<li><a href="/wiki/Frequency-division_multiple_access" title="Frequency-division multiple access">FDD</a>—Frequency-Division Duplexing</li>
+<li><a href="/wiki/Floppy_disk_drive" class="mw-redirect" title="Floppy disk drive">FDD</a>—Floppy Disk Drive</li>
+<li><a href="/wiki/Fiber_distributed_data_interface" class="mw-redirect" title="Fiber distributed data interface">FDDI</a>—Fiber Distributed Data Interface</li>
+<li><a href="/wiki/Frequency-division_multiplexing" title="Frequency-division multiplexing">FDM</a>—Frequency-Division Multiplexing</li>
+<li><a href="/wiki/Frequency-division_multiple_access" title="Frequency-division multiple access">FDMA</a>—Frequency-Division Multiple Access</li>
+<li><a href="/wiki/Forward_error_correction" title="Forward error correction">FEC</a>—Forward Error Correction</li>
+<li><a href="/wiki/S-LINK" title="S-LINK">FEMB</a>—Front-End Motherboard</li>
+<li><a href="/wiki/Field-effect_transistor" title="Field-effect transistor">FET</a>—Field Effect Transistor</li>
+<li><a href="/wiki/Filesystem_Hierarchy_Standard" title="Filesystem Hierarchy Standard">FHS</a>—Filesystem Hierarchy Standard</li>
+<li><a href="/wiki/FICON" title="FICON">FICON</a>—FIber CONnectivity</li>
+<li><a href="/wiki/FIFO_(computing_and_electronics)" title="FIFO (computing and electronics)">FIFO</a>—First In First Out</li>
+<li><a href="/wiki/FIPS_140" title="FIPS 140">FIPS</a>—Federal Information Processing Standards</li>
+<li><a href="/wiki/FL_(programming_language)" title="FL (programming language)">FL</a>—Function Level</li>
+<li><a href="/wiki/Free_Lossless_Audio_Codec" class="mw-redirect" title="Free Lossless Audio Codec">FLAC</a>—Free Lossless Audio Codec</li>
+<li><a href="/wiki/FLOPS" title="FLOPS">FLOPS</a>—FLoating-Point Operations Per Second</li>
+<li><a href="/wiki/Free_and_open_source_software" class="mw-redirect" title="Free and open source software">FLOSS</a>—Free/Libre/Open Source Software</li>
+<li><a href="/wiki/Fixed_Mobile_Convergence" class="mw-redirect" title="Fixed Mobile Convergence">FMC</a>— Fixed Mobile Convergence "Mobile UC or Unified Communications over Wireless"</li>
+<li><a href="/w/index.php?title=Future_Mode_of_Operation&amp;action=edit&amp;redlink=1" class="new" title="Future Mode of Operation (page does not exist)">FMO</a>—Future Mode of Operation</li>
+<li><a href="/wiki/Free_On-line_Dictionary_of_Computing" title="Free On-line Dictionary of Computing">FOLDOC</a>—Free On-line Dictionary of Computing</li>
+<li><a href="/wiki/FOSDEM" title="FOSDEM">FOSDEM</a>—Free and Open source Software Developers' European Meeting</li>
+<li><a href="/wiki/Formatting_Output_Specification_Instance" title="Formatting Output Specification Instance">FOSI</a>—Formatted Output Specification Instance</li>
+<li><a href="/wiki/Free_and_open_source_software" class="mw-redirect" title="Free and open source software">FOSS</a>—Free and Open Source Software</li>
+<li><a href="/wiki/FP_(programming_language)" title="FP (programming language)">FP</a>—Function Programming</li>
+<li><a href="/wiki/Field-programmable_gate_array" title="Field-programmable gate array">FPGA</a>—Field Programmable Gate Array</li>
+<li><a href="/wiki/Floating_Point_Systems" title="Floating Point Systems">FPS</a>—Floating Point Systems</li>
+<li><a href="/wiki/Floating-point_unit" title="Floating-point unit">FPU</a>—Floating Point Unit</li>
+<li><a href="/wiki/Field-replaceable_unit" title="Field-replaceable unit">FRU</a>—Field Replaceable Unit</li>
+<li><a href="/wiki/File_system" title="File system">FS</a>—File System</li>
+<li><a href="/wiki/Front-side_bus" title="Front-side bus">FSB</a>—Front Side Bus</li>
+<li><a href="/wiki/Fsck" title="Fsck">fsck</a>—File System Check</li>
+<li><a href="/wiki/Free_Software_Foundation" title="Free Software Foundation">FSF</a>—Free Software Foundation</li>
+<li><a href="/wiki/Finite-state_machine" title="Finite-state machine">FSM</a>—Finite State Machine</li>
+<li><a href="/w/index.php?title=Fiber_to_the_Antenna&amp;action=edit&amp;redlink=1" class="new" title="Fiber to the Antenna (page does not exist)">FTTA</a>—Fiber To The Antenna</li>
+<li><a href="/wiki/Fiber_to_the_Curb" class="mw-redirect" title="Fiber to the Curb">FTTC</a>—Fiber To The Curb</li>
+<li><a href="/wiki/Fiber_to_the_home" class="mw-redirect" title="Fiber to the home">FTTH</a>—Fiber To The Home</li>
+<li><a href="/wiki/Fiber_to_the_premises" class="mw-redirect" title="Fiber to the premises">FTTP</a>—Fiber To The Premises</li>
+<li><a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">FTP</a>—File Transfer Protocol</li>
+<li><a href="/wiki/Fully_qualified_domain_name" title="Fully qualified domain name">FQDN</a>—Fully Qualified Domain Name</li>
+<li><a href="/wiki/Fear,_uncertainty_and_doubt" title="Fear, uncertainty and doubt">FUD</a>—Fear Uncertainty Doubt</li>
+<li><a href="/wiki/Whitespace_(computer_science)" class="mw-redirect" title="Whitespace (computer science)">FWS</a>—Folding White Space</li>
+<li><a href="/wiki/File_eXchange_Protocol" title="File eXchange Protocol">FXP</a>—File eXchange Protocol</li>
+<li><a href="/wiki/For_Your_Information" class="mw-redirect" title="For Your Information">FYI</a>—For Your Information</li>
+<li><a href="/w/index.php?title=FVEK&amp;action=edit&amp;redlink=1" class="new" title="FVEK (page does not exist)">FVEK</a>—Full Volume Encryption Key</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=8" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Globalization" title="Globalization">G11N</a>—Globalization</li>
+<li><a href="/wiki/GNU_Assembler" title="GNU Assembler">Gas</a>—GNU Assembler</li>
+<li><a href="/wiki/Gigabit" title="Gigabit">Gb</a>—Gigabit</li>
+<li><a href="/wiki/Gigabyte" title="Gigabyte">GB</a>—Gigabyte</li>
+<li><a href="/wiki/GNU_Compiler_Collection" title="GNU Compiler Collection">GCC</a>—GNU Compiler Collection</li>
+<li><a href="/wiki/GNU_Compiler_for_Java" title="GNU Compiler for Java">GCJ</a>—GNU Compiler for Java</li>
+<li><a href="/wiki/Group_coded_recording" title="Group coded recording">GCR</a>—Group Coded Recording</li>
+<li><a href="/wiki/GNU_Debugger" title="GNU Debugger">GDB</a>—GNU Debugger</li>
+<li><a href="/wiki/Graphics_Device_Interface" title="Graphics Device Interface">GDI</a>—Graphics Device Interface</li>
+<li><a href="/wiki/GNU_Free_Documentation_License" title="GNU Free Documentation License">GFDL</a>—GNU Free Documentation License</li>
+<li><a href="/wiki/Graphics_Interchange_Format" class="mw-redirect" title="Graphics Interchange Format">GIF</a>—Graphics Interchange Format</li>
+<li><a href="/wiki/Garbage_In,_Garbage_Out" class="mw-redirect" title="Garbage In, Garbage Out">GIGO</a>—Garbage In, Garbage Out</li>
+<li><a href="/wiki/GIMP" title="GIMP">GIMP</a>—GNU Image Manipulation Program</li>
+<li><a href="/wiki/Great_Internet_Mersenne_Prime_Search" title="Great Internet Mersenne Prime Search">GIMPS</a>—Great Internet Mersenne Prime Search</li>
+<li><a href="/wiki/Geographic_information_system" title="Geographic information system">GIS</a>—Geographic Information System</li>
+<li><a href="/wiki/OpenGL_Utility_Toolkit" title="OpenGL Utility Toolkit">GLUT</a>—OpenGL Utility Toolkit</li>
+<li><a href="/wiki/Geography_Markup_Language" title="Geography Markup Language">GML</a>—Geography Markup Language</li>
+<li><a href="/wiki/GNOME" title="GNOME">GNOME</a>—GNU Network Object Model Environment</li>
+<li><a href="/wiki/GUI" class="mw-redirect" title="GUI">GUI</a>-Graphical User Interfase</li>
+<li><a href="/wiki/GNU" title="GNU">GNU</a>—GNU's Not Unix</li>
+<li><a href="/wiki/GOMS" title="GOMS">GOMS</a>—Goals, Operators, Methods, and Selection rules</li>
+<li><a href="/wiki/GPUTILS" title="GPUTILS">GPASM</a>—GNU PIC ASseMbler</li>
+<li><a href="/wiki/IBM_General_Parallel_File_System" title="IBM General Parallel File System">GPFS</a>—General Parallel File System</li>
+<li><a href="/wiki/GNU_Privacy_Guard" title="GNU Privacy Guard">GPG</a>—GNU Privacy Guard</li>
+<li><a href="/wiki/GPGPU" class="mw-redirect" title="GPGPU">GPGPU</a>—General-Purpose Computing on Graphics Processing Units</li>
+<li><a href="/wiki/GPIB" class="mw-redirect" title="GPIB">GPIB</a>—General-Purpose Instrumentation Bus</li>
+<li><a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GPL</a>—General Public License</li>
+<li><a href="/wiki/Domain-specific_language" title="Domain-specific language">GPL</a>—General-Purpose Language</li>
+<li><a href="/wiki/General_Packet_Radio_Service" title="General Packet Radio Service">GPRS</a>—General Packet Radio Service</li>
+<li><a href="/wiki/GUID_Partition_Table" title="GUID Partition Table">GPT</a>—GUID Partition Table</li>
+<li><a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">GPU</a>—Graphics Processing Unit</li>
+<li><a href="/wiki/GNU_GRUB" title="GNU GRUB">GRUB</a>—Grand Unified Boot-Loader</li>
+<li><a href="/wiki/GERAN" title="GERAN">GERAN</a>—GSM EDGE Radio Access Network</li>
+<li><a href="/wiki/GSM" title="GSM">GSM</a>—Global System for Mobile Communications</li>
+<li><a href="/wiki/GTK%2B" title="GTK+">GTK+</a>—GIMP Toolkit</li>
+<li><a href="/wiki/Graphical_user_interface" title="Graphical user interface">GUI</a>—Graphical User Interface</li>
+<li><a href="/wiki/Globally_Unique_Identifier" class="mw-redirect" title="Globally Unique Identifier">GUID</a>—Globally Unique IDentifier</li>
+<li><a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">GWT</a>—Google Web Toolkit</li>
+<li><a href="/w/index.php?title=IT_Networking_Services&amp;action=edit&amp;redlink=1" class="new" title="IT Networking Services (page does not exist)">GYR</a>—IT Networking</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=9" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/High_availability" title="High availability">HA</a>—High Availability</li>
+<li><a href="/wiki/Hardware_abstraction_layer" class="mw-redirect" title="Hardware abstraction layer">HAL</a>—Hardware Abstraction Layer</li>
+<li><a href="/wiki/Houston_Automatic_Spooling_Priority" title="Houston Automatic Spooling Priority">HASP</a>—Houston Automatic Spooling Priority</li>
+<li><a href="/wiki/Host_adapter" title="Host adapter">HBA</a>—Host Bus Adapter</li>
+<li><a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">HCI</a>—Human Computer Interaction</li>
+<li><a href="/wiki/High_density" class="mw-redirect" title="High density">HD</a>—High Density</li>
+<li><a href="/wiki/Hard_disk_drive" title="Hard disk drive">HDD</a>—Hard Disk Drive</li>
+<li><a href="/wiki/Hardware_compatibility_list" title="Hardware compatibility list">HCL</a>—Hardware Compatibility List</li>
+<li><a href="/wiki/HD_DVD" title="HD DVD">HD DVD</a>—High Definition DVD</li>
+<li><a href="/wiki/Hardware_description_language" title="Hardware description language">HDL</a>—Hardware Description Language</li>
+<li><a href="/wiki/HDMI" title="HDMI">HDMI</a>—High-Definition Multimedia Interface</li>
+<li><a href="/wiki/HECI" class="mw-redirect" title="HECI">HECI</a>—Host Embedded Controller Interface</li>
+<li><a href="/wiki/High_frequency" title="High frequency">HF</a>—High Frequency</li>
+<li><a href="/wiki/Hierarchical_File_System" title="Hierarchical File System">HFS</a>—Hierarchical File System</li>
+<li><a href="/wiki/Hybrid_drive" title="Hybrid drive">HHD</a>—Hybrid Hard Drive</li>
+<li><a href="/wiki/Human_interface_device" title="Human interface device">HID</a>—Human Interface Device</li>
+<li><a href="/wiki/Human_interface_guidelines" title="Human interface guidelines">HIG</a>—Human Interface Guidelines</li>
+<li><a href="/wiki/GNU_Hurd" title="GNU Hurd">HIRD</a>—Hurd of Interfaces Representing Depth</li>
+<li><a href="/wiki/IBM_High-Level_Assembler" class="mw-redirect" title="IBM High-Level Assembler">HLASM</a>—High Level ASseMbler</li>
+<li><a href="/wiki/HTTP_Live_Streaming" title="HTTP Live Streaming">HLS</a>—HTTP Live Streaming</li>
+<li><a href="/wiki/High_memory_area" title="High memory area">HMA</a>—High Memory Area</li>
+<li><a href="/wiki/Hewlett-Packard" title="Hewlett-Packard">HP</a>—Hewlett-Packard</li>
+<li><a href="/wiki/High-performance_computing" class="mw-redirect" title="High-performance computing">HPC</a>—High-Performance Computing</li>
+<li><a href="/wiki/High_Performance_File_System" title="High Performance File System">HPFS</a>—High Performance File System</li>
+<li><a href="/wiki/High-Speed_Downlink_Packet_Access" class="mw-redirect" title="High-Speed Downlink Packet Access">HSDPA</a>—High-Speed Downlink Packet Access</li>
+<li><a href="/wiki/High-throughput_computing" title="High-throughput computing">HTC</a>—High-Throughput Computing</li>
+<li><a href="/wiki/Hierarchical_storage_management" title="Hierarchical storage management">HSM</a>—Hierarchical Storage Management</li>
+<li><a href="/wiki/Hyper-threading" title="Hyper-threading">HT</a>—Hyper Threading</li>
+<li><a href="/wiki/Hierarchical_temporal_memory" title="Hierarchical temporal memory">HTM</a>—Hierarchical Temporal Memory</li>
+<li><a href="/wiki/HTML" title="HTML">HTML</a>—Hypertext Markup Language</li>
+<li><a href="/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol">HTTP</a>—Hypertext Transfer Protocol</li>
+<li><a href="/wiki/Daemon_(computer_software)" class="mw-redirect" title="Daemon (computer software)">HTTPd</a>—Hypertext Transport Protocol Daemon</li>
+<li><a href="/wiki/HTTPS" title="HTTPS">HTTPS</a>—HTTP Secure</li>
+<li><a href="/wiki/HyperTransport" title="HyperTransport">HTX</a>—HyperTransport eXpansion</li>
+<li><a href="/wiki/GNU_Hurd" title="GNU Hurd">HURD</a>—Hird of Unix-Replacing Daemons</li>
+<li><a href="/wiki/Holographic_Versatile_Disc" title="Holographic Versatile Disc">HVD</a>—Holographic Versatile Disc</li>
+<li><a href="/wiki/Hertz" title="Hertz">Hz</a>—Hertz</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=10" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/I%C2%B2C" title="I²C">I²C</a>—Inter-Integrated Circuit</li>
+<li><a href="/wiki/I%C2%B2S" title="I²S">I²S</a>—Integrated Interchip Sound</li>
+<li><a href="/wiki/Internationalization_and_localization" title="Internationalization and localization">I18N</a>—Internationalization</li>
+<li><a href="/wiki/Internet_Assigned_Numbers_Authority" title="Internet Assigned Numbers Authority">IANA</a>—Internet Assigned Numbers Authority</li>
+<li><a href="/wiki/Application_binary_interface" title="Application binary interface">iBCS</a>—Intel Binary Compatibility Standard</li>
+<li><a href="/wiki/IBM" title="IBM">IBM</a>—International Business Machines</li>
+<li><a href="/wiki/Integrated_circuit" title="Integrated circuit">IC</a>—Integrated Circuit</li>
+<li><a href="/wiki/ICANN" title="ICANN">ICANN</a>—Internet Corporation for Assigned Names and Numbers</li>
+<li><a href="/wiki/In-circuit_emulator" class="mw-redirect" title="In-circuit emulator">ICE</a>—In-Circuit Emulator</li>
+<li><a href="/wiki/Intrusion_Countermeasures_Electronics" title="Intrusion Countermeasures Electronics">ICE</a>—Intrusion Countermeasure Electronics</li>
+<li><a href="/wiki/I/O_Controller_Hub" title="I/O Controller Hub">ICH</a>—I/O Controller Hub</li>
+<li><a href="/wiki/Internet_Control_Message_Protocol" title="Internet Control Message Protocol">ICMP</a>—Internet Control Message Protocol</li>
+<li><a href="/wiki/Internet_Cache_Protocol" title="Internet Cache Protocol">ICP</a>—Internet Cache Protocol</li>
+<li><a href="/wiki/Internet_Connection_Sharing" title="Internet Connection Sharing">ICS</a>—Internet Connection Sharing</li>
+<li><a href="/wiki/Information_technology" title="Information technology">ICT</a>—Information and Communication Technology</li>
+<li><a href="/wiki/Integrated_development_environment" title="Integrated development environment">IDE</a>—Integrated Development Environment</li>
+<li><a href="/wiki/Advanced_Technology_Attachment" class="mw-redirect" title="Advanced Technology Attachment">IDE</a>—Integrated Drive Electronics</li>
+<li><a href="/wiki/Intermediate_distribution_frame" title="Intermediate distribution frame">IDF</a>—Intermediate Distribution Frame</li>
+<li><a href="/wiki/Intermediate_Data_Format" title="Intermediate Data Format">IDF</a>—Intermediate Data Format</li>
+<li><a href="/wiki/IDL_(programming_language)" title="IDL (programming language)">IDL</a>—Interactive Data Language</li>
+<li><a href="/wiki/Interface_description_language" title="Interface description language">IDL</a>—Interface Definition Language</li>
+<li><a href="/wiki/Intrusion_detection_system" title="Intrusion detection system">IDS</a>—Intrusion Detection System</li>
+<li><a href="/wiki/Internet_Explorer" title="Internet Explorer">IE</a>—Internet Explorer</li>
+<li><a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a>—International Electrotechnical Commission</li>
+<li><a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">IEEE</a>—Institute of Electrical and Electronics Engineers</li>
+<li><a href="/wiki/Internet_Engineering_Task_Force" title="Internet Engineering Task Force">IETF</a>—Internet Engineering Task Force</li>
+<li>IFGICT—International Federation of Global &amp; Green ICT</li>
+<li><a href="/wiki/Integrated_Facility_for_Linux" title="Integrated Facility for Linux">IFL</a>—Integrated Facility for Linux</li>
+<li><a href="/wiki/Internet_Group_Management_Protocol" title="Internet Group Management Protocol">IGMP</a>—Internet Group Management Protocol</li>
+<li><a href="/wiki/Interior_Gateway_Routing_Protocol" title="Interior Gateway Routing Protocol">IGRP</a>—Interior Gateway Routing Protocol</li>
+<li><a href="/wiki/Independent_hardware_vendor" title="Independent hardware vendor">IHV</a>—Independent Hardware Vendor</li>
+<li><a href="/wiki/General_Inter-ORB_Protocol" title="General Inter-ORB Protocol">IIOP</a>—Internet Inter-Orb Protocol</li>
+<li><a href="/wiki/Internet_Information_Services" title="Internet Information Services">IIS</a>—Internet Information Services</li>
+<li><a href="/wiki/Internet_Key_Exchange" title="Internet Key Exchange">IKE</a>—Internet Key Exchange</li>
+<li><a href="/wiki/Intermediate_language" class="mw-redirect" title="Intermediate language">IL</a>—Intermediate Language</li>
+<li><a href="/wiki/Instant_messaging" title="Instant messaging">IM</a>—Instant Messaging</li>
+<li><a href="/wiki/Internet_Message_Access_Protocol" title="Internet Message Access Protocol">IMAP</a>—Internet Message Access Protocol</li>
+<li><a href="/wiki/Input_method_editor" class="mw-redirect" title="Input method editor">IME</a>—Input Method Editor</li>
+<li><a href="/wiki/Information_security" title="Information security">INFOSEC</a>—Information Systems Security</li>
+<li><a href="/wiki/Input/output" title="Input/output">I/O</a>—Input/output</li>
+<li><a href="/wiki/Internet_of_Things" class="mw-redirect" title="Internet of Things">IoT</a>—Internet of Things</li>
+<li><a href="/wiki/Intellectual_property" title="Intellectual property">IP</a>—Intellectual Property</li>
+<li><a href="/wiki/Internet_Protocol" title="Internet Protocol">IP</a>—Internet Protocol</li>
+<li><a href="/wiki/IP_address_management" title="IP address management">IPAM</a>—IP Address Management</li>
+<li><a href="/wiki/Inter-process_communication" title="Inter-process communication">IPC</a>—Inter-Process Communication</li>
+<li><a href="/wiki/Initial_Program_Load" class="mw-redirect" title="Initial Program Load">IPL</a>—Initial Program Load</li>
+<li><a href="/wiki/Intelligent_Platform_Management_Interface" title="Intelligent Platform Management Interface">IPMI</a>—Intelligent Platform Management Interface</li>
+<li><a href="/wiki/Interprocedural_optimization" title="Interprocedural optimization">IPO</a>—Inter Procedural Optimization</li>
+<li><a href="/wiki/Internet_Printing_Protocol" title="Internet Printing Protocol">IPP</a>—Internet Printing Protocol</li>
+<li><a href="/wiki/IPS_panel" title="IPS panel">IPS</a>—In-Plane Switching</li>
+<li><a href="/wiki/Instructions_per_second" title="Instructions per second">IPS</a>—Instructions Per Second</li>
+<li><a href="/wiki/Intrusion_prevention_system" class="mw-redirect" title="Intrusion prevention system">IPS</a>—Intrusion Prevention System</li>
+<li><a href="/wiki/IPsec" title="IPsec">IPsec</a>—Internet Protocol security</li>
+<li><a href="/wiki/IPTV" title="IPTV">IPTV</a>—Internet Protocol Television</li>
+<li><a href="/wiki/IPv4" title="IPv4">IPv4</a>—Internet Protocol version 4</li>
+<li><a href="/wiki/IPv6" title="IPv6">IPv6</a>—Internet Protocol version 6</li>
+<li><a href="/wiki/Internetwork_Packet_Exchange" title="Internetwork Packet Exchange">IPX</a>—Internetwork Packet Exchange</li>
+<li><a href="/wiki/Intermediate_language" class="mw-redirect" title="Intermediate language">IR</a>—Intermediate Representation</li>
+<li><a href="/wiki/Internet_Relay_Chat" title="Internet Relay Chat">IRC</a>—Internet Relay Chat</li>
+<li><a href="/wiki/Infrared_Data_Association" title="Infrared Data Association">IrDA</a>—Infrared Data Association</li>
+<li><a href="/wiki/Internationalized_Resource_Identifier" title="Internationalized Resource Identifier">IRI</a>—Internationalized Resource Identifier</li>
+<li><a href="/w/index.php?title=I/F&amp;action=edit&amp;redlink=1" class="new" title="I/F (page does not exist)">I/F</a>—Interface</li>
+<li><a href="/wiki/I/O_request_packet" title="I/O request packet">IRP</a>—I/O Request Packet</li>
+<li><a href="/wiki/Interrupt_request" class="mw-redirect" title="Interrupt request">IRQ</a>—Interrupt Request</li>
+<li><a href="/wiki/Information_systems" class="mw-redirect" title="Information systems">IS</a>—Information Systems</li>
+<li><a href="/wiki/IS-IS" title="IS-IS">IS-IS</a>—Intermediate System to Intermediate System</li>
+<li><a href="/wiki/Industry_Standard_Architecture" title="Industry Standard Architecture">ISA</a>—Industry Standard Architecture</li>
+<li><a href="/wiki/Instruction_set" class="mw-redirect" title="Instruction set">ISA</a>—Instruction Set Architecture</li>
+<li><a href="/wiki/ISAM" title="ISAM">ISAM</a>—Indexed Sequential Access Method</li>
+<li><a href="/wiki/ISATAP" title="ISATAP">ISATAP</a>—Intra-Site Automatic Tunnel Addressing Protocol</li>
+<li><a href="/wiki/Internet_Storm_Center" title="Internet Storm Center">ISC</a>—Internet Storm Center</li>
+<li><a href="/wiki/ISCSI" title="ISCSI">iSCSI</a>—Internet Small Computer System Interface</li>
+<li><a href="/wiki/Integrated_services_digital_network" class="mw-redirect" title="Integrated services digital network">ISDN</a>—Integrated Services Digital Network</li>
+<li><a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a>—International Organization for Standardization</li>
+<li><a href="/wiki/Internet_Storage_Name_Service" title="Internet Storage Name Service">iSNS</a>—Internet Storage Name Service</li>
+<li><a href="/wiki/Internet_service_provider" title="Internet service provider">ISP</a>—Internet Service Provider</li>
+<li><a href="/wiki/ISPF" title="ISPF">ISPF</a>—Interactive System Productivity Facility</li>
+<li><a href="/wiki/Interrupt_handler" title="Interrupt handler">ISR</a>—Interrupt Service Routine</li>
+<li><a href="/wiki/Independent_software_vendor" title="Independent software vendor">ISV</a>—Independent Software Vendor</li>
+<li><a href="/wiki/Information_technology" title="Information technology">IT</a>—Information Technology</li>
+<li><a href="/wiki/Information_Technology_Infrastructure_Library" class="mw-redirect" title="Information Technology Infrastructure Library">ITIL</a>—Information Technology Infrastructure Library</li>
+<li><a href="/wiki/Interval_temporal_logic" title="Interval temporal logic">ITL</a>—Interval Temporal Logic</li>
+<li><a href="/wiki/International_Telecommunication_Union" title="International Telecommunication Union">ITU</a>—International Telecommunication Union</li>
+<li><a href="/wiki/Interactive_voice_response" title="Interactive voice response">IVRS</a>—Interactive Voice Response System</li>
+<li><a href="/w/index.php?title=Interactive_Virtual_Classroom&amp;action=edit&amp;redlink=1" class="new" title="Interactive Virtual Classroom (page does not exist)">IVCR</a>—Interactive Virtual Classroom</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=11" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Java_Platform,_Enterprise_Edition" title="Java Platform, Enterprise Edition">J2EE</a>—Java 2 Enterprise Edition</li>
+<li><a href="/wiki/Java_Platform,_Micro_Edition" title="Java Platform, Micro Edition">J2ME</a>—Java 2 Micro Edition</li>
+<li><a href="/wiki/Java_Platform,_Standard_Edition" title="Java Platform, Standard Edition">J2SE</a>—Java 2 Standard Edition</li>
+<li><a href="/wiki/Java_Architecture_for_XML_Binding" title="Java Architecture for XML Binding">JAXB</a>—Java Architecture for XML Binding</li>
+<li><a href="/wiki/Java_API_for_XML-based_RPC" title="Java API for XML-based RPC">JAX-RPC</a>—Java XML for Remote Procedure Calls</li>
+<li><a href="/wiki/Java_API_for_XML_Processing" title="Java API for XML Processing">JAXP</a>—Java API for XML Processing</li>
+<li><a href="/wiki/JBOD" class="mw-redirect" title="JBOD">JBOD</a>—Just a Bunch of Disks</li>
+<li><a href="/wiki/Java_Cryptography_Extension" title="Java Cryptography Extension">JCE</a>— Java Cryptography Extension</li>
+<li><a href="/wiki/Job_Control_Language" title="Job Control Language">JCL</a>—Job Control Language</li>
+<li><a href="/wiki/Java_Community_Process" title="Java Community Process">JCP</a>—Java Community Process</li>
+<li><a href="/wiki/Java_Database_Connectivity" title="Java Database Connectivity">JDBC</a>—Java Database Connectivity</li>
+<li><a href="/wiki/Java_Development_Kit" title="Java Development Kit">JDK</a>—Java Development Kit</li>
+<li><a href="/wiki/Java_Platform,_Enterprise_Edition" title="Java Platform, Enterprise Edition">JEE</a>—Java Enterprise Edition</li>
+<li><a href="/wiki/Job_Entry_Subsystem_2/3" title="Job Entry Subsystem 2/3">JES</a>—Job Entry Subsystem</li>
+<li><a href="/wiki/Java_Desktop_System" title="Java Desktop System">JDS</a>—Java Desktop System</li>
+<li><a href="/wiki/Java_Foundation_Classes" title="Java Foundation Classes">JFC</a>—Java Foundation Classes</li>
+<li><a href="/wiki/JFET" title="JFET">JFET</a>—Junction Field-Effect Transistor</li>
+<li><a href="/wiki/JFS_(file_system)" title="JFS (file system)">JFS</a>—IBM Journaling File System</li>
+<li><a href="/wiki/Jini" title="Jini">JINI</a>—Jini Is Not Initials</li>
+<li><a href="/wiki/Just-in-time_compilation" title="Just-in-time compilation">JIT</a>—Just-In-Time</li>
+<li><a href="/wiki/Java_Platform,_Micro_Edition" title="Java Platform, Micro Edition">JME</a>—Java Micro Edition</li>
+<li><a href="/wiki/Java_Management_Extensions" title="Java Management Extensions">JMX</a>—Java Management Extensions</li>
+<li><a href="/wiki/Java_Message_Service" title="Java Message Service">JMS</a>—Java Message Service</li>
+<li><a href="/wiki/Java_Naming_and_Directory_Interface" title="Java Naming and Directory Interface">JNDI</a>—Java Naming and Directory Interface</li>
+<li><a href="/wiki/Java_Native_Interface" title="Java Native Interface">JNI</a>—Java Native Interface</li>
+<li><a href="/wiki/Instruction_set" class="mw-redirect" title="Instruction set">JNZ</a>—Jump non-zero</li>
+<li><a href="/wiki/JPEG" title="JPEG">JPEG</a>—Joint Photographic Experts Group</li>
+<li><a href="/wiki/Java_Runtime_Environment" class="mw-redirect" title="Java Runtime Environment">JRE</a>—Java Runtime Environment</li>
+<li><a href="/wiki/JavaScript" title="JavaScript">JS</a>—JavaScript</li>
+<li><a href="/wiki/Java_Platform,_Standard_Edition" title="Java Platform, Standard Edition">JSE</a>—Java Standard Edition</li>
+<li><a href="/wiki/JSON" title="JSON">JSON</a>—JavaScript Object Notation</li>
+<li><a href="/wiki/Jackson_Structured_Programming" class="mw-redirect" title="Jackson Structured Programming">JSP</a>—Jackson Structured Programming</li>
+<li><a href="/wiki/JavaServer_Pages" title="JavaServer Pages">JSP</a>—JavaServer Pages</li>
+<li><a href="/wiki/Joint_Test_Action_Group" class="mw-redirect" title="Joint Test Action Group">JTAG</a>—Joint Test Action Group</li>
+<li><a href="/wiki/Java_User_Group" title="Java User Group">JUG</a>—Java Users Group</li>
+<li><a href="/wiki/Java_Virtual_Machine" class="mw-redirect" title="Java Virtual Machine">JVM</a>—Java Virtual Machine</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=12" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/The_C_Programming_Language_(book)" class="mw-redirect" title="The C Programming Language (book)">K&amp;R</a>—Kernighan and Ritchie</li>
+<li><a href="/wiki/Keyboard_(computing)" class="mw-redirect" title="Keyboard (computing)">KB</a>—Keyboard</li>
+<li><a href="/wiki/Kilobit" title="Kilobit">Kb</a>—Kilobit</li>
+<li><a href="/wiki/Kilobyte" title="Kilobyte">KB</a>—Kilobyte</li>
+<li><a href="/wiki/Knowledge_base" title="Knowledge base">KB</a>—Knowledge Base</li>
+<li><a href="/wiki/Kibibyte" title="Kibibyte">KiB</a>—Kibibyte</li>
+<li><a href="/wiki/KDE" title="KDE">KDE</a>—K Desktop Environment</li>
+<li><a href="/wiki/Kilohertz" class="mw-redirect" title="Kilohertz">kHz</a>—Kilohertz</li>
+<li>KM—Knowledge Machine</li>
+<li><a href="/wiki/KRL_(programming_language)" title="KRL (programming language)">KRL</a>—Knowledge Representation Language</li>
+<li><a href="/wiki/KVM_switch" title="KVM switch">KVM</a>—Keyboard, Video, Mouse</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=13" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Internationalization_and_localization" title="Internationalization and localization">L10N</a>—Localization</li>
+<li><a href="/wiki/Layer_2_Tunneling_Protocol" title="Layer 2 Tunneling Protocol">L2TP</a>—Layer two Tunneling Protocol</li>
+<li><a href="/wiki/Link_Aggregation_Control_Protocol" class="mw-redirect" title="Link Aggregation Control Protocol">LACP</a>—Link Aggregation Control Protocol</li>
+<li><a href="/wiki/LAMP_(software_bundle)" title="LAMP (software bundle)">LAMP</a>—Linux Apache MySQL Perl</li>
+<li><a href="/wiki/LAMP_(software_bundle)" title="LAMP (software bundle)">LAMP</a>—Linux Apache MySQL PHP</li>
+<li><a href="/wiki/LAMP_(software_bundle)" title="LAMP (software bundle)">LAMP</a>—Linux Apache MySQL Python</li>
+<li><a href="/wiki/Local_area_network" title="Local area network">LAN</a>—Local Area Network</li>
+<li><a href="/wiki/Logical_block_addressing" title="Logical block addressing">LBA</a>—Logical Block Addressing</li>
+<li><a href="/wiki/Load_balancing_(computing)" title="Load balancing (computing)">LB</a>—Load Balancer</li>
+<li><a href="/wiki/Liquid_crystal_display" class="mw-redirect" title="Liquid crystal display">LCD</a>—Liquid Crystal Display</li>
+<li><a href="/wiki/Least_Cost_Routing" class="mw-redirect" title="Least Cost Routing">LCR</a>—Least Cost Routing</li>
+<li><a href="/wiki/Liquid_crystal_on_silicon" title="Liquid crystal on silicon">LCOS</a>—Liquid Crystal On Silicon</li>
+<li><a href="/wiki/Lightweight_Directory_Access_Protocol" title="Lightweight Directory Access Protocol">LDAP</a>—Lightweight Directory Access Protocol</li>
+<li><a href="/wiki/Logical_volume_management" title="Logical volume management">LE</a>—Logical Extents</li>
+<li><a href="/wiki/Light-emitting_diode" title="Light-emitting diode">LED</a>—Light-Emitting Diode</li>
+<li><a href="/wiki/Line_feed" class="mw-redirect" title="Line feed">LF</a>—Line Feed</li>
+<li><a href="/wiki/Low_frequency" title="Low frequency">LF</a>—Low Frequency</li>
+<li><a href="/wiki/Linux_From_Scratch" title="Linux From Scratch">LFS</a>—Linux From Scratch</li>
+<li><a href="/wiki/GNU_Lesser_General_Public_License" title="GNU Lesser General Public License">LGPL</a>—Lesser General Public License</li>
+<li><a href="/wiki/Library_(computing)" title="Library (computing)">LIB</a>—LIBrary</li>
+<li><a href="/wiki/Low_insertion_force" title="Low insertion force">LIF</a>—Low Insertion Force</li>
+<li><a href="/wiki/LIFO_(computing)" class="mw-redirect" title="LIFO (computing)">LIFO</a>—Last In First Out</li>
+<li><a href="/wiki/LILO_(boot_loader)" title="LILO (boot loader)">LILO</a>—Linux Loader</li>
+<li><a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">LISP</a>—LISt Processing</li>
+<li><a href="/wiki/Linux_kernel_mailing_list" title="Linux kernel mailing list">LKML</a>—Linux Kernel Mailing List</li>
+<li><a href="/wiki/LAN_Manager" title="LAN Manager">LM</a>—Lan Manager</li>
+<li><a href="/wiki/Source_lines_of_code" title="Source lines of code">LOC</a>—Lines of Code</li>
+<li><a href="/wiki/LPC_(programming_language)" title="LPC (programming language)">LPC</a>—Lars Pensjö C</li>
+<li><a href="/wiki/Linux_Professional_Institute" title="Linux Professional Institute">LPI</a>—Linux Professional Institute</li>
+<li><a href="/wiki/Parallel_port" title="Parallel port">LPT</a>— Line Print Terminal</li>
+<li><a href="/wiki/Least_Recently_Used" class="mw-redirect" title="Least Recently Used">LRU</a>—Least Recently Used</li>
+<li><a href="/wiki/Least_significant_bit" class="mw-redirect" title="Least significant bit">LSB</a>—Least Significant Bit</li>
+<li><a href="/wiki/Linux_Standard_Base" title="Linux Standard Base">LSB</a>—Linux Standard Base</li>
+<li><a href="/wiki/Large_Scale_Integration" class="mw-redirect" title="Large Scale Integration">LSI</a>—Large-Scale Integration</li>
+<li><a href="/wiki/Long_Term_Evolution" class="mw-redirect" title="Long Term Evolution">LTE</a>—Long Term Evolution</li>
+<li><a href="/wiki/Linear_temporal_logic" title="Linear temporal logic">LTL</a>—Linear Temporal Logic</li>
+<li><a href="/wiki/Bi-directional_text" title="Bi-directional text">LTR</a>—Left-to-Right</li>
+<li><a href="/wiki/Linux_User_Group" class="mw-redirect" title="Linux User Group">LUG</a>—Linux User Group</li>
+<li><a href="/wiki/Logical_Unit_Number" class="mw-redirect" title="Logical Unit Number">LUN</a>—Logical Unit Number</li>
+<li><a href="/wiki/Logical_volume_management" title="Logical volume management">LV</a>—Logical Volume</li>
+<li><a href="/wiki/Low-voltage_differential_signaling" title="Low-voltage differential signaling">LVD</a>—Low Voltage Differential</li>
+<li><a href="/wiki/Logical_volume_management" title="Logical volume management">LVM</a>—Logical Volume Management</li>
+<li><a href="/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch" title="Lempel–Ziv–Welch">LZW</a>—Lempel-Ziv-Welch</li>
+<li><a href="/wiki/Land_Grid_Array" class="mw-redirect" title="Land Grid Array">LGA</a>—Land Grid Array</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=14" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Mandatory_access_control" title="Mandatory access control">MAC</a>—Mandatory Access Control</li>
+<li><a href="/wiki/Media_Access_Control" class="mw-redirect" title="Media Access Control">MAC</a>—Media Access Control</li>
+<li><a href="/wiki/Metropolitan_area_network" title="Metropolitan area network">MAN</a>—Metropolitan Area Network</li>
+<li><a href="/wiki/Mobile_ad_hoc_network" title="Mobile ad hoc network">MANET</a>—Mobile Ad-Hoc Network</li>
+<li><a href="/wiki/Messaging_Application_Programming_Interface" class="mw-redirect" title="Messaging Application Programming Interface">MAPI</a>—Messaging Application Programming Interface</li>
+<li><a href="/wiki/Megabit" title="Megabit">Mb</a>—Megabit</li>
+<li><a href="/wiki/Megabyte" title="Megabyte">MB</a>—Megabyte</li>
+<li><a href="/wiki/Multi-byte_character_set" class="mw-redirect" title="Multi-byte character set">MBCS</a>—Multi Byte Character Set</li>
+<li><a href="/wiki/Model-based_design" title="Model-based design">MBD</a>—Model-Based Design</li>
+<li><a href="/wiki/Master_boot_record" title="Master boot record">MBR</a>—Master Boot Record</li>
+<li><a href="/wiki/Micro_Channel_architecture" title="Micro Channel architecture">MCA</a>—Micro Channel Architecture</li>
+<li><a href="/wiki/Microsoft_Certified_Professional" title="Microsoft Certified Professional">MCA</a>—Microsoft Certified Architect</li>
+<li><a href="/wiki/Microsoft_Certified_Professional#Microsoft_Certified_Application_Developer_or_M.C.A.D." title="Microsoft Certified Professional">MCAD</a>—Microsoft Certified Application Developer</li>
+<li><a href="/wiki/Microsoft_Certified_Professional#Microsoft_Certified_Application_Specialist_or_M.C.A.S." title="Microsoft Certified Professional">MCAS</a>—Microsoft Certified Application Specialist</li>
+<li><a href="/wiki/MCDBA" class="mw-redirect" title="MCDBA">MCDBA</a>—Microsoft Certified DataBase Administrator</li>
+<li><a href="/wiki/Microsoft_Certified_Professional#Microsoft_Certified_Desktop_Support_Technician_or_M.C.D.S.T." title="Microsoft Certified Professional">MCDST</a>—Microsoft Certified Desktop Support Technician</li>
+<li><a href="/wiki/Microsoft_Certified_Professional" title="Microsoft Certified Professional">MCITP</a>—Microsoft Certified Information Technology Professional</li>
+<li><a href="/wiki/Microsoft_Certified_Professional" title="Microsoft Certified Professional">MCM</a>—Microsoft Certified Master</li>
+<li><a href="/wiki/Microsoft_Certified_Professional" title="Microsoft Certified Professional">MCP</a>—Microsoft Certified Professional</li>
+<li><a href="/w/index.php?title=Multiple_Channels_Per_Carrier&amp;action=edit&amp;redlink=1" class="new" title="Multiple Channels Per Carrier (page does not exist)">MCPC</a>—Multiple Channels Per Carrier</li>
+<li><a href="/wiki/Microsoft_Certified_Professional" title="Microsoft Certified Professional">MCPD</a>—Microsoft Certified Professional Developer</li>
+<li><a href="/wiki/Microsoft_Certified_Professional#Microsoft_Certified_Systems_Administrator_or_M.C.S.A." title="Microsoft Certified Professional">MCSA</a>—Microsoft Certified Systems Administrator</li>
+<li><a href="/wiki/Microsoft_Certified_Professional#Microsoft_Certified_Solution_Developer_or_M.C.S.D." title="Microsoft Certified Professional">MCSD</a>—Microsoft Certified Solution Developer</li>
+<li><a href="/wiki/Microsoft_Certified_Professional#Microsoft_Certified_Systems_Engineer_or_M.C.S.E." title="Microsoft Certified Professional">MCSE</a>—Microsoft Certified Systems Engineer</li>
+<li><a href="/wiki/Microsoft_Certified_Professional#Microsoft_Certified_Trainer_or_M.C.T." title="Microsoft Certified Professional">MCT</a>—Microsoft Certified Trainer</li>
+<li><a href="/wiki/Microsoft_Certified_Professional" title="Microsoft Certified Professional">MCTS</a>—Microsoft Certified Technology Specialist</li>
+<li><a href="/wiki/Mail_delivery_agent" title="Mail delivery agent">MDA</a>—Mail Delivery Agent</li>
+<li><a href="/wiki/Model-driven_architecture" title="Model-driven architecture">MDA</a>—Model-Driven Architecture</li>
+<li><a href="/wiki/IBM_Monochrome_Display_Adapter" title="IBM Monochrome Display Adapter">MDA</a>—Monochrome Display Adapter</li>
+<li><a href="/wiki/Model-driven_software_development" class="mw-redirect" title="Model-driven software development">MDD/MDSD</a>—Model-Driven (Software) Development</li>
+<li><a href="/wiki/Main_distribution_frame" title="Main distribution frame">MDF</a>—Main Distribution Frame</li>
+<li><a href="/wiki/Multiple_document_interface" title="Multiple document interface">MDI</a>—Multiple Document Interface</li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">ME</a>—Microsoft Edge</li>
+<li><a href="/wiki/Windows_Me" class="mw-redirect" title="Windows Me">ME</a>—[Windows] Millennium Edition</li>
+<li><a href="/wiki/Medium_frequency" title="Medium frequency">MF</a>—Medium Frequency</li>
+<li><a href="/wiki/Microsoft_Foundation_Class_Library" title="Microsoft Foundation Class Library">MFC</a>—Microsoft Foundation Classes</li>
+<li><a href="/wiki/Modified_Frequency_Modulation" title="Modified Frequency Modulation">MFM</a>—Modified Frequency Modulation</li>
+<li><a href="/wiki/Media_Gateway_Control_Protocol" title="Media Gateway Control Protocol">MGCP</a>—Media Gateway Control Protocol</li>
+<li><a href="/wiki/Megahertz" class="mw-redirect" title="Megahertz">MHz</a>—Megahertz</li>
+<li><a href="/wiki/Management_information_base" title="Management information base">MIB</a>—Management Information Base</li>
+<li><a href="/wiki/Magnetic_ink_character_recognition" title="Magnetic ink character recognition">MICR</a>—Magnetic Ink Character Recognition</li>
+<li><a href="/wiki/Musical_Instrument_Digital_Interface" class="mw-redirect" title="Musical Instrument Digital Interface">MIDI</a>—Musical Instrument Digital Interface</li>
+<li><a href="/wiki/MIMD" title="MIMD">MIMD</a>—Multiple Instruction, Multiple Data</li>
+<li><a href="/wiki/MIMO" title="MIMO">MIMO</a>—Multiple-Input Multiple-Output</li>
+<li><a href="/wiki/MINIX" title="MINIX">MINIX</a>—MIni-uNIX</li>
+<li><a href="/wiki/Million_instructions_per_second" class="mw-redirect" title="Million instructions per second">MIPS</a>—Million Instructions Per Second</li>
+<li><a href="/wiki/MIPS_architecture" title="MIPS architecture">MIPS</a>—Microprocessor without Interlocked Pipeline Stages</li>
+<li><a href="/wiki/Management_information_system" title="Management information system">MIS</a>—Management Information Systems</li>
+<li><a href="/wiki/MISD" title="MISD">MISD</a>—Multiple Instruction, Single Data</li>
+<li><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a>—Massachusetts Institute of Technology</li>
+<li><a href="/wiki/MIME" title="MIME">MIME</a>—Multipurpose Internet Mail Extensions</li>
+<li><a href="/wiki/Multichannel_Multipoint_Distribution_Service" title="Multichannel Multipoint Distribution Service">MMDS</a>—Multichannel Multipoint Distribution Service</li>
+<li><a href="/wiki/Mortality_Medical_Data_System" title="Mortality Medical Data System">MMDS</a>—Mortality Medical Data System</li>
+<li><a href="/wiki/Man-machine_interface" class="mw-redirect" title="Man-machine interface">MMI</a>—Man Machine Interface.</li>
+<li><a href="/wiki/Memory-mapped_I/O" title="Memory-mapped I/O">MMIO</a>—Memory-Mapped I/O</li>
+<li><a href="/wiki/Massively_multiplayer_online_role-playing_game" title="Massively multiplayer online role-playing game">MMORPG</a>—Massively Multiplayer Online Role-Playing Game</li>
+<li><a href="/wiki/Microsoft_Management_Console" title="Microsoft Management Console">MMC</a>— Microsoft Management Console</li>
+<li><a href="/wiki/Multi-mode_optical_fiber" title="Multi-mode optical fiber">MMF</a>—Multi-Mode (optical) Fiber</li>
+<li><a href="/wiki/Memory_management_unit" title="Memory management unit">MMU</a>—Memory Management Unit</li>
+<li><a href="/wiki/MMX_(instruction_set)" title="MMX (instruction set)">MMX</a>—Multi-Media Extensions</li>
+<li><a href="/wiki/Multiple-image_Network_Graphics" title="Multiple-image Network Graphics">MNG</a>—Multiple-image Network Graphics</li>
+<li><a href="/wiki/Motherboard" title="Motherboard">MoBo</a>—Motherboard</li>
+<li><a href="/wiki/Message-oriented_middleware" title="Message-oriented middleware">MOM</a>—Message-Oriented Middleware</li>
+<li><a href="/wiki/MOO" title="MOO">MOO</a>—MUD Object Oriented</li>
+<li><a href="/wiki/Metaobject_protocol" class="mw-redirect" title="Metaobject protocol">MOP</a>—Meta-Object Protocol</li>
+<li><a href="/wiki/Microsoft_Certified_Professional#Microsoft_Office_Specialist_or_M.O.S." title="Microsoft Certified Professional">MOS</a>—Microsoft Office Specialist</li>
+<li><a href="/wiki/MOSFET" title="MOSFET">MOSFET</a>—Metal-Oxide Semiconductor Field Effect Transistor</li>
+<li><a href="/wiki/Motd_(Unix)" title="Motd (Unix)">MOTD</a>—Message Of The Day</li>
+<li><a href="/wiki/Microsoft_Certified_Professional" title="Microsoft Certified Professional">MOUS</a>—Microsoft Office User Specialist</li>
+<li><a href="/wiki/QuickTime_File_Format" title="QuickTime File Format">MOV</a>—Apple QuickTime Multimedia File</li>
+<li><a href="/wiki/Motion_Picture_Association_of_America" title="Motion Picture Association of America">MPAA</a>—Motion Picture Association of America</li>
+<li><a href="/wiki/Moving_Picture_Experts_Group" title="Moving Picture Experts Group">MPEG</a>—Motion Pictures Experts Group</li>
+<li><a href="/wiki/Mozilla_Public_License" title="Mozilla Public License">MPL</a>—Mozilla Public License</li>
+<li><a href="/wiki/Multiprotocol_Label_Switching" title="Multiprotocol Label Switching">MPLS</a>—Multiprotocol Label Switching</li>
+<li><a href="/wiki/Microprocessor" title="Microprocessor">MPU</a>—Microprocessor Unit</li>
+<li><a href="/wiki/USB_flash_drive" title="USB flash drive">MS</a>—Memory Stick</li>
+<li><a href="/wiki/Microsoft" title="Microsoft">MS</a>—Microsoft</li>
+<li><a href="/wiki/Most_significant_bit" class="mw-redirect" title="Most significant bit">MSB</a>—Most Significant Bit</li>
+<li><a href="/wiki/Microsoft_Network" class="mw-redirect" title="Microsoft Network">MSN</a>—Microsoft Network</li>
+<li><a href="/wiki/MS-DOS" title="MS-DOS">MS-DOS</a>—Microsoft DOS</li>
+<li><a href="/wiki/Machine_translation" title="Machine translation">MT</a>—Machine Translation</li>
+<li><a href="/wiki/Message_transfer_agent" title="Message transfer agent">MTA</a>—Mail Transfer Agent</li>
+<li><a href="/wiki/Microsoft_Certified_Professional" title="Microsoft Certified Professional">MTA</a>—Microsoft Technology Associate</li>
+<li><a href="/wiki/MTBF" class="mw-redirect" title="MTBF">MTBF</a>—Mean Time Between Failures</li>
+<li><a href="/wiki/Maximum_transmission_unit" title="Maximum transmission unit">MTU</a>—Maximum Transmission Unit</li>
+<li><a href="/wiki/Mail_submission_agent" class="mw-redirect" title="Mail submission agent">MSA</a>—Mail Submission Agent</li>
+<li><a href="/wiki/Microsoft_Developer_Network" title="Microsoft Developer Network">MSDN</a>—Microsoft Developer Network</li>
+<li><a href="/wiki/Integrated_circuit#MSI" title="Integrated circuit">MSI</a>—Medium-Scale Integration</li>
+<li><a href="/wiki/Message_Signaled_Interrupts" title="Message Signaled Interrupts">MSI</a>—Message Signaled Interrupt</li>
+<li><a href="/wiki/Windows_Installer" title="Windows Installer">MSI</a>—Microsoft Installer</li>
+<li><a href="/wiki/Mail_User_Agent" class="mw-redirect" title="Mail User Agent">MUA</a>—Mail User Agent</li>
+<li><a href="/wiki/MUD" title="MUD">MUD</a>—Multi-User Dungeon</li>
+<li><a href="/wiki/Model%E2%80%93view%E2%80%93controller" title="Model–view–controller">MVC</a>—Model-View-Controller</li>
+<li><a href="/wiki/Microsoft_Most_Valuable_Professional" title="Microsoft Most Valuable Professional">MVP</a>—Most Valuable Professional</li>
+<li><a href="/wiki/MVS" title="MVS">MVS</a>—Multiple Virtual Storage</li>
+<li><a href="/wiki/Mobile_World_Congress" title="Mobile World Congress">MWC</a>—Mobile World Congress</li>
+<li><a href="/wiki/MX_record" title="MX record">MX</a>—Mail exchange</li>
+<li><a href="/wiki/Material_Exchange_Format" title="Material Exchange Format">MXF</a>—Material Exchange Format</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=15" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Negative-acknowledge_character" class="mw-redirect" title="Negative-acknowledge character">NACK</a>—Negative ACKnowledgement</li>
+<li><a href="/wiki/Negative-acknowledge_character" class="mw-redirect" title="Negative-acknowledge character">NAK</a>—Negative AcKnowledge Character</li>
+<li><a href="/wiki/NaN" title="NaN">NaN</a>—Not a Number</li>
+<li><a href="/wiki/Network_Access_Protection" title="Network Access Protection">NAP</a>—Network Access Protection</li>
+<li><a href="/wiki/Network-attached_storage" title="Network-attached storage">NAS</a>—Network-Attached Storage</li>
+<li><a href="/wiki/Netwide_Assembler" title="Netwide Assembler">NASM</a>—Netwide ASseMbler</li>
+<li><a href="/wiki/Network_address_translation" title="Network address translation">NAT</a>—Network Address Translation</li>
+<li><a href="/wiki/NetWare_Core_Protocol" title="NetWare Core Protocol">NCP</a>—NetWare Core Protocol</li>
+<li><a href="/wiki/Native_Command_Queuing" title="Native Command Queuing">NCQ</a>—Native Command Queuing</li>
+<li><a href="/wiki/National_Center_for_Supercomputing_Applications" title="National Center for Supercomputing Applications">NCSA</a>—National Center for Supercomputing Applications</li>
+<li><a href="/wiki/Network_Driver_Interface_Specification" title="Network Driver Interface Specification">NDIS</a>—Network Driver Interface Specification</li>
+<li><a href="/wiki/Novell_Embedded_Systems_Technology" title="Novell Embedded Systems Technology">NDPS</a>—Novell Distributed Print Services</li>
+<li><a href="/wiki/Novell_Directory_Services" class="mw-redirect" title="Novell Directory Services">NDS</a>—Novell Directory Services</li>
+<li><a href="/wiki/Network_Equipment_Provider" class="mw-redirect" title="Network Equipment Provider">NEP</a>—Network Equipment Provider</li>
+<li><a href="/wiki/NetBIOS" title="NetBIOS">NetBIOS</a>—Network Basic Input/Output System</li>
+<li><a href="/wiki/NetBIOS_over_TCP/IP" title="NetBIOS over TCP/IP">NetBT</a>—NetBIOS over TCP/IP</li>
+<li><a href="/wiki/Near_end_crosstalk" class="mw-redirect" title="Near end crosstalk">NEXT</a>—Near-End CrossTalk</li>
+<li><a href="/wiki/Nondeterministic_finite_automaton" title="Nondeterministic finite automaton">NFA</a>—Nondeterministic Finite Automaton</li>
+<li><a href="/wiki/Near_field_communication" class="mw-redirect" title="Near field communication">NFC</a>—Near field communication</li>
+<li><a href="/wiki/Network_File_System_(protocol)" class="mw-redirect" title="Network File System (protocol)">NFS</a>—Network File System</li>
+<li>NGL—aNGeL</li>
+<li><a href="/wiki/Next-Generation_Secure_Computing_Base" title="Next-Generation Secure Computing Base">NGSCB</a>—Next-Generation Secure Computing Base</li>
+<li><a href="/wiki/National_Instruments" title="National Instruments">NI</a>—National Instruments</li>
+<li><a href="/wiki/Network_interface_controller" title="Network interface controller">NIC</a>—Network Interface Controller</li>
+<li><a href="/wiki/No_Internal_Message" class="mw-redirect" title="No Internal Message">NIM</a>—No Internal Message</li>
+<li><a href="/wiki/New_I/O" class="mw-redirect" title="New I/O">NIO</a>—New I/O</li>
+<li><a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">NIST</a>—National Institute of Standards and Technology</li>
+<li><a href="/wiki/Natural_language_processing" class="mw-redirect" title="Natural language processing">NLP</a>—Natural Language Processing</li>
+<li><a href="/wiki/Internationalization_and_localization" title="Internationalization and localization">NLS</a>—Native Language Support</li>
+<li><a href="/wiki/Non-maskable_interrupt" title="Non-maskable interrupt">NMI</a>—Non-Maskable Interrupt</li>
+<li><a href="/wiki/Network_News_Transfer_Protocol" title="Network News Transfer Protocol">NNTP</a>—Network News Transfer Protocol</li>
+<li><a href="/wiki/Network_operations_center" title="Network operations center">NOC</a>—Network Operations Center</li>
+<li><a href="/wiki/NOP" title="NOP">NOP</a>—No OPeration</li>
+<li><a href="/wiki/Network_operating_system" title="Network operating system">NOS</a>—Network Operating System</li>
+<li><a href="/wiki/NP_(complexity)" title="NP (complexity)">NP</a>—Nondeterministic Polynomial time</li>
+<li><a href="/wiki/Netscape_Public_License" title="Netscape Public License">NPL</a>—Netscape Public License</li>
+<li><a href="/wiki/Native_POSIX_Thread_Library" title="Native POSIX Thread Library">NPTL</a>—Native POSIX Thread Library</li>
+<li><a href="/wiki/Network_Processing_Unit" class="mw-redirect" title="Network Processing Unit">NPU</a>—Network Processing Unit</li>
+<li><a href="/wiki/Netscape" title="Netscape">NS</a>—Netscape</li>
+<li><a href="/w/index.php?title=Network_Security_Appliance&amp;action=edit&amp;redlink=1" class="new" title="Network Security Appliance (page does not exist)">NSA</a>—Network Security Appliance</li>
+<li><a href="/w/index.php?title=Network_Service_Interface&amp;action=edit&amp;redlink=1" class="new" title="Network Service Interface (page does not exist)">NSI</a>—Network Service Interface</li>
+<li><a href="/wiki/Netscape_Portable_Runtime" title="Netscape Portable Runtime">NSPR</a>—Netscape Portable Runtime</li>
+<li><a href="/wiki/Novell_Storage_Services" title="Novell Storage Services">NSS</a>—Novell Storage Service</li>
+<li><a href="/wiki/Network_Security_Services" title="Network Security Services">NSS</a>—Network Security Services</li>
+<li><a href="/wiki/Name_Service_Switch" title="Name Service Switch">NSS</a>—Name Service Switch</li>
+<li><a href="/wiki/Windows_NT" title="Windows NT">NT</a>—New Technology</li>
+<li><a href="/wiki/NTFS" title="NTFS">NTFS</a>—NT Filesystem</li>
+<li><a href="/wiki/NTLM" class="mw-redirect" title="NTLM">NTLM</a>—NT Lan Manager</li>
+<li><a href="/wiki/Network_Time_Protocol" title="Network Time Protocol">NTP</a>—Network Time Protocol</li>
+<li><a href="/wiki/Non-Uniform_Memory_Access" class="mw-redirect" title="Non-Uniform Memory Access">NUMA</a>—Non-Uniform Memory Access</li>
+<li><a href="/wiki/Non-uniform_rational_B-spline" title="Non-uniform rational B-spline">NURBS</a>—Non-Uniform Rational B-Spline</li>
+<li><a href="/wiki/Network_Video_Recorder" class="mw-redirect" title="Network Video Recorder">NVR</a>—Network Video Recorder</li>
+<li><a href="/wiki/Non-volatile_random_access_memory" class="mw-redirect" title="Non-volatile random access memory">NVRAM</a>—Non-Volatile Random Access Memory</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=16" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/OASIS_(organization)" title="OASIS (organization)">OASIS</a>—Organization for the Advancement of Structured Information Standards</li>
+<li><a href="/wiki/Operational_Acceptance_Testing" class="mw-redirect" title="Operational Acceptance Testing">OAT</a>—Operational Acceptance Testing</li>
+<li><a href="/wiki/OBSAI" class="mw-redirect" title="OBSAI">OBSAI</a>—Open Base Station Architecture Initiative</li>
+<li><a href="/wiki/Open_Database_Connectivity" title="Open Database Connectivity">ODBC</a>—Open Database Connectivity</li>
+<li><a href="/wiki/Original_equipment_manufacturer" title="Original equipment manufacturer">OEM</a>—Original Equipment Manufacturer</li>
+<li><a href="/wiki/Novell_Open_Enterprise_Server" title="Novell Open Enterprise Server">OES</a>—Open Enterprise Server</li>
+<li><a href="/wiki/Orthogonal_Frequency_Division_Multiplexing" class="mw-redirect" title="Orthogonal Frequency Division Multiplexing">OFDM</a>—Orthogonal Frequency Division Multiplexing</li>
+<li><a href="/wiki/Open_and_Free_Technology_Community" title="Open and Free Technology Community">OFTC</a>—Open and Free Technology Community</li>
+<li><a href="/wiki/Object_identifier" title="Object identifier">OID</a>—Object Identifier</li>
+<li><a href="/wiki/Online_analytical_processing" title="Online analytical processing">OLAP</a>—Online Analytical Processing</li>
+<li><a href="/wiki/Object_Linking_and_Embedding" title="Object Linking and Embedding">OLE</a>—Object Linking and Embedding</li>
+<li><a href="/wiki/Organic_light-emitting_diode" class="mw-redirect" title="Organic light-emitting diode">OLED</a>—Organic Light Emitting Diode</li>
+<li><a href="/wiki/One_Laptop_per_Child" title="One Laptop per Child">OLPC</a>—One Laptop per Child</li>
+<li><a href="/wiki/Online_transaction_processing" title="Online transaction processing">OLTP</a>—Online Transaction Processing</li>
+<li><a href="/wiki/Relocatable_Object_Module_Format" title="Relocatable Object Module Format">OMF</a>—Object Module Format</li>
+<li><a href="/wiki/Object_Management_Group" title="Object Management Group">OMG</a>—Object Management Group</li>
+<li><a href="/wiki/Optical_Mark_Recognition" class="mw-redirect" title="Optical Mark Recognition">OMR</a>—Optical Mark Reader</li>
+<li><a href="/wiki/Object-oriented_programming" title="Object-oriented programming">OO</a>—Object-Oriented</li>
+<li><a href="/wiki/OpenOffice.org" title="OpenOffice.org">OO</a>—OpenOffice</li>
+<li><a href="/wiki/Out-of-order_execution" title="Out-of-order execution">OOE</a>—Out-of-Order Execution</li>
+<li><a href="/wiki/Out_of_memory" title="Out of memory">OOM</a>—Out Of Memory</li>
+<li><a href="/wiki/OpenOffice.org" title="OpenOffice.org">OOo</a>—OpenOffice.org</li>
+<li><a href="/wiki/Out-of-order_execution" title="Out-of-order execution">OoOE</a>—Out-of-Order Execution</li>
+<li><a href="/wiki/Object-oriented_programming" title="Object-oriented programming">OOP</a>—Object-Oriented Programming</li>
+<li><a href="/wiki/Out_of_the_box_(feature)" title="Out of the box (feature)">OOTB</a>—Out of the box</li>
+<li><a href="/wiki/OPML" title="OPML">OPML</a>—Outline Processor Markup Language</li>
+<li><a href="/wiki/Object_request_broker" title="Object request broker">ORB</a>—Object Request Broker</li>
+<li><a href="/wiki/Object-relational_mapping" title="Object-relational mapping">ORM</a>—Object-Relational Mapping</li>
+<li><a href="/wiki/Open_source" class="mw-redirect" title="Open source">OS</a>—Open Source</li>
+<li><a href="/wiki/Operating_system" title="Operating system">OS</a>—Operating System</li>
+<li><a href="/wiki/O%27Reilly_Open_Source_Convention" title="O'Reilly Open Source Convention">OSCON</a>—O'Reilly Open Source CONvention</li>
+<li><a href="/wiki/OSDN" title="OSDN">OSDN</a>—Open Source Development Network</li>
+<li><a href="/wiki/Open_Source_Initiative" title="Open Source Initiative">OSI</a>—Open Source Initiative</li>
+<li><a href="/wiki/Open_Systems_Interconnection" title="Open Systems Interconnection">OSI</a>—Open Systems Interconnection</li>
+<li><a href="/wiki/Open_Shortest_Path_First" title="Open Shortest Path First">OSPF</a>—Open Shortest Path First</li>
+<li><a href="/wiki/Open_Sound_System" title="Open Sound System">OSS</a>—Open Sound System</li>
+<li><a href="/wiki/Open_source_software" class="mw-redirect" title="Open source software">OSS</a>—Open-Source Software</li>
+<li><a href="/wiki/Operations_support_system" title="Operations support system">OSS</a>—Operations Support System</li>
+<li><a href="/wiki/Open_Source_Technology_Group" class="mw-redirect" title="Open Source Technology Group">OSTG</a>—Open Source Technology Group</li>
+<li><a href="/wiki/Organizationally_Unique_Identifier" class="mw-redirect" title="Organizationally Unique Identifier">OUI</a>—Organisationally Unique Identifier</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=17" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Peer-to-peer" title="Peer-to-peer">P2P</a>—Peer-To-Peer</li>
+<li><a href="/wiki/Platform_as_a_service" title="Platform as a service">PaaS</a>—Platform as a Service</li>
+<li><a href="/wiki/Personal_area_network" title="Personal area network">PAN</a>—Personal Area Network</li>
+<li><a href="/wiki/Password_authentication_protocol" class="mw-redirect" title="Password authentication protocol">PAP</a>—Password Authentication Protocol</li>
+<li><a href="/wiki/PARC_(company)" title="PARC (company)">PARC</a>—Palo Alto Research Center</li>
+<li><a href="/wiki/Parallel_ATA" title="Parallel ATA">PATA</a>—Parallel ATA</li>
+<li><a href="/wiki/Portable_Batch_System" title="Portable Batch System">PBS</a>—Portable Batch System</li>
+<li><a href="/wiki/Personal_computer" title="Personal computer">PC</a>—Personal Computer</li>
+<li><a href="/wiki/Printed_circuit_board" title="Printed circuit board">PCB</a>—Printed Circuit Board</li>
+<li><a href="/wiki/Process_control_block" title="Process control block">PCB</a>—Process Control Block</li>
+<li><a href="/wiki/IBM_PC_DOS" title="IBM PC DOS">PC DOS</a>—Personal Computer Disc Operating System</li>
+<li><a href="/wiki/Peripheral_Component_Interconnect" class="mw-redirect" title="Peripheral Component Interconnect">PCI</a>—Peripheral Component Interconnect</li>
+<li><a href="/wiki/PCI_Express" title="PCI Express">PCIe</a>—PCI Express</li>
+<li><a href="/wiki/Printer_Command_Language" title="Printer Command Language">PCL</a>—Printer Command Language</li>
+<li><a href="/wiki/Personal_Computer_Memory_Card_International_Association" title="Personal Computer Memory Card International Association">PCMCIA</a>—Personal Computer Memory Card International Association</li>
+<li><a href="/wiki/Pulse-code_modulation" title="Pulse-code modulation">PCM</a>—Pulse-Code Modulation</li>
+<li><a href="/wiki/Perl_Compatible_Regular_Expressions" title="Perl Compatible Regular Expressions">PCRE</a>—Perl Compatible Regular Expressions</li>
+<li><a href="/wiki/Public_domain" title="Public domain">PD</a>—Public Domain</li>
+<li><a href="/wiki/Personal_digital_assistant" title="Personal digital assistant">PDA</a>—Personal Digital Assistant</li>
+<li><a href="/wiki/Portable_Document_Format" class="mw-redirect" title="Portable Document Format">PDF</a>—Portable Document Format</li>
+<li><a href="/wiki/Plesiochronous_Digital_Hierarchy" class="mw-redirect" title="Plesiochronous Digital Hierarchy">PDH</a>—Plesiochronous Digital Hierarchy</li>
+<li><a href="/wiki/Programmed_Data_Processor" title="Programmed Data Processor">PDP</a>—Programmed Data Processor</li>
+<li><a href="/wiki/Logical_volume_management" title="Logical volume management">PE</a>—Physical Extents</li>
+<li><a href="/wiki/Perl" title="Perl">PERL</a>—Practical Extraction and Reporting Language</li>
+<li><a href="/w/index.php?title=Please_Find_Atachment&amp;action=edit&amp;redlink=1" class="new" title="Please Find Atachment (page does not exist)">PFA</a>—Please Find Attachment</li>
+<li><a href="/w/index.php?title=Peripheral_Gateway&amp;action=edit&amp;redlink=1" class="new" title="Peripheral Gateway (page does not exist)">PG</a>—Peripheral Gateway</li>
+<li><a href="/wiki/Pin_grid_array" title="Pin grid array">PGA</a>—Pin Grid Array</li>
+<li><a href="/wiki/Field-programmable_gate_array" title="Field-programmable gate array">PGA</a>—Programmable Gate Array</li>
+<li><a href="/wiki/Profile-guided_optimization" title="Profile-guided optimization">PGO</a>—Profile-Guided Optimization</li>
+<li><a href="/wiki/Pretty_Good_Privacy" title="Pretty Good Privacy">PGP</a>—Pretty Good Privacy</li>
+<li><a href="/wiki/PHP" title="PHP">PHP</a>—Hypertext Preprocessor</li>
+<li><a href="/wiki/PIC_microcontroller" title="PIC microcontroller">PIC</a>—Peripheral Interface Controller</li>
+<li><a href="/wiki/Programmable_Interrupt_Controller" class="mw-redirect" title="Programmable Interrupt Controller">PIC</a>—Programmable Interrupt Controller</li>
+<li><a href="/wiki/PID_controller" title="PID controller">PID</a>—Proportional-Integral-Derivative</li>
+<li><a href="/wiki/Process_identifier" title="Process identifier">PID</a>—Process ID</li>
+<li><a href="/wiki/Personal_information_manager" title="Personal information manager">PIM</a>—Personal Information Manager</li>
+<li><a href="/wiki/Pine_(e-mail_client)" class="mw-redirect" title="Pine (e-mail client)">PINE</a>—Program for Internet News and Email</li>
+<li><a href="/wiki/Platform_Independent_Model" class="mw-redirect" title="Platform Independent Model">PIM</a>—Platform Independent Model</li>
+<li><a href="/wiki/Programmed_input/output" title="Programmed input/output">PIO</a>—Programmed Input/Output</li>
+<li><a href="/wiki/PKCS" title="PKCS">PKCS</a>—Public Key Cryptography Standards</li>
+<li><a href="/wiki/Public_key_infrastructure" title="Public key infrastructure">PKI</a>—Public Key Infrastructure</li>
+<li><a href="/wiki/Power_line_communication" class="mw-redirect" title="Power line communication">PLC</a>—Power Line Communication</li>
+<li><a href="/wiki/Programmable_logic_controller" title="Programmable logic controller">PLC</a>—Programmable Logic Controller</li>
+<li><a href="/wiki/Programmable_logic_device" title="Programmable logic device">PLD</a>—Programmable Logic Device</li>
+<li><a href="/wiki/PL/I" title="PL/I">PL/I</a>—Programming Language One</li>
+<li><a href="/wiki/PL/M" title="PL/M">PL/M</a>—Programming Language for Microcomputers</li>
+<li><a href="/wiki/PL/P" title="PL/P">PL/P</a>—Programming Language for Prime</li>
+<li><a href="/wiki/Power_line_communication" class="mw-redirect" title="Power line communication">PLT</a>—Power Line Telecommunications</li>
+<li><a href="/wiki/Power-on_self-test" title="Power-on self-test">PMM</a>—POST Memory Manager</li>
+<li><a href="/wiki/Portable_Network_Graphics" title="Portable Network Graphics">PNG</a>—Portable Network Graphics</li>
+<li><a href="/wiki/Plug_and_play" title="Plug and play">PnP</a>—Plug-and-Play</li>
+<li><a href="/wiki/Peer_Name_Resolution_Protocol" title="Peer Name Resolution Protocol">PNRP</a>—Peer Name Resolution Protocol</li>
+<li><a href="/wiki/Power_over_Ethernet" title="Power over Ethernet">PoE</a>—Power over Ethernet</li>
+<li><a href="/wiki/Persistent_Object_Identifier" title="Persistent Object Identifier">POID</a>—Persistent Object Identifier</li>
+<li><a href="/wiki/Plain_Old_Java_Object" class="mw-redirect" title="Plain Old Java Object">POJO</a>—Plain Old Java Object</li>
+<li><a href="/wiki/Point_of_presence" title="Point of presence">POP</a>—Point of Presence</li>
+<li><a href="/wiki/Post_Office_Protocol" title="Post Office Protocol">POP3</a>—Post Office Protocol v3</li>
+<li><a href="/wiki/POSIX" title="POSIX">POSIX</a>—Portable Operating System Interface, formerly IEEE-IX</li>
+<li><a href="/wiki/Power-on_self-test" title="Power-on self-test">POST</a>—Power-On Self Test</li>
+<li><a href="/wiki/PowerPC" title="PowerPC">PPC</a>—PowerPC</li>
+<li><a href="/wiki/Pixels_per_inch" class="mw-redirect" title="Pixels per inch">PPI</a>—Pixels Per Inch</li>
+<li><a href="/wiki/Point-to-Point_Protocol" title="Point-to-Point Protocol">PPP</a>—Point-to-Point Protocol</li>
+<li><a href="/wiki/Point-to-Point_Protocol_over_ATM" title="Point-to-Point Protocol over ATM">PPPoA</a>—PPP over ATM</li>
+<li><a href="/wiki/Point-to-Point_Protocol_over_Ethernet" title="Point-to-Point Protocol over Ethernet">PPPoE</a>—PPP over Ethernet</li>
+<li><a href="/wiki/Point-to-point_tunneling_protocol" class="mw-redirect" title="Point-to-point tunneling protocol">PPTP</a>—Point-to-Point Tunneling Protocol</li>
+<li><a href="/wiki/Pull_request" class="mw-redirect" title="Pull request">PR</a>—Pull Request</li>
+<li><a href="/wiki/PostScript" title="PostScript">PS</a>—PostScript</li>
+<li><a href="/wiki/IBM_Personal_System/2" title="IBM Personal System/2">PS/2</a>—Personal System/2</li>
+<li><a href="/wiki/Professional_Services_Automation" class="mw-redirect" title="Professional Services Automation">PSA</a>—Professional Services Automation</li>
+<li><a href="/wiki/Platform_Specific_Model" class="mw-redirect" title="Platform Specific Model">PSM</a>—Platform Specific Model</li>
+<li><a href="/wiki/Power_supply" title="Power supply">PSU</a>—Power Supply Unit</li>
+<li><a href="/wiki/PSVI" class="mw-redirect" title="PSVI">PSVI</a>—Post-Schema-Validation Infoset</li>
+<li><a href="/wiki/PTS-DOS" title="PTS-DOS">PTS-DOS</a>—PhysTechSoft - Disk Operating System</li>
+<li><a href="/wiki/Logical_volume_management" title="Logical volume management">PV</a>—Physical Volume</li>
+<li><a href="/wiki/Logical_volume_management" title="Logical volume management">PVG</a>—Physical Volume Group</li>
+<li><a href="/wiki/Personal_video_recorder" class="mw-redirect" title="Personal video recorder">PVR</a>—Personal Video Recorder</li>
+<li><a href="/wiki/Preboot_Execution_Environment" title="Preboot Execution Environment">PXE</a>—Preboot Execution Environment</li>
+<li><a href="/wiki/PCI_eXtensions_for_Instrumentation" title="PCI eXtensions for Instrumentation">PXI</a>—PCI eXtensions for Instrumentation</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=18" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Quad_Data_Rate_SRAM" title="Quad Data Rate SRAM">QDR</a>—Quad Data Rate</li>
+<li><a href="/wiki/Quality_control" title="Quality control">QA</a>—Quality Assurance</li>
+<li><a href="/wiki/Quad_Flat_Package" title="Quad Flat Package">QFP</a>—Quad Flat Package</li>
+<li><a href="/wiki/Quality_of_service" title="Quality of service">QoS</a>—Quality of Service</li>
+<li><a href="/wiki/QOTD" title="QOTD">QOTD</a>—Quote of the Day</li>
+<li><a href="/wiki/Qt_(toolkit)" class="mw-redirect" title="Qt (toolkit)">Qt</a>—Quasar Toolkit</li>
+<li><a href="/wiki/Queued_teleprocessing_access_method" class="mw-redirect" title="Queued teleprocessing access method">QTAM</a>—Queued Teleprocessing Access Method</li>
+<li><a href="/w/index.php?title=Quarter_Small_Outline_Package&amp;action=edit&amp;redlink=1" class="new" title="Quarter Small Outline Package (page does not exist)">QSOP</a>—Quarter Small Outline Package</li>
+<li><a href="/w/index.php?title=Quality_Windows_Audio/Video_Experience&amp;action=edit&amp;redlink=1" class="new" title="Quality Windows Audio/Video Experience (page does not exist)">qWave</a>—Quality Windows Audio/Video Experience</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=19" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/RACF" class="mw-redirect" title="RACF">RACF</a>—Resource Access Control Facility</li>
+<li><a href="/wiki/Rapid_application_development" title="Rapid application development">RAD</a>—Rapid Application Development</li>
+<li><a href="/wiki/RADIUS" title="RADIUS">RADIUS</a>—Remote Authentication Dial In User Service</li>
+<li><a href="/wiki/RAID" title="RAID">RAID</a>—Redundant Array of Independent Disks</li>
+<li><a href="/wiki/Resource_Acquisition_Is_Initialization" class="mw-redirect" title="Resource Acquisition Is Initialization">RAII</a>—Resource Acquisition Is Initialization</li>
+<li><a href="/wiki/RAID" title="RAID">RAIT</a>—Redundant Array of Inexpensive Tapes</li>
+<li><a href="/wiki/Random-access_memory" title="Random-access memory">RAM</a>—Random Access Memory</li>
+<li><a href="/wiki/Reverse_Address_Resolution_Protocol" title="Reverse Address Resolution Protocol">RARP</a>—Reverse Address Resolution Protocol</li>
+<li><a href="/wiki/Reliability,_availability_and_serviceability_(computer_hardware)" class="mw-redirect" title="Reliability, availability and serviceability (computer hardware)">RAS</a>—Reliability, Availability and Serviceability</li>
+<li><a href="/wiki/Remote_access_service" title="Remote access service">RAS</a>—Remote access service</li>
+<li><a href="/wiki/DVD_region_code" title="DVD region code">RC</a>—Region Code</li>
+<li><a href="/wiki/Release_Candidate" class="mw-redirect" title="Release Candidate">RC</a>—Release Candidate</li>
+<li><a href="/wiki/Run_commands" title="Run commands">RC</a>—Run Commands</li>
+<li><a href="/wiki/Revision_Control_System" title="Revision Control System">RCS</a>—Revision Control System</li>
+<li><a href="/wiki/Remote_desktop_software" title="Remote desktop software">RD</a>—Remote Desktop</li>
+<li><a href="/w/index.php?title=Remove_directory&amp;action=edit&amp;redlink=1" class="new" title="Remove directory (page does not exist)">rd</a>—remove directory</li>
+<li><a href="/wiki/Relational_database_management_system" title="Relational database management system">RDBMS</a>—Relational Database Management System</li>
+<li><a href="/wiki/Remote_Desktop_Connection" class="mw-redirect" title="Remote Desktop Connection">RDC</a>—Remote Desktop Connection</li>
+<li><a href="/wiki/Resource_Description_Framework" title="Resource Description Framework">RDF</a>—Resource Description Framework</li>
+<li><a href="/wiki/Relational_data_model" class="mw-redirect" title="Relational data model">RDM</a>—Relational Data Model</li>
+<li><a href="/wiki/RTOS" class="mw-redirect" title="RTOS">RDOS</a>—Real-time Disk Operating System</li>
+<li><a href="/wiki/Remote_Desktop_Protocol" title="Remote Desktop Protocol">RDP</a>— Remote Desktop Protocol</li>
+<li><a href="/wiki/Remote_Data_Services" title="Remote Data Services">RDS</a>—Remote Data Services</li>
+<li><a href="/wiki/Refal" title="Refal">REFAL</a>—Recursive Functions Algorithmic Language</li>
+<li><a href="/wiki/Representational_State_Transfer" class="mw-redirect" title="Representational State Transfer">REST</a>—Representational State Transfer</li>
+<li><a href="/wiki/Regular_expression" title="Regular expression">regex</a>—Regular Expression</li>
+<li><a href="/wiki/Regular_expression" title="Regular expression">regexp</a>—Regular Expression</li>
+<li><a href="/wiki/Radio_frequency" title="Radio frequency">RF</a>—Radio Frequency</li>
+<li><a href="/wiki/Request_for_Comments" title="Request for Comments">RFC</a>—Request For Comments</li>
+<li><a href="/wiki/Radio_frequency_interference" class="mw-redirect" title="Radio frequency interference">RFI</a>—Radio Frequency Interference</li>
+<li><a href="/wiki/Radio-frequency_identification" title="Radio-frequency identification">RFID</a>—Radio Frequency Identification</li>
+<li><a href="/wiki/RGB_color_model" title="RGB color model">RGB</a>—Red, Green, Blue</li>
+<li>RGBA—Red, Green, Blue, Alpha</li>
+<li><a href="/wiki/Red_Hat_Linux" title="Red Hat Linux">RHL</a>—Red Hat Linux</li>
+<li><a href="/wiki/Red_Hat_Enterprise_Linux" title="Red Hat Enterprise Linux">RHEL</a>—Red Hat Enterprise Linux</li>
+<li><a href="/wiki/Rich_Internet_application" title="Rich Internet application">RIA</a>—Rich Internet Application</li>
+<li><a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a>—Recording Industry Association of America</li>
+<li><a href="/wiki/Raster_image_processor" title="Raster image processor">RIP</a>—Raster Image Processor</li>
+<li><a href="/wiki/Routing_Information_Protocol" title="Routing Information Protocol">RIP</a>—Routing Information Protocol</li>
+<li><a href="/wiki/Regional_Internet_registry" title="Regional Internet registry">RIR</a>—Regional Internet registry</li>
+<li><a href="/wiki/Reduced_instruction_set_computer" title="Reduced instruction set computer">RISC</a>—Reduced Instruction Set Computer</li>
+<li><a href="/wiki/RISC_OS" title="RISC OS">RISC OS</a>—Reduced Instruction Set Computer Operating System</li>
+<li><a href="/wiki/Remote_job_entry" title="Remote job entry">RJE</a>—Remote Job Entry</li>
+<li><a href="/wiki/Run-length_encoding" title="Run-length encoding">RLE</a>—Run-Length Encoding</li>
+<li><a href="/wiki/Run-length_limited" title="Run-length limited">RLL</a>—Run-Length Limited</li>
+<li><a href="/w/index.php?title=Remove_directory&amp;action=edit&amp;redlink=1" class="new" title="Remove directory (page does not exist)">rmdir</a>—remove directory</li>
+<li><a href="/wiki/Java_remote_method_invocation" title="Java remote method invocation">RMI</a>—Remote Method Invocation</li>
+<li><a href="/wiki/Richard_Stallman" title="Richard Stallman">RMS</a>—Richard Matthew Stallman</li>
+<li><a href="/wiki/Read-only_memory" title="Read-only memory">ROM</a>—Read Only Memory</li>
+<li><a href="/wiki/S-LINK" title="S-LINK">ROMB</a>—Read-Out Motherboard</li>
+<li><a href="/wiki/ROM-DOS" class="mw-redirect" title="ROM-DOS">ROM-DOS</a>—Read Only Memory - Disk Operating System</li>
+<li><a href="/wiki/Remote_procedure_call" title="Remote procedure call">RPC</a>—Remote Procedure Call</li>
+<li><a href="/wiki/IBM_RPG" title="IBM RPG">RPG</a>—Report Program Generator</li>
+<li><a href="/wiki/RPM_Package_Manager" class="mw-redirect" title="RPM Package Manager">RPM</a>—RPM Package Manager</li>
+<li><a href="/wiki/Routing_and_Remote_Access_Service" title="Routing and Remote Access Service">RRAS</a>—Routing and Remote Access Service</li>
+<li><a href="/wiki/RSA_(algorithm)" class="mw-redirect" title="RSA (algorithm)">RSA</a>—Rivest Shamir Adleman</li>
+<li><a href="/wiki/Repetitive_strain_injury" title="Repetitive strain injury">RSI</a>—Repetitive Strain Injury</li>
+<li><a href="/wiki/Radio_Service_Software" title="Radio Service Software">RSS</a>—Radio Service Software</li>
+<li><a href="/wiki/RSS" title="RSS">RSS</a>—Rich Site Summary, RDF Site Summary, or Really Simple Syndication</li>
+<li><a href="/wiki/RTAI" title="RTAI">RTAI</a>—Real-Time Application Interface</li>
+<li><a href="/wiki/Real-time_clock" title="Real-time clock">RTC</a>—Real-Time Clock</li>
+<li><a href="/wiki/Real-time_business_intelligence" title="Real-time business intelligence">RTE</a>—Real-Time Enterprise</li>
+<li><a href="/wiki/RTEMS" title="RTEMS">RTEMS</a>—Real-Time Executive for Multiprocessor Systems</li>
+<li><a href="/wiki/Bi-directional_text" title="Bi-directional text">RTL</a>—Right-to-Left</li>
+<li><a href="/wiki/Real-time_operating_system" title="Real-time operating system">RTOS</a>—Real-Time Operating System</li>
+<li><a href="/wiki/Real-time_Transport_Protocol" title="Real-time Transport Protocol">RTP</a>—Real-time Transport Protocol</li>
+<li><a href="/wiki/Flow_control_(data)" title="Flow control (data)">RTS</a>—Ready To Send</li>
+<li><a href="/wiki/Real_Time_Streaming_Protocol" title="Real Time Streaming Protocol">RTSP</a>—Real Time Streaming Protocol</li>
+<li><a href="/wiki/Run-time_type_information" title="Run-time type information">RTTI</a>—Run-time Type Information</li>
+<li><a href="/wiki/Responsive_Web_Design" class="mw-redirect" title="Responsive Web Design">RWD</a>—Responsive Web Design</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=20" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Software_as_a_service" title="Software as a service">SaaS</a>—Software as a Service</li>
+<li><a href="/wiki/Security_Account_Manager" title="Security Account Manager">SAM</a>— Security Account Manager</li>
+<li><a href="/wiki/Storage_area_network" title="Storage area network">SAN</a>—Storage Area Network</li>
+<li><a href="/wiki/Serial_attached_SCSI" class="mw-redirect" title="Serial attached SCSI">SAS</a>—Serial attached SCSI</li>
+<li><a href="/wiki/Serial_ATA" title="Serial ATA">SATA</a>—Serial ATA</li>
+<li><a href="/wiki/Simple_API_for_XML" title="Simple API for XML">SAX</a>—Simple API for XML</li>
+<li><a href="/wiki/Spinning_beachball_of_death" class="mw-redirect" title="Spinning beachball of death">SBOD</a>—Spinning Beachball of Death</li>
+<li><a href="/wiki/Serial_Bus_Protocol_2" title="Serial Bus Protocol 2">SBP-2</a>—Serial Bus Protocol 2</li>
+<li><a href="/wiki/Sbin" class="mw-redirect" title="Sbin">sbin</a>—superuser binary</li>
+<li><a href="/wiki/Windows_Small_Business_Server" class="mw-redirect" title="Windows Small Business Server">sbs</a>—Small Business Server</li>
+<li><a href="/wiki/Standard_Build_Unit" class="mw-redirect" title="Standard Build Unit">SBU</a>—Standard Build Unit</li>
+<li><a href="/wiki/SCADA" title="SCADA">SCADA</a>—Supervisory Control And Data Acquisition</li>
+<li><a href="/wiki/Source_Code_in_Database" title="Source Code in Database">SCID</a>—Source Code in Database</li>
+<li><a href="/wiki/Software_configuration_management" title="Software configuration management">SCM</a>—Software Configuration Management</li>
+<li><a href="/wiki/Revision_control" class="mw-redirect" title="Revision control">SCM</a>—Source Code Management</li>
+<li><a href="/wiki/Secure_copy" title="Secure copy">SCP</a>—Secure Copy</li>
+<li><a href="/wiki/Single_channel_per_carrier" title="Single channel per carrier">SCPC</a>—Single Channel Per Carrier</li>
+<li><a href="/wiki/Standard_Commands_for_Programmable_Instruments" title="Standard Commands for Programmable Instruments">SCPI</a>—Standard Commands for Programmable Instrumentation</li>
+<li><a href="/w/index.php?title=Secure_Content_Storage_Association&amp;action=edit&amp;redlink=1" class="new" title="Secure Content Storage Association (page does not exist)">SCSA</a>—Secure Content Storage Association</li>
+<li><a href="/wiki/SCSI" title="SCSI">SCSI</a>—Small Computer System Interface</li>
+<li><a href="/wiki/Stream_Control_Transmission_Protocol" title="Stream Control Transmission Protocol">SCTP</a>—Stream Control Transmission Protocol</li>
+<li><a href="/wiki/Secure_Digital" title="Secure Digital">SD</a>—Secure Digital</li>
+<li><a href="/wiki/SDDL" class="mw-redirect" title="SDDL">SDDL</a>—Security Descriptor Definition Language</li>
+<li><a href="/wiki/Synchronous_Digital_Hierarchy" class="mw-redirect" title="Synchronous Digital Hierarchy">SDH</a>—Synchronous Digital Hierarchy</li>
+<li><a href="/wiki/Single_document_interface" class="mw-redirect" title="Single document interface">SDI</a>—Single Document Interface</li>
+<li><a href="/w/index.php?title=Single_Edge_Contact&amp;action=edit&amp;redlink=1" class="new" title="Single Edge Contact (page does not exist)">SEC</a>—Single Edge Contact</li>
+<li><a href="/wiki/Secure_Digital" title="Secure Digital">SDIO</a>—Secure Digital Input Output</li>
+<li><a href="/wiki/Software_development_kit" title="Software development kit">SDK</a>—Software Development Kit</li>
+<li><a href="/wiki/Simple_DirectMedia_Layer" title="Simple DirectMedia Layer">SDL</a>—Simple DirectMedia Layer</li>
+<li><a href="/wiki/Service_Delivery" class="mw-redirect" title="Service Delivery">SDN</a>—Service Delivery Network</li>
+<li><a href="/wiki/Session_Description_Protocol" title="Session Description Protocol">SDP</a>—Session Description Protocol</li>
+<li><a href="/wiki/Software-defined_radio" title="Software-defined radio">SDR</a>—Software-Defined Radio</li>
+<li><a href="/wiki/Synchronous_dynamic_random_access_memory" class="mw-redirect" title="Synchronous dynamic random access memory">SDRAM</a>—Synchronous Dynamic Random Access Memory</li>
+<li><a href="/wiki/Symmetric_digital_subscriber_line" title="Symmetric digital subscriber line">SDSL</a>—Symmetric DSL</li>
+<li><a href="/wiki/Single-ended_signalling" class="mw-redirect" title="Single-ended signalling">SE</a>—Single Ended</li>
+<li><a href="/wiki/Software_Engineering_Institute" title="Software Engineering Institute">SEI</a>—Software Engineering Institute</li>
+<li><a href="/wiki/Search_engine_optimization" title="Search engine optimization">SEO</a>—Search Engine Optimization</li>
+<li><a href="/wiki/FTP_over_SSH" class="mw-redirect" title="FTP over SSH">SFTP</a>—Secure FTP</li>
+<li><a href="/wiki/Simple_File_Transfer_Protocol" class="mw-redirect" title="Simple File Transfer Protocol">SFTP</a>—Simple File Transfer Protocol</li>
+<li><a href="/wiki/SSH_file_transfer_protocol" class="mw-redirect" title="SSH file transfer protocol">SFTP</a>—SSH File Transfer Protocol</li>
+<li><a href="/wiki/Silicon_Graphics" title="Silicon Graphics">SGI</a>—Silicon Graphics, Incorporated</li>
+<li><a href="/wiki/Standard_Generalized_Markup_Language" title="Standard Generalized Markup Language">SGML</a>—Standard Generalized Markup Language</li>
+<li><a href="/wiki/ANSI_escape_code#graphics" title="ANSI escape code">SGR</a>—Select Graphic Rendition</li>
+<li><a href="/wiki/Secure_Hash_Algorithm" class="mw-redirect" title="Secure Hash Algorithm">SHA</a>—Secure Hash Algorithm</li>
+<li><a href="/wiki/Single-pair_high-speed_digital_subscriber_line" title="Single-pair high-speed digital subscriber line">SHDSL</a>—Single-pair High-speed Digital Subscriber Line</li>
+<li><a href="/wiki/SIGCAT" title="SIGCAT">SIGCAT</a>—Special Interest Group on CD-ROM Applications and Technology</li>
+<li><a href="/wiki/SIGGRAPH" title="SIGGRAPH">SIGGRAPH</a>—Special Interest Group on Graphics</li>
+<li><a href="/wiki/SIMD" title="SIMD">SIMD</a>—Single Instruction, Multiple Data</li>
+<li><a href="/wiki/SIMM" title="SIMM">SIMM</a>—Single Inline Memory Module</li>
+<li><a href="/wiki/Session_Initiation_Protocol" title="Session Initiation Protocol">SIP</a>—Session Initiation Protocol</li>
+<li><a href="/wiki/Supplementary_Ideographic_Plane" class="mw-redirect" title="Supplementary Ideographic Plane">SIP</a>—Supplementary Ideographic Plane</li>
+<li><a href="/wiki/SISD" title="SISD">SISD</a>—Single Instruction, Single Data</li>
+<li><a href="/wiki/Single-Input_and_Single-Output" class="mw-redirect" title="Single-Input and Single-Output">SISO</a>—Single-Input and Single-Output</li>
+<li><a href="/wiki/SUSE_Linux_Enterprise_Desktop" title="SUSE Linux Enterprise Desktop">SLED</a>—SUSE Linux Enterprise Desktop</li>
+<li><a href="/wiki/SUSE_Linux_Enterprise_Server" class="mw-redirect" title="SUSE Linux Enterprise Server">SLES</a>—SUSE Linux Enterprise Server</li>
+<li><a href="/wiki/Scalable_Link_Interface" title="Scalable Link Interface">SLI</a>—Scalable Link Interface</li>
+<li><a href="/wiki/Serial_Line_Internet_Protocol" title="Serial Line Internet Protocol">SLIP</a>—Serial Line Internet Protocol</li>
+<li><a href="/wiki/Service_Level_Management" class="mw-redirect" title="Service Level Management">SLM</a>—Service Level Management</li>
+<li><a href="/wiki/Source_lines_of_code" title="Source lines of code">SLOC</a>—Source Lines of Code</li>
+<li><a href="/wiki/Subject_Matter_Expert" class="mw-redirect" title="Subject Matter Expert">SME</a>—Subject Matter Expert</li>
+<li><a href="/wiki/Single-mode_optical_fiber" title="Single-mode optical fiber">SMF</a>—Single-Mode (optical) Fiber</li>
+<li><a href="/wiki/Software_project_management" title="Software project management">SPM</a>—Software project management</li>
+<li><a href="/wiki/SPMD" title="SPMD">SPMD</a>—Single Program, Multiple Data</li>
+<li><a href="/wiki/SMA_connector" title="SMA connector">SMA</a>—SubMiniature version A</li>
+<li><a href="/wiki/Server_Message_Block" title="Server Message Block">SMB</a>—Server Message Block</li>
+<li><a href="/wiki/System_Management_BIOS" title="System Management BIOS">SMBIOS</a>—System Management BIOS</li>
+<li><a href="/wiki/Synchronized_Multimedia_Integration_Language" title="Synchronized Multimedia Integration Language">SMIL</a>—Synchronized Multimedia Integration Language</li>
+<li><a href="/wiki/S/MIME" title="S/MIME">S/MIME</a>—Secure/Multipurpose Internet Mail Extensions</li>
+<li><a href="/wiki/Supplementary_Multilingual_Plane" class="mw-redirect" title="Supplementary Multilingual Plane">SMP</a>—Supplementary Multilingual Plane</li>
+<li><a href="/wiki/Symmetric_multiprocessing" title="Symmetric multiprocessing">SMP</a>—Symmetric Multi-Processing</li>
+<li><a href="/wiki/Switched-mode_power_supply" title="Switched-mode power supply">SMPS</a>—Switch Mode Power Supply</li>
+<li><a href="/wiki/SMS" title="SMS">SMS</a>—Short Message Service</li>
+<li><a href="/wiki/System_Management_Server" class="mw-redirect" title="System Management Server">SMS</a>—System Management Server</li>
+<li><a href="/wiki/Simultaneous_multithreading" title="Simultaneous multithreading">SMT</a>—Simultaneous Multithreading</li>
+<li><a href="/wiki/Simple_Mail_Transfer_Protocol" title="Simple Mail Transfer Protocol">SMTP</a>—Simple Mail Transfer Protocol</li>
+<li><a href="/wiki/IBM_Systems_Network_Architecture" title="IBM Systems Network Architecture">SNA</a>—Systems Network Architecture</li>
+<li><a href="/wiki/Simple_Network_Management_Protocol" title="Simple Network Management Protocol">SNMP</a>—Simple Network Management Protocol</li>
+<li><a href="/wiki/SNTP" class="mw-redirect" title="SNTP">SNTP</a>—Simple Network Time Protocol</li>
+<li><a href="/wiki/Service-oriented_architecture" title="Service-oriented architecture">SOA</a>—Service-Oriented Architecture</li>
+<li><a href="/wiki/SOAP" title="SOAP">SOAP</a>—Simple Object Access Protocol</li>
+<li><a href="/wiki/Symbolic_Optimal_Assembly_Program" class="mw-redirect" title="Symbolic Optimal Assembly Program">SOAP</a>—Symbolic Optimal Assembly Program</li>
+<li><a href="/wiki/Stop_Online_Piracy_Act" title="Stop Online Piracy Act">SOPA</a>—Stop Online Piracy Act</li>
+<li><a href="/wiki/System-on-a-chip" class="mw-redirect" title="System-on-a-chip">SoC</a>—System-on-a-Chip</li>
+<li><a href="/wiki/SO-DIMM" title="SO-DIMM">SO-DIMM</a>—Small Outline DIMM</li>
+<li><a href="/wiki/Standard_Operating_Environment" title="Standard Operating Environment">SOE</a>—Standard Operating Environment</li>
+<li><a href="/wiki/Small_office/home_office" title="Small office/home office">SOHO</a>—Small Office/Home Office</li>
+<li><a href="/wiki/Silicon_on_insulator" title="Silicon on insulator">SOI</a>—Silicon On Insulator</li>
+<li><a href="/wiki/Service_pack" title="Service pack">SP</a>—Service Pack</li>
+<li><a href="/wiki/Single-page_application" title="Single-page application">SPA</a>—Single Page Application</li>
+<li><a href="/wiki/Sender_Policy_Framework" title="Sender Policy Framework">SPF</a>—Sender Policy Framework</li>
+<li><a href="/wiki/Serial_Peripheral_Interface_Bus" title="Serial Peripheral Interface Bus">SPI</a>—Serial Peripheral Interface</li>
+<li><a href="/wiki/Stateful_Packet_Inspection" class="mw-redirect" title="Stateful Packet Inspection">SPI</a>—Stateful Packet Inspection</li>
+<li><a href="/wiki/SPARC" title="SPARC">SPARC</a>—Scalable Processor Architecture</li>
+<li><a href="/wiki/SQL" title="SQL">SQL</a>—Structured Query Language</li>
+<li><a href="/wiki/Static_random_access_memory" class="mw-redirect" title="Static random access memory">SRAM</a>—Static Random Access Memory</li>
+<li><a href="/wiki/Static_single_assignment_form" title="Static single assignment form">SSA</a>—Static Single Assignment</li>
+<li><a href="/wiki/V-Model_(software_development)" title="V-Model (software development)">SSD</a>—Software Specification Document</li>
+<li><a href="/wiki/Solid-state_drive" title="Solid-state drive">SSD</a>—Solid-State Drive</li>
+<li><a href="/wiki/Simple_Service_Discovery_Protocol" title="Simple Service Discovery Protocol">SSDP</a>—Simple Service Discovery Protocol</li>
+<li><a href="/wiki/Streaming_SIMD_Extensions" title="Streaming SIMD Extensions">SSE</a>—Streaming SIMD Extensions</li>
+<li><a href="/wiki/Secure_Shell" title="Secure Shell">SSH</a>—Secure Shell</li>
+<li><a href="/wiki/Server_Side_Includes" title="Server Side Includes">SSI</a>—Server Side Includes</li>
+<li><a href="/wiki/Single-system_image" class="mw-redirect" title="Single-system image">SSI</a>—Single-System Image</li>
+<li><a href="/wiki/Small_Scale_Integration" class="mw-redirect" title="Small Scale Integration">SSI</a>—Small-Scale Integration</li>
+<li><a href="/wiki/Service_set_(802.11_network)" title="Service set (802.11 network)">SSID</a>—Service Set Identifier</li>
+<li><a href="/wiki/Secure_Sockets_Layer" class="mw-redirect" title="Secure Sockets Layer">SSL</a>—Secure Socket Layer</li>
+<li><a href="/wiki/Single_Sign_On" class="mw-redirect" title="Single Sign On">SSO</a>—Single Sign On</li>
+<li><a href="/wiki/Supplementary_Special-purpose_Plane" class="mw-redirect" title="Supplementary Special-purpose Plane">SSP</a>—Supplementary Special-purpose Plane</li>
+<li><a href="/wiki/Streaming_SIMD_Extensions" title="Streaming SIMD Extensions">SSSE</a>—Supplementary Streaming SIMD Extensions</li>
+<li><a href="/wiki/Shortest_Path_Problem#Single-source_shortest_paths" class="mw-redirect" title="Shortest Path Problem">SSSP</a>—Single Source Shortest Path</li>
+<li><a href="/wiki/Secure_Socket_Tunneling_Protocol" title="Secure Socket Tunneling Protocol">SSTP</a>—Secure Socket Tunneling Protocol</li>
+<li><a href="/wiki/Su_(Unix)" title="Su (Unix)">su</a>—superuser</li>
+<li><a href="/wiki/Single_UNIX_Specification" title="Single UNIX Specification">SUS</a>—Single UNIX Specification</li>
+<li><a href="/wiki/SUSE_Linux" title="SUSE Linux">SUSE</a>—Software und System-Entwicklung</li>
+<li><a href="/wiki/Scalable_Video_Coding" title="Scalable Video Coding">SVC</a>—Scalable Video Coding</li>
+<li><a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a>—Scalable Vector Graphics</li>
+<li><a href="/wiki/Super_Video_Graphics_Array" class="mw-redirect" title="Super Video Graphics Array">SVGA</a>—Super Video Graphics Array</li>
+<li><a href="/wiki/Structured_VLSI_design" class="mw-redirect" title="Structured VLSI design">SVD</a>—Structured VLSI Design</li>
+<li><a href="/wiki/Adobe_Flash" title="Adobe Flash">SWF</a>—Shock Wave Flash</li>
+<li><a href="/wiki/Standard_Widget_Toolkit" title="Standard Widget Toolkit">SWT</a>—Standard Widget Toolkit</li>
+<li><a href="/wiki/Sysop" title="Sysop">Sysop</a>—System operator</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=21" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Optical_disc_recording_modes" title="Optical disc recording modes">TAO</a>—Track-At-Once</li>
+<li><a href="/wiki/Telephony_Application_Programming_Interface" title="Telephony Application Programming Interface">TAPI</a>—Telephony Application Programming Interface</li>
+<li><a href="/wiki/Turbo_Assembler" title="Turbo Assembler">TASM</a>—Turbo ASseMbler</li>
+<li><a href="/wiki/Terabyte" title="Terabyte">TB</a>—TeraByte</li>
+<li><a href="/wiki/Tcl" title="Tcl">Tcl</a>—Tool Command Language</li>
+<li><a href="/wiki/Transmission_Control_Protocol" title="Transmission Control Protocol">TCP</a>—Transmission Control Protocol</li>
+<li><a href="/wiki/Internet_Protocol_Suite" class="mw-redirect" title="Internet Protocol Suite">TCP/IP</a>—Transmission Control Protocol/Internet Protocol</li>
+<li><a href="/wiki/Telecommunication_Control_Unit" class="mw-redirect" title="Telecommunication Control Unit">TCU</a>—Telecommunication Control Unit</li>
+<li><a href="/wiki/Time-division_multiple_access" title="Time-division multiple access">TDMA</a>—Time-Division Multiple Access</li>
+<li><a href="/wiki/Thin-film_transistor" title="Thin-film transistor">TFT</a>—Thin-Film Transistor</li>
+<li><a href="/wiki/Tif" class="mw-redirect" title="Tif">tif</a> - image(Tagged Image File Format)</li>
+<li><a href="/wiki/TFTP" class="mw-redirect" title="TFTP">TFTP</a>—Trivial File Transfer Protocol</li>
+<li><a href="/wiki/Texas_Instruments" title="Texas Instruments">TI</a>—Texas Instruments</li>
+<li><a href="/wiki/Three-letter_acronym" title="Three-letter acronym">TLA</a>—Three-Letter Acronym</li>
+<li><a href="/wiki/Top-level_domain" title="Top-level domain">TLD</a>—Top-Level Domain</li>
+<li><a href="/wiki/Thread-local_storage" title="Thread-local storage">TLS</a>—Thread-Local Storage</li>
+<li><a href="/wiki/Transport_Layer_Security" title="Transport Layer Security">TLS</a>—Transport Layer Security</li>
+<li><a href="/wiki/Type-length-value" title="Type-length-value">TLV</a>—Type-length-value</li>
+<li><a href="/wiki//var/run" class="mw-redirect" title="/var/run">tmp</a>—temporary</li>
+<li><a href="/wiki/Terminal_node_controller" title="Terminal node controller">TNC</a>—Terminal Node Controller</li>
+<li><a href="/wiki/TNC_connector" title="TNC connector">TNC</a>—Threaded Neill-Concelman connector</li>
+<li><a href="/wiki/Transaction_Processing_Facility" title="Transaction Processing Facility">TPF</a>—Transaction Processing Facility</li>
+<li><a href="/wiki/Trusted_Platform_Module" title="Trusted Platform Module">TPM</a>—Trusted Platform Module</li>
+<li><a href="/wiki/TRON_command" title="TRON command">TROFF</a>—Trace Off</li>
+<li><a href="/wiki/TRON_command" title="TRON command">TRON</a>—Trace On</li>
+<li><a href="/wiki/TRON_Project" class="mw-redirect" title="TRON Project">TRON</a>—The Real-time Operating system Nucleus</li>
+<li><a href="/wiki/TRSDOS" title="TRSDOS">TRSDOS</a>—Tandy Radio Shack - Disk Operating System</li>
+<li><a href="/wiki/Time_Sharing_Option" title="Time Sharing Option">TSO</a>—Time Sharing Option</li>
+<li><a href="/wiki/Travelling_salesman_problem" title="Travelling salesman problem">TSP</a>—Traveling Salesman Problem</li>
+<li><a href="/wiki/Terminate_and_Stay_Resident" class="mw-redirect" title="Terminate and Stay Resident">TSR</a>—Terminate and Stay Resident</li>
+<li><a href="/wiki/TTA_(codec)" title="TTA (codec)">TTA</a>—True Tap Audio</li>
+<li><a href="/wiki/TrueType" title="TrueType">TTF</a>—TrueType Font</li>
+<li><a href="/wiki/Transistor%E2%80%93transistor_logic" title="Transistor–transistor logic">TTL</a>—Transistor-Transistor Logic</li>
+<li><a href="/wiki/Time_to_live" title="Time to live">TTL</a>—Time To Live</li>
+<li><a href="/wiki/Speech_synthesis" title="Speech synthesis">TTS</a>—Text-to-Speech</li>
+<li><a href="/wiki/Computer_terminal" title="Computer terminal">TTY</a>—Teletype</li>
+<li><a href="/wiki/Tucows" title="Tucows">TUCOWS</a>—The Ultimate Collection of Winsock Software</li>
+<li><a href="/wiki/TeX_Users_Group#Community" class="mw-redirect" title="TeX Users Group">TUG</a>—TeX Users Group</li>
+<li><a href="/wiki/TWAIN" title="TWAIN">TWAIN</a>—Technology Without An Interesting Name</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=22" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/UAAG" class="mw-redirect" title="UAAG">UAAG</a>—User Agent Accessibility Guidelines</li>
+<li><a href="/wiki/User_Account_Control" title="User Account Control">UAC</a>—User Account Control</li>
+<li><a href="/wiki/Universal_asynchronous_receiver/transmitter" class="mw-redirect" title="Universal asynchronous receiver/transmitter">UART</a>—Universal Asynchronous Receiver/Transmitter</li>
+<li><a href="/wiki/User_Acceptance_Testing" class="mw-redirect" title="User Acceptance Testing">UAT</a>—User Acceptance Testing</li>
+<li><a href="/wiki/Universal_Character_Set" class="mw-redirect" title="Universal Character Set">UCS</a>—Universal Character Set</li>
+<li><a href="/wiki/Universal_Description_Discovery_and_Integration" class="mw-redirect" title="Universal Description Discovery and Integration">UDDI</a>—Universal Description, Discovery, and Integration</li>
+<li><a href="/wiki/UDMA" title="UDMA">UDMA</a>—Ultra DMA</li>
+<li><a href="/wiki/User_Datagram_Protocol" title="User Datagram Protocol">UDP</a>—User Datagram Protocol</li>
+<li><a href="/wiki/UEFI" class="mw-redirect" title="UEFI">UEFI</a>—Unified Extensible Firmware Interface</li>
+<li><a href="/wiki/Ultra_high_frequency" title="Ultra high frequency">UHF</a>—Ultra High Frequency</li>
+<li><a href="/wiki/User_interface" title="User interface">UI</a>—User Interface</li>
+<li><a href="/wiki/Upload" title="Upload">UL</a>—Upload</li>
+<li><a href="/wiki/Gate_array" title="Gate array">ULA</a>—Uncommitted Logic Array</li>
+<li><a href="/wiki/Upper_memory_area" title="Upper memory area">UMA</a>—Upper Memory Area</li>
+<li><a href="/wiki/Upper_memory_area" title="Upper memory area">UMB</a>—Upper Memory Block</li>
+<li><a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">UML</a>—Unified Modeling Language</li>
+<li><a href="/wiki/User-mode_Linux" title="User-mode Linux">UML</a>—User-Mode Linux</li>
+<li><a href="/wiki/Ultra-Mobile_PC" class="mw-redirect" title="Ultra-Mobile PC">UMPC</a>—Ultra-Mobile Personal Computer</li>
+<li><a href="/wiki/Universal_Mobile_Telecommunications_System" class="mw-redirect" title="Universal Mobile Telecommunications System">UMTS</a>—Universal Mobile Telecommunications System</li>
+<li><a href="/wiki/Universal_Naming_Convention" class="mw-redirect" title="Universal Naming Convention">UNC</a>—Universal Naming Convention</li>
+<li><a href="/wiki/UNIVAC" title="UNIVAC">UNIVAC</a>—Universal Automatic Computer (By MKS)</li>
+<li><a href="/wiki/Uninterruptible_power_supply" title="Uninterruptible power supply">UPS</a>—Uninterruptible Power Supply</li>
+<li><a href="/wiki/Uniform_Resource_Identifier" title="Uniform Resource Identifier">URI</a>—Uniform Resource Identifier</li>
+<li><a href="/wiki/Uniform_Resource_Locator" class="mw-redirect" title="Uniform Resource Locator">URL</a>—Uniform Resource Locator</li>
+<li><a href="/wiki/Uniform_Resource_Name" title="Uniform Resource Name">URN</a>—Uniform Resource Name</li>
+<li><a href="/wiki/Universal_Serial_Bus" class="mw-redirect" title="Universal Serial Bus">USB</a>—Universal Serial Bus</li>
+<li><a href="/wiki//usr" class="mw-redirect" title="/usr">usr</a>—user</li>
+<li><a href="/wiki/U.S._Robotics" class="mw-redirect" title="U.S. Robotics">USR</a>—U.S. Robotics</li>
+<li><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>—Coordinated Universal Time</li>
+<li><a href="/wiki/Unicode" title="Unicode">UTF</a>—Unicode Transformation Format</li>
+<li><a href="/wiki/Unshielded_twisted_pair" class="mw-redirect" title="Unshielded twisted pair">UTP</a>—Unshielded Twisted Pair</li>
+<li><a href="/wiki/UMTS_Terrestrial_Radio_Access_Network" title="UMTS Terrestrial Radio Access Network">UTRAN</a>—Universal Terrestrial Radio Access Network</li>
+<li><a href="/wiki/UUCP" title="UUCP">UUCP</a>—Unix to Unix Copy</li>
+<li><a href="/wiki/Universally_Unique_Identifier" class="mw-redirect" title="Universally Unique Identifier">UUID</a>—Universally Unique Identifier</li>
+<li><a href="/w/index.php?title=Universal_User_Name&amp;action=edit&amp;redlink=1" class="new" title="Universal User Name (page does not exist)">UUN</a>—Universal User Name</li>
+<li><a href="/wiki/Universal_Virtual_Computer" class="mw-redirect" title="Universal Virtual Computer">UVC</a>—Universal Virtual Computer</li>
+<li><a href="/wiki/Universal_Windows_Platform" title="Universal Windows Platform">UWP</a>—Universal Windows Platform</li>
+<li><a href="/wiki/User_experience_design" title="User experience design">UX</a>—User Experience</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=23" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Filesystem_Hierarchy_Standard" title="Filesystem Hierarchy Standard">var</a>—variable</li>
+<li><a href="/wiki/VAX" title="VAX">VAX</a>—Virtual Address eXtension</li>
+<li><a href="/wiki/DOS_Protected_Mode_Interface" title="DOS Protected Mode Interface">VCPI</a>—Virtual Control Program Interface</li>
+<li><a href="/wiki/Virtual_reality" title="Virtual reality">VR</a>—Virtual Reality</li>
+<li><a href="/wiki/VRML" title="VRML">VRML</a>—Virtual Reality Modeling Language</li>
+<li><a href="/wiki/Visual_Basic" title="Visual Basic">VB</a>—Visual Basic</li>
+<li><a href="/wiki/Visual_Basic_for_Applications" title="Visual Basic for Applications">VBA</a>—Visual Basic for Applications</li>
+<li><a href="/wiki/VBScript" title="VBScript">VBS</a>—Visual Basic Script</li>
+<li><a href="/wiki/Desktop_virtualization" title="Desktop virtualization">VDI</a>—Virtual Desktop Infrastructure</li>
+<li><a href="/wiki/Virtual_DOS_machine" title="Virtual DOS machine">VDM</a>— Virtual DOS machine</li>
+<li><a href="/wiki/Very_high_bitrate_digital_subscriber_line" class="mw-redirect" title="Very high bitrate digital subscriber line">VDSL</a>—Very High Bitrate Digital Subscriber Line</li>
+<li><a href="/wiki/VESA" class="mw-redirect" title="VESA">VESA</a>—Video Electronics Standards Association</li>
+<li><a href="/wiki/File_Allocation_Table" title="File Allocation Table">VFAT</a>—Virtual FAT</li>
+<li><a href="/wiki/Virtual_Hard_Disk" class="mw-redirect" title="Virtual Hard Disk">VHD</a> — Virtual Hard Disk</li>
+<li><a href="/wiki/Virtual_file_system" title="Virtual file system">VFS</a>—Virtual File System</li>
+<li><a href="/wiki/Logical_volume_management" title="Logical volume management">VG</a>—Volume Group</li>
+<li><a href="/wiki/Video_Graphics_Array" title="Video Graphics Array">VGA</a>—Video Graphics Array</li>
+<li><a href="/wiki/Very_high_frequency" title="Very high frequency">VHF</a>—Very High Frequency</li>
+<li><a href="/wiki/Virtual_LAN" title="Virtual LAN">VLAN</a>—Virtual Local Area Network</li>
+<li><a href="/wiki/VLSM" class="mw-redirect" title="VLSM">VLSM</a>—Variable Length Subnet Mask</li>
+<li><a href="/wiki/VESA_Local_Bus" title="VESA Local Bus">VLB</a>—Vesa Local Bus</li>
+<li><a href="/wiki/Very_low_frequency" title="Very low frequency">VLF</a>—Very Low Frequency</li>
+<li><a href="/wiki/Very_long_instruction_word" title="Very long instruction word">VLIW</a>—Very Long Instruction Word</li>
+<li><a href="/wiki/Very-large-scale_integration" title="Very-large-scale integration">VLSI</a>—Very-Large-Scale Integration</li>
+<li><a href="/wiki/Virtual_machine" title="Virtual machine">VM</a>—Virtual Machine</li>
+<li><a href="/wiki/Virtual_memory" title="Virtual memory">VM</a>—Virtual Memory</li>
+<li><a href="/wiki/Hypervisor" title="Hypervisor">VMM</a>—Virtual Machine Monitor</li>
+<li><a href="/wiki/VNC" class="mw-redirect" title="VNC">VNC</a>—Virtual Network Computing</li>
+<li><a href="/wiki/Video_on_demand" title="Video on demand">VOD</a>—Video On Demand</li>
+<li><a href="/wiki/Voice_over_Internet_Protocol" class="mw-redirect" title="Voice over Internet Protocol">VoIP</a>—Voice over Internet Protocol</li>
+<li><a href="/wiki/Virtual_private_network" title="Virtual private network">VPN</a>—Virtual Private Network</li>
+<li><a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">VPU</a>—Visual Processing Unit</li>
+<li><a href="/wiki/Virtual_storage_access_method" class="mw-redirect" title="Virtual storage access method">VSAM</a>—Virtual Storage Access Method</li>
+<li><a href="/wiki/Very_small_aperture_terminal" class="mw-redirect" title="Very small aperture terminal">VSAT</a>—Very Small Aperture Terminal</li>
+<li><a href="/wiki/VT100" title="VT100">VT</a>—Video Terminal?</li>
+<li><a href="/wiki/Virtual_Tape_Library" class="mw-redirect" title="Virtual Tape Library">VTL</a>— Virtual Tape Library</li>
+<li><a href="/wiki/Virtual_telecommunications_access_method" class="mw-redirect" title="Virtual telecommunications access method">VTAM</a>—Virtual Telecommunications Access Method</li>
+<li><a href="/w/index.php?title=Video_Random_Access_Memory&amp;action=edit&amp;redlink=1" class="new" title="Video Random Access Memory (page does not exist)">VRAM</a>—Video Random Access Memory</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=24" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a>—World Wide Web Consortium</li>
+<li><a href="/wiki/Apple_Worldwide_Developers_Conference" title="Apple Worldwide Developers Conference">WWDC</a>—<a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a> World Wide Developer Conference</li>
+<li><a href="/wiki/Wide_area_file_services" title="Wide area file services">WAFS</a>—Wide Area File Services</li>
+<li><a href="/wiki/Web_Accessibility_Initiative" title="Web Accessibility Initiative">WAI</a>—Web Accessibility Initiative</li>
+<li><a href="/wiki/Wide_area_information_server" title="Wide area information server">WAIS</a>—Wide Area Information Server</li>
+<li><a href="/wiki/Wide_area_network" title="Wide area network">WAN</a>—Wide Area Network</li>
+<li><a href="/wiki/Wireless_access_point" title="Wireless access point">WAP</a>—Wireless Access Point</li>
+<li><a href="/wiki/Wireless_Application_Protocol" title="Wireless Application Protocol">WAP</a>—Wireless Application Protocol</li>
+<li><a href="/wiki/Open_Watcom_Assembler" title="Open Watcom Assembler">WASM</a>—Watcom ASseMbler</li>
+<li><a href="/wiki/Web-Based_Enterprise_Management" title="Web-Based Enterprise Management">WBEM</a>—Web-Based Enterprise Management</li>
+<li><a href="/wiki/Web_Content_Accessibility_Guidelines" title="Web Content Accessibility Guidelines">WCAG</a>—Web Content Accessibility Guidelines</li>
+<li><a href="/wiki/Windows_Communication_Foundation" title="Windows Communication Foundation">WCF</a>—Windows Communication Foundation</li>
+<li><a href="/wiki/Wavelength-division_multiplexing" title="Wavelength-division multiplexing">WDM</a>—Wavelength-Division Multiplexing</li>
+<li><a href="/wiki/WebDAV" title="WebDAV">WebDAV</a>—WWW Distributed Authoring and Versioning</li>
+<li><a href="/wiki/Wired_Equivalent_Privacy" title="Wired Equivalent Privacy">WEP</a>—Wired Equivalent Privacy</li>
+<li><a href="/wiki/Interrupt" title="Interrupt">WFI</a>—Wait For Interrupt</li>
+<li><a href="/wiki/WiMAX" title="WiMAX">WiMAX</a>—Worldwide Interoperability for Microwave Access</li>
+<li><a href="/wiki/WinFS" title="WinFS">WinFS</a>—Windows Future Storage</li>
+<li><a href="/wiki/Windows_RunTime" class="mw-redirect" title="Windows RunTime">WinRT</a>—Windows RunTime</li>
+<li><a href="/wiki/Windows_Internet_Name_Service" title="Windows Internet Name Service">WINS</a>—Windows Internet Name Service</li>
+<li><a href="/wiki/Wireless_LAN" title="Wireless LAN">WLAN</a>—Wireless Local Area Network</li>
+<li><a href="/wiki/Windows_Media_Audio" title="Windows Media Audio">WMA</a>—Windows Media Audio</li>
+<li><a href="/wiki/Windows_Management_Instrumentation" title="Windows Management Instrumentation">WMI</a>— Windows Management Instrumentation</li>
+<li><a href="/wiki/Windows_Media_Video" title="Windows Media Video">WMV</a>—Windows Media Video</li>
+<li><a href="/wiki/Windows_Push_Notification_Service" title="Windows Push Notification Service">WNS</a>—Windows Push Notification Service</li>
+<li><a href="/wiki/Wake-on-LAN" title="Wake-on-LAN">WOL</a>—Wake-on-LAN</li>
+<li><a href="/wiki/Wake-on-ring" title="Wake-on-ring">WOR</a>—Wake-on-Ring</li>
+<li><a href="/wiki/Write_once,_run_anywhere" title="Write once, run anywhere">WORA</a>—Write once, run anywhere</li>
+<li><a href="/wiki/Write_once,_run_anywhere" title="Write once, run anywhere">WORE</a>—Write once, run everywhere</li>
+<li><a href="/wiki/Wi-Fi_Protected_Access" title="Wi-Fi Protected Access">WPA</a>—Wi-Fi Protected Access</li>
+<li><a href="/wiki/Web_Proxy_Autodiscovery_Protocol" class="mw-redirect" title="Web Proxy Autodiscovery Protocol">WPAD</a>—Web Proxy Autodiscovery Protocol</li>
+<li><a href="/wiki/Personal_area_network" title="Personal area network">WPAN</a>—Wireless Personal Area Network</li>
+<li><a href="/wiki/Windows_Presentation_Foundation" title="Windows Presentation Foundation">WPF</a>—Windows Presentation Foundation</li>
+<li><a href="/wiki/WS-Discovery" title="WS-Discovery">WS-D</a>—Web Services-Discovery</li>
+<li><a href="/wiki/Web_Services_Description_Language" title="Web Services Description Language">WSDL</a>—Web Services Description Language</li>
+<li><a href="/wiki/Web_Services_Flow_Language" title="Web Services Flow Language">WSFL</a>—Web Services Flow Language</li>
+<li><a href="/wiki/Wireless_USB" title="Wireless USB">WUSB</a>—Wireless Universal Serial Bus</li>
+<li><a href="/wiki/Wireless_Wide_Area_Network" class="mw-redirect" title="Wireless Wide Area Network">WWAN</a>—Wireless Wide Area Network</li>
+<li><a href="/wiki/World_Wide_Name" title="World Wide Name">WWID</a>—World Wide Identifier</li>
+<li><a href="/wiki/World_Wide_Name" title="World Wide Name">WWN</a>—World Wide Name</li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">WWW</a>—World Wide Web</li>
+<li><a href="/wiki/WYSIWYG" title="WYSIWYG">WYSIWYG</a>—What You See Is What You Get</li>
+<li><a href="/wiki/Wireless_Zero_Configuration" title="Wireless Zero Configuration">WZC</a>—Wireless Zero Configuration</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=25" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/w/index.php?title=XML_Accessibility_Guidelines&amp;action=edit&amp;redlink=1" class="new" title="XML Accessibility Guidelines (page does not exist)">XAG</a>—XML Accessibility Guidelines</li>
+<li><a href="/wiki/Extensible_Application_Markup_Language" title="Extensible Application Markup Language">XAML</a>—eXtensible Application Markup Language</li>
+<li><a href="/wiki/X_Display_Manager_(implementation)" class="mw-redirect" title="X Display Manager (implementation)">XDM</a>—X Window Display Manager</li>
+<li><a href="/wiki/X_display_manager_(program_type)" title="X display manager (program type)">XDMCP</a>—X Display Manager Control Protocol</li>
+<li><a href="/wiki/XCBL" title="XCBL">XCBL</a>—XML Common Business Library</li>
+<li><a href="/wiki/XHTML" title="XHTML">XHTML</a>—eXtensible Hypertext Markup Language</li>
+<li><a href="/wiki/Xilp_(Unix_software)" title="Xilp (Unix software)">XILP</a>—X Interactive ListProc</li>
+<li><a href="/wiki/XML" title="XML">XML</a>—eXtensible Markup Language</li>
+<li><a href="/wiki/XMMS" title="XMMS">XMMS</a>—X Multimedia System</li>
+<li><a href="/wiki/Extensible_Messaging_and_Presence_Protocol" class="mw-redirect" title="Extensible Messaging and Presence Protocol">XMPP</a>—eXtensible Messaging and Presence Protocol</li>
+<li><a href="/wiki/Extended_memory" title="Extended memory">XMS</a>—Extended Memory Specification</li>
+<li><a href="/wiki/Xerox_Network_Systems" title="Xerox Network Systems">XNS</a>—Xerox Network Systems</li>
+<li><a href="/wiki/Cross-platform" title="Cross-platform">XP</a>—Cross-Platform</li>
+<li><a href="/wiki/Extreme_Programming" class="mw-redirect" title="Extreme Programming">XP</a>—Extreme Programming</li>
+<li><a href="/wiki/XPCOM" title="XPCOM">XPCOM</a>—Cross Platform Component Object Model</li>
+<li><a href="/wiki/XPInstall" title="XPInstall">XPI</a>—XPInstall</li>
+<li><a href="/wiki/Interface_description_language" title="Interface description language">XPIDL</a>—Cross-Platform IDL</li>
+<li><a href="/wiki/Open_XML_Paper_Specification" title="Open XML Paper Specification">XPS</a>— XML Paper Specification</li>
+<li><a href="/wiki/XML_Schema_(W3C)" title="XML Schema (W3C)">XSD</a>—XML Schema Definition</li>
+<li><a href="/wiki/Extensible_Stylesheet_Language" class="mw-redirect" title="Extensible Stylesheet Language">XSL</a>—eXtensible Stylesheet Language</li>
+<li><a href="/wiki/XSL_Formatting_Objects" title="XSL Formatting Objects">XSL-FO</a>—eXtensible Stylesheet Language Formatting Objects</li>
+<li><a href="/wiki/XSL_Transformations" class="mw-redirect" title="XSL Transformations">XSLT</a>—eXtensible Stylesheet Language Transformations</li>
+<li><a href="/wiki/Cross-site_scripting" title="Cross-site scripting">XSS</a>—Cross-Site Scripting</li>
+<li><a href="/wiki/EXtensible_Tag_Framework" title="EXtensible Tag Framework">XTF</a>—eXtensible Tag Framework</li>
+<li><a href="/wiki/EXtended_Triton_Format" title="EXtended Triton Format">XTF</a>—eXtended Triton Format</li>
+<li><a href="/wiki/XUL" title="XUL">XUL</a>—XML User Interface Language</li>
+<li><a href="/wiki/XVGA" class="mw-redirect" title="XVGA">XVGA</a>—Extended Video Graphics Adapter</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=26" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Year_2000_problem" title="Year 2000 problem">Y2K</a>—Year Two Thousand</li>
+<li><a href="/wiki/YAAF" title="YAAF">YAAF</a>—Yet Another Application Framework</li>
+<li><a href="/wiki/Yacc" title="Yacc">YACC</a>—Yet Another Compiler Compiler</li>
+<li><a href="/wiki/YAML" title="YAML">YAML</a>—YAML Ain't Markup Language</li>
+<li><a href="/wiki/YaST" title="YaST">YaST</a>—Yet another Setup Tool</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=27" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Zone_bit_recording" title="Zone bit recording">ZCAV</a>—Zone Constant Angular Velocity</li>
+<li><a href="/wiki/Zero_code_suppression" class="mw-redirect" title="Zero code suppression">ZCS</a>—Zero Code Suppression</li>
+<li><a href="/wiki/Zero_insertion_force" title="Zero insertion force">ZIF</a>—Zero Insertion Force</li>
+<li><a href="/wiki/Zero_insertion_force" title="Zero insertion force">ZIFS</a>—Zero Insertion Force Socket</li>
+<li><a href="/wiki/Zip_(file_format)" title="Zip (file format)">ZIP</a>—ZIP file archive</li>
+<li><a href="/wiki/Zero_instruction_set_computer" title="Zero instruction set computer">ZISC</a>—Zero Instruction Set Computer</li>
+<li><a href="/wiki/Zero_One_Infinity" class="mw-redirect" title="Zero One Infinity">ZOI</a>—Zero One Infinity</li>
+<li><a href="/wiki/Zope" title="Zope">ZOPE</a>—Z Object Publishing Environment</li>
+<li><a href="/wiki/Zone_Multicast_Address" title="Zone Multicast Address">ZMA</a>—Zone Multicast Address</li>
+<li><a href="/wiki/ZPL_(programming_language)" title="ZPL (programming language)">ZPL</a>—Z-level Programming Language</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=28" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Acronym_and_initialism" class="mw-redirect" title="Acronym and initialism">Acronym and initialism</a></li>
+<li><a href="/wiki/Internet_slang" title="Internet slang">Internet slang</a></li>
+<li><a href="/wiki/List_of_file_formats" title="List of file formats">List of file formats</a></li>
+<li><a href="/wiki/List_of_information_technology_acronyms" class="mw-redirect" title="List of information technology acronyms">List of information technology acronyms</a></li>
+<li><a href="/wiki/Professional_certification" title="Professional certification">Professional certification</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=29" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.all-acronyms.com/?tg=computing&amp;o=a">"Computing Acronyms and Abbreviations"</a>. All Acronyms<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-07-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Computing+Acronyms+and+Abbreviations&amp;rft.pub=All+Acronyms&amp;rft_id=http%3A%2F%2Fwww.all-acronyms.com%2F%3Ftg%3Dcomputing%26o%3Da&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+computing+and+IT+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;section=30" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.roesler-ac.de/wolfram/acro/all.htm">The UNIX Acronym List</a></li>
+</ul>
+
+
+<!--
+NewPP limit report
+Parsed by mw1287
+Cached time: 20180519123301
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.324 seconds
+Real time usage: 0.404 seconds
+Preprocessor visited node count: 4470/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17235/2097152 bytes
+Template argument size: 3636/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.044/10.000 seconds
+Lua memory usage: 1.34 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  133.927      1 -total
+ 47.23%   63.247     27 Template:Div_col
+ 31.62%   42.342      1 Template:Cite_web
+  9.95%   13.327     55 Template:Main_other
+  7.07%    9.467      1 Template:Alphanumeric_TOC
+  6.89%    9.227      1 Template:Prone_to_spam
+  2.20%    2.949      2 Template:Mdash
+  2.03%    2.719      1 Template:Ambox/category
+  1.95%    2.617      1 Template:TOC_top
+  1.73%    2.319     27 Template:Column-width
+-->
+</div>

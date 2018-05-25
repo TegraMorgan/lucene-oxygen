@@ -1,0 +1,574 @@
+<div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For shorthand marks in Latin inscription and manuscripts, see <a href="/wiki/Scribal_abbreviation" title="Scribal abbreviation">Scribal abbreviation</a>.</div>
+<table class="plainlinks metadata ambox ambox-move" role="presentation">
+<tbody><tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/50px-Merge-arrows.svg.png" width="50" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/75px-Merge-arrows.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/100px-Merge-arrows.svg.png 2x" data-file-width="50" data-file-height="20"></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">It has been suggested that this article be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a> with <i><a href="/wiki/List_of_classical_abbreviations" title="List of classical abbreviations">list of classical abbreviations</a></i>. (<a href="/wiki/Talk:List_of_Latin_abbreviations" title="Talk:List of Latin abbreviations">Discuss</a>) <small><i>Proposed since July 2017.</i></small></div>
+</td>
+</tr>
+</tbody></table>
+<p>This is a <b>list of common <a href="/wiki/Latin" title="Latin">Latin</a> <a href="/wiki/Abbreviation" title="Abbreviation">abbreviations</a></b>. Nearly all the abbreviations below have been adopted by <a href="/wiki/Modern_English" title="Modern English">Modern English</a>. However, with some exceptions (for example, <i>versus</i> or <i><a href="/wiki/Modus_operandi" title="Modus operandi">modus operandi</a></i>), most of the Latin referent words and phrases are still foreign and unknown to English. In a few cases, English referents have replaced the original Latin ones (e.g., "<a href="/wiki/Rest_in_peace" title="Rest in peace">rest in peace</a>" for R.I.P. and "post script" for P.S.).</p>
+<p><a href="/wiki/Latin" title="Latin">Latin</a> was once the universal academic language in Europe. From the 18th century authors started using their mother tongues to write books, papers or proceedings. Even when Latin fell out of use, many Latin abbreviations continued to be used due to their precise simplicity and Latin's status as a learnèd language.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2017)">citation needed</span></a></i>]</sup></p>
+<p>In July 2016, the government of the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> announced that its websites would no longer use Latin abbreviations.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle" lang="en" dir="ltr">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#List_of_common_abbreviations"><span class="tocnumber">1</span> <span class="toctext">List of common abbreviations</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Less_common_abbreviations_and_usages"><span class="tocnumber">2</span> <span class="toctext">Less common abbreviations and usages</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Used_in_biology"><span class="tocnumber">3</span> <span class="toctext">Used in biology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Citations"><span class="tocnumber">5.1</span> <span class="toctext">Citations</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Bibliography"><span class="tocnumber">5.2</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="List_of_common_abbreviations">List of common abbreviations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Latin_abbreviations&amp;action=edit&amp;section=1" title="Edit section: List of common abbreviations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>All abbreviations are given with <a href="/wiki/Full_stops" class="mw-redirect" title="Full stops">full stops</a>, although these are omitted or included as a personal preference in most situations.</p>
+<table class="wikitable sortable" border="1">
+<caption>Latin abbreviations</caption>
+<tbody><tr>
+<th scope="col"><a href="/wiki/Abbreviation" title="Abbreviation">Abbreviation</a></th>
+<th scope="col"><a href="/wiki/Latin" title="Latin">Latin</a></th>
+<th scope="col">Translation</th>
+<th scope="col">Usage and notes</th>
+</tr>
+<tr>
+<td><span id="anno_Domini"></span><a href="/wiki/AD" class="mw-redirect" title="AD">AD</a></td>
+<td><i><a href="/wiki/Anno_Domini" title="Anno Domini">anno Domini</a></i></td>
+<td>"in the year of the Lord"<sup id="cite_ref-USGPOstyle_2-0" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></td>
+<td>Used to label or number years in the <a href="/wiki/Julian_calendar" title="Julian calendar">Julian</a> and <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendars</a>. The AD or the Christian <a href="/wiki/Calendar_era" title="Calendar era">calendar era</a> is based on the traditionally reckoned year of the <a href="/wiki/Annunciation" title="Annunciation">conception</a> or <a href="/wiki/Nativity_of_Jesus" title="Nativity of Jesus">birth</a> of <a href="/wiki/Jesus_of_Nazareth" class="mw-redirect" title="Jesus of Nazareth">Jesus of Nazareth</a>, with <i>AD</i> counting years after the start of this <a href="/wiki/Epoch_(reference_date)" title="Epoch (reference date)">epoch</a>, and <i>BC</i> denoting years before the start of the epoch.<br>
+Example: <i>The United States Civil War began in <b>AD</b> 1861</i></td>
+</tr>
+<tr>
+<td><span id="ad_interim"></span>a.i.</td>
+<td><i><a href="/wiki/Ad_interim" title="Ad interim">ad interim</a></i></td>
+<td>"temporarily"</td>
+<td>Used in business organizational charts</td>
+</tr>
+<tr>
+<td><span id="Ante_Meridiem"></span><a href="/wiki/Ante_meridiem" class="mw-redirect" title="Ante meridiem">A.M.</a></td>
+<td><i><a href="/wiki/12-hour_clock" title="12-hour clock">ante meridiem</a></i></td>
+<td>"before midday"<sup id="cite_ref-USGPOstyle_2-1" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></td>
+<td>Used on the <a href="/wiki/Twelve-hour_clock" class="mw-redirect" title="Twelve-hour clock">twelve-hour clock</a> to indicate times during the morning.<br>
+Example: <i>We will meet the mayor at 10 <b>a.m.</b> (10:00 in 24-hour clock)</i></td>
+</tr>
+<tr>
+<td><span id="circa"></span><a href="/wiki/Circa" title="Circa">c.</a>, <a href="/wiki/Circa" title="Circa">ca.</a>, <a href="/wiki/Circa" title="Circa">ca</a> or <a href="/wiki/Circa" title="Circa">cca.</a></td>
+<td><i><a href="/wiki/Circa" title="Circa">circa</a></i></td>
+<td>"around", "about", "approximately"<sup id="cite_ref-AllAcronyms_3-0" class="reference"><a href="#cite_note-AllAcronyms-3">[3]</a></sup><sup id="cite_ref-Maurer_4-0" class="reference"><a href="#cite_note-Maurer-4">[4]</a></sup></td>
+<td>Used in dates to indicate approximately.<br>
+Example: <i>The antique clock is from <b>c.</b>1900.</i></td>
+</tr>
+<tr>
+<td><span id="capitulus"></span>Cap.</td>
+<td><i>capitulus</i></td>
+<td>"chapter"</td>
+<td>Used before a chapter number of laws of the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> and its former <a href="/wiki/Colony" title="Colony">colonies</a>.<br>
+Example: <i>Electronic Transactions Ordinance (<b>Cap.</b>&nbsp;553).</i></td>
+</tr>
+<tr>
+<td><span id="confer"></span><a href="/wiki/Cf." title="Cf.">cf.</a></td>
+<td><i><a href="/wiki/Confer" class="mw-redirect" title="Confer">confer</a></i></td>
+<td>"bring together" and hence "compare"</td>
+<td><i>Confer</i> is the imperative of the Latin verb <i>conferre</i>.<sup id="cite_ref-Maurer_4-1" class="reference"><a href="#cite_note-Maurer-4">[4]</a></sup> Used interchangeably with "cp." in citations indicating the reader should compare a statement with that from the cited source.<br>
+Example: <i>These results were similar to those obtained using different techniques (<b>cf.</b> Wilson, 1999 and Ansmann, 1992).</i>
+<p>It is also widely used as an abbreviation for "<i>see</i>", although some styles recommend against such use.</p>
+</td>
+</tr>
+<tr>
+<td><span id="compare"></span>cp.</td>
+<td></td>
+<td><i>compare</i></td>
+<td>Used interchangeably with "cf." in citations indicating the reader should compare a statement with that from the cited source.<br>
+Example: <i>These results were similar to those obtained using different techniques (<b>cp.</b> Wilson, 1999 and Ansmann, 1992).</i></td>
+</tr>
+<tr>
+<td><span id="ceteris_paribus"></span>Cp</td>
+<td><i><a href="/wiki/Ceteris_paribus" title="Ceteris paribus">ceteris paribus</a></i></td>
+<td>"all other things being equal"</td>
+<td>Commonly used in economics, ceteris paribus allows for supply and demand models to reflect specific variables. If one assumes that the only thing changing is, say, the price of wheat, then demand and supply will both be affected appropriately. While this is simplification of actual dynamic market models, it makes learning economic theory easier.</td>
+</tr>
+<tr>
+<td><span id="curriculum_vitae"></span><a href="/wiki/R%C3%A9sum%C3%A9" title="Résumé">C.V.</a>, cv or CV</td>
+<td><i><a href="/wiki/Curriculum_vitae" title="Curriculum vitae">curriculum vitae</a></i></td>
+<td>"course of life"</td>
+<td>A document containing a summary or listing of relevant job experience and education. The exact usage of the term varies between British English and American English. The singular form is never vita. Curriculum is already singular, vitae is genitive from "vita", i.e. "of life", despite the plural-appearing vitae modifier. The true plural is curricula vitae.</td>
+</tr>
+<tr>
+<td><span id="centum_weight"></span><a href="/wiki/Cwt." class="mw-redirect" title="Cwt.">cwt.</a></td>
+<td><i>centum weight</i></td>
+<td>"<a href="/wiki/Hundredweight" title="Hundredweight">Hundredweight</a>"<sup id="cite_ref-USGPOstyle_2-2" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></td>
+<td>cwt. uses a mixture of Latin and English abbreviation.</td>
+</tr>
+<tr>
+<td><span id="Deo_volente"></span>D.V.</td>
+<td><i><a href="/wiki/Deo_volente" class="mw-redirect" title="Deo volente">Deo volente</a></i></td>
+<td>"God willing"</td>
+<td></td>
+</tr>
+<tr>
+<td><span id="Dei_gratia"></span>DG, D.G. or DEI GRA</td>
+<td><i><a href="/wiki/Dei_gratia" class="mw-redirect" title="Dei gratia">Dei gratia</a></i></td>
+<td>"by the grace of God".<sup id="cite_ref-USGPOstyle_2-3" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></td>
+<td>A part of the monarch's title, it is found on all British and Canadian coins.</td>
+</tr>
+<tr>
+<td><span id="eadem"></span><a href="/wiki/Ead." class="mw-redirect" title="Ead.">ead.</a></td>
+<td><i><a href="/wiki/Eadem" class="mw-redirect" title="Eadem">eadem</a></i></td>
+<td>"the same (woman)"</td>
+<td>see <i><a href="#idem">id.</a></i> below.</td>
+</tr>
+<tr>
+<td><span id="et_alii"></span><a href="/wiki/Et_al." class="mw-redirect" title="Et al.">et al.</a></td>
+<td><i><a href="/wiki/Et_alii" class="mw-redirect" title="Et alii">et alii</a><br>
+<a href="/wiki/Et_alia" class="mw-redirect" title="Et alia">et alia</a><br>
+et alibi</i></td>
+<td>"and others", "and co-workers".<sup id="cite_ref-USGPOstyle_2-4" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup><br>
+"and other things"<br>
+"and other places"</td>
+<td>Example: <i>These results agree with the ones published by Pelon et al. (2002).</i>
+<p>"Etc." should not be used for people.</p>
+</td>
+</tr>
+<tr>
+<td><span id="et_cetera"></span><a href="/wiki/Etc." class="mw-redirect" title="Etc.">etc.</a></td>
+<td><i><a href="/wiki/Et_caetera" class="mw-redirect" title="Et caetera">et caetera</a></i></td>
+<td>"and the others", "and other things", "and the rest".<sup id="cite_ref-USGPOstyle_2-5" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></td>
+<td>Other archaic abbreviations include "&amp;c.", "&amp;/c.", "&amp;e.", "&amp;ct.", and "&amp;ca."
+<p>Example: <i>I need to go to the store and buy some pie, milk, cheese, <b>etc.</b></i></p>
+<p>Because <i>cetera</i> implies inanimate objects, <i>et al.</i> is preferred when speaking of people.</p>
+</td>
+</tr>
+<tr>
+<td><span id="exempli_gratia"></span><a href="/wiki/Exempli_gratia" class="mw-redirect" title="Exempli gratia">e.g.</a></td>
+<td><i><a href="/wiki/Exempli_gratia" class="mw-redirect" title="Exempli gratia">exempli gratia</a></i></td>
+<td>"for example", "for instance".<sup id="cite_ref-USGPOstyle_2-6" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></td>
+<td>Example: <i>The shipping company instituted a surcharge on any items weighing over a ton; <b>e.g.</b>, a car or truck.</i></td>
+</tr>
+<tr>
+<td><span id="floruit"></span><a href="/wiki/Floruit" title="Floruit">fl.</a></td>
+<td><i><a href="/wiki/Floruit" title="Floruit">floruit</a></i></td>
+<td>"flourished"</td>
+<td>Followed by the dates during which the person, usually famous, was active and productive in his/her profession, as opposed to the person's dates of birth and death. This is usually seen as parenthetical information.<sup id="cite_ref-USGPOstyle_2-7" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup>
+<p>Example: <i>The great author Joseph Someone (<b>fl.</b> 2050–75) was renowned for his erudition.</i></p>
+</td>
+</tr>
+<tr>
+<td><span id="folio"></span><a href="https://en.wiktionary.org/wiki/f." class="extiw" title="wikt:f.">f.</a> (singular)<br>
+<a href="https://en.wiktionary.org/wiki/ff." class="extiw" title="wikt:ff.">ff.</a> (plural)</td>
+<td><i><a href="/wiki/Recto_and_verso" title="Recto and verso">folio</a>/foliis</i></td>
+<td>"and following"</td>
+<td>This abbreviation is used in citations to indicate an unspecified number of pages following the specified page. Example: <i>see page 258<b>ff.</b></i></td>
+</tr>
+<tr>
+<td><span id="ibidem"></span><a href="/wiki/Ibid." title="Ibid.">ibid.</a></td>
+<td><i><a href="/wiki/Ibidem" class="mw-redirect" title="Ibidem">ibidem</a></i></td>
+<td>"in the same place (book, etc.)"<sup id="cite_ref-USGPOstyle_2-8" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></td>
+<td>The abbreviation is used in citations. It should not be confused with the following abbreviation.</td>
+</tr>
+<tr>
+<td><span id="idem"></span><a href="/wiki/Id." class="mw-redirect" title="Id.">id.</a></td>
+<td><i><a href="/wiki/Idem" title="Idem">idem</a></i></td>
+<td>"the same (man)".<sup id="cite_ref-USGPOstyle_2-9" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></td>
+<td>It is used to avoid repeating the name of a male author (in citations, footnotes, bibliographies, etc.) When quoting a female author, use the corresponding feminine form, <a href="/wiki/Ead." class="mw-redirect" title="Ead.">ead.</a> (<i><a href="/wiki/Eadem" class="mw-redirect" title="Eadem">eadem</a></i>), "the same (woman)" (<i>eadem</i> is pronounced with stress on the first <i>e-</i>).</td>
+</tr>
+<tr>
+<td><span id="inter_alia"></span><a href="/wiki/I.a." class="mw-redirect" title="I.a.">i.a.</a></td>
+<td><i><a href="/wiki/Inter_alia" class="mw-redirect" title="Inter alia">inter alia</a></i></td>
+<td>"among other things".</td>
+<td>Example: <i>Ernest Hemingway—author (<b>i.a.</b> 'The Sun Also Rises') and friend.</i></td>
+</tr>
+<tr>
+<td><span id="id_est"></span><a href="/wiki/I.e." class="mw-redirect" title="I.e.">i.e.</a></td>
+<td><i><a href="/wiki/Id_est" class="mw-redirect" title="Id est">id est</a></i></td>
+<td>"that is", "in other words".<sup id="cite_ref-USGPOstyle_2-10" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></td>
+<td>Example: <i>For reasons not fully understood there is only a minor PSI contribution to the variable fluorescence emission of chloroplasts (Dau, 1994 <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>), <b>i.e.</b>, the PSI fluorescence appears to be independent from the state of its reaction centre (Butler, 1978 <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>).</i></td>
+</tr>
+<tr>
+<td><span id="Juris_Doctor"></span>J.D.</td>
+<td><i><a href="/wiki/Juris_Doctor" title="Juris Doctor">Juris Doctor</a></i></td>
+<td>"doctor of law".</td>
+<td></td>
+</tr>
+<tr>
+<td><span id="libra"></span>lb. (singular)<br>
+lbs. (plural)</td>
+<td><i><a href="/wiki/Ancient_Roman_units_of_measurement" title="Ancient Roman units of measurement">libra</a></i></td>
+<td>"scales"</td>
+<td>Used to indicate the <a href="/wiki/Pound_(mass)" title="Pound (mass)">pound (mass)</a>.<sup id="cite_ref-USGPOstyle_2-11" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></td>
+</tr>
+<tr>
+<td><span id="Legum_Baccalaureus"></span><a href="/wiki/LL.B." class="mw-redirect" title="LL.B.">LL.B.</a> or Ll.B.</td>
+<td><i><a href="/wiki/Legum_Baccalaureus" class="mw-redirect" title="Legum Baccalaureus">Legum Baccalaureus</a></i></td>
+<td>"bachelor of laws"</td>
+<td>The "LL." of the abbreviation for the degree is from the genitive plural <i>legum</i> (singular: <i>lex</i> or <i>legis</i>, for law), thus "LL.B." stands for Legum Baccalaureus in Latin. In the United States it was sometimes erroneously called "Bachelor of Legal Letters" to account for the double "L" (and therefore sometimes abbreviated as "L.L.B.").</td>
+</tr>
+<tr>
+<td><span id="Magister_Artium"></span><a href="/wiki/Master_of_Arts" title="Master of Arts">M.A.</a></td>
+<td><i><a href="/wiki/Magister_Artium" class="mw-redirect" title="Magister Artium">Magister Artium</a></i></td>
+<td>"<a href="/wiki/Master_of_Arts" title="Master of Arts">Master of Arts</a>"</td>
+<td>A postgraduate academic master degree awarded by universities in many countries. The degree is typically studied for in fine art, humanities, social science or theology and can be either fully taught, research-based, or a combination of the two.</td>
+</tr>
+<tr>
+<td><span id="modus_operandi"></span>M.O.</td>
+<td><i><a href="/wiki/Modus_operandi" title="Modus operandi">modus operandi</a></i></td>
+<td>"method of operating"</td>
+<td>Can refer to one's body of business practices. Also, in <a href="/wiki/Criminology" title="Criminology">criminology</a>, to refer to a criminal's method of operation.</td>
+</tr>
+<tr>
+<td><span id="nota_bene"></span>N.B.</td>
+<td><i><a href="/wiki/Nota_bene" title="Nota bene">nota bene</a></i></td>
+<td>"note well"</td>
+<td>Some people use "Note" for the same purpose.<sup id="cite_ref-USGPOstyle_2-12" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup> Usually written with <a href="/wiki/Majuscule" class="mw-redirect" title="Majuscule">majuscule</a> (French upper case / 'capital') letters.<br>
+Example: <i><b>N.B.</b>: All the measurements have an accuracy of within 5% as they were calibrated according to the procedure described by Jackson (1989).</i></td>
+</tr>
+<tr>
+<td><span id="nemine_contradicente"></span><a href="/wiki/Nem._con." class="mw-redirect" title="Nem. con.">nem. con.</a></td>
+<td><i><a href="/wiki/Nemine_contradicente" class="mw-redirect" title="Nemine contradicente">nemine contradicente</a></i></td>
+<td>"with no one speaking against"</td>
+<td>The meaning is distinct from "unanimously"; "nem. con." simply means that nobody voted against. Thus there may have been abstentions from the vote.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2011)">citation needed</span></a></i>]</sup></td>
+</tr>
+<tr>
+<td><span id="opere_citato"></span><a href="/wiki/Op._cit." title="Op. cit.">op. cit.</a></td>
+<td><i><a href="/wiki/Op._cit." title="Op. cit.">opere citato</a></i></td>
+<td>"in the work cited"</td>
+<td>Means in the same article, book or other reference work as was mentioned before. It is most often used in <a href="/wiki/Citation" title="Citation">citations</a> in a similar way to "ibid", though "ibid" would usually be followed by a <a href="/wiki/Page_number" class="mw-redirect" title="Page number">page number</a>.</td>
+</tr>
+<tr>
+<td><span id="per_annum"></span><a href="/wiki/Per_annum" title="Per annum">p.a.</a></td>
+<td><i>per annum</i></td>
+<td>"through a year"</td>
+<td>Is used in the sense of "yearly".<sup id="cite_ref-USGPOstyle_2-13" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></td>
+</tr>
+<tr>
+<td><span id="per_centum"></span><a href="/wiki/Per_cent." class="mw-redirect" title="Per cent.">per cent.</a></td>
+<td><i>per centum</i></td>
+<td>"for each one hundred"</td>
+<td>Commonly "percent" in <a href="/wiki/American_English" title="American English">American English</a>.<sup id="cite_ref-LatinAbbr_8-0" class="reference"><a href="#cite_note-LatinAbbr-8">[8]</a></sup></td>
+</tr>
+<tr>
+<td><span id="Philosophiae_Doctor"></span><a href="/wiki/Ph.D." class="mw-redirect" title="Ph.D.">Ph.D.</a></td>
+<td><i>Philosophiae Doctor</i></td>
+<td>"<a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Doctor of Philosophy</a>"</td>
+<td></td>
+</tr>
+<tr>
+<td><span id="Post_Meridiem"></span><a href="/wiki/12-hour_clock" title="12-hour clock">P.M.</a></td>
+<td><i>post meridiem</i></td>
+<td>"after midday"</td>
+<td>Used on the <a href="/wiki/Twelve-hour_clock" class="mw-redirect" title="Twelve-hour clock">twelve-hour clock</a> to indicate times during the afternoon.<br>
+Example: <i>We will meet the mayor at 2</i> <b>P.M.</b> (14:00 in 24-hour clock)</td>
+</tr>
+<tr>
+<td><span id="mortem_auctoris"></span>p.m.a.</td>
+<td><i><a href="/wiki/Post_mortem_auctoris" class="mw-redirect" title="Post mortem auctoris">post mortem auctoris</a></i></td>
+<td>"after the author's death"</td>
+<td></td>
+</tr>
+<tr>
+<td><span id="per_procurationem"></span><a href="/wiki/Procuration" title="Procuration">p.p.</a> and <a href="/w/index.php?title=Per_pro.&amp;action=edit&amp;redlink=1" class="new" title="Per pro. (page does not exist)">per pro.</a></td>
+<td><i><a href="/wiki/Per_procurationem" class="mw-redirect" title="Per procurationem">per procurationem</a></i></td>
+<td>"through the agency of"</td>
+<td></td>
+</tr>
+<tr>
+<td><span id="pro_re_nata"></span><a href="/wiki/Pro_re_nata" title="Pro re nata">PRN</a></td>
+<td><i><a href="/wiki/Pro_re_nata" title="Pro re nata">pro re nata</a></i></td>
+<td>"as needed"</td>
+<td>Used in <a href="/wiki/Medical_prescription" title="Medical prescription">prescriptions</a></td>
+</tr>
+<tr>
+<td><span id="pro_tempore"></span><a href="/w/index.php?title=Pro_tem.&amp;action=edit&amp;redlink=1" class="new" title="Pro tem. (page does not exist)">pro tem.</a></td>
+<td><i><a href="/wiki/Pro_tempore" title="Pro tempore">pro tempore</a></i></td>
+<td>"for the time being", "temporarily", "in place of"</td>
+<td><sup id="cite_ref-USGPOstyle_2-14" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></td>
+</tr>
+<tr>
+<td><span id="post_scriptum"></span><a href="/wiki/Postscript" title="Postscript">P.S.</a></td>
+<td><i><a href="/wiki/Post_scriptum" class="mw-redirect" title="Post scriptum">post scriptum</a></i></td>
+<td>"after what has been written"</td>
+<td>Used to indicate additions to a text after the signature of a letter.<br>
+Example (in a letter format):<br>
+<i>Sincerely,<br>
+John Smith.<br>
+<b>P.S.</b> Tell mother I say hello!</i></td>
+</tr>
+<tr>
+<td><span id="post_post_scriptum"></span>P.P.S.</td>
+<td><i>post post scriptum</i></td>
+<td></td>
+<td>Used to indicate additions after a postscript. Sometimes extended to comical length with <i>P.P.P.S.</i>, <i>P.P.P.P.S.</i>, and so on.</td>
+</tr>
+<tr>
+<td><span id="quaque_die"></span>Q.D.</td>
+<td><i><a href="/wiki/Quaque_die" class="mw-redirect" title="Quaque die">quaque die</a></i></td>
+<td>"every day"</td>
+<td>Used on <a href="/wiki/Medical_prescription" title="Medical prescription">prescriptions</a> to indicate the medicine should be taken daily.</td>
+</tr>
+<tr>
+<td><span id="quod_erat_demonstrandum"></span><a href="/wiki/Q.E.D." title="Q.E.D.">Q.E.D.</a></td>
+<td><i>quod erat demonstrandum</i></td>
+<td>"which was to be demonstrated".<sup id="cite_ref-USGPOstyle_2-15" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></td>
+<td>Cited in many texts at the end of a <a href="/wiki/Mathematical_proof" title="Mathematical proof">mathematical proof</a>.<br>
+Example: <i>At the end of the long proof, the professor exclaimed "<b>Q.E.D</b>!"</i></td>
+</tr>
+<tr>
+<td><span id="quod_vide"></span><a href="/wiki/Q.v." class="mw-redirect" title="Q.v.">q.v.</a></td>
+<td><i>quod vide</i></td>
+<td>"which see"</td>
+<td>Imperative,<sup id="cite_ref-USGPOstyle_2-16" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup> used after a term or phrase that should be looked up elsewhere in the current document or book. For more than one term or phrase, the plural is <i>quae vide</i> (qq.v.).</td>
+</tr>
+<tr>
+<td><span id="in_re"></span>Re</td>
+<td><i><a href="/wiki/In_re" title="In re">in re</a></i></td>
+<td>"in the matter of", "concerning"</td>
+<td>Often used to prefix the subject of traditional <a href="/wiki/Letter_(message)" title="Letter (message)">letters</a> and <a href="/wiki/Memoranda" class="mw-redirect" title="Memoranda">memoranda</a>. However, when used in an <a href="/wiki/E-mail_subject_abbreviations" class="mw-redirect" title="E-mail subject abbreviations">e-mail subject</a>, there is evidence that it functions as an abbreviation of "reply" rather than the word meaning "in the matter of". Nominative case singular 'res' is the Latin equivalent of 'thing'; singular 're' is the ablative case required by 'in'. Some people believe that it is short for 'regarding', especially if it is followed by a colon (i.e., "Re:").</td>
+</tr>
+<tr>
+<td><span id="regina"></span>REG</td>
+<td><i>regina</i></td>
+<td>"queen"</td>
+<td>A part of the monarch's title. It is found on all British coins minted during the reign of a monarch who is a queen. <i>Rex</i>, "king" (not an abbreviation) is used when the reigning monarch is a king.</td>
+</tr>
+<tr>
+<td><span id="regnavit"></span>r.</td>
+<td><i>regnavit</i></td>
+<td>"he/she reigned"</td>
+<td>Often abbreviated as "r." followed by the dates during which the king or queen reigned/ruled, as opposed to the monarch's dates of birth and death. Often used parenthetically after the monarch's name.</td>
+</tr>
+<tr>
+<td><span id="requiescat_in_pace"></span>R.I.P.</td>
+<td><i><a href="/wiki/Requiescat_in_pace" class="mw-redirect" title="Requiescat in pace">requiescat in pace</a><br>
+requiescant in pace</i></td>
+<td>"may he/she rest in peace"<br>
+"may they rest in peace"</td>
+<td>Used as a short <a href="/wiki/Prayer" title="Prayer">prayer</a> for a dead person, frequently found on <a href="/wiki/Tombstones" class="mw-redirect" title="Tombstones">tombstones</a>. Some people believe that it stands for <i>rest in peace</i>.<br>
+Example: <i><b>R.I.P.</b>, good grandmother.</i></td>
+</tr>
+<tr>
+<td><span id="sensu_amplo"></span>s.a.</td>
+<td><i><a href="/wiki/Sensu" title="Sensu">sensu</a> amplo</i></td>
+<td>"in a relaxed, generous (or 'ample') sense"</td>
+<td></td>
+</tr>
+<tr>
+<td><span id="sensu_lato"></span>s.l.</td>
+<td><i>sensu lato</i></td>
+<td>"in the wide or broad sense"</td>
+<td>Example: <i><a href="/wiki/New_Age" title="New Age">New Age</a></i> s.l. <i>has a strong American flavor influenced by Californian counterculture.</i></td>
+</tr>
+<tr>
+<td><span id="sensu_stricto"></span>s.s.</td>
+<td><i>sensu stricto</i></td>
+<td>"in the strict sense"</td>
+<td>Example: <i><a href="/wiki/New_Age" title="New Age">New Age</a></i> s.s. <i>refers to a spectrum of alternative communities in Europe and the United States in the 1970s.</i></td>
+</tr>
+<tr>
+<td><span id="si_opus_sit"></span>s.o.s.</td>
+<td><i>si opus sit</i></td>
+<td>"if there is need", "if occasion require", "if necessary"<sup id="cite_ref-Hughes_9-0" class="reference"><a href="#cite_note-Hughes-9">[9]</a></sup></td>
+<td>A prescription indication that the drug is to only be administered once.</td>
+</tr>
+<tr>
+<td><span id="sic_erat_scriptum"></span>Sic</td>
+<td><i>sic. or sic erat scriptum</i></td>
+<td>"Thus it was written"</td>
+<td>Often used when citing text, especially if the cited work has mistakes to show that it has been copied as it was and not mistyped. <i>Sic</i> is often (mis)used as a sign of surprise, incredulity or ridicule regarding the substance of a quote</td>
+</tr>
+<tr>
+<td><span id="statim"></span>stat.</td>
+<td><i><a href="/wiki/List_of_Latin_phrases:_S#statim" class="mw-redirect" title="List of Latin phrases: S">statim</a></i></td>
+<td>"immediately"</td>
+<td>Often used in medical contexts.<br>
+<i>Example: That patient needs attention, <b>stat.</b>!</i></td>
+</tr>
+<tr>
+<td><span id="videlicet"></span><a href="/wiki/Viz." title="Viz.">viz.</a></td>
+<td><i><a href="/wiki/Videlicet" class="mw-redirect" title="Videlicet">videlicet</a></i></td>
+<td>"namely", "to wit", "precisely", "that is to say"<sup id="cite_ref-USGPOstyle_2-17" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></td>
+<td>In contradistinction to "i.e." and "e.g.", "viz." is used to indicate a detailed description of something stated before, and when it precedes a list of group members, it implies (near) completeness.
+<p><br>
+Example: <i>The noble gases, <b>viz.</b> helium, neon, argon, xenon, krypton and radon, show a non-expected behaviour when exposed to this new element.</i></p>
+</td>
+</tr>
+<tr>
+<td><span id="versus"></span><a href="https://en.wiktionary.org/wiki/versus" class="extiw" title="wikt:versus">vs.</a> or v.</td>
+<td><i><a href="https://en.wiktionary.org/wiki/versus" class="extiw" title="wikt:versus">versus</a></i></td>
+<td>"against"</td>
+<td>Sometimes is not abbreviated.
+<p><br>
+Example: <i>The next football game will be the Knights <b>vs.</b> the Sea Eagles.</i> In English law the <i>v</i> has no full stop (period) and is <i>never</i> <i>vs</i> and is never pronounced <i>versus</i> but rather as <i>and</i> Example: <i>R(egina) v Gadd</i> (a criminal case) which is pronounced as <i>The Crown and Gadd.</i> Similarly the film <i>Kramer vs. Kramer</i> is in England (at least to a lawyer): <i>Kramer and Kramer</i> although it would be written <i>Kramer v Kramer.</i> In Scots Law, the <i>v</i> is pronounced <i>against.</i> For example, <i>Donoghue v Stevenson</i> is pronounced <i>Donoghue against Stevenson.</i></p>
+</td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Less_common_abbreviations_and_usages">Less common abbreviations and usages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Latin_abbreviations&amp;action=edit&amp;section=2" title="Edit section: Less common abbreviations and usages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Words and abbreviations that have been in general use, but are currently used less often:</p>
+<ul>
+<li>A = amen</li>
+<li>a.C.n. = <a href="/wiki/Ante_Christum_natum" title="Ante Christum natum">ante Christum natum</a> = <a href="/wiki/Anno_Domini" title="Anno Domini">BC</a> = before Christ</li>
+<li>ad. nat. delt. = ad naturam delineavit = he/she drew (this artwork) after nature</li>
+<li>AMDG (<i><a href="/wiki/Ad_maiorem_Dei_gloriam" title="Ad maiorem Dei gloriam">Ad maiorem Dei gloriam</a></i> or <i><a href="/wiki/Ad_majorem_Dei_gloriam" class="mw-redirect" title="Ad majorem Dei gloriam">ad majorem Dei gloriam</a></i>): Latin - "For the greater glory of God". It is the <a href="/wiki/Motto" title="Motto">motto</a> of the <a href="/wiki/Society_of_Jesus" title="Society of Jesus">Society of Jesus</a>.</li>
+<li>a.u. (<i><a href="/w/index.php?title=Anno_urbis&amp;action=edit&amp;redlink=1" class="new" title="Anno urbis (page does not exist)">anno urbis</a></i>): Latin for "The year of <a href="/wiki/Rome" title="Rome">the city</a>"<sup id="cite_ref-AllAcronyms_3-1" class="reference"><a href="#cite_note-AllAcronyms-3">[3]</a></sup></li>
+<li>a.U.c. (<i><a href="/wiki/Ab_Urbe_condita" class="mw-redirect" title="Ab Urbe condita">ab Urbe condita</a></i> or <i>Anno Urbis conditae</i>): Latin for "from the foundation of <a href="/wiki/Rome" title="Rome">the City</a>":<sup id="cite_ref-USGPOstyle_2-18" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup> it refers to the <a href="/wiki/Founding_of_Rome" title="Founding of Rome">founding of Rome</a>, which occurred in <a href="/wiki/750s_BC" title="750s BC">753 BC</a> according to <a href="/wiki/Livy" title="Livy">Livy</a>'s count. Used as a reference point in ancient Rome for establishing dates, before being supplanted by other systems. Also <i>anno Urbis conditae</i> (a.U.c.) ("in the year that the City [Rome] was founded"). For example, the year 2007 <a href="/wiki/AD" class="mw-redirect" title="AD">AD</a> is the year 2761 <i>ab Urbe condita</i> (753 + 1 + 2007 = 2761); though, rigorously speaking, the year <i>a.U.c.</i> begins on April 21, the <i><a href="/w/index.php?title=Birthday_of_Rome&amp;action=edit&amp;redlink=1" class="new" title="Birthday of Rome (page does not exist)">birthday of Rome</a></i> (i.e. the day that <a href="/wiki/Romulus" title="Romulus">Romulus</a> was traditionally believed to have founded the Eternal City). (The reason for adding 1 to 753 is that the Romans counted dates "inclusively," i.e., including both the first and the last day or year in the count.)</li>
+<li><a href="/wiki/Bachelor_of_Arts" title="Bachelor of Arts">A.B.</a> (<i><a href="/wiki/Artium_Baccalaureus" class="mw-redirect" title="Artium Baccalaureus">Artium Baccalaureus</a></i>), "<a href="/wiki/Bachelor_of_Arts" title="Bachelor of Arts">Bachelor of Arts</a>" (<a href="/wiki/Bachelor_of_Arts" title="Bachelor of Arts">B.A.</a>, BA, or AB), is an undergraduate bachelor's degree awarded for either a course or a program in the <a href="/wiki/Liberal_arts" class="mw-redirect" title="Liberal arts">liberal arts</a> or the sciences, or both.</li>
+<li>Ben (<i>Benedictus</i>): "Blessed"</li>
+<li><span style="text-decoration:overline;">c</span> (<i>cum</i>): "with", usually found in medical shorthand.</li>
+<li>CC. (<i>Civis</i> in plural): Abbreviation for <i>Citizens</i> (plural of <a href="/wiki/Citizen" class="mw-redirect" title="Citizen">citizen</a>). Usually found in legal documents in <a href="/wiki/Civil_law_(legal_system)" title="Civil law (legal system)">Civil law</a> countries.</li>
+<li><a href="/wiki/D.D." class="mw-redirect" title="D.D.">D.D.</a> (<i>Divinitatis Doctor</i>), "<a href="/wiki/Doctor_of_Divinity" title="Doctor of Divinity">Doctor of Divinity</a>" <sup id="cite_ref-LatinAbbr_8-1" class="reference"><a href="#cite_note-LatinAbbr-8">[8]</a></sup></li>
+<li><a href="/wiki/D.Lit." class="mw-redirect" title="D.Lit.">D.Lit.</a> or D.Litt. (<i>Doctor Litterarum</i>) or Lit.D. or Litt.D. (<i>Litterarum Doctor</i>), "<a href="/wiki/Doctor_of_Literature" class="mw-redirect" title="Doctor of Literature">Doctor of Literature</a>" or "Doctor of Letters"<sup id="cite_ref-LatinAbbr_8-2" class="reference"><a href="#cite_note-LatinAbbr-8">[8]</a></sup></li>
+<li>D.M.D. (<i>Dentae Medicinae Doctor</i>), "Doctor of Dental Medicine"</li>
+<li><a href="/wiki/D.Phil." class="mw-redirect" title="D.Phil.">D.Phil.</a> (<i>Doctor Philosophiæ</i>), "<a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Doctor of Philosophy</a>"</li>
+<li>Ed.D. (<i>Educationae Doctor</i>), "Doctor of Education"</li>
+<li>et seq. (<i><a href="/w/index.php?title=Et_sequens&amp;action=edit&amp;redlink=1" class="new" title="Et sequens (page does not exist)">et sequens</a></i>), et seqq or et sequa. (<i>et sequentes</i>, or <i>et sequentia</i>): "and the following" (use <i>et seqq or et sequa.</i> if "the following" is plural).<sup id="cite_ref-USGPOstyle_2-19" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup> Not unlike the full colon [&nbsp;: ] which means "the following" i.e. that which follows is a listing of that which precedes the '&nbsp;: '. (Incorrectly used, "the following:")</li>
+<li><a href="/wiki/Dwt." class="mw-redirect" title="Dwt.">dwt.</a> (<i><a href="/wiki/Denarius" title="Denarius">denarius</a> weight</i>):<sup id="cite_ref-USGPOstyle_2-20" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup> "<a href="/wiki/Pennyweight" title="Pennyweight">Pennyweight</a>". N.B. this is a mixture of Latin and English abbreviations.</li>
+<li>I.N.D.F.S.S.A (<i>In Nomine Dei/Domini Filii Spiriti Sancti Amen</i>): "In the name of the Lord, the Son and the Holy Spirit Amen" <sup id="cite_ref-Worley_10-0" class="reference"><a href="#cite_note-Worley-10">[10]</a></sup></li>
+<li>F.D. or FID.DEF (<i><a href="/wiki/Fidei_defensor" title="Fidei defensor">fidei defensor</a></i>), "defender of the faith." A part of the monarch's title, it is found on all British coins.</li>
+<li>in litt. (<i><a href="/w/index.php?title=In_litteris&amp;action=edit&amp;redlink=1" class="new" title="In litteris (page does not exist)">in litteris</a></i>): Latin for "in a letter [or other documented correspondence]"; often followed by a date.</li>
+<li>inst. (<i><a href="/w/index.php?title=Instante_mense&amp;action=edit&amp;redlink=1" class="new" title="Instante mense (page does not exist)">instante mense</a></i>): "this month" (see also <i>prox.</i> and <i>ult.</i>)</li>
+<li>Ll.D. (<i>Legum Doctor</i>), "Doctor of Laws"</li>
+<li>Ll.M. (<i>Legum Magister</i>), "Master of Laws"</li>
+<li><a href="/w/index.php?title=Loq.&amp;action=edit&amp;redlink=1" class="new" title="Loq. (page does not exist)">loq.</a> (<i>loquitur</i>), "S/he speaks" <sup id="cite_ref-LatinAbbr_8-3" class="reference"><a href="#cite_note-LatinAbbr-8">[8]</a></sup></li>
+<li><a href="/wiki/Doctor_of_Medicine" title="Doctor of Medicine">M.D.</a> (<i>Medicinae Doctor</i>) or <a href="/wiki/Doctor_of_Medicine" title="Doctor of Medicine">D.M.</a> (<i>Doctor Medicinae</i>), "<a href="/wiki/Doctor_of_Medicine" title="Doctor of Medicine">Doctor of Medicine</a>"<sup id="cite_ref-LatinAbbr_8-4" class="reference"><a href="#cite_note-LatinAbbr-8">[8]</a></sup></li>
+<li>N.I.A ((In) <i>Nomine Iesus Amen</i>): "In the name of Jesus Amen"<sup id="cite_ref-Worley_10-1" class="reference"><a href="#cite_note-Worley-10">[10]</a></sup></li>
+<li>N.N. (<i><a href="/wiki/Nomen_nescio" title="Nomen nescio">nomen nescio</a></i>): "I do not know the name": used as a placeholder for unknown names in e.g. the <a href="/wiki/Book_of_Common_Prayer" title="Book of Common Prayer">Book of Common Prayer</a>.</li>
+<li>Nob. (<i>nobis</i>): "by us". Used in Latin descriptions of organisms, particularly plants, to indicate that a name is due to the author or authors.</li>
+<li>O.D. (<i><a href="/w/index.php?title=Oculus_dexter&amp;action=edit&amp;redlink=1" class="new" title="Oculus dexter (page does not exist)">oculus dexter</a></i>): "the right eye". Used in vision correction prescriptions.</li>
+<li>O.D. (<i>Optometriae Doctor</i>), "Doctor of Optometry".</li>
+<li>O.S. (<i><a href="/w/index.php?title=Oculus_sinister&amp;action=edit&amp;redlink=1" class="new" title="Oculus sinister (page does not exist)">oculus sinister</a></i>): "the left eye". Used in vision correction prescriptions.</li>
+<li>prox. (<i><a href="/w/index.php?title=Proximo_mense&amp;action=edit&amp;redlink=1" class="new" title="Proximo mense (page does not exist)">proximo mense</a></i>): "next month" (see also <i>inst.</i> and <i>ult.</i>).<sup id="cite_ref-USGPOstyle_2-21" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></li>
+<li><i>r</i>. (<i><a href="/wiki/Rexit" class="mw-redirect" title="Rexit">rexit</a></i>): 'ruled'. Used for the time period of a monarch or other ruler's reign (<i>e.g.</i>: Mehmet&nbsp;III [<i>r</i>. 1595–1603])</li>
+<li>Q.D.B.V. ("quod deus bene vertat"): "May God look favourably on this," often on the title page of books.</li>
+<li>Q.E.C. (<i><a href="/w/index.php?title=Quod_erat_construendum&amp;action=edit&amp;redlink=1" class="new" title="Quod erat construendum (page does not exist)">quod erat construendum</a></i>): "which was to be constructed" (after constructing something, normally to show its existence)</li>
+<li>Q.E.F. (<i><a href="/wiki/Quod_erat_faciendum" class="mw-redirect" title="Quod erat faciendum">quod erat faciendum</a></i>): "which was to be done"<sup id="cite_ref-USGPOstyle_2-22" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></li>
+<li>Q.E.I. (<i><a href="/w/index.php?title=Quod_erat_inveniendum&amp;action=edit&amp;redlink=1" class="new" title="Quod erat inveniendum (page does not exist)">quod erat inveniendum</a></i>): "which was to be found out", usually at the end of mathematical proofs.</li>
+<li><span style="text-decoration:overline;">s</span> (<i>sine</i>): "without", usually found in medical shorthand.</li>
+<li>S (<i>Sanctus/Salvator</i>): "Holy/Saviour"</li>
+<li><a href="/wiki/Sc." class="mw-redirect" title="Sc.">sc.</a> (<i><a href="/wiki/Scilicet" class="mw-redirect" title="Scilicet">scilicet</a></i>) means literally "one may know".<sup id="cite_ref-USGPOstyle_2-23" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup><sup id="cite_ref-Maurer_4-2" class="reference"><a href="#cite_note-Maurer-4">[4]</a></sup> Sometimes abbreviated <i>scil.</i> It is equivalent to the English phrase "to wit" and has virtually the same meaning as "videlicet" (literally, "one may see"), which is usually abbreviated as "viz." These expressions are not to be confused with "i.e." (id est), equivalent to "that is". Their meanings are similar, but there is a distinction which should be observed: "sc." and "viz." introduce a clarification; "i.e." introduces an equivalence.</li>
+<li><i><a href="/wiki/Sensu" title="Sensu">sec.</a></i> (<i><a href="/wiki/Sensu" title="Sensu">secundum</a></i>) literally "second", "after" or "following",<sup id="cite_ref-Latin_Cassel_11-0" class="reference"><a href="#cite_note-Latin_Cassel-11">[11]</a></sup> used in several related senses such as "in the sense of" or "in accordance with". For example in taxonomy "<i>...sec.</i> Smith..." typically would mean something like: "...in accordance with the ideas of Smith in this matter..."</li>
+<li>S.C.S (<i>Sanctus</i>): "Holy"<sup id="cite_ref-Worley_10-2" class="reference"><a href="#cite_note-Worley-10">[10]</a></sup></li>
+<li>S.C.S.D.X (<i>Sanctus Dominus Christus</i>): "Holy Lord Christ"<sup id="cite_ref-Worley_10-3" class="reference"><a href="#cite_note-Worley-10">[10]</a></sup></li>
+<li>S.D.X (<i>Sanctus Dominus Christus</i>): "Holy Lord Christ"<sup id="cite_ref-Worley_10-4" class="reference"><a href="#cite_note-Worley-10">[10]</a></sup></li>
+<li>S.D.I.X (<i>Salvator Dominus Iesus Christus</i>): "Saviour Lord Jesus Christ"<sup id="cite_ref-Worley_10-5" class="reference"><a href="#cite_note-Worley-10">[10]</a></sup></li>
+<li>S.J.D. (<i>Scientiae Juridicae Doctor</i>) or J.S.D. (<i>Juridicae Scientiae Doctor</i>), "<a href="/wiki/Doctor_of_Juridical_Science" title="Doctor of Juridical Science">Doctor of Juridical Science</a>"</li>
+<li>Sc.D. (<i>Scientiae Doctor</i>) or D.Sc. (<i>Doctor Scientiae</i>), "<a href="/wiki/Doctor_of_Science" title="Doctor of Science">Doctor of Science</a>"</li>
+<li>sphalm. (<i>sphalma typographicum</i>): a misprint.</li>
+<li>S.P.D. (<i>salutem plurimam dicit</i>), sends many greetings, e.g. Areia S.P.D. Apollonio. (Areia sends many greetings to Apollonius)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+<li>S.P.Q.R. (<i><a href="/wiki/Senatus_Populusque_Romanus" class="mw-redirect" title="Senatus Populusque Romanus">Senatus Populusque Romanus</a></i>): "Senate and People of Rome"</li>
+<li>sqq. (<i><a href="/wiki/Sequentia" class="mw-redirect" title="Sequentia">sequentia</a></i>): "the following ones": same as "ff", used for an unspecified number of pages following the one cited.</li>
+<li>S.T.T.L. (<i><a href="/wiki/Sit_tibi_terra_levis" title="Sit tibi terra levis">sit tibi terra levis</a></i>) means "May the earth rest lightly on you" and was used in similar manner to R.I.P.</li>
+<li>s.v. (<i><a href="/wiki/Sub_verbo" class="mw-redirect" title="Sub verbo">sub verbo</a></i>): "Under the word or heading", as in a dictionary</li>
+<li>S.V.B.E.E.V. (<i>si vales bene est ego valeo</i>): "if you are well, it is good. I am well." Among the Romans, this was a traditional salutation at the beginning of a letter.</li>
+<li><a href="/wiki/Th.D." class="mw-redirect" title="Th.D.">Th.D.</a> (<i>Theologiae Doctor</i>): "<a href="/wiki/Doctor_of_Theology" title="Doctor of Theology">Doctor of Theology</a>"</li>
+<li>ult. (<i><a href="/w/index.php?title=Ultimo_mense&amp;action=edit&amp;redlink=1" class="new" title="Ultimo mense (page does not exist)">ultimo mense</a></i>): "last month" (see also <i>inst.</i> and <i>prox.</i>)<sup id="cite_ref-USGPOstyle_2-24" class="reference"><a href="#cite_note-USGPOstyle-2">[2]</a></sup></li>
+<li>u.s. (<i><a href="/wiki/Ut_supra" class="mw-redirect" title="Ut supra">ut supra</a></i>): "as above".</li>
+<li>V.C. (<i><a href="/wiki/Vi_coactus" title="Vi coactus">vi coactus</a></i>): "constrained by force". Used when forced to sign ("or else&nbsp;...")</li>
+<li>V.I. (<i>Venerate Iesum</i>): "Venerate Jesus"<sup id="cite_ref-Worley_10-6" class="reference"><a href="#cite_note-Worley-10">[10]</a></sup></li>
+<li>v.i. (<i><a href="/wiki/Vide_infra" class="mw-redirect" title="Vide infra">vide infra</a></i>) means "see below".</li>
+<li>v.s. (<i><a href="/wiki/Vide_supra" class="mw-redirect" title="Vide supra">vide supra</a></i>) means "see above".</li>
+<li>X (Christus): "<a href="/wiki/Christ" class="mw-redirect" title="Christ">Christ</a>"</li>
+</ul>
+<h2><span class="mw-headline" id="Used_in_biology">Used in biology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Latin_abbreviations&amp;action=edit&amp;section=3" title="Edit section: Used in biology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Aff." class="mw-redirect" title="Aff.">aff.</a> (<i>affinis</i>): having affinity with, similar but not identical to</li>
+<li>auct. (<i><a href="/wiki/Auctorum" title="Auctorum">auctorum</a></i>): of the authors, i.e. written like that by various authors</li>
+<li>Ca. (<a href="/wiki/Candidatus" title="Candidatus">Candidatus</a>): for candidate names of organisms that have not been completely accepted</li>
+<li>ex. (<i>exemplar</i>): example or specimen; plural abbreviated as exx.</li>
+<li>f. sp. (<i><a href="/wiki/Forma_specialis" title="Forma specialis">forma specialis</a></i>): a special form adapted to a specific host; plural abbreviated as ff. spp.</li>
+<li>in coll. (<i>in collectionem</i>): in the collection, often followed by the name of a collection or museum</li>
+<li>indet. (<i>indeterminans</i>): undetermined, unidentified</li>
+<li>leg. (<i>legit</i>): he or she collected, often followed by the name of the collector</li>
+<li>nob. (<i>nobis</i>): by us, used to indicate that the writer(s) are the author(s) of a scientific name</li>
+<li>sp. (<i><a href="/wiki/Species" title="Species">species</a></i>): species (singular); plural also <i>species</i>, abbreviated as spp.</li>
+<li>sp. nov. (<i><a href="/wiki/Species_nova" title="Species nova">species nova</a></i>): new species (singular); plural is <i>species novae</i>, abbreviated as spp. nov.</li>
+<li>ssp. (<i><a href="/wiki/Subspecies" title="Subspecies">subspecies</a></i>): subspecies (singular); plural is <i>subspecies</i>, abbreviated sspp.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Latin_abbreviations&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Inter_alios" class="mw-redirect" title="Inter alios">inter alios</a>: Latin for "among others", i.e. people, or legal entities, but not an abbreviation.</li>
+<li><a href="/wiki/List_of_abbreviations_used_in_medical_prescriptions" title="List of abbreviations used in medical prescriptions">List of abbreviations used in medical prescriptions</a></li>
+<li><a href="/wiki/List_of_classical_abbreviations" title="List of classical abbreviations">List of classical abbreviations</a></li>
+<li><a href="/wiki/List_of_ecclesiastical_abbreviations" title="List of ecclesiastical abbreviations">List of ecclesiastical abbreviations</a></li>
+<li><a href="/wiki/List_of_Latin_phrases" title="List of Latin phrases">List of Latin phrases</a></li>
+<li><a href="/wiki/Per_mille" title="Per mille">per mille</a>, Latin for "in each thousand", but not an abbreviation. May be seen abbreviated as <i>per mil</i>.</li>
+<li><a href="/wiki/Sensu" title="Sensu">sensu</a>, Latin for 'in the sense of,' and used in biology for different groups of organisms</li>
+<li><a href="/wiki/Sic" title="Sic">sic</a>, Latin for "thus", but not an abbreviation.</li>
+<li><a href="/wiki/Stet" title="Stet">stet</a>, Latin for "let it stand", but not an abbreviation. Used in editing to indicate that something should remain as it is, and not be changed.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Latin_abbreviations&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Citations">Citations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Latin_abbreviations&amp;action=edit&amp;section=6" title="Edit section: Citations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://insidegovuk.blog.gov.uk/2016/07/20/changes-to-the-style-guide-no-more-eg-and-ie-etc/">"<span style="padding-left:0.2em;">"</span>Changes to the style guide: no more eg, and ie, etc<span style="padding-right:0.2em;">"</span>"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%22Changes+to+the+style+guide%3A+no+more+eg%2C+and+ie%2C+etc%22&amp;rft_id=https%3A%2F%2Finsidegovuk.blog.gov.uk%2F2016%2F07%2F20%2Fchanges-to-the-style-guide-no-more-eg-and-ie-etc%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-USGPOstyle-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-USGPOstyle_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-17"><sup><i><b>r</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-18"><sup><i><b>s</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-19"><sup><i><b>t</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-20"><sup><i><b>u</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-21"><sup><i><b>v</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-22"><sup><i><b>w</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-23"><sup><i><b>x</b></i></sup></a> <a href="#cite_ref-USGPOstyle_2-24"><sup><i><b>y</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061208020954/http://www.gpoaccess.gov/stylemanual/2000/chap09.pdf">"UNITED STATES GOVERNMENT PRINTING OFFICE Style Manual"</a> <span style="font-size:85%;">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.gpoaccess.gov/stylemanual/2000/chap09.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2006-12-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UNITED+STATES+GOVERNMENT+PRINTING+OFFICE+Style+Manual&amp;rft_id=http%3A%2F%2Fwww.gpoaccess.gov%2Fstylemanual%2F2000%2Fchap09.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-AllAcronyms-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-AllAcronyms_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AllAcronyms_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.all-acronyms.com/?tg=latin&amp;o=a">"Latin acronyms and abbreviations"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-07-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Latin+acronyms+and+abbreviations&amp;rft_id=http%3A%2F%2Fwww.all-acronyms.com%2F%3Ftg%3Dlatin%26o%3Da&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-Maurer-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Maurer_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Maurer_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Maurer_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070313123751/http://www.udallas.edu/classics/resources/EditorsSigla.htm">"COMMONEST ABBREVIATIONS, SIGNS, ETC. USED IN THE APPARATUS TO A CLASSICAL TEXT"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.udallas.edu/classics/resources/EditorsSigla.htm">the original</a> on 2007-03-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=COMMONEST+ABBREVIATIONS%2C+SIGNS%2C+ETC.+USED+IN+THE+APPARATUS+TO+A+CLASSICAL+TEXT&amp;rft_id=http%3A%2F%2Fwww.udallas.edu%2Fclassics%2Fresources%2FEditorsSigla.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20091015004130/http://users.erols.com/kurrency/explanation.pdf">"Archived copy"</a> <span style="font-size:85%;">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://users.erols.com/kurrency/explanation.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2009-10-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fusers.erols.com%2Fkurrency%2Fexplanation.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dau, Holger (July 1994). "MOLECULAR MECHANISMS AND QUANTITATIVE MODELS OF VARIABLE PHOTOSYSTEM II FLUORESCENCE". <i>Photochemistry and Photobiology</i>. <b>60</b> (1): 1–23. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1751-1097.1994.tb03937.x">10.1111/j.1751-1097.1994.tb03937.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Photochemistry+and+Photobiology&amp;rft.atitle=MOLECULAR+MECHANISMS+AND+QUANTITATIVE+MODELS+OF+VARIABLE+PHOTOSYSTEM+II+FLUORESCENCE&amp;rft.volume=60&amp;rft.issue=1&amp;rft.pages=1-23&amp;rft.date=1994-07&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1751-1097.1994.tb03937.x&amp;rft.aulast=Dau&amp;rft.aufirst=Holger&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Butler, WL (June 1978). "Energy Distribution in the Photochemical Apparatus of Photosynthesis". <i>Annual Review of Plant Physiology</i>. <b>29</b>: 345–378. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1146%2Fannurev.pp.29.060178.002021">10.1146/annurev.pp.29.060178.002021</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annual+Review+of+Plant+Physiology&amp;rft.atitle=Energy+Distribution+in+the+Photochemical+Apparatus+of+Photosynthesis&amp;rft.volume=29&amp;rft.pages=345-378&amp;rft.date=1978-06&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.pp.29.060178.002021&amp;rft.aulast=Butler&amp;rft.aufirst=WL&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-LatinAbbr-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-LatinAbbr_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LatinAbbr_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-LatinAbbr_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-LatinAbbr_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-LatinAbbr_8-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070813215733/http://latin-phrases.co.uk/abbreviations/">"Latin Abbreviations"</a>. Archived from <a rel="nofollow" class="external text" href="http://latin-phrases.co.uk/abbreviations/">the original</a> on 2007-08-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-08-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Latin+Abbreviations&amp;rft_id=http%3A%2F%2Flatin-phrases.co.uk%2Fabbreviations%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-Hughes-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hughes_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060505111506/http://www.herbdatanz.com/pharmaceutical_latin_abbreviations.htm">"Pharmaceutical Latin. Abbreviations"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.herbdatanz.com/pharmaceutical_latin_abbreviations.htm">the original</a> on 2006-05-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pharmaceutical+Latin.+Abbreviations.&amp;rft_id=http%3A%2F%2Fwww.herbdatanz.com%2Fpharmaceutical_latin_abbreviations.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-Worley-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Worley_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Worley_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Worley_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Worley_10-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Worley_10-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Worley_10-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Worley_10-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Worley (Museum Gustavianum, Uppsala University), John; Wagner (Department of History of Science and Ideas, Uppsala University), Thomas Gregor. <a rel="nofollow" class="external text" href="http://www.gustavianum.uu.se/digitalAssets/196/196842_how-to-make-swords-talk---an-interdisciplinary-approach-to-understanding-medieval-swords-and-their-inscriptions.pdf">"How to make swords talk: an interdisciplinary approach to understanding medieval swords and their inscriptions"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=How+to+make+swords+talk%3A+an+interdisciplinary+approach+to+understanding+medieval+swords+and+their+inscriptions&amp;rft.aulast=Worley+%28Museum+Gustavianum%2C+Uppsala+University%29&amp;rft.aufirst=John&amp;rft.au=Wagner+%28Department+of+History+of+Science+and+Ideas%2C+Uppsala+University%29%2C+Thomas+Gregor&amp;rft_id=http%3A%2F%2Fwww.gustavianum.uu.se%2FdigitalAssets%2F196%2F196842_how-to-make-swords-talk---an-interdisciplinary-approach-to-understanding-medieval-swords-and-their-inscriptions.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-Latin_Cassel-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Latin_Cassel_11-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Marchant, J.R.V.; Charles Joseph F. (1952). <i>Cassell's Latin dictionary</i>. London: Cassell.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cassell%27s+Latin+dictionary&amp;rft.place=London&amp;rft.pub=Cassell&amp;rft.date=1952&amp;rft.au=Marchant%2C+J.R.V.&amp;rft.au=Charles+Joseph+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web.eecs.utk.edu/~mclennan/OM/CSC.htmlClassical">Salutations and Closings in Greek and Roman Letters, Adapted to Electronic Mail, John Opsopaus</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&nbsp;Dead link since December 2017">permanent dead link</span></a></i>]</span></sup></span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Latin_abbreviations&amp;action=edit&amp;section=7" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite id="CITEREFEB1878" class="citation">"<a href="https://en.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition/Abbreviation" class="extiw" title="s:Encyclopædia Britannica, Ninth Edition/Abbreviation">Abbreviation</a>", <a href="https://en.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition" class="extiw" title="s:Encyclopædia Britannica, Ninth Edition"><i>Encyclopædia Britannica</i>, 9th ed.</a>, <a href="https://en.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition/Volume_I" class="extiw" title="s:Encyclopædia Britannica, Ninth Edition/Volume I">Vol.&nbsp;I</a>, New York: Charles Scribner's Sons, 1878, pp.&nbsp;26–9</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Abbreviation&amp;rft.btitle=Encyclop%C3%A6dia+Britannica%2C+9th+ed.%2C+Vol.+I&amp;rft.place=New+York&amp;rft.pages=26-9&amp;rft.pub=Charles+Scribner%27s+Sons&amp;rft.date=1878&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span>.</li>
+<li><cite id="CITEREFEB1911" class="citation">"<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Abbreviation" class="extiw" title="s:1911 Encyclopædia Britannica/Abbreviation">Abbreviation</a>", <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica" class="extiw" title="s:1911 Encyclopædia Britannica"><i>Encyclopædia Britannica</i>, 11th ed.</a>, <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Volume_I" class="extiw" title="s:1911 Encyclopædia Britannica/Volume I">Vol.&nbsp;I</a>, <a href="/wiki/Cambridge,_England" class="mw-redirect" title="Cambridge, England">Cambridge</a>: Cambridge University Press, 1911, pp.&nbsp;27–30</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Abbreviation&amp;rft.btitle=Encyclop%C3%A6dia+Britannica%2C+11th+ed.%2C+Vol.+I&amp;rft.place=Cambridge&amp;rft.pages=27-30&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1911&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Latin_abbreviations&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070411030518/http://asgle.classics.unc.edu/abbrev/latin/">"Common abbreviations in Latin inscriptions published in <i>L'année épigraphique</i> 1888–1993"</a>. Archived from <a rel="nofollow" class="external text" href="http://asgle.classics.unc.edu/abbrev/latin/">the original</a> on 2007-04-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Common+abbreviations+in+Latin+inscriptions+published+in+L%27ann%C3%A9e+%C3%A9pigraphique+1888%E2%80%931993&amp;rft_id=http%3A%2F%2Fasgle.classics.unc.edu%2Fabbrev%2Flatin%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070217135800/http://www.phon.ucl.ac.uk/dept/student_information/latin.html">"Linguists' Latin"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.phon.ucl.ac.uk/dept/student_information/latin.html">the original</a> on 2007-02-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Linguists%27+Latin&amp;rft_id=http%3A%2F%2Fwww.phon.ucl.ac.uk%2Fdept%2Fstudent_information%2Flatin.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061209050927/http://www.ioe.ac.uk/caplits/writingcentre/essay.5ownwords.abbreviationlist.htm">"Latin words and abbreviations"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.ioe.ac.uk/caplits/writingcentre/essay.5ownwords.abbreviationlist.htm">the original</a> on 2006-12-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Latin+words+and+abbreviations&amp;rft_id=http%3A%2F%2Fwww.ioe.ac.uk%2Fcaplits%2Fwritingcentre%2Fessay.5ownwords.abbreviationlist.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://kiss.ifas.ufl.edu/kiss5.htm">"What Latin abbreviations mean"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+Latin+abbreviations+mean&amp;rft_id=http%3A%2F%2Fkiss.ifas.ufl.edu%2Fkiss5.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.usu.edu/markdamen/Wordpower/handouts/abbrevs.htm">"Latin and Greek Elements in English"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Latin+and+Greek+Elements+in+English&amp;rft_id=http%3A%2F%2Fwww.usu.edu%2Fmarkdamen%2FWordpower%2Fhandouts%2Fabbrevs.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=2008_style_manual&amp;docid=f:chapter9.pdf">"United States Government Printing Office Style Manual, chapter 9"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-10-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=United+States+Government+Printing+Office+Style+Manual%2C+chapter+9&amp;rft_id=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fgetdoc.cgi%3Fdbname%3D2008_style_manual%26docid%3Df%3Achapter9.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.all-acronyms.com/tag/latin">"Latin Acronyms and Abbreviations"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Latin+Acronyms+and+Abbreviations&amp;rft_id=http%3A%2F%2Fwww.all-acronyms.com%2Ftag%2Flatin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Latin+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></li>
+</ul>
+
+
+<!--
+NewPP limit report
+Parsed by mw1274
+Cached time: 20180502153457
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.372 seconds
+Real time usage: 0.441 seconds
+Preprocessor visited node count: 2227/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 44285/2097152 bytes
+Template argument size: 1935/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 19314/5000000 bytes
+Lua time usage: 0.188/10.000 seconds
+Lua memory usage: 5.01 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  380.423      1 -total
+ 27.35%  104.037      1 Template:Reflist
+ 20.66%   78.612     15 Template:Cite_web
+ 18.83%   71.638     55 Template:Anchor
+ 15.05%   57.238      2 Template:Citation_needed
+ 14.78%   56.235      3 Template:Fix
+ 10.50%   39.941      1 Template:Merge
+  9.57%   36.396      6 Template:Category_handler
+  7.62%   28.979      1 Template:For
+  5.14%   19.566      1 Template:Mbox
+-->
+</div>

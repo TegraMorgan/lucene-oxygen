@@ -1,0 +1,979 @@
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>This is a list of acronyms found in the context of energy issues.</p>
+<div role="navigation" aria-labelledby="toc-title-text" class="toc plainlinks hlist" id="toc" style="margin:auto; clear: none;">
+<div class="toctitle">
+<h2 id="toc-title-text"><span class="mw-headline" id="Contents">Contents</span></h2>
+</div>
+<ul>
+<li><a href="#A">A</a> <a href="#B">B</a> <a href="#C">C</a> <a href="#D">D</a> <a href="#E">E</a> <a href="#F">F</a> <a href="#G">G</a> <a href="#H">H</a> <a href="#I">I</a> <a href="#J">J</a> <a href="#K">K</a> <a href="#L">L</a> <a href="#M">M</a> <a href="#N">N</a> <a href="#O">O</a> <a href="#P">P</a> <a href="#Q">Q</a> <a href="#R">R</a> <a href="#S">S</a> <a href="#T">T</a> <a href="#U">U</a> <a href="#V">V</a> <a href="#W">W</a> <a href="#X">X</a> <a href="#Y">Y</a> <a href="#Z">Z</a></li>
+<li><a href="#Appendix:_Residential_energy_acronyms">Appendix: Residential energy acronyms</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>AAQS—<a href="/wiki/National_Ambient_Air_Quality_Standards" title="National Ambient Air Quality Standards">Ambient Air Quality Standards</a> (environment) (US)</li>
+<li>AAU—<a href="/wiki/Assigned_amount_units" title="Assigned amount units">Assigned amount units</a> (measurement)</li>
+<li>ABT—<a href="/wiki/Availability_based_tariff" class="mw-redirect" title="Availability based tariff">Availability based tariff</a> (electricity)</li>
+<li>ABF—Aquatic Base Flow (<a href="/wiki/Hydropower" title="Hydropower">Hydropower</a>) (electricity)</li>
+<li>AC—<a href="/wiki/Alternating_current" title="Alternating current">Alternating current</a></li>
+<li>ACA—Annual Charge Adjustment (electricity)</li>
+<li>Acc.—<a href="/wiki/Accession_countries" class="mw-redirect" title="Accession countries">Accession countries</a> (to the European Union) (government)</li>
+<li>ACE—Area Control Error (electricity)</li>
+<li>ACEEE—<a href="/wiki/American_Council_for_an_Energy-Efficient_Economy" title="American Council for an Energy-Efficient Economy">American Council for an Energy-Efficient Economy</a></li>
+<li>ACRS—<a href="/wiki/MACRS" title="MACRS">Accelerated Cost Recovery System</a> (finance)</li>
+<li>ADITC—Accumulated Deferred Investment Tax Credit (policy)</li>
+<li>ADR—Asset Depreciation Range (finance)
+<ul>
+<li>—<a href="/wiki/Alternative_dispute_resolution" title="Alternative dispute resolution">Alternative dispute resolution</a></li>
+</ul>
+</li>
+<li>AEP—<a href="/wiki/American_Electric_Power" title="American Electric Power">American Electric Power</a> (electricity)</li>
+<li>AESO—<a href="/wiki/Alberta_Electric_System_Operator" title="Alberta Electric System Operator">Alberta Electric System Operator</a></li>
+<li>AFE—Authority for Expenditure or Authorization for Expenditure</li>
+<li>AFUDC—allowance for funds used during construction</li>
+<li>AFV—<a href="/wiki/Alternative_fuel_vehicle" title="Alternative fuel vehicle">Alternative fuel vehicle</a></li>
+<li>AGA—<a href="/wiki/American_Gas_Association" title="American Gas Association">American Gas Association</a></li>
+<li>AGC—<a href="/wiki/Automatic_generation_control" class="mw-redirect" title="Automatic generation control">Automatic generation control</a></li>
+<li>AGD—Associated Gas Distributors (US)</li>
+<li>AIEE—<a href="/wiki/American_Institute_of_Electrical_Engineers" title="American Institute of Electrical Engineers">American Institute of Electrical Engineers</a></li>
+<li>AIMA—Agricultural Impact Mitigation Agreement (US)</li>
+<li>ALJ—<a href="/wiki/Administrative_law_judge" title="Administrative law judge">Administrative law judge</a></li>
+<li>AMBO—<a href="/wiki/AMBO_pipeline" title="AMBO pipeline">Armenia, Macedonia, Bulgaria Oil pipeline</a></li>
+<li>AMI—<a href="/wiki/Advanced_metering_infrastructure" class="mw-redirect" title="Advanced metering infrastructure">Advanced metering infrastructure</a></li>
+<li>AMR—<a href="/wiki/Automated_meter_reading" class="mw-redirect" title="Automated meter reading">Automated meter reading</a> also known as Automatic Meter Reading</li>
+<li>AMRA—<a href="/wiki/Automatic_Meter_Reading" class="mw-redirect" title="Automatic Meter Reading">Automatic Meter Reading</a> Association</li>
+<li>ANGTA—Alaskan Natural Gas Transportation Act of 1977 to build the <a href="/wiki/Alaska_gas_pipeline" title="Alaska gas pipeline">Alaska gas pipeline</a></li>
+<li>ANGTS—Alaskan Natural Gas Transportation System</li>
+<li>ANSI—<a href="/wiki/American_National_Standards_Institute" title="American National Standards Institute">American National Standards Institute</a></li>
+<li>AOS—Authorized Overrun Service</li>
+<li>APA—<a href="/wiki/Administrative_Procedure_Act_(United_States)" title="Administrative Procedure Act (United States)">Administrative Procedure Act</a>
+<ul>
+<li>—Alaska Power Administration</li>
+</ul>
+</li>
+<li>APE—Area of potential effect (electricity)</li>
+<li>API—<a href="/wiki/American_Petroleum_Institute" title="American Petroleum Institute">American Petroleum Institute</a> (oil)</li>
+<li>APPA—American Public Power Association (electricity)</li>
+<li>APR—Actual peak reduction (e.g. in <a href="/wiki/Demand_response" title="Demand response">demand response</a> systems) (electricity)</li>
+<li>AQCR—Air Quality Control Region (US) (environment)</li>
+<li>ARA—(in shipping) ports of <a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a> – <a href="/wiki/Rotterdam" title="Rotterdam">Rotterdam</a> – <a href="/wiki/Antwerp" title="Antwerp">Antwerp</a> (oil)</li>
+<li>ARR—Auction Revenue Rights (electricity)</li>
+<li>ASCC—Alaskan System Coordination Council</li>
+<li>ASE—<a href="/wiki/Alliance_to_Save_Energy" title="Alliance to Save Energy">Alliance to Save Energy</a></li>
+<li>ASTM—<a href="/wiki/American_Society_for_Testing_and_Materials" class="mw-redirect" title="American Society for Testing and Materials">American Society for Testing and Materials</a></li>
+<li>ATC—Available transfer capability</li>
+<li>AVR—<a href="/wiki/Automatic_Voltage_Regulator" class="mw-redirect" title="Automatic Voltage Regulator">Automatic Voltage Regulator</a> (electricity)</li>
+</ul>
+<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>BA—Balancing Authority</li>
+<li>BA—Biological Assessment</li>
+<li>BACT—<a href="/wiki/Best_Available_Control_Technology" class="mw-redirect" title="Best Available Control Technology">Best Available Control Technology</a></li>
+<li>BBL/D—<a href="/wiki/Barrel_per_day" class="mw-redirect" title="Barrel per day">Barrel per day</a></li>
+<li>BBL/SD—<a href="/wiki/Barrel_per_day" class="mw-redirect" title="Barrel per day">Barrel per day</a>, on stream days</li>
+<li>BBL—<a href="/wiki/Barrel_(volume)" class="mw-redirect" title="Barrel (volume)">barrel (42 gallons)</a>
+<ul>
+<li>—<a href="/wiki/BBL_Pipeline" title="BBL Pipeline">Balgzand Bacton Line (BBL Pipeline)</a></li>
+</ul>
+</li>
+<li>BCD—<a href="/wiki/Barrel_per_day" class="mw-redirect" title="Barrel per day">Barrel per day</a>, on calendar days</li>
+<li>BCF—billion <a href="/wiki/Cubic_feet" class="mw-redirect" title="Cubic feet">cubic feet</a></li>
+<li>BCP—<a href="/wiki/Blackstart" title="Blackstart">Blackstart</a> Capability Plan</li>
+<li>BES—Bulk electric system (<a href="/wiki/Electricity_transmission" class="mw-redirect" title="Electricity transmission">Electricity transmission</a>)</li>
+<li>BfP—<a href="/wiki/Federal_Planning_Bureau" title="Federal Planning Bureau">Bureau Fédéral du Plan</a> (Belgium). (Has responsibilities over economic, social and environmental policy</li>
+<li>bhp— <a href="/wiki/Horsepower#Brake_horsepower" title="Horsepower">Brake horsepower</a></li>
+<li>BIA—<a href="/wiki/Bureau_of_Indian_Affairs" title="Bureau of Indian Affairs">Bureau of Indian Affairs</a> (US)</li>
+<li>bl—<a href="/wiki/Barrel" title="Barrel">Barrel</a></li>
+<li>BLM—<a href="/wiki/Bureau_of_Land_Management" title="Bureau of Land Management">Bureau of Land Management</a> of <a href="/wiki/United_States_Department_of_the_Interior" title="United States Department of the Interior">United States Department of the Interior</a></li>
+<li>BLS—<a href="/wiki/Bureau_of_Labor_Statistics" title="Bureau of Labor Statistics">Bureau of Labor Statistics</a> of <a href="/wiki/United_States_Department_of_Labor" title="United States Department of Labor">United States Department of Labor</a></li>
+<li>BOE—<a href="/wiki/Barrel_of_oil_equivalent" title="Barrel of oil equivalent">Barrel of oil equivalent</a> (international)</li>
+<li>BPA—<a href="/wiki/Bonneville_Power_Administration" title="Bonneville Power Administration">Bonneville Power Administration</a> (US)</li>
+<li>BPL—<a href="/wiki/Broadband_over_power_line" class="mw-redirect" title="Broadband over power line">Broadband over power line</a></li>
+<li>BPS—Bulk Power System (<a href="/wiki/Electricity_transmission" class="mw-redirect" title="Electricity transmission">Electricity transmission</a>)</li>
+<li>BTMG—Behind The Meter Generation</li>
+<li>BTU—<a href="/wiki/British_thermal_unit" title="British thermal unit">British thermal unit</a>(s)</li>
+<li>BTX—from <a href="/wiki/BTX_process" class="mw-redirect" title="BTX process">BTX process</a>, a mixture of <a href="/wiki/Benzene" title="Benzene">benzene</a>, <a href="/wiki/Toluene" title="Toluene">toluene</a>, and <a href="/wiki/Xylene" title="Xylene">xylene</a> (oil)</li>
+<li>BuRec—<a href="/wiki/United_States_Bureau_of_Reclamation" title="United States Bureau of Reclamation">United States Bureau of Reclamation</a> (government)</li>
+<li>BWR—<a href="/wiki/Boiling_water_reactor" title="Boiling water reactor">Boiling water reactor</a> (nuclear)</li>
+</ul>
+<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>C&amp;I—Commercial and industrial customers (<a href="/wiki/Electricity_transmission" class="mw-redirect" title="Electricity transmission">Electricity transmission</a>)</li>
+<li>CA—Carbon Abatement- increasing <a href="/wiki/Carbon_neutral" class="mw-redirect" title="Carbon neutral">carbon neutrality</a>
+<ul>
+<li>—Control area (EU) – The portion of the generation and transmission system controlled by a single transmission system operator. (See also <a href="/wiki/Transmission_System_Operator" class="mw-redirect" title="Transmission System Operator">TSO</a>).</li>
+</ul>
+</li>
+<li>CAA—<a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">Clean Air Act</a> (US)</li>
+<li>CAEM—Center for the Advancement of Energy Markets (US)</li>
+<li>CAFE—<a href="/wiki/Corporate_Average_Fuel_Economy" class="mw-redirect" title="Corporate Average Fuel Economy">Corporate Average Fuel Economy</a> standards (US)</li>
+<li>CAISO—California Independent System Operator Corporation, a <a href="/wiki/Regional_transmission_organization" class="mw-redirect" title="Regional transmission organization">regional transmission organization</a>. (US)</li>
+<li>CAP—Capacity market programs
+<ul>
+<li>—Climate Action Plan</li>
+</ul>
+</li>
+<li>CAPM—<a href="/wiki/Capital_asset_pricing_model" title="Capital asset pricing model">Capital asset pricing model</a></li>
+<li>CARB—<a href="/wiki/California_Air_Resources_Board" title="California Air Resources Board">California Air Resources Board</a></li>
+<li>CBL—<a rel="nofollow" class="external text" href="http://www.llbc.leg.bc.ca/public/pubdocs/bcdocs/409037/info43192.pdf">Customer Baseline Load</a></li>
+<li>CBM—Capacity Benefit Margin</li>
+<li>CBOB—Conventional Gasoline Blendstock for <a href="/wiki/Oxygenate" title="Oxygenate">Oxygenate</a> Blending (Motor Gasoline Blending Component)</li>
+<li>CC—<a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a> see also CCPP and CCGT</li>
+<li>CCGT—<a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a> <a href="/wiki/Gas_turbine" title="Gas turbine">gas turbine</a> <a href="/wiki/Electricity_generator" class="mw-redirect" title="Electricity generator">electricity generator</a></li>
+<li>CCLIP—Conditional Credit Line for Investment Projects</li>
+<li>CCN—Certificate of Convenience and Necessity (utilities regulation)</li>
+<li>CCPG—Colorado Coordinated Planning Group</li>
+<li>CCPP—<a href="/wiki/Combined_cycle" title="Combined cycle">Combined cycle</a> <a href="/wiki/Power_plant" class="mw-redirect" title="Power plant">power plant</a></li>
+<li>CD—Contract Demand</li>
+<li>CDD—<a href="/wiki/Heating_degree_day" title="Heating degree day">Cooling degree day</a>, a qualitative index used to reflect the demand for energy to cool a business</li>
+<li>CDM—<a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">Clean Development Mechanism</a></li>
+<li>CEA—Country Environmental Analysis</li>
+<li>CEC—<a href="/wiki/California_Energy_Commission" title="California Energy Commission">California Energy Commission</a>
+<ul>
+<li>—<a href="/wiki/Commission_for_Environmental_Cooperation" title="Commission for Environmental Cooperation">Commission for Environmental Cooperation</a></li>
+<li>—<a href="/wiki/Council_of_the_European_Communities" class="mw-redirect" title="Council of the European Communities">Council of the European Communities</a></li>
+</ul>
+</li>
+<li>CEEC—<a href="/wiki/Central_Europe" title="Central Europe">Central</a> and <a href="/wiki/Eastern_Europe" title="Eastern Europe">Eastern European</a> Countries</li>
+<li>CEMS—<a href="/wiki/Continuous_emissions_monitoring_system" title="Continuous emissions monitoring system">Continuous emissions monitoring system</a></li>
+<li>CEP—Country Environmental Profile
+<ul>
+<li>—<a href="/wiki/Clean_Energy_Partnership" title="Clean Energy Partnership">Clean Energy Partnership</a>, a joint hydrogen-project in Europe.</li>
+</ul>
+</li>
+<li>CEPS—<a href="/wiki/Centre_for_European_Policy_Studies" title="Centre for European Policy Studies">Centre for European Policy Studies</a></li>
+<li>CEPII—<a href="/wiki/Centre_d%27Etudes_Prospectives_et_d%27Informations_Internationales" title="Centre d'Etudes Prospectives et d'Informations Internationales">Centre d'Etudes Prospectives et d'Informations Internationales</a> Economics think tank</li>
+<li>CEQ—<a href="/wiki/Council_on_Environmental_Quality" title="Council on Environmental Quality">Council on Environmental Quality</a></li>
+<li>CER—<a href="/wiki/Certified_Emission_Reduction" title="Certified Emission Reduction">Certified Emission Reduction</a></li>
+<li>CERA—<a href="/wiki/Cambridge_Energy_Research_Associates" title="Cambridge Energy Research Associates">Cambridge Energy Research Associates</a></li>
+<li>CERCLA—<a href="/wiki/Comprehensive_Environmental_Response,_Compensation,_and_Liability_Act" class="mw-redirect" title="Comprehensive Environmental Response, Compensation, and Liability Act">Comprehensive Environmental Response, Compensation, and Liability Act</a> "Superfund" (US)</li>
+<li>CERCLIS—<a href="/wiki/Comprehensive_Environmental_Response,_Compensation,_and_Liability_Act" class="mw-redirect" title="Comprehensive Environmental Response, Compensation, and Liability Act">Comprehensive Environmental Response, Compensation, and Liability</a> Information System (US)</li>
+<li>CERTS—Consortium for Electric Reliability Technology Solutions sponsored by the <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">United States Department of Energy</a> and <a href="/wiki/California_Energy_Commission" title="California Energy Commission">California Energy Commission</a> (US)</li>
+<li>CfD—<a href="/wiki/Contract_for_difference" title="Contract for difference">Contract for difference</a></li>
+<li>CFS—<a href="/wiki/Cubic_feet_per_second" class="mw-redirect" title="Cubic feet per second">cubic feet per second</a></li>
+<li>CFTC—<a href="/wiki/Commodity_Futures_Trading_Commission" title="Commodity Futures Trading Commission">Commodity Futures Trading Commission</a></li>
+<li>CH<sub>4</sub>—<a href="/wiki/Methane" title="Methane">Methane</a></li>
+<li>CHP—<a href="/wiki/Combined_heat_and_power" class="mw-redirect" title="Combined heat and power">Combined heat and power</a></li>
+<li>CIAC—<a href="/w/index.php?title=Contributions_in_Aid_of_Construction&amp;action=edit&amp;redlink=1" class="new" title="Contributions in Aid of Construction (page does not exist)">Contributions in Aid of Construction</a></li>
+<li>CIP—<a href="/wiki/Critical_Infrastructure_Protection" class="mw-redirect" title="Critical Infrastructure Protection">Critical Infrastructure Protection</a> (US)
+<ul>
+<li>—see also EPCIP <a href="/wiki/European_Programme_for_Critical_Infrastructure_Protection" title="European Programme for Critical Infrastructure Protection">European Programme for Critical Infrastructure Protection</a></li>
+</ul>
+</li>
+<li>CMVE—Competitive Market Value Estimate</li>
+<li>CNG—<a href="/wiki/Compressed_natural_gas" title="Compressed natural gas">Compressed natural gas</a></li>
+<li>CO—<a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a></li>
+<li>CO<sub>2</sub>—<a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li>COC—<a href="/wiki/Cost_of_capital" title="Cost of capital">Cost of capital</a></li>
+<li>COE—<a href="/wiki/U.S._Army_Corps_of_Engineers" class="mw-redirect" title="U.S. Army Corps of Engineers">U.S. Army Corps of Engineers</a></li>
+<li>CP—Coincident Peak
+<ul>
+<li>—Certificate Proceeding</li>
+</ul>
+</li>
+<li>CPA—California Power Authority</li>
+<li>CPI—<a href="/wiki/Consumer_Price_Index" class="mw-redirect" title="Consumer Price Index">Consumer Price Index</a></li>
+<li>CPP—Critical Peak Pricing</li>
+<li>CPP-F—Critical peak fixed</li>
+<li>CPP-F—Critical peak variable</li>
+<li>CPS—Control Performance Standard
+<ul>
+<li>—<a href="/wiki/Cycles_per_second" class="mw-redirect" title="Cycles per second">Cycles per second</a> (hertz)</li>
+</ul>
+</li>
+<li>CPUC—<a href="/wiki/California_Public_Utilities_Commission" title="California Public Utilities Commission">California Public Utilities Commission</a></li>
+<li>CREF—Caribbean Renewable Energy Facility</li>
+<li>CRP—<a href="/wiki/Conservation_Reserve_Program" title="Conservation Reserve Program">Conservation Reserve Program</a> (US)</li>
+<li>CRT—Capacity Reservation Tariff</li>
+<li>CSD—<a href="/wiki/Commission_for_Sustainable_Development" class="mw-redirect" title="Commission for Sustainable Development">Commission for Sustainable Development</a> (UN)</li>
+<li>CSEM—Center for the Study of Energy Markets (US)</li>
+<li>CSP—Country Strategy Paper
+<ul>
+<li>—Curtailment service provider</li>
+</ul>
+</li>
+<li>CT—<a href="/wiki/Combustion_turbine" class="mw-redirect" title="Combustion turbine">Combustion turbine</a> (electricity)</li>
+<li>CZMA—<a href="/wiki/Coastal_Zone_Management_Act" title="Coastal Zone Management Act">Coastal Zone Management Act</a></li>
+</ul>
+<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>DADRP—Day Ahead <a href="/wiki/Demand_response" title="Demand response">Demand Response</a> Program</li>
+<li>DANIDA—<a href="/wiki/Danish_International_Development_Agency" title="Danish International Development Agency">Danish International Development Agency</a></li>
+<li>DA-RTP—RTP Day ahead real time pricing (regarding <a href="/wiki/Electricity_meter" title="Electricity meter">Electricity metering</a>)</li>
+<li>DC—<a href="/wiki/Direct_current" title="Direct current">Direct current</a></li>
+<li>DCLM—Direct control <a href="/wiki/Load_management" title="Load management">load management</a></li>
+<li>DCS—Disturbance Control Standard</li>
+<li>DEFG—Distributed Energy Financial Group (US)</li>
+<li>DEIS—Draft <a href="/wiki/Environmental_Impact_Statement" class="mw-redirect" title="Environmental Impact Statement">Environmental Impact Statement</a> (US)</li>
+<li>DER—<a href="/wiki/Distributed_generation" title="Distributed generation">Distributed Energy Resources</a></li>
+<li>DF—Distribution Factor</li>
+<li>DG—<a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a> (electricity)
+<ul>
+<li>—<a href="/wiki/Directorate-General" title="Directorate-General">Directorate-General</a> (EU) (government)</li>
+</ul>
+</li>
+<li>DIIS—Danish Institute for International Studies (organization)</li>
+<li>DLC—Direct load control (regarding <a href="/wiki/Load_management" title="Load management">Load management</a>)</li>
+<li>DME—Disturbance Monitoring Equipment</li>
+<li>DO—<a href="/wiki/Dissolved_oxygen" class="mw-redirect" title="Dissolved oxygen">Dissolved oxygen</a></li>
+<li>DOE—<a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">United States Department of Energy</a> (government)</li>
+<li>DOE/FE—<a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">United States Department of Energy</a> Office of Fossil Energy (government)</li>
+<li>DOI—<a href="/wiki/United_States_Department_of_the_Interior" title="United States Department of the Interior">United States Department of the Interior</a> (government)</li>
+<li>DOT—<a href="/wiki/United_States_Department_of_Transportation" title="United States Department of Transportation">United States Department of Transportation</a> (government)</li>
+<li>DP—Distribution point</li>
+<li>DR—<a href="/wiki/Demand_response" title="Demand response">Demand response</a></li>
+<li>DRAM—<a href="/wiki/Demand_response" title="Demand response">Demand Response</a> and <a href="/wiki/Advanced_Metering_Infrastructure" class="mw-redirect" title="Advanced Metering Infrastructure">Advanced Metering</a> Coalition</li>
+<li>DRB—Demonstrated reserve base</li>
+<li>DRCC—<a href="/wiki/Demand_response" title="Demand response">Demand Response</a> Coordinating Council (coalition)</li>
+<li>DRR—<a href="/wiki/Demand_response" title="Demand response">Demand Response</a> resources</li>
+<li>DRRC—<a href="/wiki/Demand_response" title="Demand response">Demand Response</a> Research Center (California)</li>
+<li>DSM—<a href="/wiki/Demand_side_management" class="mw-redirect" title="Demand side management">Demand side management</a></li>
+<li>DSO—Distribution system operator (regarding <a href="/wiki/Electricity_distribution" class="mw-redirect" title="Electricity distribution">electricity distribution</a>)</li>
+<li>Dth—<a href="/wiki/Dekatherm" title="Dekatherm">Dekatherm</a> (defined as <span class="nowrap">1 million</span> <a href="/wiki/British_thermal_unit" title="British thermal unit">British thermal units</a>, also written "MMBtu") (measurement)</li>
+<li>DTW—dealer tank wagon (as in, "oil companies setting regional dealer tank wagon pricing") (Oil)</li>
+</ul>
+<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>E&amp;D—Exploration and development expenses</li>
+<li>E85—<a href="/wiki/E85" title="E85">E85 fuel</a>: A fuel containing a mixture of 85 percent ethanol and 15 percent gasoline</li>
+<li>E95—like <a href="/wiki/E85" title="E85">E85 fuel</a> but with less gasoline. A fuel containing a mixture of 95 percent ethanol and 5 percent gasoline</li>
+<li>EA—Environmental assessment as in an <a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Environmental impact assessment</a></li>
+<li>EAR—Estimated additional resources, as in <a href="/wiki/Peak_uranium#Known_conventional_resources" title="Peak uranium">considering reserves of uranium deposits</a></li>
+<li>EC—<a href="/wiki/European_Commission" title="European Commission">European Commission</a></li>
+<li>ECAR—East Central Area Reliability Coordination Agreement (US)</li>
+<li>EPCIP—<a href="/wiki/European_Programme_for_Critical_Infrastructure_Protection" title="European Programme for Critical Infrastructure Protection">European Programme for Critical Infrastructure Protection</a></li>
+<li>ECPA—Electric Consumers Protection Act (US)</li>
+<li>EDC—Electric Distribution Company (electricity)</li>
+<li>EdF—<a href="/wiki/Electricit%C3%A9_de_France" class="mw-redirect" title="Electricité de France">Electricité de France</a></li>
+<li>EDRP—Emergency <a href="/wiki/Demand_response" title="Demand response">demand response</a> program</li>
+<li>EE—<a href="/wiki/Energy_conversion_efficiency" title="Energy conversion efficiency">Energy efficiency</a></li>
+<li>EEI—<a href="/wiki/Edison_Electric_Institute" title="Edison Electric Institute">Edison Electric Institute</a></li>
+<li>EF—Earth Fault</li>
+<li>EHV—<a href="/wiki/Extra_high_voltage" class="mw-redirect" title="Extra high voltage">Extra high voltage</a></li>
+<li>EIA—<a href="/wiki/Energy_Information_Administration" title="Energy Information Administration">Energy Information Administration</a> (US)
+<ul>
+<li>—<a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Environmental impact assessment</a> (international)</li>
+</ul>
+</li>
+<li>EIB—<a href="/wiki/European_Investment_Bank" title="European Investment Bank">European Investment Bank</a></li>
+<li>EIM—Energy Imbalance Market (electricity)</li>
+<li>EIPP—<a href="/wiki/Eastern_Interconnection" title="Eastern Interconnection">Eastern Interconnection</a> <a href="/wiki/Phasor_measurement_unit" title="Phasor measurement unit">Phasor</a> Project</li>
+<li>EIS—<a href="/wiki/Environmental_Impact_Statement" class="mw-redirect" title="Environmental Impact Statement">Environmental Impact Statement</a> (US)</li>
+<li>ELCON—Electricity Consumers Resources Council</li>
+<li>EMF—<a href="/wiki/Electro_magnetic_field" class="mw-redirect" title="Electro magnetic field">Electro magnetic field</a></li>
+<li>EMP—Environmental Management Plan</li>
+<li>EOR—<a href="/wiki/Enhanced_oil_recovery" title="Enhanced oil recovery">Enhanced oil recovery</a></li>
+<li>EPA—<a href="/wiki/United_States_Environmental_Protection_Agency" title="United States Environmental Protection Agency">United States Environmental Protection Agency</a></li>
+<li>EPAct—<a href="/wiki/Energy_Policy_Act_of_1992" title="Energy Policy Act of 1992">Energy Policy Act of 1992</a> (US)
+<ul>
+<li>—<a href="/wiki/Energy_Policy_Act_of_2005" title="Energy Policy Act of 2005">Energy Policy Act of 2005</a> (US)</li>
+</ul>
+</li>
+<li>EPRI—<a href="/wiki/Electric_Power_Research_Institute" title="Electric Power Research Institute">Electric Power Research Institute</a> (US)</li>
+<li>EPSA—Electric Power Supply Association</li>
+<li>EQR—Electric Quarterly Report</li>
+<li>ERA—Economic Regulatory Administration (part of <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">United States Department of Energy</a></li>
+<li>ERCOT—<a href="/wiki/Electric_Reliability_Council_of_Texas" title="Electric Reliability Council of Texas">Electric Reliability Council of Texas</a>, Inc, a <a href="/wiki/Regional_transmission_organization" class="mw-redirect" title="Regional transmission organization">regional transmission organization</a>. (US)</li>
+<li>ERGEG—European Regulators Group for Electricity and Gas</li>
+<li>ERIS—Energy Resource Interconnection Service (electricity)</li>
+<li>ERO—Electric Reliability Organization. The US designated <a href="/wiki/North_American_Electric_Reliability_Corporation" title="North American Electric Reliability Corporation">NERC</a> as its ERO.</li>
+<li>ERoEI—<a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">Energy returned on energy invested</a></li>
+<li>ERRA—<a href="/wiki/Energy_Regulators_Regional_Association" title="Energy Regulators Regional Association">Energy Regulators Regional Association</a></li>
+<li>ESCO—<a href="/wiki/Energy_service_company" title="Energy service company">Energy service company</a></li>
+<li>ESI—<a href="/wiki/Environmental_Sustainability_Index" class="mw-redirect" title="Environmental Sustainability Index">Environmental Sustainability Index</a></li>
+<li>ESMAP—Energy Sector Management Assistance Programme</li>
+<li>ESP—<a href="/wiki/Electrostatic_precipitator" title="Electrostatic precipitator">Electrostatic precipitator</a></li>
+<li>ESS—Energy Storage System, as in <a href="/wiki/Grid_energy_storage" title="Grid energy storage">grid energy storage</a> (electricity)</li>
+<li>ETBE—<a href="/wiki/Ethyl_tertiary_butyl_ether" class="mw-redirect" title="Ethyl tertiary butyl ether">ethyl tertiary butyl ether</a></li>
+<li>ETSO—European <a href="/wiki/Transmission_System_Operator" class="mw-redirect" title="Transmission System Operator">Transmission System Operators</a> association</li>
+<li>EU—<a href="/wiki/European_Union" title="European Union">European Union</a></li>
+<li>EUEF—European Union Energy Facility</li>
+<li>EUEI—European Union Energy Initiative</li>
+</ul>
+<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>FAC—Fuel Adjustment Clause</li>
+<li>FACTS—<a href="/wiki/Flexible_Alternating_Current_Transmission_System" class="mw-redirect" title="Flexible Alternating Current Transmission System">Flexible Alternating Current Transmission System</a></li>
+<li>FASB—<a href="/wiki/Financial_Accounting_Standards_Board" title="Financial Accounting Standards Board">Financial Accounting Standards Board</a></li>
+<li>FBR—<a href="/wiki/Fast_breeder_reactor" class="mw-redirect" title="Fast breeder reactor">fast breeder reactor</a></li>
+<li>FCITC—First Contingency Incremental Transfer Capability</li>
+<li>FEIS—Final <a href="/wiki/Environmental_impact_statement" title="Environmental impact statement">Environmental impact statement</a> (US)</li>
+<li>FELCC—Firm Energy Load Carrying Capability</li>
+<li>FERC—<a href="/wiki/Federal_Energy_Regulatory_Commission" title="Federal Energy Regulatory Commission">Federal Energy Regulatory Commission</a> (U.S.)</li>
+<li>FGD—<a href="/wiki/Flue-gas_desulfurization" title="Flue-gas desulfurization">Flue-gas desulfurization</a></li>
+<li>FINESSE—Financing Energy Services for Small Scale Users</li>
+<li>Fishway—<a href="/wiki/Fish_ladder" title="Fish ladder">Fish ladder</a></li>
+<li>FLPMA—<a href="/wiki/Federal_Land_Policy_and_Management_Act" class="mw-redirect" title="Federal Land Policy and Management Act">Federal Land Policy and Management Act</a> (US)</li>
+<li>FME—<a href="/wiki/Free_market_economics" class="mw-redirect" title="Free market economics">Free market economics</a></li>
+<li>FONSI—Finding of no significant impact. See <a href="/wiki/Environmental_impact_statement" title="Environmental impact statement">Environmental impact statement</a> (US)</li>
+<li>FPA—<a href="/wiki/Federal_Power_Act" title="Federal Power Act">Federal Power Act</a> (US)</li>
+<li>FPC—<a href="/wiki/Federal_Power_Commission" title="Federal Power Commission">Federal Power Commission</a> (US)</li>
+<li>FPS—Firm peaking service. See <a href="/wiki/Peaking_power_plant" title="Peaking power plant">Peaking power plant</a></li>
+<li>FRCC—<a href="/wiki/Florida_Reliability_Coordinating_Council" title="Florida Reliability Coordinating Council">Florida Reliability Coordinating Council</a> (US)</li>
+<li>FRS—Financial Reporting System</li>
+<li>FT—Firm Transportation Service</li>
+<li>FTC—<a href="/wiki/Federal_Trade_Commission" title="Federal Trade Commission">Federal Trade Commission</a> (US)</li>
+<li>FTR—Firm Transmission Rights
+<ul>
+<li>—Financial Transmission Rights. See explanation in <a href="/wiki/Electricity_market#Risk_management" title="Electricity market">electricity markets</a>.</li>
+</ul>
+</li>
+<li>FTS—Firm transportation service</li>
+<li>FUA—The Fuel Use Act (US)</li>
+<li>FUCO—Foreign Utility Company</li>
+<li>FWPA—<a href="/wiki/Federal_Water_Power_Act" class="mw-redirect" title="Federal Water Power Act">Federal Water Power Act</a> (US)</li>
+</ul>
+<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>G&amp;T—<a href="/wiki/Electricity_generation" title="Electricity generation">Generation</a> and <a href="/wiki/Electric_power_transmission" title="Electric power transmission">transmission</a> <a href="/wiki/Utility_cooperative" title="Utility cooperative">utility cooperative</a> (electricity)</li>
+<li>GADS—<a href="/wiki/Generating_Availability_Data_System" title="Generating Availability Data System">Generating Availability Data System</a> (electricity)</li>
+<li>GAL—<a href="/wiki/Gallon" title="Gallon">gallon</a> (measurement)</li>
+<li>GAO—<a href="/wiki/Government_Accountability_Office" title="Government Accountability Office">Government Accountability Office</a> (General Accounting Office) (US) (government)</li>
+<li>GATT—<a href="/wiki/General_Agreement_on_Tariffs_and_Trade" title="General Agreement on Tariffs and Trade">General Agreement on Tariffs and Trade</a> (government)</li>
+<li>GDP—<a href="/wiki/Gross_domestic_product" title="Gross domestic product">gross domestic product</a> (economics)</li>
+<li>GEF—<a href="/wiki/Global_Environmental_Facility" class="mw-redirect" title="Global Environmental Facility">Global Environmental Facility</a> (environment)</li>
+<li>Genco—Any company doing electricity <a href="/wiki/Electrical_generation" class="mw-redirect" title="Electrical generation">generation</a> (US) (electricity)</li>
+<li>GFN—<a href="/wiki/Global_Footprint_Network" title="Global Footprint Network">Global Footprint Network</a></li>
+<li>GFSE—Global Forum on Sustainable Energy (organization)</li>
+<li>GHC—Gross Inland (energy) Consumption (EU) (energy)</li>
+<li>GHG—<a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gas</a> (climate)</li>
+<li>GIA—Generator Interconnection Agreement (electricity)</li>
+<li>GIC—Gas Inventory Charge (natural gas)</li>
+<li>GISB—Gas Industry Standards Board (now NAESB) (US) (natural gas)</li>
+<li>GLDF—Generator to Load Distribution Factor. See <a href="/wiki/Load_balancing_(electrical_power)" title="Load balancing (electrical power)">Load balancing</a> (electricity)</li>
+<li>Gm<sup>3</sup>—Billion <a href="/wiki/Cubic_metre" title="Cubic metre">cubic metres</a> (measurement – gas)</li>
+<li>GMO—<a href="/wiki/Genetically_modified_organism" title="Genetically modified organism">Genetically modified organism</a></li>
+<li>GMP—<a href="/wiki/Green_Mountain_Power" class="mw-redirect" title="Green Mountain Power">Green Mountain Power</a> (US) (electricity)</li>
+<li>GNP—<a href="/wiki/Gross_national_product" title="Gross national product">gross national product</a> (economics)</li>
+<li>GNSED—Global Network for Sustainable Energy Development</li>
+<li>GRI—<a href="/wiki/Gas_Research_Institute" class="mw-redirect" title="Gas Research Institute">Gas Research Institute</a> (US) (natural gas)</li>
+<li>GridCo—Any company running a transmission <a href="/wiki/Grid_(electricity)" class="mw-redirect" title="Grid (electricity)">grid (electricity)</a>. Also known as a TransCo (US) (electricity)</li>
+<li>GSF—Generator to Load Distribution Factor. See <a href="/wiki/Load_balancing_(electrical_power)" title="Load balancing (electrical power)">Load balancing</a> (electricity)</li>
+<li>GPE-Gravitational Potential Energy</li>
+<li>GSR—Gas Supply Realignment (natural gas)</li>
+<li>Gt—<a href="/wiki/Gigaton" class="mw-redirect" title="Gigaton">Gigaton</a> (1 billion tons) (measurement)</li>
+<li>GTCC—<a href="/wiki/Fossil_fuel_power_plant#Gas_turbine_combined-cycle_plants" class="mw-redirect" title="Fossil fuel power plant">Gas Turbine Combined Cycle</a> (electricity)</li>
+<li>GTI—<a href="/wiki/Gas_Technology_Institute" title="Gas Technology Institute">Gas Technology Institute</a> (US)</li>
+<li>Gtoe—One billion <a href="/wiki/Ton_of_oil_equivalent" class="mw-redirect" title="Ton of oil equivalent">tons of oil equivalent</a>(EU) (measurement- oil)</li>
+<li>GVEP—<a href="/wiki/Global_Village_Energy_Partnership" class="mw-redirect" title="Global Village Energy Partnership">Global Village Energy Partnership</a> (organization)</li>
+<li>GVW—<a href="/wiki/Gross_vehicle_weight" class="mw-redirect" title="Gross vehicle weight">gross vehicle weight</a> (transportation)</li>
+<li>GW—<a href="/wiki/Gigawatt" class="mw-redirect" title="Gigawatt">Gigawatt</a> (one billion watts) (measurement- elect)</li>
+<li>GWE—<a href="/wiki/Gigawatt" class="mw-redirect" title="Gigawatt">Gigawatt</a> of electric energy (measurement- elect)</li>
+<li>Gwh—<a href="/wiki/Gigawatt" class="mw-redirect" title="Gigawatt">Gigawatt</a> hour (one billion <a href="/wiki/Watt_hours" class="mw-redirect" title="Watt hours">watt hours</a>) (measurement- elect)</li>
+<li>GWP—<a href="/wiki/Global_warming_potential" title="Global warming potential">global warming potential</a> (climate)</li>
+</ul>
+<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>HCA—Host Control Area (electricity)</li>
+<li>HDD—<a href="/wiki/Heating_degree_day" title="Heating degree day">Heating degree days</a> a qualitative index used to reflect the demand for energy to heat a business (conservation)</li>
+<li>HERS—<a href="/w/index.php?title=Home_energy_rating_standard&amp;action=edit&amp;redlink=1" class="new" title="Home energy rating standard (page does not exist)">Home energy rating standard</a> (conservation)</li>
+<li>HHI—<a href="/wiki/Herfindahl%E2%80%93Hirschman_Index" class="mw-redirect" title="Herfindahl–Hirschman Index">Herfindahl–Hirschman Index</a> (markets)</li>
+<li>HID—<a href="/wiki/High_intensity_discharge" class="mw-redirect" title="High intensity discharge">high intensity discharge</a> (electricity)</li>
+<li>hp—<a href="/wiki/Horsepower" title="Horsepower">Horsepower</a> (measurement)</li>
+<li>HTGR—<a href="/wiki/High_temperature_gas_cooled_reactor" class="mw-redirect" title="High temperature gas cooled reactor">high temperature gas cooled reactor</a> (nuclear)</li>
+<li><a href="/wiki/HVAC" title="HVAC">HVAC</a>—<a href="/wiki/Heating" class="mw-redirect" title="Heating">Heating</a>, <a href="/wiki/Ventilation_(architecture)" title="Ventilation (architecture)">ventilation</a>, and <a href="/wiki/Air_conditioning" title="Air conditioning">air conditioning</a> (conservation)
+<ul>
+<li>—<a href="/wiki/High_voltage" title="High voltage">High voltage</a> <a href="/wiki/Alternating_current" title="Alternating current">alternating current</a> (electricity)</li>
+</ul>
+</li>
+<li>HVAR—Highly Valued Aquatic Resource</li>
+<li>HVDC—<a href="/wiki/HVDC" class="mw-redirect" title="HVDC">High Voltage Direct Current</a></li>
+</ul>
+<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>I/C—Interruptible /Curtailable (electricity)</li>
+<li>ICAP—Installed Capacity (electricity)</li>
+<li>ICAP-SCR—Installed capacity special case resources (electricity)</li>
+<li>ICCP—<a href="/wiki/IEC_60870-6#Inter-Control_Center_Communications_Protocol" title="IEC 60870-6">Inter-Control Center Communications Protocol</a> (electricity)</li>
+<li>ICE—<a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">Internal combustion engine</a> (transportation)</li>
+<li>ICT—Independent Coordinator of Transmission (US) (electricity)
+<ul>
+<li>—<a href="/wiki/Information_communication_technology" class="mw-redirect" title="Information communication technology">Information and Communication Technology</a></li>
+</ul>
+</li>
+<li>IDC—<a href="/w/index.php?title=Interchange_Distribution_Calculator&amp;action=edit&amp;redlink=1" class="new" title="Interchange Distribution Calculator (page does not exist)">Interchange Distribution Calculator</a> (electricity)</li>
+<li>IEA—<a href="/wiki/International_Energy_Agency" title="International Energy Agency">International Energy Agency</a> (Paris)</li>
+<li>IEM—<a href="/wiki/Internal_electricity_market" class="mw-redirect" title="Internal electricity market">Internal electricity market</a> (electricity)</li>
+<li>IEEE—<a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">Institute of Electrical and Electronics Engineers</a></li>
+<li>IEPE—<a href="/w/index.php?title=Institute_of_Energy_Policy_and_Economics&amp;action=edit&amp;redlink=1" class="new" title="Institute of Energy Policy and Economics (page does not exist)">Institute of Energy Policy and Economics</a> (France)</li>
+<li>IER—Incremental Energy Rate</li>
+<li>IET—International <a href="/wiki/Emission_trading" class="mw-redirect" title="Emission trading">emission trading</a> (policy)</li>
+<li>IGCC—Integrated <a href="/wiki/Coal_gasification" title="Coal gasification">coal gasification</a> combined cycle</li>
+<li>IGIC—Interim gas inventory charge (natural gas)</li>
+<li>IGSC—Interim gas supply charge (natural gas)</li>
+<li>IGT—<a href="/wiki/Institute_of_Gas_Technology" class="mw-redirect" title="Institute of Gas Technology">Institute of Gas Technology</a> (natural gas)</li>
+<li>IHR—Incremental Heat Rate- plant monitoring (electricity)</li>
+<li>IIASA—International Institute for Applied System Analysis</li>
+<li>IJC—<a href="/wiki/International_Joint_Commission" title="International Joint Commission">International Joint Commission</a></li>
+<li>ILP—Integrated Licensing Process</li>
+<li>INGAA—<a href="/w/index.php?title=Interstate_Natural_Gas_Association_of_America&amp;action=edit&amp;redlink=1" class="new" title="Interstate Natural Gas Association of America (page does not exist)">Interstate Natural Gas Association of America</a></li>
+<li>IOS—Interconnected Operations Services (electricity)</li>
+<li>IOU—<a href="/wiki/Investor_owned_utility" class="mw-redirect" title="Investor owned utility">Investor owned utility</a> (electricity)</li>
+<li>IPAA—<a href="/wiki/Independent_Petroleum_Association_of_America" title="Independent Petroleum Association of America">Independent Petroleum Association of America</a> (oil)</li>
+<li>IPCC—<a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change</a> (climate)</li>
+<li>IPP—<a href="/wiki/Independent_Power_Producer" title="Independent Power Producer">Independent Power Producer</a> (electricity)</li>
+<li>IPS/UPS—<a href="/wiki/IPS/UPS" title="IPS/UPS">Integrated Power System/United Power System</a>, consisting of Independent Power Systems of 12 countries bordering Russia and the Unified Power System of Russia</li>
+<li>IRC—ISO / RTO Council (electricity)</li>
+<li>IROL—<a href="/w/index.php?title=Interconnection_Reliability_Operating_Limit&amp;action=edit&amp;redlink=1" class="new" title="Interconnection Reliability Operating Limit (page does not exist)">Interconnection Reliability Operating Limit</a> (electricity)</li>
+<li>IRP—<a href="/w/index.php?title=Integrated_Resource_Planning&amp;action=edit&amp;redlink=1" class="new" title="Integrated Resource Planning (page does not exist)">Integrated Resource Planning</a></li>
+<li>IRR—<a href="/wiki/Internal_Rate_of_Return" class="mw-redirect" title="Internal Rate of Return">Internal Rate of Return</a> (finance)</li>
+<li>ISO—<a href="/wiki/Independent_System_Operator" class="mw-redirect" title="Independent System Operator">Independent System Operator</a> (US) (see also <a href="/wiki/Transmission_System_Operator" class="mw-redirect" title="Transmission System Operator">TSO</a>) Responsible for grid management, but does not own assets. (electricity)</li>
+<li>ISO-NE—<a href="/wiki/ISO_New_England" title="ISO New England">Independent System Operator of New England</a>, a <a href="/wiki/Regional_transmission_organization" class="mw-redirect" title="Regional transmission organization">regional transmission organization</a>. (US) (electricity)</li>
+<li>ISO—<a href="/w/index.php?title=NE_ISO_New_England,_Inc.&amp;action=edit&amp;redlink=1" class="new" title="NE ISO New England, Inc. (page does not exist)">NE ISO New England, Inc.</a> (electricity)</li>
+<li>ISS—<a href="/w/index.php?title=Interruptible_Sales_Service&amp;action=edit&amp;redlink=1" class="new" title="Interruptible Sales Service (page does not exist)">Interruptible Sales Service</a></li>
+<li>IT—<a href="/wiki/Interruptible_gas" class="mw-redirect" title="Interruptible gas">Interruptible Transportation</a> is gas shipment via pipeline whose delivery may be interrupted in favor of "firm shipment" contracts if there is lack of capacity. (natural gas)</li>
+<li>ITC—<a href="/wiki/Investment_tax_credit" class="mw-redirect" title="Investment tax credit">Investment tax credit</a> (policy)</li>
+<li>ITS—"<a href="/wiki/Interruptible_gas" class="mw-redirect" title="Interruptible gas">Interruptible Transportation Service</a>" is gas shipment via pipeline whose delivery may be interrupted in favor of "firm shipment" contracts if there is lack of capacity. (natural gas)</li>
+</ul>
+<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>JRC—<a href="/wiki/Joint_Research_Centre" title="Joint Research Centre">Joint Research Centre</a></li>
+<li>JREC—<a href="/wiki/Johannesburg_Renewable_Energy_Coalition" title="Johannesburg Renewable Energy Coalition">Johannesburg Renewable Energy Coalition</a></li>
+</ul>
+<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>koe—One <a href="/wiki/Kilogram_oil_equivalent" class="mw-redirect" title="Kilogram oil equivalent">kilogram oil equivalent</a> (EU) (measurement)</li>
+<li>kV—<a href="/wiki/Kilovolt" class="mw-redirect" title="Kilovolt">Kilovolt</a> (one thousand volts) (measurement)</li>
+<li>kVA—<a href="/w/index.php?title=One_thousand_volt_Ampere&amp;action=edit&amp;redlink=1" class="new" title="One thousand volt Ampere (page does not exist)">One thousand volt Ampere</a> (measurement)</li>
+<li>kvar—one thousand <a href="/wiki/Volt-ampere_reactive" title="Volt-ampere reactive">vars</a> (measurement)</li>
+<li>kW—<a href="/wiki/Kilowatt" class="mw-redirect" title="Kilowatt">Kilowatt</a> (one thousand watts) (measurement)</li>
+<li>kWE—<a href="/w/index.php?title=Kilowatt_electric&amp;action=edit&amp;redlink=1" class="new" title="Kilowatt electric (page does not exist)">kilowatt electric</a> (measurement)</li>
+<li>kWh—<a href="/wiki/Kilowatt_hour" title="Kilowatt hour">Kilowatt hour</a> (one thousand watt hours) (measurement)</li>
+</ul>
+<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>LaaR—<a href="/w/index.php?title=Load_acting_as_a_resource_(ERCOT_category)&amp;action=edit&amp;redlink=1" class="new" title="Load acting as a resource (ERCOT category) (page does not exist)">Load acting as a resource (ERCOT category)</a> (electricity)</li>
+<li>LBA—Local Balancing Authority (electricity)</li>
+<li>LBNL—<a href="/wiki/Lawrence_Berkeley_National_Laboratory" title="Lawrence Berkeley National Laboratory">Lawrence Berkeley National Laboratory</a> (US)</li>
+<li>LDC—<a href="/wiki/Local_distribution_company" title="Local distribution company">Local distribution company</a> (electricity)</li>
+<li>LEVP—<a href="/w/index.php?title=Low_Emissions_Vehicle_Program&amp;action=edit&amp;redlink=1" class="new" title="Low Emissions Vehicle Program (page does not exist)">Low Emissions Vehicle Program</a></li>
+<li>LHV—<a href="/wiki/Lower_heating_value" class="mw-redirect" title="Lower heating value">lower heating value</a></li>
+<li>LIHEAP—<a href="/wiki/Low_Income_Home_Energy_Assistance_Program" class="mw-redirect" title="Low Income Home Energy Assistance Program">Low Income Home Energy Assistance Program</a></li>
+<li>LIPA—<a href="/wiki/Long_Island_Power_Authority" title="Long Island Power Authority">Long Island Power Authority</a> (US) (electricity)</li>
+<li>LLF—<a href="/wiki/Load-loss_factor" title="Load-loss factor">Load-loss factor</a> (electricity)</li>
+<li>LMP—Locational marginal price/pricing. See explanation in <a href="/wiki/Electricity_market#Bid-based,_security-constrained,_economic_dispatch_with_nodal_prices" title="Electricity market">electricity markets</a>.</li>
+<li>LMR—Load Modifying Resource (electricity)</li>
+<li>LNG—<a href="/wiki/Liquified_Natural_Gas" class="mw-redirect" title="Liquified Natural Gas">Liquified Natural Gas</a></li>
+<li>LODF—<a href="/w/index.php?title=Line_Outage_Distribution_Factor&amp;action=edit&amp;redlink=1" class="new" title="Line Outage Distribution Factor (page does not exist)">Line Outage Distribution Factor</a> (electricity)</li>
+<li>LOLE—<a href="/w/index.php?title=Loss_of_Load_Expectation&amp;action=edit&amp;redlink=1" class="new" title="Loss of Load Expectation (page does not exist)">Loss of Load Expectation</a> (electricity)</li>
+<li>LPG—<a href="/wiki/Liquefied_petroleum_gas" title="Liquefied petroleum gas">liquefied petroleum gas</a></li>
+<li>LPN—<a href="/w/index.php?title=Lender_Participation_Notes&amp;action=edit&amp;redlink=1" class="new" title="Lender Participation Notes (page does not exist)">Lender Participation Notes</a></li>
+<li>LRG—<a href="/w/index.php?title=Liquefied_refinery_gases&amp;action=edit&amp;redlink=1" class="new" title="Liquefied refinery gases (page does not exist)">liquefied refinery gases</a></li>
+<li>LSE—<a href="/w/index.php?title=Load_serving_entity&amp;action=edit&amp;redlink=1" class="new" title="Load serving entity (page does not exist)">Load serving entity</a></li>
+<li>LSF—<a href="/w/index.php?title=Load_Shift_Factor&amp;action=edit&amp;redlink=1" class="new" title="Load Shift Factor (page does not exist)">Load Shift Factor</a></li>
+<li>lsfo—<a href="/w/index.php?title=Low_sulfur_fuel_oil&amp;action=edit&amp;redlink=1" class="new" title="Low sulfur fuel oil (page does not exist)">Low sulfur fuel oil</a></li>
+<li>LWR—<a href="/wiki/Light_water_reactor" class="mw-redirect" title="Light water reactor">light water reactor</a></li>
+</ul>
+<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>MAAC—<a href="/w/index.php?title=Mid_Atlantic_Area_Council_(US-_geographically_within_PJM)&amp;action=edit&amp;redlink=1" class="new" title="Mid Atlantic Area Council (US- geographically within PJM) (page does not exist)">Mid Atlantic Area Council (US- geographically within PJM)</a></li>
+<li>MADRI—<a href="/w/index.php?title=Mid_Atlantic_Distributed_Resources_Initiative&amp;action=edit&amp;redlink=1" class="new" title="Mid Atlantic Distributed Resources Initiative (page does not exist)">Mid Atlantic Distributed Resources Initiative</a> (US)</li>
+<li>MAIN—<a href="/w/index.php?title=Mid_America_Interconnected_Network&amp;action=edit&amp;redlink=1" class="new" title="Mid America Interconnected Network (page does not exist)">Mid America Interconnected Network</a> (US)</li>
+<li>MAOP—<a href="/wiki/Maximum_allowable_operating_pressure" title="Maximum allowable operating pressure">Maximum allowable operating pressure</a></li>
+<li>MAPP—<a href="/w/index.php?title=Mid_Continent_Area_Power_Pool&amp;action=edit&amp;redlink=1" class="new" title="Mid Continent Area Power Pool (page does not exist)">Mid Continent Area Power Pool</a> (US)</li>
+<li>MBD—<a href="/w/index.php?title=Million_barrels_per_day&amp;action=edit&amp;redlink=1" class="new" title="Million barrels per day (page does not exist)">million barrels per day</a></li>
+<li>MBOED—One million <a href="/wiki/Barrel_of_oil_equivalent" title="Barrel of oil equivalent">barrels of oil equivalent</a>(EU)</li>
+<li>MBR—<a href="/w/index.php?title=Market_based_Rates&amp;action=edit&amp;redlink=1" class="new" title="Market based Rates (page does not exist)">Market based Rates</a></li>
+<li>MBS—<a href="/w/index.php?title=Macro_economic_Budget_Support&amp;action=edit&amp;redlink=1" class="new" title="Macro economic Budget Support (page does not exist)">Macro economic Budget Support</a></li>
+<li>Mcf—<a href="/wiki/Roman_numeral" class="mw-redirect" title="Roman numeral">Roman numeral</a> "M" for one thousand <a href="/wiki/Cubic_feet" class="mw-redirect" title="Cubic feet">cubic feet</a> (measurement of natural gas)</li>
+<li>MDAS—<a href="/w/index.php?title=Meter_Data_Acquisition_System&amp;action=edit&amp;redlink=1" class="new" title="Meter Data Acquisition System (page does not exist)">Meter Data Acquisition System</a></li>
+<li>MDD—<a href="/w/index.php?title=Maximum_Daily_Delivery_Obligations&amp;action=edit&amp;redlink=1" class="new" title="Maximum Daily Delivery Obligations (page does not exist)">Maximum Daily Delivery Obligations</a></li>
+<li>MDDQ—<a href="/w/index.php?title=Maximum_Daily_Delivery_Quantity&amp;action=edit&amp;redlink=1" class="new" title="Maximum Daily Delivery Quantity (page does not exist)">Maximum Daily Delivery Quantity</a></li>
+<li>MDM—<a href="/wiki/Meter_Data_Management" class="mw-redirect" title="Meter Data Management">Meter Data Management</a></li>
+<li>MDQ—<a href="/w/index.php?title=Maximum_Daily_Quantities&amp;action=edit&amp;redlink=1" class="new" title="Maximum Daily Quantities (page does not exist)">Maximum Daily Quantities</a></li>
+<li>MECS—<a href="/w/index.php?title=Manufacturing_Energy_Consumption_Survey&amp;action=edit&amp;redlink=1" class="new" title="Manufacturing Energy Consumption Survey (page does not exist)">Manufacturing Energy Consumption Survey</a></li>
+<li>MEDREP—<a href="/w/index.php?title=Mediterranean_Renewables_Energy_Partnership&amp;action=edit&amp;redlink=1" class="new" title="Mediterranean Renewables Energy Partnership (page does not exist)">Mediterranean Renewables Energy Partnership</a></li>
+<li>MER—<a href="/w/index.php?title=Maximum_efficient_rate&amp;action=edit&amp;redlink=1" class="new" title="Maximum efficient rate (page does not exist)">Maximum efficient rate</a></li>
+<li>MERC—<a href="/wiki/Mobile_Emission_Reduction_Credit_(MERC)" class="mw-redirect" title="Mobile Emission Reduction Credit (MERC)">Mobile Emission Reduction Credit (MERC)</a> (US)</li>
+<li>MFV—<a href="/w/index.php?title=Modified_fixed_variable_rate&amp;action=edit&amp;redlink=1" class="new" title="Modified fixed variable rate (page does not exist)">Modified fixed variable rate</a></li>
+<li>MISO—<a href="/wiki/Midcontinent_Independent_System_Operator" title="Midcontinent Independent System Operator">Midcontinent Independent System Operator</a>, Inc. A <a href="/wiki/Regional_transmission_organization" class="mw-redirect" title="Regional transmission organization">regional transmission organization</a>. (US)</li>
+<li>MLP—<a href="/w/index.php?title=Maximum_lawful_price&amp;action=edit&amp;redlink=1" class="new" title="Maximum lawful price (page does not exist)">Maximum lawful price</a></li>
+<li>MLRA—<a href="/wiki/Major_Land_Resource_Areas" title="Major Land Resource Areas">Major Land Resource Areas</a></li>
+<li>MM—Used to denote million in gas usage</li>
+<li>MMbbl/d—one million <a href="/wiki/Barrel_per_day" class="mw-redirect" title="Barrel per day">barrels of oil per day</a></li>
+<li>MMBtu—1 million <a href="/wiki/British_thermal_unit" title="British thermal unit">British thermal units</a>, same as dekatherm</li>
+<li>MMC—<a href="/w/index.php?title=Market_Monitoring_Center&amp;action=edit&amp;redlink=1" class="new" title="Market Monitoring Center (page does not exist)">Market Monitoring Center</a></li>
+<li>MMCF—one million <a href="/wiki/Cubic_feet" class="mw-redirect" title="Cubic feet">cubic feet</a> (measurement of natural gas)</li>
+<li>MMCFD—one million <a href="/wiki/Cubic_feet" class="mw-redirect" title="Cubic feet">cubic feet</a> per day</li>
+<li>MMGAL—one million <a href="/wiki/Gallons" class="mw-redirect" title="Gallons">gallons</a></li>
+<li>MMGAL/D—one million gallons per day</li>
+<li>MMS—<a href="/wiki/Minerals_Management_Service" title="Minerals Management Service">Minerals Management Service</a> (US)</li>
+<li>MMST—one million <a href="/wiki/Short_ton" title="Short ton">short tons</a></li>
+<li>MODFLOW—<a href="/w/index.php?title=Model_of_groundwater_flow&amp;action=edit&amp;redlink=1" class="new" title="Model of groundwater flow (page does not exist)">model of groundwater flow</a></li>
+<li>MOU—<a href="/wiki/Memorandum_of_Understanding" class="mw-redirect" title="Memorandum of Understanding">Memorandum of Understanding</a></li>
+<li>MOX—<a href="/wiki/Mixed_oxide_fuel" class="mw-redirect" title="Mixed oxide fuel">mixed oxide fuel</a> (nuclear)</li>
+<li>MPG—<a href="/wiki/Miles_per_gallon" class="mw-redirect" title="Miles per gallon">Miles per gallon</a></li>
+<li>MRO—<a href="/wiki/Midwest_Reliability_Organization" title="Midwest Reliability Organization">Midwest Reliability Organization</a> (US)</li>
+<li>MSA—<a href="/wiki/Metropolitan_statistical_area" title="Metropolitan statistical area">metropolitan statistical area</a></li>
+<li>MSHA—<a href="/wiki/Mine_Safety_and_Health_Administration" title="Mine Safety and Health Administration">Mine Safety and Health Administration</a> (US)</li>
+<li>msl—<a href="/wiki/Mean_sea_level" class="mw-redirect" title="Mean sea level">Mean sea level</a></li>
+<li>MSW—<a href="/wiki/Municipal_solid_waste" title="Municipal solid waste">Municipal solid waste</a></li>
+<li>Mt—one million <a href="/wiki/Ton" title="Ton">tons</a> (ambiguous as to whether short tons or metric tons)
+<ul>
+<li>—one <a href="/wiki/Metric_ton" class="mw-redirect" title="Metric ton">Metric ton</a></li>
+</ul>
+</li>
+<li>MTBE—<a href="/wiki/Methyl_tertiary_butyl_ether" class="mw-redirect" title="Methyl tertiary butyl ether">methyl tertiary butyl ether</a></li>
+<li>MTEF—<a href="/w/index.php?title=Medium_Term_Expenditure_Framework&amp;action=edit&amp;redlink=1" class="new" title="Medium Term Expenditure Framework (page does not exist)">Medium Term Expenditure Framework</a></li>
+<li>MTEP—<a href="/w/index.php?title=Midwest_ISO_Transmission_Expansion_Plan_2005&amp;action=edit&amp;redlink=1" class="new" title="Midwest ISO Transmission Expansion Plan 2005 (page does not exist)">Midwest ISO Transmission Expansion Plan 2005</a> (US)</li>
+<li>Mtoe—One million <a href="/wiki/Ton_of_oil_equivalent" class="mw-redirect" title="Ton of oil equivalent">tons of oil equivalent</a>(EU)</li>
+<li>Muni—<a href="/wiki/Municipality" title="Municipality">Municipality</a></li>
+<li>MVA—Mega<a href="/wiki/Volt_ampere" class="mw-redirect" title="Volt ampere">volt amperes</a> (one million volt amperes)</li>
+<li>MW—<a href="/wiki/Megawatt" class="mw-redirect" title="Megawatt">Megawatt</a> (one million watts)</li>
+<li>MWE—<a href="/w/index.php?title=Megawatt_electric&amp;action=edit&amp;redlink=1" class="new" title="Megawatt electric (page does not exist)">megawatt electric</a></li>
+<li>MWh—<a href="/wiki/Megawatt_hour" class="mw-redirect" title="Megawatt hour">Megawatt hour</a> (one million watt hours)</li>
+</ul>
+<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>N<sub>2</sub>O—<a href="/wiki/Nitrous_oxide" title="Nitrous oxide">nitrous oxide</a></li>
+<li>NAAQS—<a href="/wiki/National_Ambient_Air_Quality_Standards" title="National Ambient Air Quality Standards">National Ambient Air Quality Standards</a> (US)</li>
+<li>NAESB—<a href="/w/index.php?title=North_American_Energy_Standards_Board_(formerly_GISB)&amp;action=edit&amp;redlink=1" class="new" title="North American Energy Standards Board (formerly GISB) (page does not exist)">North American Energy Standards Board (formerly GISB)</a></li>
+<li>NAFTA—<a href="/wiki/North_American_Free_Trade_Agreement" title="North American Free Trade Agreement">North American Free Trade Agreement</a></li>
+<li>NAICS—<a href="/wiki/North_American_Industry_Classification_System" title="North American Industry Classification System">North American Industry Classification System</a></li>
+<li>NAP—<a href="/wiki/National_Renewable_Energy_Action_Plan" title="National Renewable Energy Action Plan">National Renewable Energy Action Plan</a></li>
+<li>NARUC—National Association of Regulatory Utility Commissioners (US) <a rel="nofollow" class="external autonumber" href="http://www.naruc.org">[1]</a></li>
+<li>NAS—<a href="/wiki/United_States_National_Academy_of_Sciences" class="mw-redirect" title="United States National Academy of Sciences">United States National Academy of Sciences</a></li>
+<li>NASPI—North American <a href="/wiki/Synchrophasor" class="mw-redirect" title="Synchrophasor">Synchrophasor</a> Initiative</li>
+<li>NASUCA—<a href="/w/index.php?title=National_Association_of_Utility_Consumer_Advocates&amp;action=edit&amp;redlink=1" class="new" title="National Association of Utility Consumer Advocates (page does not exist)">National Association of Utility Consumer Advocates</a>(US)</li>
+<li>NATC—Non Recallable Available Transfer Capability</li>
+<li>NBS—<a href="/wiki/National_Bureau_of_Standards" class="mw-redirect" title="National Bureau of Standards">National Bureau of Standards</a> (US)</li>
+<li>NCD—<a href="/w/index.php?title=Non_coincidental_Demand&amp;action=edit&amp;redlink=1" class="new" title="Non coincidental Demand (page does not exist)">Non coincidental Demand</a></li>
+<li>NCEP—National Council on Electricity Policy (US) <a rel="nofollow" class="external autonumber" href="http://www.ncouncil.org">[2]</a></li>
+<li>NCSL—<a href="/wiki/National_Conference_of_State_Legislatures" title="National Conference of State Legislatures">National Conference of State Legislatures</a> (US)</li>
+<li>NEA—The <a href="/wiki/National_Energy_Act" title="National Energy Act">National Energy Act</a> of 1978 (US)</li>
+<li>NEB—<a href="/wiki/National_Energy_Board" title="National Energy Board">National Energy Board</a> (Canada)</li>
+<li>NEDRI—<a href="/w/index.php?title=New_England_Distributed_Resources_Initiative&amp;action=edit&amp;redlink=1" class="new" title="New England Distributed Resources Initiative (page does not exist)">New England Distributed Resources Initiative</a> (US)</li>
+<li>NEPA—<a href="/wiki/National_Environmental_Policy_Act" title="National Environmental Policy Act">National Environmental Policy Act</a> (US)</li>
+<li>NEPOOL—New England Power Pool</li>
+<li>NERC—<a href="/wiki/North_American_Electric_Reliability_Council" class="mw-redirect" title="North American Electric Reliability Council">North American Electric Reliability Council</a></li>
+<li>NGA—<a href="/wiki/Natural_Gas_Act" class="mw-redirect" title="Natural Gas Act">Natural Gas Act</a> (US)</li>
+<li>NGAA—<a href="/w/index.php?title=Natural_Gasoline_Association_of_America&amp;action=edit&amp;redlink=1" class="new" title="Natural Gasoline Association of America (page does not exist)">Natural Gasoline Association of America</a> (US)</li>
+<li>NGL—<a href="/wiki/Natural_gas" title="Natural gas">natural gas</a> liquids</li>
+<li>NGPA—Natural Gas Policy Act of 1978 (US)</li>
+<li>NGPL—<a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a> plant liquids</li>
+<li>NGPSA—<a href="/w/index.php?title=Natural_Gas_Pipeline_Safety_Act_of_1968&amp;action=edit&amp;redlink=1" class="new" title="Natural Gas Pipeline Safety Act of 1968 (page does not exist)">Natural Gas Pipeline Safety Act of 1968</a> (US)</li>
+<li>NGSA—<a href="/w/index.php?title=Natural_Gas_Supply_Association&amp;action=edit&amp;redlink=1" class="new" title="Natural Gas Supply Association (page does not exist)">Natural Gas Supply Association</a> (US)</li>
+<li>NGV—<a href="/wiki/Natural_gas_vehicle" title="Natural gas vehicle">Natural gas vehicle</a></li>
+<li>NHPA—<a href="/wiki/National_Historic_Preservation_Act" class="mw-redirect" title="National Historic Preservation Act">National Historic Preservation Act</a> (US)</li>
+<li>NIETC—<a href="/wiki/National_Interest_Electric_Transmission_Corridor" title="National Interest Electric Transmission Corridor">National Interest Electric Transmission Corridor</a> (US)</li>
+<li>NITC—<a href="/w/index.php?title=Normal_Incremental_Transfer_Capability&amp;action=edit&amp;redlink=1" class="new" title="Normal Incremental Transfer Capability (page does not exist)">Normal Incremental Transfer Capability</a></li>
+<li>NIMBY—<a href="/wiki/NIMBY" title="NIMBY">Not in my backyard</a> regarding siting of energy generation and transmission infrastructure.</li>
+<li>NOAA—<a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a> (US)</li>
+<li>NOC—<a href="/wiki/National_Oil_Company" class="mw-redirect" title="National Oil Company">National Oil Company</a></li>
+<li>NOI—<a href="/w/index.php?title=Notice_of_Intent_or_Notice_of_Inquiry_or_Notice_of_Investigation&amp;action=edit&amp;redlink=1" class="new" title="Notice of Intent or Notice of Inquiry or Notice of Investigation (page does not exist)">Notice of Intent or Notice of Inquiry or Notice of Investigation</a></li>
+<li>NOPR—<a href="/wiki/Notice_of_Proposed_Rulemaking" class="mw-redirect" title="Notice of Proposed Rulemaking">Notice of Proposed Rulemaking</a> (US)</li>
+<li>NORDEL—association of Nordic electric system operators, comprising Denmark, Finland, Norway, Sweden</li>
+<li>NOx—<a href="/wiki/Nitrogen_oxides" class="mw-redirect" title="Nitrogen oxides">nitrogen oxides</a></li>
+<li>NPCC—<a href="/wiki/Northeast_Power_Coordinating_Council" title="Northeast Power Coordinating Council">Northeast Power Coordinating Council</a> (US)</li>
+<li>NPV—<a href="/wiki/Net_Present_Value" class="mw-redirect" title="Net Present Value">Net Present Value</a></li>
+<li>NRC—<a href="/wiki/Nuclear_Regulatory_Commission" title="Nuclear Regulatory Commission">Nuclear Regulatory Commission</a> (US)</li>
+<li>NRCS—<a href="/wiki/National_Resource_Conservation_Service" class="mw-redirect" title="National Resource Conservation Service">National Resource Conservation Service</a> (US)</li>
+<li>NRECA—<a href="/w/index.php?title=National_Association_of_Rural_Electric_Cooperatives&amp;action=edit&amp;redlink=1" class="new" title="National Association of Rural Electric Cooperatives (page does not exist)">National Association of Rural Electric Cooperatives</a> (US)</li>
+<li>NREPA—<a href="/w/index.php?title=National_Resource_and_Environmental_Protection_Act&amp;action=edit&amp;redlink=1" class="new" title="National Resource and Environmental Protection Act (page does not exist)">National Resource and Environmental Protection Act</a> (US)</li>
+<li>NRI—<a href="/w/index.php?title=National_Rivers_Inventory&amp;action=edit&amp;redlink=1" class="new" title="National Rivers Inventory (page does not exist)">National Rivers Inventory</a> (US)</li>
+<li>NRIS—Network Resource Interconnection Service (electricity)</li>
+<li>NSA—<a href="/w/index.php?title=Noise_sensitive_area&amp;action=edit&amp;redlink=1" class="new" title="Noise sensitive area (page does not exist)">Noise sensitive area</a></li>
+<li>NTAC—<a href="/w/index.php?title=Northwest_Transmission_Assessment_Committee&amp;action=edit&amp;redlink=1" class="new" title="Northwest Transmission Assessment Committee (page does not exist)">Northwest Transmission Assessment Committee</a> (US)</li>
+<li>NUG—<a href="/w/index.php?title=Non_Utility_Generator&amp;action=edit&amp;redlink=1" class="new" title="Non Utility Generator (page does not exist)">Non Utility Generator</a></li>
+<li>NURE—<a href="/w/index.php?title=National_uranium_resource_evaluation&amp;action=edit&amp;redlink=1" class="new" title="National uranium resource evaluation (page does not exist)">national uranium resource evaluation</a> (US)</li>
+<li>NYDER—<a href="/w/index.php?title=New_York_Department_of_Environmental_Resources&amp;action=edit&amp;redlink=1" class="new" title="New York Department of Environmental Resources (page does not exist)">New York Department of Environmental Resources</a></li>
+<li>NYISO—<a href="/wiki/New_York_Independent_System_Operator" class="mw-redirect" title="New York Independent System Operator">New York Independent System Operator</a>, Inc. (US)</li>
+<li>NYMEX—<a href="/wiki/New_York_Mercantile_Exchange" title="New York Mercantile Exchange">New York Mercantile Exchange</a></li>
+<li>NYPSC—<a href="/wiki/New_York_Public_Service_Commission" title="New York Public Service Commission">New York Public Service Commission</a></li>
+<li>NYSERDA—<a href="/w/index.php?title=New_York_State_Energy_Research_and_Development&amp;action=edit&amp;redlink=1" class="new" title="New York State Energy Research and Development (page does not exist)">New York State Energy Research and Development</a> Authority</li>
+</ul>
+<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>O&amp;M—Operation and Maintenance Expenses</li>
+<li>O<sub>3</sub>—<a href="/wiki/Ozone" title="Ozone">Ozone</a></li>
+<li>OASIS—<a href="/wiki/Open_Access_Same-Time_Information_System" title="Open Access Same-Time Information System">Open Access Same-Time Information System</a></li>
+<li>OATT—<a href="/w/index.php?title=Open_Access_Transmission_Tariff&amp;action=edit&amp;redlink=1" class="new" title="Open Access Transmission Tariff (page does not exist)">Open Access Transmission Tariff</a> (US)</li>
+<li>OCS—<a href="/wiki/Outer_Continental_Shelf" title="Outer Continental Shelf">Outer Continental Shelf</a> (oil)</li>
+<li>OCSLA—<a href="/wiki/Outer_Continental_Shelf_Lands_Act" class="mw-redirect" title="Outer Continental Shelf Lands Act">Outer Continental Shelf Lands Act</a> (oil)</li>
+<li>OECD—<a href="/wiki/Organization_for_Economic_Cooperation_and_Development" class="mw-redirect" title="Organization for Economic Cooperation and Development">Organization for Economic Cooperation and Development</a></li>
+<li>OEM—<a href="/wiki/Original_equipment_manufacturers" class="mw-redirect" title="Original equipment manufacturers">original equipment manufacturers</a></li>
+<li>OFO—<a href="/w/index.php?title=Operational_Flow_Order&amp;action=edit&amp;redlink=1" class="new" title="Operational Flow Order (page does not exist)">Operational Flow Order</a></li>
+<li>OMP—<a href="/w/index.php?title=Operation_and_Maintenance_Plan&amp;action=edit&amp;redlink=1" class="new" title="Operation and Maintenance Plan (page does not exist)">Operation and Maintenance Plan</a></li>
+<li>Ontario—<a href="/w/index.php?title=IESO_Ontario_Independent_Electricity_System_Operator&amp;action=edit&amp;redlink=1" class="new" title="IESO Ontario Independent Electricity System Operator (page does not exist)">IESO Ontario Independent Electricity System Operator</a> (Canada)</li>
+<li>OPEC—<a href="/wiki/Organization_of_Petroleum-Exporting_Countries" class="mw-redirect" title="Organization of Petroleum-Exporting Countries">Organization of Petroleum-Exporting Countries</a> (oil)</li>
+<li>OPRG—<a href="/w/index.php?title=Oxygenated_fuels_program_reformulated_gasoline&amp;action=edit&amp;redlink=1" class="new" title="Oxygenated fuels program reformulated gasoline (page does not exist)">oxygenated fuels program reformulated gasoline</a> (oil)</li>
+<li>ORNL—<a href="/w/index.php?title=Oak_Ridge_National_Laboratory_(U.S.)&amp;action=edit&amp;redlink=1" class="new" title="Oak Ridge National Laboratory (U.S.) (page does not exist)">Oak Ridge National Laboratory (U.S.)</a> (nuclear)</li>
+<li>OSHA—<a href="/w/index.php?title=U.S._Department_of_Labor_Occupational_Safety_and_Health&amp;action=edit&amp;redlink=1" class="new" title="U.S. Department of Labor Occupational Safety and Health (page does not exist)">U.S. Department of Labor Occupational Safety and Health</a> Administration</li>
+<li>OTAG—<a href="/w/index.php?title=Ozone_Transport_Assessment_Group&amp;action=edit&amp;redlink=1" class="new" title="Ozone Transport Assessment Group (page does not exist)">Ozone Transport Assessment Group</a></li>
+<li>OTDF—<a href="/w/index.php?title=Outage_Transfer_Distribution_Factor&amp;action=edit&amp;redlink=1" class="new" title="Outage Transfer Distribution Factor (page does not exist)">Outage Transfer Distribution Factor</a></li>
+<li>OTEC—<a href="/wiki/Ocean_thermal_energy_conversion" title="Ocean thermal energy conversion">ocean thermal energy conversion</a> (electricity)</li>
+</ul>
+<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>PA—<a href="/w/index.php?title=Planning_Authority&amp;action=edit&amp;redlink=1" class="new" title="Planning Authority (page does not exist)">Planning Authority</a>
+<ul>
+<li>—<a href="/w/index.php?title=Programmatic_Agreement&amp;action=edit&amp;redlink=1" class="new" title="Programmatic Agreement (page does not exist)">Programmatic Agreement</a></li>
+</ul>
+</li>
+<li>PADD—<a href="/wiki/Petroleum_Administration_for_Defense_Districts" title="Petroleum Administration for Defense Districts">Petroleum Administration for Defense Districts</a> (US)</li>
+<li>PBR
+<ul>
+<li>—<a href="/wiki/Pebble_bed_reactor" class="mw-redirect" title="Pebble bed reactor">pebble bed reactor</a> (nuclear)</li>
+<li>—<a href="/w/index.php?title=Performance_based_rates&amp;action=edit&amp;redlink=1" class="new" title="Performance based rates (page does not exist)">performance based rates</a> (electricity)</li>
+<li>—<a href="/wiki/Performance-based_regulation" title="Performance-based regulation">Performance-based regulation</a></li>
+</ul>
+</li>
+<li>PCB—<a href="/wiki/Polychlorinated_biphenyl" title="Polychlorinated biphenyl">polychlorinated biphenyl</a></li>
+<li>PCM—<a href="/wiki/Project_Cycle_Management" class="mw-redirect" title="Project Cycle Management">Project Cycle Management</a></li>
+<li>PCT—<a href="/wiki/Programmable_Communicating_Thermostat" class="mw-redirect" title="Programmable Communicating Thermostat">Programmable Communicating Thermostat</a> (electricity)</li>
+<li>PD—<a href="/w/index.php?title=Preliminary_Determination&amp;action=edit&amp;redlink=1" class="new" title="Preliminary Determination (page does not exist)">Preliminary Determination</a></li>
+<li>PDC—Phasor data concentrator. See description in <a href="/wiki/Phasor_measurement_unit" title="Phasor measurement unit">phasor measurement unit</a> article. (electricity)</li>
+<li>PDCI—<a href="/w/index.php?title=Pacific_Direct_Current_Intertie&amp;action=edit&amp;redlink=1" class="new" title="Pacific Direct Current Intertie (page does not exist)">Pacific Direct Current Intertie</a> (US) (electricity)</li>
+<li>PEM—<a href="/wiki/Proton_Exchange_Membrane" class="mw-redirect" title="Proton Exchange Membrane">Proton Exchange Membrane</a></li>
+<li>PFC—<a href="/wiki/Perfluorocarbons" class="mw-redirect" title="Perfluorocarbons">perfluorocarbons</a></li>
+<li>PG&amp;E—<a href="/wiki/Pacific_Gas_%26_Electric" class="mw-redirect" title="Pacific Gas &amp; Electric">Pacific Gas &amp; Electric</a> (US) (electricity)</li>
+<li>PGA—<a href="/w/index.php?title=Purchased_gas_adjustment&amp;action=edit&amp;redlink=1" class="new" title="Purchased gas adjustment (page does not exist)">Purchased gas adjustment</a></li>
+<li>PHA—<a href="/w/index.php?title=Production_Handling_Agreement&amp;action=edit&amp;redlink=1" class="new" title="Production Handling Agreement (page does not exist)">Production Handling Agreement</a></li>
+<li>PHFFU—<a href="/w/index.php?title=Plant_held_for_future_use&amp;action=edit&amp;redlink=1" class="new" title="Plant held for future use (page does not exist)">Plant held for future use</a></li>
+<li>PIDX—<a href="/w/index.php?title=Petroleum_Industry_Data_Exchange&amp;action=edit&amp;redlink=1" class="new" title="Petroleum Industry Data Exchange (page does not exist)">Petroleum Industry Data Exchange</a> (oil)</li>
+<li>PIER—<a href="/w/index.php?title=Public_Interest_Energy_Research_(CEC)&amp;action=edit&amp;redlink=1" class="new" title="Public Interest Energy Research (CEC) (page does not exist)">Public Interest Energy Research (CEC)</a></li>
+<li>PIFUA—<a href="/w/index.php?title=Powerplant_and_Industrial_Fuel_Use_Act_of_1978&amp;action=edit&amp;redlink=1" class="new" title="Powerplant and Industrial Fuel Use Act of 1978 (page does not exist)">Powerplant and Industrial Fuel Use Act of 1978</a></li>
+<li>PJM—<a href="/wiki/PJM_Interconnection" title="PJM Interconnection">PJM Interconnection</a>, LLC, a <a href="/wiki/Regional_transmission_organization" class="mw-redirect" title="Regional transmission organization">regional transmission organization</a>. (US) (electricity)</li>
+<li>PLC—<a href="/wiki/Power_line_communication" class="mw-redirect" title="Power line communication">Power line communication</a> (electricity)</li>
+<li>PLMA—<a href="/w/index.php?title=Peak_Load_Management_Association&amp;action=edit&amp;redlink=1" class="new" title="Peak Load Management Association (page does not exist)">Peak Load Management Association</a> (US) (electricity)</li>
+<li>PM—<a href="/wiki/Atmospheric_particulate_matter" class="mw-redirect" title="Atmospheric particulate matter">Particulate matter</a></li>
+<li>PM&amp;E—<a href="/w/index.php?title=Protection,_mitigation_and_enhancement&amp;action=edit&amp;redlink=1" class="new" title="Protection, mitigation and enhancement (page does not exist)">Protection, mitigation and enhancement</a></li>
+<li>PMA—<a href="/w/index.php?title=Power_Marketing_Administration_or_Fed._Power_Marketing_Agency&amp;action=edit&amp;redlink=1" class="new" title="Power Marketing Administration or Fed. Power Marketing Agency (page does not exist)">Power Marketing Administration or Fed. Power Marketing Agency</a> (US) (electricity)</li>
+<li>PMU—<a href="/wiki/Phasor_measurement_unit" title="Phasor measurement unit">Phasor measurement unit</a> (electricity)</li>
+<li>PNNL—<a href="/w/index.php?title=Pacific_Northwest_National_Laboratory_(DOE)&amp;action=edit&amp;redlink=1" class="new" title="Pacific Northwest National Laboratory (DOE) (page does not exist)">Pacific Northwest National Laboratory (DOE)</a> (US)</li>
+<li>POD—<a href="/wiki/Point_of_Delivery" class="mw-redirect" title="Point of Delivery">Point of Delivery</a></li>
+<li>PoE—<a href="/wiki/Power_over_Ethernet" title="Power over Ethernet">Power over Ethernet</a></li>
+<li>POLES—<a href="/w/index.php?title=Prospective_On_Long_Term_Energy_Systems&amp;action=edit&amp;redlink=1" class="new" title="Prospective On Long Term Energy Systems (page does not exist)">Prospective On Long Term Energy Systems</a></li>
+<li>POLR—<a href="/w/index.php?title=Provider_of_last_resort&amp;action=edit&amp;redlink=1" class="new" title="Provider of last resort (page does not exist)">Provider of last resort</a> (electricity)</li>
+<li>PPA—<a href="/wiki/Power_Purchase_Agreement" class="mw-redirect" title="Power Purchase Agreement">Power Purchase Agreement</a> (electricity)</li>
+<li>PPI—<a href="/wiki/Producer_price_index" title="Producer price index">producer price index</a></li>
+<li>ppmv—<a href="/wiki/Parts_Per_Million_by_Volume" class="mw-redirect" title="Parts Per Million by Volume">Parts Per Million by Volume</a></li>
+<li>ppp—<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">Purchasing power parity</a></li>
+<li>PPR—<a href="/w/index.php?title=Potential_peak_reduction&amp;action=edit&amp;redlink=1" class="new" title="Potential peak reduction (page does not exist)">Potential peak reduction</a></li>
+<li>PREP—<a href="/w/index.php?title=Pacific_Regional_Energy_Programme&amp;action=edit&amp;redlink=1" class="new" title="Pacific Regional Energy Programme (page does not exist)">Pacific Regional Energy Programme</a></li>
+<li>PRESSEA—<a href="/w/index.php?title=Promotion_of_Renewable_Energy_Sources_in_South_East&amp;action=edit&amp;redlink=1" class="new" title="Promotion of Renewable Energy Sources in South East (page does not exist)">Promotion of Renewable Energy Sources in South East</a> Asia (PRESSEA)</li>
+<li>Prim—<a href="/w/index.php?title=Primary_(electricity)_nuclear,_hydro,_geothermal,_wind,_solar&amp;action=edit&amp;redlink=1" class="new" title="Primary (electricity) nuclear, hydro, geothermal, wind, solar (page does not exist)">Primary (electricity) nuclear, hydro, geothermal, wind, solar</a></li>
+<li>PSC—<a href="/wiki/Public_utilities_commission" title="Public utilities commission">Public Service Commission</a></li>
+<li>PSD—<a href="/w/index.php?title=Prevention_of_Significant_Deterioration&amp;action=edit&amp;redlink=1" class="new" title="Prevention of Significant Deterioration (page does not exist)">Prevention of Significant Deterioration</a></li>
+<li>PSE—<a href="/wiki/Puget_Sound_Energy" title="Puget Sound Energy">Puget Sound Energy</a> (US) (electricity)</li>
+<li>PTDF—<a href="/w/index.php?title=Power_Transfer_Distribution_Factor&amp;action=edit&amp;redlink=1" class="new" title="Power Transfer Distribution Factor (page does not exist)">Power Transfer Distribution Factor</a> (electricity)</li>
+<li>PTP—<a href="/w/index.php?title=Point_to_Point_Transmission_Service&amp;action=edit&amp;redlink=1" class="new" title="Point to Point Transmission Service (page does not exist)">Point to Point Transmission Service</a> (electricity)</li>
+<li>PUC—<a href="/wiki/Public_Utility_Commission" class="mw-redirect" title="Public Utility Commission">Public Utility Commission</a> (electricity)</li>
+<li>PUD—<a href="/wiki/Public_Utility_District" class="mw-redirect" title="Public Utility District">Public Utility District</a> (electricity)</li>
+<li>PUHCA—<a href="/wiki/Public_Utility_Holding_Company_Act_of_1935" title="Public Utility Holding Company Act of 1935">Public Utility Holding Company Act of 1935</a> (US) (electricity)</li>
+<li>PURPA—<a href="/w/index.php?title=Public_Utility_Regulatory_Policies_Act_of_1978&amp;action=edit&amp;redlink=1" class="new" title="Public Utility Regulatory Policies Act of 1978 (page does not exist)">Public Utility Regulatory Policies Act of 1978</a> (US) (electricity)</li>
+<li>PV—<a href="/wiki/Photovoltaic" class="mw-redirect" title="Photovoltaic">photovoltaic</a> (solar)</li>
+<li>PVC—<a href="/wiki/Photovoltaic_cell" class="mw-redirect" title="Photovoltaic cell">photovoltaic cell</a> (solar)</li>
+<li>PVC—<a href="/wiki/Polyvinyl_chloride" title="Polyvinyl chloride">polyvinyl chloride</a></li>
+<li>PWR—<a href="/wiki/Pressurized_water_reactor" title="Pressurized water reactor">pressurized water reactor</a> (nuclear)</li>
+<li>PX—<a href="/wiki/Electricity_market" title="Electricity market">Power exchange</a></li>
+</ul>
+<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=17" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>QF—<a href="/w/index.php?title=Qualifying_facility&amp;action=edit&amp;redlink=1" class="new" title="Qualifying facility (page does not exist)">qualifying facility</a></li>
+<li>QSE—<a href="/w/index.php?title=Qualifying_scheduling_entity&amp;action=edit&amp;redlink=1" class="new" title="Qualifying scheduling entity (page does not exist)">Qualifying scheduling entity</a></li>
+<li>QUAD—10<sup>15</sup> <a href="/wiki/British_thermal_unit" title="British thermal unit">Btu</a> (a <a href="/wiki/1,000,000,000,000,000" class="mw-redirect" title="1,000,000,000,000,000">quadrillion</a> in the <a href="/wiki/Short_scale" class="mw-redirect" title="Short scale">short scale</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>R/P—<a href="/w/index.php?title=Reserve_on_Production&amp;action=edit&amp;redlink=1" class="new" title="Reserve on Production (page does not exist)">Reserve on Production</a>
+<ul>
+<li>—<a href="/w/index.php?title=Reserves_to_Production&amp;action=edit&amp;redlink=1" class="new" title="Reserves to Production (page does not exist)">Reserves to Production</a></li>
+</ul>
+</li>
+<li>RAB—<a href="/w/index.php?title=Regional_Advisory_Body&amp;action=edit&amp;redlink=1" class="new" title="Regional Advisory Body (page does not exist)">Regional Advisory Body</a> (US)</li>
+<li>RAC—<a href="/w/index.php?title=Refiners%27_acquisition_cost&amp;action=edit&amp;redlink=1" class="new" title="Refiners' acquisition cost (page does not exist)">Refiners' acquisition cost</a></li>
+<li>RAP—<a href="/w/index.php?title=Regulatory_Assistance_Project&amp;action=edit&amp;redlink=1" class="new" title="Regulatory Assistance Project (page does not exist)">Regulatory Assistance Project</a></li>
+<li>RAR—<a href="/w/index.php?title=Reasonable_assured_resources&amp;action=edit&amp;redlink=1" class="new" title="Reasonable assured resources (page does not exist)">Reasonable assured resources</a></li>
+<li>RAS—<a href="/w/index.php?title=Remedial_Action_Scheme&amp;action=edit&amp;redlink=1" class="new" title="Remedial Action Scheme (page does not exist)">Remedial Action Scheme</a></li>
+<li>RATC—<a href="/w/index.php?title=Recallable_Available_Transmission_Capability&amp;action=edit&amp;redlink=1" class="new" title="Recallable Available Transmission Capability (page does not exist)">Recallable Available Transmission Capability</a></li>
+<li>RBMK—Russian: <a href="/wiki/%D0%A0%D0%B5%D0%B0%D0%BA%D1%82%D0%BE%D1%80_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%9C%D0%BE%D1%89%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9" class="mw-redirect" title="Реактор Большой Мощности Канальный">Реактор Большой Мощности Канальный</a> = "High Power Channel Type Reactor" (RU)</li>
+<li>RBOB—<a href="/w/index.php?title=Reformulated_gasoline_blendstock_for_oxygenate_blending&amp;action=edit&amp;redlink=1" class="new" title="Reformulated gasoline blendstock for oxygenate blending (page does not exist)">reformulated gasoline blendstock for oxygenate blending</a></li>
+<li>RC—<a href="/w/index.php?title=Reliability_Coordinator&amp;action=edit&amp;redlink=1" class="new" title="Reliability Coordinator (page does not exist)">Reliability Coordinator</a></li>
+<li>RCIS—<a href="/w/index.php?title=Reliability_Coordinator_Information_System&amp;action=edit&amp;redlink=1" class="new" title="Reliability Coordinator Information System (page does not exist)">Reliability Coordinator Information System</a></li>
+<li>RCRA—<a href="/wiki/Resource_Conservation_and_Recovery_Act" title="Resource Conservation and Recovery Act">Resource Conservation and Recovery Act</a> (US)</li>
+<li>RDF—<a href="/wiki/Refuse_derived_fuel" class="mw-redirect" title="Refuse derived fuel">refuse derived fuel</a> (electricity)</li>
+<li>REA—<a href="/wiki/Rural_Electrification_Administration" class="mw-redirect" title="Rural Electrification Administration">Rural Electrification Administration</a> (US)</li>
+<li>RECS—<a href="/w/index.php?title=Residential_Energy_Consumption_Survey&amp;action=edit&amp;redlink=1" class="new" title="Residential Energy Consumption Survey (page does not exist)">Residential Energy Consumption Survey</a> (US)</li>
+<li>REEEP—<a href="/wiki/Renewable_Energy_and_Energy_Efficiency_Partnership" title="Renewable Energy and Energy Efficiency Partnership">Renewable Energy and Energy Efficiency Partnership</a></li>
+<li>RER—<a href="/w/index.php?title=Renewable_Energy_Rider&amp;action=edit&amp;redlink=1" class="new" title="Renewable Energy Rider (page does not exist)">Renewable Energy Rider</a></li>
+<li>RES—<a href="/wiki/Renewable_energy_source" class="mw-redirect" title="Renewable energy source">Renewable energy source</a></li>
+<li>RET/EE—<a href="/w/index.php?title=IAF_Renewable_Energy_Technology_%26_Energy_Efficiency&amp;action=edit&amp;redlink=1" class="new" title="IAF Renewable Energy Technology &amp; Energy Efficiency (page does not exist)">IAF Renewable Energy Technology &amp; Energy Efficiency</a> Investment Advisory Facility</li>
+<li>RF—<a href="/wiki/Radio_frequency" title="Radio frequency">Radio frequency</a></li>
+<li>RFA—<a href="/wiki/Regulatory_Flexibility_Act" title="Regulatory Flexibility Act">Regulatory Flexibility Act</a> (US)</li>
+<li>RFC—<a href="/w/index.php?title=ReliabilityFirst_Corporation&amp;action=edit&amp;redlink=1" class="new" title="ReliabilityFirst Corporation (page does not exist)">ReliabilityFirst Corporation</a> (US) (electricity)</li>
+<li>RFG—<a href="/wiki/Reformulated_gasoline" class="mw-redirect" title="Reformulated gasoline">reformulated gasoline</a> (oil)</li>
+<li>RFI—<a href="/w/index.php?title=Request_for_Interchange&amp;action=edit&amp;redlink=1" class="new" title="Request for Interchange (page does not exist)">Request for Interchange</a></li>
+<li>RFP—<a href="/wiki/Request_for_proposals" class="mw-redirect" title="Request for proposals">Request for proposals</a></li>
+<li>RGGI—<a href="/wiki/Regional_Greenhouse_Gas_Initiative" title="Regional Greenhouse Gas Initiative">Regional Greenhouse Gas Initiative</a></li>
+<li>RGS—<a href="/w/index.php?title=Renewable_Generating_System&amp;action=edit&amp;redlink=1" class="new" title="Renewable Generating System (page does not exist)">Renewable Generating System</a></li>
+<li>RM—<a href="/wiki/Rulemaking" title="Rulemaking">Rulemaking</a></li>
+<li>RMATS—<a href="/w/index.php?title=Rocky_Mountain_Area_Transmission_Study&amp;action=edit&amp;redlink=1" class="new" title="Rocky Mountain Area Transmission Study (page does not exist)">Rocky Mountain Area Transmission Study</a> (US) (electricity)</li>
+<li>RMR—<a href="/w/index.php?title=Reliability_Must_Run&amp;action=edit&amp;redlink=1" class="new" title="Reliability Must Run (page does not exist)">Reliability Must Run</a> (electricity)</li>
+<li>RMU—<a href="/wiki/Removal_Units" title="Removal Units">Removal Units</a></li>
+<li>ROA—<a href="/w/index.php?title=Return_of_Assets&amp;action=edit&amp;redlink=1" class="new" title="Return of Assets (page does not exist)">Return of Assets</a> (finance)</li>
+<li>ROE—<a href="/w/index.php?title=Return_of_Equity&amp;action=edit&amp;redlink=1" class="new" title="Return of Equity (page does not exist)">Return of Equity</a> (finance)</li>
+<li>ROFR—<a href="/wiki/Right_of_First_Refusal" class="mw-redirect" title="Right of First Refusal">Right of First Refusal</a> (finance)</li>
+<li>ROI—<a href="/wiki/Return_on_Investment" class="mw-redirect" title="Return on Investment">Return on Investment</a></li>
+<li>ROW—<a href="/wiki/Right-of-way_(transportation)" title="Right-of-way (transportation)">Right of Way</a></li>
+<li>RPM—Reliability Pricing Model. See explanation in <a href="/wiki/Electricity_market#Electricity_market_experience" title="Electricity market">electricity market#Electricity market experience</a>. (electricity)</li>
+<li>RRO—<a href="/w/index.php?title=Regional_reliability_organization&amp;action=edit&amp;redlink=1" class="new" title="Regional reliability organization (page does not exist)">Regional reliability organization</a> (US)</li>
+<li>RSE—<a href="/w/index.php?title=Revenue_Stream_Estimate&amp;action=edit&amp;redlink=1" class="new" title="Revenue Stream Estimate (page does not exist)">Revenue Stream Estimate</a> (finance)</li>
+<li>RSE—<a href="/wiki/Relative_standard_error" class="mw-redirect" title="Relative standard error">relative standard error</a></li>
+<li>RTBM—Real-Time Balancing Market (electricity)</li>
+<li>RTEP—<a href="/w/index.php?title=Regional_transmission_expansion_plan&amp;action=edit&amp;redlink=1" class="new" title="Regional transmission expansion plan (page does not exist)">Regional transmission expansion plan</a></li>
+<li>RTG—<a href="/w/index.php?title=Regional_Transmission_Group&amp;action=edit&amp;redlink=1" class="new" title="Regional Transmission Group (page does not exist)">Regional Transmission Group</a> (US)</li>
+<li>RTO—<a href="/wiki/Regional_transmission_organization" class="mw-redirect" title="Regional transmission organization">Regional transmission organization</a> (US)</li>
+<li>RTP—<a href="/w/index.php?title=Real_time_Pricing&amp;action=edit&amp;redlink=1" class="new" title="Real time Pricing (page does not exist)">Real time Pricing</a></li>
+<li>RTU—<a href="/wiki/Remote_Terminal_Unit" class="mw-redirect" title="Remote Terminal Unit">Remote Terminal Unit</a></li>
+<li>RUS—<a href="/wiki/Rural_Utilities_Service" title="Rural Utilities Service">Rural Utilities Service</a></li>
+<li>RVP—<a href="/wiki/Reid_vapor_pressure" title="Reid vapor pressure">Reid vapor pressure</a></li>
+</ul>
+<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>SCADA—<a href="/wiki/Supervisory_control_and_data_acquisition" class="mw-redirect" title="Supervisory control and data acquisition">Supervisory control and data acquisition</a> a remote control and telemetry system used to monitor and control the electrical system</li>
+<li>SCE—<a href="/wiki/Southern_California_Edison" title="Southern California Edison">Southern California Edison</a> (US)</li>
+<li>SCE&amp;G—<a href="/w/index.php?title=South_Carolina_Electric_%26_Gas&amp;action=edit&amp;redlink=1" class="new" title="South Carolina Electric &amp; Gas (page does not exist)">South Carolina Electric &amp; Gas</a> (US)</li>
+<li>scf—<a href="/wiki/Standard_cubic_foot" title="Standard cubic foot">Standard cubic foot</a></li>
+<li>SCO—<a href="/w/index.php?title=Stranded_Cost_Obligation&amp;action=edit&amp;redlink=1" class="new" title="Stranded Cost Obligation (page does not exist)">Stranded Cost Obligation</a> (finance)</li>
+<li>SCR—<a href="/w/index.php?title=Special_Case_Resources_(US-_NYISO_category)&amp;action=edit&amp;redlink=1" class="new" title="Special Case Resources (US- NYISO category) (page does not exist)">Special Case Resources (US- NYISO category)</a></li>
+<li>SCR—<a href="/wiki/Selective_Catalytic_Reduction" class="mw-redirect" title="Selective Catalytic Reduction">Selective Catalytic Reduction</a></li>
+<li>SDG&amp;E—<a href="/wiki/San_Diego_Gas_%26_Electric" title="San Diego Gas &amp; Electric">San Diego Gas &amp; Electric</a> (US)</li>
+<li>SEA—<a href="/wiki/Strategic_Environmental_Assessment" class="mw-redirect" title="Strategic Environmental Assessment">Strategic Environmental Assessment</a></li>
+<li>SEC—<a href="/wiki/Securities_and_Exchange_Commission" class="mw-redirect" title="Securities and Exchange Commission">Securities and Exchange Commission</a> (US)</li>
+<li>SEER—<a href="/wiki/Seasonal_energy_efficiency_ratio" title="Seasonal energy efficiency ratio">seasonal energy efficiency ratio</a></li>
+<li>SEFI—<a href="/wiki/Sustainable_Energy_Finance_Initiative" class="mw-redirect" title="Sustainable Energy Finance Initiative">Sustainable Energy Finance Initiative</a></li>
+<li>SEIA—<a href="/w/index.php?title=Sustainable_Energy_Industry_Association&amp;action=edit&amp;redlink=1" class="new" title="Sustainable Energy Industry Association (page does not exist)">Sustainable Energy Industry Association</a></li>
+<li>SERC—<a href="/w/index.php?title=Southeastern_Electric_Reliability_Council&amp;action=edit&amp;redlink=1" class="new" title="Southeastern Electric Reliability Council (page does not exist)">Southeastern Electric Reliability Council</a> (US)</li>
+<li>SF<sub>6</sub>—<a href="/wiki/Sulfur_hexafluoride" title="Sulfur hexafluoride">sulfur hexafluoride</a></li>
+<li>SFC—<a href="/wiki/Solid_oxide_fuel_cell" title="Solid oxide fuel cell">Solid oxide fuel cell</a> (transportation)</li>
+<li>SFEIS—<a href="/w/index.php?title=Supplemental_Final_Environmental_Impact_Statement&amp;action=edit&amp;redlink=1" class="new" title="Supplemental Final Environmental Impact Statement (page does not exist)">Supplemental Final Environmental Impact Statement</a> (US)</li>
+<li>SFV—<a href="/w/index.php?title=Straight_Fixed_Variable&amp;action=edit&amp;redlink=1" class="new" title="Straight Fixed Variable (page does not exist)">Straight Fixed Variable</a></li>
+<li>SGR—<a href="/w/index.php?title=State_game_refuge&amp;action=edit&amp;redlink=1" class="new" title="State game refuge (page does not exist)">State game refuge</a> (US)</li>
+<li>SHPO—<a href="/wiki/State_Historic_Preservation_Office" class="mw-redirect" title="State Historic Preservation Office">State Historic Preservation Office</a> (US)</li>
+<li>SI—<a href="/w/index.php?title=International_System_of_Units_(Syst%C3%A8me_international_d%27unit%C3%A9s)&amp;action=edit&amp;redlink=1" class="new" title="International System of Units (Système international d'unités) (page does not exist)">International System of Units (Système international d'unités)</a></li>
+<li>SIC—<a href="/wiki/Standard_Industrial_Classification" title="Standard Industrial Classification">Standard Industrial Classification</a></li>
+<li>SMPs—<a href="/w/index.php?title=Special_Marketing_Programs&amp;action=edit&amp;redlink=1" class="new" title="Special Marketing Programs (page does not exist)">Special Marketing Programs</a></li>
+<li>SNG—<a href="/w/index.php?title=Synthetic_Natural_Gas_or_Substitute_Natural_Gas&amp;action=edit&amp;redlink=1" class="new" title="Synthetic Natural Gas or Substitute Natural Gas (page does not exist)">Synthetic Natural Gas or Substitute Natural Gas</a></li>
+<li>SO<sub>2</sub>—<a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a></li>
+<li>SOL—<a href="/w/index.php?title=System_Operating_Limit&amp;action=edit&amp;redlink=1" class="new" title="System Operating Limit (page does not exist)">System Operating Limit</a></li>
+<li>SPCC—<a href="/w/index.php?title=Spill_Prevention,_Containment_and_Countermeasure_Plan&amp;action=edit&amp;redlink=1" class="new" title="Spill Prevention, Containment and Countermeasure Plan (page does not exist)">Spill Prevention, Containment and Countermeasure Plan</a>
+<ul>
+<li>SPM—Synchronized phasor measurement- a WAMS network with <a href="/wiki/Synchrophasor" class="mw-redirect" title="Synchrophasor">synchrophasor</a> sensors (PMUs). (electricity)</li>
+</ul>
+</li>
+<li>SPP—<a href="/wiki/Southwest_Power_Pool" title="Southwest Power Pool">Southwest Power Pool</a> Inc., a <a href="/wiki/Regional_transmission_organization" class="mw-redirect" title="Regional transmission organization">regional transmission organization</a> (US)
+<ul>
+<li>—<a href="/w/index.php?title=Statewide_Pricing_Pilot_(US-California)&amp;action=edit&amp;redlink=1" class="new" title="Statewide Pricing Pilot (US-California) (page does not exist)">Statewide Pricing Pilot (US-California)</a></li>
+<li>—<a href="/wiki/Small_power_producer" class="mw-redirect" title="Small power producer">Small power producer</a> (electricity)</li>
+</ul>
+</li>
+<li>SPR—<a href="/wiki/Strategic_Petroleum_Reserve_(United_States)" title="Strategic Petroleum Reserve (United States)">Strategic Petroleum Reserve</a> (US)</li>
+<li>SPS—<a href="/w/index.php?title=Special_Protection_System&amp;action=edit&amp;redlink=1" class="new" title="Special Protection System (page does not exist)">Special Protection System</a></li>
+<li>SR—<a href="/w/index.php?title=Speculative_resources&amp;action=edit&amp;redlink=1" class="new" title="Speculative resources (page does not exist)">Speculative resources</a> For example, regarding uranium deposits. (nuclear)</li>
+<li>SRP—<a href="/w/index.php?title=Salt_River_Agricultural_Improvement_%26_Power_District&amp;action=edit&amp;redlink=1" class="new" title="Salt River Agricultural Improvement &amp; Power District (page does not exist)">Salt River Agricultural Improvement &amp; Power District</a> (US) (electricity)</li>
+<li>SSG—<a href="/w/index.php?title=WI_PWG_Seams_Steering_Group_of_Western_Interconnection_Planning&amp;action=edit&amp;redlink=1" class="new" title="WI PWG Seams Steering Group of Western Interconnection Planning (page does not exist)">WI PWG Seams Steering Group of Western Interconnection Planning</a>Work Group (US) (electricity)</li>
+<li>SSM—Synchronized system measurement-a WAMS with synchronous sensors in addition to PMUs. See <a href="/wiki/Phasor_measurement_unit#Phasor_networks" title="Phasor measurement unit">Phasor networks</a>.</li>
+<li>STEP—<a href="/w/index.php?title=Southwest_Transmission_Expansion_Plan_group&amp;action=edit&amp;redlink=1" class="new" title="Southwest Transmission Expansion Plan group (page does not exist)">Southwest Transmission Expansion Plan group</a> (US) (electricity)</li>
+<li>SVC—<a href="/wiki/Static_VAR_compensator" title="Static VAR compensator">Static VAR compensator</a> (electricity)</li>
+<li>SWAT—<a href="/w/index.php?title=Southwest_Area_Transmission&amp;action=edit&amp;redlink=1" class="new" title="Southwest Area Transmission (page does not exist)">Southwest Area Transmission</a> (US) (electricity)</li>
+<li>SWU—<a href="/wiki/Separative_work_unit" class="mw-redirect" title="Separative work unit">Separative work unit</a></li>
+</ul>
+<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>TAME—<a href="/wiki/Tertiary_amyl_methyl_ether" class="mw-redirect" title="Tertiary amyl methyl ether">Tertiary amyl methyl ether</a></li>
+<li>TAPS—<a href="/wiki/Trans-Alaska_Pipeline_System" title="Trans-Alaska Pipeline System">Trans-Alaska Pipeline System</a> (natural gas)</li>
+<li>TBA—<a href="/wiki/Tertiary_butyl_alcohol" class="mw-redirect" title="Tertiary butyl alcohol">tertiary butyl alcohol</a></li>
+<li>TBL—<a href="/w/index.php?title=Transmission_business_line&amp;action=edit&amp;redlink=1" class="new" title="Transmission business line (page does not exist)">Transmission business line</a> (electricity)</li>
+<li>TBS—<a href="/w/index.php?title=Town_border_station&amp;action=edit&amp;redlink=1" class="new" title="Town border station (page does not exist)">Town border station</a></li>
+<li>Tcf—Trillion <a href="/wiki/Cubic_feet" class="mw-redirect" title="Cubic feet">cubic feet</a> (measurement)</li>
+<li>TCR—<a href="/w/index.php?title=Transition_Cost_Recovery_(Mechanism)&amp;action=edit&amp;redlink=1" class="new" title="Transition Cost Recovery (Mechanism) (page does not exist)">Transition Cost Recovery (Mechanism)</a></li>
+<li>TDU—<a href="/w/index.php?title=Transmission_Dependent_Utility&amp;action=edit&amp;redlink=1" class="new" title="Transmission Dependent Utility (page does not exist)">Transmission Dependent Utility</a> (electricity)</li>
+<li>TEFRA—<a href="/w/index.php?title=Tax_Equity_and_Fiscal_Responsibility_Act_of_1985&amp;action=edit&amp;redlink=1" class="new" title="Tax Equity and Fiscal Responsibility Act of 1985 (page does not exist)">Tax Equity and Fiscal Responsibility Act of 1985</a></li>
+<li>TEN—<a href="/wiki/Trans-European_Networks" title="Trans-European Networks">Trans-European Networks</a> (electricity)</li>
+<li>TLR—<a href="/w/index.php?title=Procedures_Transmission_Line_Loading_Relief_Procedures&amp;action=edit&amp;redlink=1" class="new" title="Procedures Transmission Line Loading Relief Procedures (page does not exist)">Procedures Transmission Line Loading Relief Procedures</a> (electricity)</li>
+<li>TO—<a href="/w/index.php?title=Transmission_owner&amp;action=edit&amp;redlink=1" class="new" title="Transmission owner (page does not exist)">Transmission owner</a> (electricity)</li>
+<li>toe—<a href="/wiki/Ton_of_oil_equivalent" class="mw-redirect" title="Ton of oil equivalent">Ton of oil equivalent</a> (EU)</li>
+<li>TOP—<a href="/w/index.php?title=Transmission_Operator&amp;action=edit&amp;redlink=1" class="new" title="Transmission Operator (page does not exist)">Transmission Operator</a> (electricity)</li>
+<li>TOU—<a href="/w/index.php?title=Time_of_use_(rate)&amp;action=edit&amp;redlink=1" class="new" title="Time of use (rate) (page does not exist)">Time of use (rate)</a> (electricity)</li>
+<li>Transco—<a href="/w/index.php?title=Transmission_Company&amp;action=edit&amp;redlink=1" class="new" title="Transmission Company (page does not exist)">Transmission Company</a> (US) (electricity)
+<ul>
+<li>—<a href="/wiki/Transcontinental_Pipeline" title="Transcontinental Pipeline">Transcontinental Pipeline</a> (US) (natural gas)</li>
+<li>—<a href="/wiki/National_Transmission_Corporation" title="National Transmission Corporation">National Transmission Corporation</a> (Philippines)</li>
+</ul>
+</li>
+<li>TRM—<a href="/w/index.php?title=Transmission_Reliability_Margin&amp;action=edit&amp;redlink=1" class="new" title="Transmission Reliability Margin (page does not exist)">Transmission Reliability Margin</a> (electricity)</li>
+<li>TSO—<a href="/wiki/Transmission_System_Operator" class="mw-redirect" title="Transmission System Operator">Transmission System Operator</a>) (electricity)</li>
+<li>TSR—<a href="/wiki/Transmission_Service_Request" title="Transmission Service Request">Transmission Service Request</a> (electricity)</li>
+<li>TTC—<a href="/w/index.php?title=Total_Transfer_Capability&amp;action=edit&amp;redlink=1" class="new" title="Total Transfer Capability (page does not exist)">Total Transfer Capability</a> (electricity)</li>
+<li>TVA—<a href="/wiki/Tennessee_Valley_Authority" title="Tennessee Valley Authority">Tennessee Valley Authority</a> (US) (electricity)</li>
+<li>TW—<a href="/wiki/Terawatt" class="mw-redirect" title="Terawatt">terawatt</a> (one trillion watts) (measurement)</li>
+<li>TWH—<a href="/wiki/Terawatt-hour" class="mw-redirect" title="Terawatt-hour">terawatt-hour</a> (one trillion watt hours)</li>
+<li>T&amp;D—<a href="/w/index.php?title=Transmission_%26_Distribution&amp;action=edit&amp;redlink=1" class="new" title="Transmission &amp; Distribution (page does not exist)">Transmission &amp; Distribution</a></li>
+</ul>
+<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=21" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>U.S.C.—<a href="/wiki/United_States_Code" title="United States Code">United States Code</a></li>
+<li>U<sub>3</sub>O<sub>8</sub>—<a href="/wiki/Triuranium_octaoxide" class="mw-redirect" title="Triuranium octaoxide">triuranium octaoxide</a> (nuclear)</li>
+<li>UAE—<a href="/wiki/United_Arab_Emirates" title="United Arab Emirates">United Arab Emirates</a> (oil)</li>
+<li>UCAP—Unforced Capacity (electricity)</li>
+<li>UCTE—<a href="/w/index.php?title=Union_for_the_Coordination_of_the_Transport_of_Electricity&amp;action=edit&amp;redlink=1" class="new" title="Union for the Coordination of the Transport of Electricity (page does not exist)">Union for the Coordination of the Transport of Electricity</a>, the power transmission system of continental Europe</li>
+<li>UF<sub>6</sub>—<a href="/wiki/Uranium_hexaflouride" class="mw-redirect" title="Uranium hexaflouride">uranium hexaflouride</a> (nuclear)</li>
+<li>UFLS—<a href="/w/index.php?title=Under_frequency_load_shedding&amp;action=edit&amp;redlink=1" class="new" title="Under frequency load shedding (page does not exist)">Under frequency load shedding</a> (electricity)</li>
+<li>UHVAC—<a href="/w/index.php?title=Ultra_High_Voltage_Alternating_Current&amp;action=edit&amp;redlink=1" class="new" title="Ultra High Voltage Alternating Current (page does not exist)">Ultra High Voltage Alternating Current</a> (electricity)</li>
+<li>UHVDC—<a href="/w/index.php?title=Ultra_High_Voltage_Direct_Current&amp;action=edit&amp;redlink=1" class="new" title="Ultra High Voltage Direct Current (page does not exist)">Ultra High Voltage Direct Current</a> (electricity)</li>
+<li>ULCC—<a href="/wiki/Ultra_Large_Crude_Carrier" class="mw-redirect" title="Ultra Large Crude Carrier">Ultra Large Crude Carrier</a> (oil)</li>
+<li>UMTRA—<a href="/w/index.php?title=Uranium_Mill_Tailings_Radiation_Control_Act_of_1978&amp;action=edit&amp;redlink=1" class="new" title="Uranium Mill Tailings Radiation Control Act of 1978 (page does not exist)">Uranium Mill Tailings Radiation Control Act of 1978</a> (US)</li>
+<li>UNCCD—<a href="/wiki/United_Nations_Convention_to_Combat_Desertification" title="United Nations Convention to Combat Desertification">United Nations Convention to Combat Desertification</a></li>
+<li>UNDESA—<a href="/wiki/UN_Department_of_Economic_and_Social_Affairs" class="mw-redirect" title="UN Department of Economic and Social Affairs">UN Department of Economic and Social Affairs</a></li>
+<li>UNDP—<a href="/wiki/United_Nations_Development_Programme" title="United Nations Development Programme">United Nations Development Programme</a></li>
+<li>UNDP—<a href="/wiki/United_Nations_Development_Programme" title="United Nations Development Programme">United Nations Development Programme</a></li>
+<li>UNECE—<a href="/wiki/United_Nations_Economic_Commission_for_Europe" title="United Nations Economic Commission for Europe">United Nations Economic Commission for Europe</a></li>
+<li>UNEP—<a href="/wiki/United_Nations_Environment_Programme" title="United Nations Environment Programme">United Nations Environment Programme</a></li>
+<li>UNFCCC—<a href="/w/index.php?title=United_Nations_Framework_Convention_on_Climate&amp;action=edit&amp;redlink=1" class="new" title="United Nations Framework Convention on Climate (page does not exist)">United Nations Framework Convention on Climate</a> Change</li>
+<li>UO<sub>2</sub>—<a href="/wiki/Uranium_dioxide" title="Uranium dioxide">uranium dioxide</a> (nuclear)</li>
+<li>UO<sub>3</sub>—<a href="/wiki/Uranium_trioxide" title="Uranium trioxide">uranium trioxide</a> (nuclear)</li>
+<li>UO<sub>4</sub>—<a href="/wiki/Uranyl_peroxide" title="Uranyl peroxide">uranyl peroxide</a> (nuclear)</li>
+<li>UOX—<a href="/wiki/Uranium_oxide" title="Uranium oxide">uranium oxide</a> (nuclear)</li>
+<li>URR—<a href="/w/index.php?title=Ultimate_Recoverable_Resources&amp;action=edit&amp;redlink=1" class="new" title="Ultimate Recoverable Resources (page does not exist)">Ultimate Recoverable Resources</a></li>
+<li>USBR—<a href="/wiki/United_States_Bureau_of_Reclamation" title="United States Bureau of Reclamation">United States Bureau of Reclamation</a></li>
+<li>USCE—<a href="/wiki/United_States_Army_Corps_of_Engineers" title="United States Army Corps of Engineers">United States Army Corps of Engineers</a></li>
+<li>US DOE—<a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">United States Department of Energy</a></li>
+<li>USGS—<a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">United States Geological Survey</a></li>
+<li>UVLS—<a href="/w/index.php?title=Under_voltage_load_shedding&amp;action=edit&amp;redlink=1" class="new" title="Under voltage load shedding (page does not exist)">Under voltage load shedding</a> (electricity)</li>
+</ul>
+<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=22" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>V—<a href="/wiki/Volt" title="Volt">Volt</a> (measurement)</li>
+<li>VA—<a href="/wiki/Volt-ampere" title="Volt-ampere">Volt-ampere</a> (measurement)</li>
+<li>var—<a href="/wiki/Volt-ampere_reactive" title="Volt-ampere reactive">Volt-ampere reactive</a> (measurement)</li>
+<li>VAWT—<a href="/wiki/Vertical_axis_wind_turbine" title="Vertical axis wind turbine">vertical axis wind turbine</a> (wind)</li>
+<li>VIN—<a href="/wiki/Vehicle_identification_number" title="Vehicle identification number">vehicle identification number</a> (US) (transportation)</li>
+<li>VLCC—<a href="/wiki/Very_large_crude_carrier" class="mw-redirect" title="Very large crude carrier">very large crude carrier</a> (oil)</li>
+<li>VMT—<a href="/wiki/Vehicle_miles_traveled" class="mw-redirect" title="Vehicle miles traveled">vehicle miles traveled</a> (transportation)</li>
+<li>VOC—<a href="/wiki/Volatile_organic_compound" title="Volatile organic compound">volatile organic compound</a></li>
+<li>VPP—<a href="/w/index.php?title=Variable_peak_pricing&amp;action=edit&amp;redlink=1" class="new" title="Variable peak pricing (page does not exist)">Variable peak pricing</a> (electricity)</li>
+<li>VSA—<a href="/w/index.php?title=Voltage_stability_analysis&amp;action=edit&amp;redlink=1" class="new" title="Voltage stability analysis (page does not exist)">Voltage stability analysis</a></li>
+</ul>
+<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=23" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>W—<a href="/wiki/Watt" title="Watt">Watt</a></li>
+<li>WACOG—<a href="/w/index.php?title=Weighted_average_cost_of_gas&amp;action=edit&amp;redlink=1" class="new" title="Weighted average cost of gas (page does not exist)">weighted average cost of gas</a></li>
+<li>WAMS—<a href="/w/index.php?title=Wide_area_measurement_system&amp;action=edit&amp;redlink=1" class="new" title="Wide area measurement system (page does not exist)">Wide area measurement system</a>- see description in <a href="/wiki/Phasor_measurement_unit" title="Phasor measurement unit">phasor measurement unit</a> article. (electricity)</li>
+<li>WCMC—<a href="/wiki/World_Conservation_Monitoring_Centre" title="World Conservation Monitoring Centre">World Conservation Monitoring Centre</a></li>
+<li>WCRE—<a href="/w/index.php?title=World_Commission_on_Renewable_Energy&amp;action=edit&amp;redlink=1" class="new" title="World Commission on Renewable Energy (page does not exist)">World Commission on Renewable Energy</a></li>
+<li>WEA—<a href="/w/index.php?title=World_Energy_Assessment&amp;action=edit&amp;redlink=1" class="new" title="World Energy Assessment (page does not exist)">World Energy Assessment</a></li>
+<li>WEC—<a href="/wiki/World_Energy_Council" title="World Energy Council">World Energy Council</a></li>
+<li>WECC—<a href="/wiki/Western_Electricity_Coordinating_Council" title="Western Electricity Coordinating Council">Western Electricity Coordinating Council</a> (US)</li>
+<li>WEEA—<a href="/w/index.php?title=World_Energy_Efficiency_Organization&amp;action=edit&amp;redlink=1" class="new" title="World Energy Efficiency Organization (page does not exist)">World Energy Efficiency Organization</a></li>
+<li>WH—<a href="/wiki/Watthour" class="mw-redirect" title="Watthour">watthour</a> (measurement)</li>
+<li>WHO—<a href="/wiki/World_Health_Organisation" class="mw-redirect" title="World Health Organisation">World Health Organisation</a></li>
+<li>WIRAB—<a href="/w/index.php?title=Western_Interconnection_Regional_Advisory_Body&amp;action=edit&amp;redlink=1" class="new" title="Western Interconnection Regional Advisory Body (page does not exist)">Western Interconnection Regional Advisory Body</a> (US)</li>
+<li>WRI—<a href="/wiki/World_Resources_Institute" title="World Resources Institute">World Resources Institute</a></li>
+<li>WSCC—<a href="/w/index.php?title=Western_Systems_Coordinating_Council&amp;action=edit&amp;redlink=1" class="new" title="Western Systems Coordinating Council (page does not exist)">Western Systems Coordinating Council</a> (US)</li>
+<li>WSPP—<a href="/wiki/Western_Systems_Power_Pool" title="Western Systems Power Pool">Western Systems Power Pool</a> (US)</li>
+<li>WSSD—<a href="/wiki/World_Summit_on_Sustainable_Development" class="mw-redirect" title="World Summit on Sustainable Development">World Summit on Sustainable Development</a></li>
+<li>WTG—<a href="/w/index.php?title=Wind_turbine_generator&amp;action=edit&amp;redlink=1" class="new" title="Wind turbine generator (page does not exist)">Wind turbine generator</a> (wind)</li>
+<li>WTI—<a href="/wiki/West_Texas_Intermediate" title="West Texas Intermediate">West Texas Intermediate</a> (US)</li>
+<li>WTP—<a href="/wiki/Willingness_to_pay" title="Willingness to pay">Willingness to pay</a></li>
+<li>WY—<a href="/w/index.php?title=Water_Year&amp;action=edit&amp;redlink=1" class="new" title="Water Year (page does not exist)">Water Year</a> (measurement)</li>
+</ul>
+<h2><span class="mw-headline" id="Appendix:_Residential_energy_acronyms">Appendix: Residential energy acronyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=24" title="Edit section: Appendix: Residential energy acronyms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following table lists a number of terms that are used in the United States for residential energy audits.</p>
+<ul>
+<li>AFUE—annual fuel utilization efficiency</li>
+<li>BTL—building tightness limit (building tightness)</li>
+<li>CDH—cooling degree hours (climate)</li>
+<li>CFL—compact fluorescent light</li>
+<li>COP—coefficient of performance</li>
+<li>CRI—color rendering index</li>
+<li>EEM—Energy Efficient Mortgage</li>
+<li>EER—energy efficiency ratio</li>
+<li>EF—energy factor (clothes washers)</li>
+<li>EIM—Energy Improvement Mortgage</li>
+<li>ERV—<a href="/wiki/Energy_recovery_ventilation" title="Energy recovery ventilation">energy-recovery ventilator</a></li>
+<li>HDD—heating degree day</li>
+<li>HHI—home heating index</li>
+<li>HID—high-intensity discharge</li>
+<li>HRV—heat-recovery ventilator</li>
+<li>HSPF—heating seasonal performance factor</li>
+<li>HVI—Home Ventilating Institute</li>
+<li>IECC—International Energy Conservation Code</li>
+<li>K-value—thermal conductance</li>
+<li>Low-e—low emissivity</li>
+<li>LEED—<a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">Leadership in Energy and Environmental Design</a>, standard for Green Building design</li>
+<li>MEF—modified energy factor (clothes washers)</li>
+<li>MINHERS—Mortgage Industry National Home Energy Rating Systems Standards</li>
+<li>MVG—minimum ventilation guideline (building tightness)</li>
+<li>MVL—minimum ventilation level (building tightness)</li>
+<li>NAECA—<a href="/wiki/National_Appliance_Energy_Conservation_Act" title="National Appliance Energy Conservation Act">National Appliance Energy Conservation Act</a></li>
+<li>ODS—oxygen depletion sensor</li>
+<li>RESNET—Residential energy services network</li>
+<li>R-value—thermal resistance</li>
+<li>SC—shading coefficient (windows)</li>
+<li>SEER—seasonal E efficiency ratio</li>
+<li>SHGC—solar heat gain coefficient</li>
+<li>SIR—savings-to-investment ratio (energy conservation investments)</li>
+<li>SLA—Specific leakage area</li>
+<li>SPB—Simple Payback (energy conservation investments)</li>
+<li>SSE—steady-state efficiency</li>
+<li>U-value—thermal transmittance (also called U-factor)</li>
+<li>WF—water factor (clothes washers)</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=25" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124"></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Lists_of_abbreviations" title="Lists of abbreviations">Lists of abbreviations</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=26" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;"></div>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_energy_abbreviations&amp;action=edit&amp;section=27" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.all-acronyms.com/cat/1">"Technology Acronyms and Abbreviations"</a>. All Acronyms<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Technology+Acronyms+and+Abbreviations&amp;rft.pub=All+Acronyms&amp;rft_id=http%3A%2F%2Fwww.all-acronyms.com%2Fcat%2F1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+energy+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eia.doe.gov/a-z_index/a-z_abbrev.html">"Energy Information Agency list of acronyms"</a>. <a href="/wiki/Energy_Information_Administration" title="Energy Information Administration">Energy Information Administration</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Energy+Information+Agency+list+of+acronyms&amp;rft.pub=Energy+Information+Administration&amp;rft_id=http%3A%2F%2Fwww.eia.doe.gov%2Fa-z_index%2Fa-z_abbrev.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+energy+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ferc.gov/help/acronyms.asp">"Federal energy regulatory commission- Help- acronyms"</a>. <a href="/wiki/Federal_Energy_Regulatory_Commission" title="Federal Energy Regulatory Commission">Federal Energy Regulatory Commission</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Federal+energy+regulatory+commission-+Help-+acronyms&amp;rft.pub=Federal+Energy+Regulatory+Commission&amp;rft_id=http%3A%2F%2Fwww.ferc.gov%2Fhelp%2Facronyms.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+energy+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://ec.europa.eu/research/energy/pdf/weto-definition.pdf">"World energy, technology and climate policy outlook- list of acronyms"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/European_Commission" title="European Commission">European Commission</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=World+energy%2C+technology+and+climate+policy+outlook-+list+of+acronyms&amp;rft.pub=European+Commission&amp;rft_id=http%3A%2F%2Fec.europa.eu%2Fresearch%2Fenergy%2Fpdf%2Fweto-definition.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+energy+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://ie.jrc.ec.europa.eu/downloads/file.php?id=78">"Distributed Power Generation in Europe: technical issues for further integration- list of acronyms"</a> <span style="font-size:85%;">(pdf)</span>. <a href="/wiki/European_Commission" title="European Commission">European Commission</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Distributed+Power+Generation+in+Europe%3A+technical+issues+for+further+integration-+list+of+acronyms&amp;rft.pub=European+Commission&amp;rft_id=http%3A%2F%2Fie.jrc.ec.europa.eu%2Fdownloads%2Ffile.php%3Fid%3D78&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+energy+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&nbsp;Dead link since January 2018">permanent dead link</span></a></i>]</span></sup></li>
+</ul>
+
+
+<!--
+NewPP limit report
+Parsed by mw1267
+Cached time: 20180515144954
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.180 seconds
+Real time usage: 0.247 seconds
+Preprocessor visited node count: 1240/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 11322/2097152 bytes
+Template argument size: 794/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.047/10.000 seconds
+Lua memory usage: 2.61 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  122.491      1 -total
+ 39.58%   48.485      5 Template:Cite_web
+ 29.68%   36.353      1 Template:Dead_link
+ 25.20%   30.873      1 Template:Fix
+ 22.95%   28.107      2 Template:Category_handler
+ 14.50%   17.762      1 Template:Portal
+  8.63%   10.565      1 Template:Alphanumeric_TOC
+  5.77%    7.066      1 Template:Reflist
+  2.48%    3.040      1 Template:TOC_top
+  2.38%    2.910      1 Template:Fix/category
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20478586-0!canonical and timestamp 20180515144954 and revision id 826297390
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"></noscript></div>

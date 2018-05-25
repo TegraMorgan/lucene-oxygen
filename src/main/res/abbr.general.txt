@@ -1,0 +1,1323 @@
+<div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tbody><tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_classical_abbreviations&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(March 2008)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</tbody></table>
+<table class="plainlinks metadata ambox ambox-move" role="presentation">
+<tbody><tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/50px-Merge-arrows.svg.png" width="50" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/75px-Merge-arrows.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/100px-Merge-arrows.svg.png 2x" data-file-width="50" data-file-height="20"></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">It has been suggested that this article be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a> with <i><a href="/wiki/List_of_Latin_abbreviations" title="List of Latin abbreviations">List of Latin abbreviations</a></i>. (<a href="/wiki/Talk:List_of_classical_abbreviations" title="Talk:List of classical abbreviations">Discuss</a>) <small><i>Proposed since July 2017.</i></small></div>
+</td>
+</tr>
+</tbody></table>
+<p>The following list contains a selection from the <b><a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a> abbreviations</b> that occur in the writings and inscriptions of the <a href="/wiki/Ancient_Rome" title="Ancient Rome">Romans</a>.<sup id="cite_ref-FOOTNOTE''EB''1878_1-0" class="reference"><a href="#cite_note-FOOTNOTE''EB''1878-1">[1]</a></sup><sup id="cite_ref-FOOTNOTE''EB''1911_2-0" class="reference"><a href="#cite_note-FOOTNOTE''EB''1911-2">[2]</a></sup></p>
+<div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="text-align:left;">
+<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents:&nbsp;</span></div>
+<div style="margin:auto;white-space:nowrap;display:inline-block;">
+<ul>
+<li><a href="#top">Top</a></li>
+<li><a href="#A">A</a></li>
+<li><a href="#B">B</a></li>
+<li><a href="#C">C</a></li>
+<li><a href="#D">D</a></li>
+<li><a href="#E">E</a></li>
+<li><a href="#F">F</a></li>
+<li><a href="#G">G</a></li>
+<li><a href="#H">H</a></li>
+<li><a href="#I">I</a></li>
+<li><a href="#J">J</a></li>
+<li><a href="#K">K</a></li>
+<li><a href="#L">L</a></li>
+<li><a href="#M">M</a></li>
+<li><a href="#N">N</a></li>
+<li><a href="#O">O</a></li>
+<li><a href="#P">P</a></li>
+<li><a href="#Q">Q</a></li>
+<li><a href="#R">R</a></li>
+<li><a href="#S">S</a></li>
+<li><a href="#T">T</a></li>
+<li><a href="#U">U</a></li>
+<li><a href="#V">V</a></li>
+<li><a href="#W">W</a></li>
+<li><a href="#X">X</a></li>
+<li><a href="#Y">Y</a></li>
+<li><a href="#Z">Z</a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>A.</b> -- <i>Absolvo, Actum, Aedilis, Aes, Aedilis, Ager, Ago, Aio, Amicus, Annus, Antiquo, Auctor, Auditor, Augustus, Aulus, Aurum, Aut.</i><sup id="cite_ref-LatAcr_3-0" class="reference"><a href="#cite_note-LatAcr-3">[3]</a></sup></li>
+<li><b>A.A.</b> -- <i>Aes alienum, Ante audita, Apud agrum, Aurum argentum.</i></li>
+<li><b>AA.</b> -- <i>Augusti duo.</i><sup id="cite_ref-LatAcr_3-1" class="reference"><a href="#cite_note-LatAcr-3">[3]</a></sup></li>
+<li><b>AAA.</b> -- <i>Augusti tres.</i></li>
+<li><b>A.A.A.F.F.</b> -- <i>Auro argento aere flando feriundo.</i> or <i>Aere Argento Auro Flando Feriundo.</i><sup id="cite_ref-LatAcr_3-2" class="reference"><a href="#cite_note-LatAcr-3">[3]</a></sup></li>
+<li><b>A.A.V.</b> -- <i>Alter ambove</i>.</li>
+<li><b>A.C.</b> -- <i>Acta causa, Alius civis.</i></li>
+<li><b>A.D.</b> -- <i>Ante diem</i></li>
+<li><b>A.D.V.</b> -- <i>Ante diem quintum.</i></li>
+<li><b>A.D.A.</b> -- <i>Ad dandos agros.</i></li>
+<li><b>AEO.</b> -- <i>Aedes, Aedilis, Aedilitas.</i></li>
+<li><b>AEM., AIM.</b> -- <i>Aemilius, Aemilia.</i></li>
+<li><b>AER.</b> -- <i>Aerarium.</i></li>
+<li><b>AER.P.</b> -- <i>Aere publico.</i></li>
+<li><b>A.F.</b> -- <i>Acture fide, Auli filius.</i></li>
+<li><b>AG.</b> -- <i>Ager, Ago, Agrippa.</i></li>
+<li><b>A.G.</b> -- <i>Ammo grato, Aulus Gellius.</i></li>
+<li><b>A.L.AE., A.L.E.</b> -- <i>Arbitrium litis aestimandae.</i></li>
+<li><b>A.M., A.MILL.</b> -- <i>Ad milliarium.</i> <i>Ante Meridian.</i></li>
+<li><b>AN.</b> -- <i>Aniensis, Annus, Ante.</i></li>
+<li><b>ANN.</b> -- <i>Annales, Anni, Annona.</i></li>
+<li><b>ANT.</b> -- <i>Ante, Antonius.</i></li>
+<li><b>A.O.</b> -- <i>Alii omnes, Amico optimo.</i></li>
+<li><b>AP.</b> -- <i>Atppius, <a href="https://en.wiktionary.org/wiki/apud" class="extiw" title="wikt:apud">Apud</a>.</i></li>
+<li><b>A.P.</b> -- <i>Ad pedes, Aedilitia potestate.</i></li>
+<li><b>A.P.F.</b> -- <i>Auro</i> (or <i>argento</i>) <i>publico feriundo.</i></li>
+<li><b>A.P.M.</b> -- <i>Amico posuit monumentum, Annorum plus minus.</i></li>
+<li><b>A.P.R.C.</b> -- <i>Anno post Romam conditam.</i></li>
+<li><b>ARG.</b> -- <i>Argentum.</i></li>
+<li><b>AR.V.V.D.D.</b> -- <i>Aram votam volens dedicavit, Arma votiva dono dedit.</i></li>
+<li><b>AT, A TE., A TER.</b> -- <i>A tergo.</i></li>
+<li><b>A.T.M.D.O.</b> -- <i>Aio te mihi dare oportere.</i></li>
+<li><b>AV.</b> -- <i>Augur, Augustus, Aurelius.</i></li>
+<li><b>A.V.</b> -- <i>Annos vixit.</i></li>
+<li><b>A.V.C.</b> -- <i>Ab urbe condita.</i></li>
+<li><b>AVG.</b> -- <i>Augur, Augustus.</i></li>
+<li><b>AVGG.</b> -- <i>Augusti duo</i><sup id="cite_ref-LatAcr_3-3" class="reference"><a href="#cite_note-LatAcr-3">[3]</a></sup></li>
+<li><b>AVGGG.</b> -- <i>Augusti tres.</i></li>
+<li><b>AVT.PR.R.</b> -- <i>Auctoritas provinciae Romanorum.</i></li>
+<li><b>A.</b> -- <i>Absolvo, Aedilis, Aes, Ager, Ago, Aio, Amicus, Annus, Antiquo, Auctor, Auditor, <a href="/w/index.php?title=Augustus_(cognomen)&amp;action=edit&amp;redlink=1" class="new" title="Augustus (cognomen) (page does not exist)">Augustus</a>, Aulus, Aurum, Aut.</i></li>
+<li><b>A.A.</b> -- <i>Aes alienum, Ante audita, Apud agrum, Aurum argentum.</i></li>
+<li><b>AA.</b> -- <i>Augusti.</i></li>
+<li><b>AAA., AAAGGG</b> -- <i>Augusti tres.</i></li>
+<li><b>A.A.A.F.F.</b> -- <i>Auro argento acre flando feriundo.</i></li>
+<li><b>A.A.V.</b> -- <i>Alter ambove</i>.</li>
+<li><b>A.B.</b> -- <i>Artium Baccalaureus</i> ("Bachelor of Arts")</li>
+<li><b>Ab.</b> -- <i>Abbas</i> ("Abbot")</li>
+<li><b>Abp.</b> -- <i>Archbishop</i></li>
+<li><b>Abs.</b> -- <i>Absens</i> ("Absent")</li>
+<li><b>Absoluo.</b> -- <i>Absolutio</i> ("Absolution")</li>
+<li><b>ABB.</b> -- <i>Abbas</i></li>
+<li><b>A.B.M.</b> -- <i>Amico bene merenti</i></li>
+<li><b>A.C.</b> -- <i>Auditor Cameræ</i> (Auditor of the Papal Treasury)</li>
+<li><b>AC</b> -- <i>Ante Christum</i> ("Before Christ")</li>
+<li><b>ACN</b> -- <i>Ante Christum Natum</i> ("Before the Birth of Christ")</li>
+<li><b>A.D.</b> -- <i>Anno Domini</i> ("Year of Our Lord")</li>
+<li><b>a.d.</b> -- <i>ante diem</i> ("The day before")</li>
+<li><b>A.C.</b> -- <i>Acta causa, Alins civis.</i></li>
+<li><b>A.D.</b> -- <i>A domino, <a href="/wiki/Anno_Domini" title="Anno Domini">Anno Domini</a>, Ante diem</i></li>
+<li><b>A.D.V.</b> -- <i>Ante diem quintum.</i></li>
+<li><b>A.D.A.</b> -- <i>Ad dandos agros.</i></li>
+<li><b>AED.</b> -- <i>Aedilis</i></li>
+<li><b>AEDILIC.</b> -- <i>Aedilicia potestate, Aedilicius</i></li>
+<li><b>AED CVR</b> -- <i>Aedilis curulis</i></li>
+<li><b>AEL.</b> -- <i>Aelius</i></li>
+<li><b>AEPP.</b> -- <i>Archiepiscopus</i></li>
+<li><b>AEO.</b> -- <i>Aedes, Aedilis, Aedilitas.</i></li>
+<li><b>AEM., AIM.</b> -- <i>Aemilius, Aemilia.</i></li>
+<li><b>AER.</b> -- <i>Aerarium.</i></li>
+<li><b>AER.P.</b> -- <i>Aere publico.</i></li>
+<li><b>A.F.</b> -- <i>Acture fide, Auli filius.</i></li>
+<li><b>AG.</b> -- <i>Ager, Ago, Agrippa.</i></li>
+<li><b>A.G.</b> -- <i>Ammo grato, Aulus Gellius.</i></li>
+<li><b>A.L.AE., A.L.E.</b> -- <i>Arbitrium litis aestimandae.</i></li>
+<li><b>Alr.</b> -- <i>Aliter</i> ("Otherwise")</li>
+<li><b>A.M., A.MILL.</b> -- <i>Ad milliarium.</i></li>
+<li><b>AN.</b> -- <i>Aniensis, Annus, Ante.</i></li>
+<li><b>ANN.</b> -- <i>Annales, Anni, Annona.</i></li>
+<li><b>ANT.</b> -- <i>Ante, Antonius.</i></li>
+<li><b>A.O.</b> -- <i>Alii omnes, Amico optimo.</i></li>
+<li><b>AP.</b> -- <i>Atppius, Apud.</i></li>
+<li><b>A.P.</b> -- <i>Ad pedes, Aedilitia potestate.</i></li>
+<li><b>A.P.F.</b> -- <i>Auro</i> (sive <i>argento</i>) <i>publico feriundo.</i></li>
+<li><b>A.P.M.</b> -- <i>Amico posuit <a href="/wiki/Monumentum" title="Monumentum">monumentum</a>, Annorum plus minus.</i></li>
+<li><b>A.P.R.C.</b> -- <i>Anno post Romam conditam.</i></li>
+<li><b>Aplica.</b> -- <i>Apostolica</i> ("Apostolic")</li>
+<li><b>Appatis.</b> -- <i>Approbatis</i> ("Having been approved")</li>
+<li><b>Archiepus.</b> -- <i>Archiepiscopus</i> ("Archbishop")</li>
+<li><b>ARG.</b> -- <i>Argentum.</i></li>
+<li><b>AR.V.V.D.D.</b> -- <i>Aram votam volens dedicavit, Arma votiva dono dedit.</i></li>
+<li><b>AT, A TE., A TER.</b> -- <i>A tergo.</i></li>
+<li><b>A.T.M.D.O.</b> -- <i>Aio te mihi dare oportere.</i></li>
+<li><b>Aucte.</b> -- <i>Auctoritate</i> ("By the Authority")</li>
+<li><b>AV.</b> -- <i>Augur, Augustus, Aurelius.</i></li>
+<li><b>A.V.</b> -- <i>Annos vixit.</i></li>
+<li><b>A.V.C.</b> -- <i>Ab urbe condita.</i></li>
+<li><b>AVG.</b> -- <i>Augur, Augustus, Augustus mensis.</i></li>
+<li><b>AVGG.</b> -- <i>Augusti</i></li>
+<li><b>AVGGG.</b> -- <i>Augusti tres.</i></li>
+<li><b>AVR.</b> -- <i>Aurelius</i></li>
+<li><b>AVSPP</b> -- <i>Auspicia</i></li>
+<li><b>AVT.PR.R.</b> -- <i>Auctoritas provinciae Romanorum.</i></li>
+<li><b>Adm. Rev.</b> -- <i>Admodum Reverendus</i> ("Very Reverend")</li>
+<li><b>Adv.</b> -- <i>Adventus</i> ("Advent")</li>
+<li><b>Alb.</b> -- <i>Albus</i> ("White" — Breviary)</li>
+<li><b>al.</b> -- <i>alii, alibi, alias</i> ("others", "elsewhere", "otherwise")</li>
+<li><b>A.M.</b> -- <i>Anno Mundi</i> ("Year of the World")</li>
+<li><b>A.M.</b> -- <i>Artium Magister</i> ("Master of Arts")</li>
+<li><b>A.M.D.G.</b> -- <i>Ad Majorem Dei Gloriam</i> ("For the greater glory of God")</li>
+<li><b>An.</b> -- <i>Annus</i> ("Year")</li>
+<li><b>Ann.</b> -- <i>Anni</i> ("Years")</li>
+<li><b>Ana</b> -- <i>Antiphona</i></li>
+<li><b>Ant.</b> -- <i>Antiphona</i></li>
+<li><b>Apost.</b> -- <i>Apostolus</i> ("Apostle")</li>
+<li><b>Ap. Sed.</b> -- <i>Apostolica Sedes</i> ("Apostolic See")</li>
+<li><b>Ap. Sed. Leg.</b> -- <i>Apostolicæ Sedis Legatus</i> ("Legate of the Apostolic See")</li>
+<li><b>Archiep.</b> -- <i>Archiepiscopus</i> ("Archbishop")</li>
+<li><b>Archid.</b> -- <i>Archidiaconus</i> ("Archdeacon")</li>
+<li><b>Archiprb.</b> -- <i>Archipresbyter</i> ("Archpriest")</li>
+<li><b>A.R.S.</b> -- <i>Anno Reparatæ Salutis</i> ("In the year of Our Redemption")</li>
+<li><b>A.U.</b> -- <i>Alma Urbs</i> ("Beloved City" — i.e., Rome)</li>
+<li><b>Authen.</b> -- <i>Authentica</i> ("Authentic" — e.g. letters)</li>
+<li><b>Aux.</b> -- <i>Auxilium, Auxilio</i> ("Help", "With the help of")</li>
+<li><b>A.D.</b> -- <i>Ante Diem</i> (e.g. in the phrase, "Ante Diem VI [or Sextum] Kal. Apriles", is equivalent to the sixth day before the Calends of April, counting both the Calends and the day intended to be indicated); or Anima Dulcis ("Sweet Soul")</li>
+<li><b>A.Q.I.C.</b> -- <i>Anima Quiescat In Christo</i> ("May his [or her] Soul Repose in Christ")</li>
+</ul>
+<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>B.</b> -- <i>Balbius, Balbus, Beatus, Bene, Beneficiarius, Beneficium, Bonus, Brutus, Bustum.</i></li>
+<li><b>B.</b> (for <b>V.</b>) -- <i>Berna Bivus, Bixit.</i></li>
+<li><b>B.A.</b> -- <i>Bixit anos, Bonis auguriis, Bonus amabilis.</i></li>
+<li><b>BB., B.B.</b> -- <i>Bene bene, i.e. optime, Optimus.</i></li>
+<li><b>B.D.</b> -- <i>Bonae deae, Bonum datum.</i></li>
+<li><b>B.DD.</b> -- <i>Bonis deabus.</i></li>
+<li><b>B.D.S.M.</b> -- <i>Bene de se merenti.</i></li>
+<li><b>B.F.</b> -- <i>Bona femina, Bona fides, Bona fortuna, Bonum factum.</i></li>
+<li><b>B.F.</b> -- <i>Bona femina, Bona filia.</i></li>
+<li><b>B.H.</b> -- <i>Bona hereditaria, Bonorum heres.</i></li>
+<li><b>B.I.</b> -- <i>Bonum judicium.</i></li>
+<li><b>B.I.I.</b> -- <i>Boni judicis judicium.</i></li>
+<li><b>B.M.</b> -- <i>Beatae memoriae, Bene merenti.</i></li>
+<li><b>B.N.</b> -- <i>Bona nostra, Bonum nomen.</i></li>
+<li><b>BN.H.I.</b> -- <i>Bona hic invenies.</i></li>
+<li><b>B.P.</b> -- <i>Bona paterna, Bonorum potestas, Bonum publicum.</i></li>
+<li><b>B.Q.</b> -- <i>Bene quiescat, Bona quaesita.</i></li>
+<li><b>B.RP.N.</b> -- <i>Boho reipublicae natus.</i></li>
+<li><b>BRT.</b> -- <i>Britannicus.</i></li>
+<li><b>B.T.</b> -- <i>Bonorum tutor, Brevi tempore.</i></li>
+<li><b>B.V.</b> -- <i>Bene vale, Bene vixit, Bonus vir.</i></li>
+<li><b>B.V.V.</b> -- <i>Balnea vina Venus.</i></li>
+<li><b>BX.</b> -- <i>Bixit</i> (for <i>vixit</i>).</li>
+<li><b>B.</b> -- <i>Balbius, Balbus, Beatus, Bene, Beneficiarius, Beneficium, Bonus, Brutus, Bustum.</i></li>
+<li><b>B.</b> (in loco <b>V.</b>) -- <i>Berna Bivus, Bixit.</i></li>
+<li><b>B.A.</b> -- <i>Bixit annos</i> [recte <i>Vixit annos</i>], <i>Bonis auguriis, Bonus amabilis.</i></li>
+<li><b>BB., B.B.</b> -- <i>Bene bene, i.e. optime, Optimus.</i></li>
+<li><b>B.D.</b> -- <i>Bonae deae, Bonum datum.</i></li>
+<li><b>B.DD.</b> -- <i>Bonis deabus.</i></li>
+<li><b>B.D.S.M.</b> -- <i>Bene de se merenti.</i></li>
+<li><b>B.F.</b> -- <i>Bona femina, Bona fides, Bona fortuna, Bonum factum.</i></li>
+<li><b>B.F.</b> -- <i>Bona femina, Bona filia.</i></li>
+<li><b>B.H.</b> -- <i>Bona hereditaria, Bonorum heres.</i></li>
+<li><b>B.I.</b> -- <i>Bonum iudicium.</i></li>
+<li><b>B.I.I.</b> -- <i>Boni iudicis iudicium.</i></li>
+<li><b>B.M.</b> -- <i>Beatae memoriae, Bene merenti.</i></li>
+<li><b>B.M.V.</b> -- <i>Beatae Mariae virginis</i></li>
+<li><b>B.N.</b> -- <i>Bona nostra, Bonum nomen.</i></li>
+<li><b>BN.H.I.</b> -- <i>Bona hic invenies.</i></li>
+<li><b>B.P.</b> -- <i>Bona paterna, Bonorum potestas, Bonum publicum.</i></li>
+<li><b>B.Q.</b> -- <i>Bene quiescat, Bona quaesita.</i></li>
+<li><b>B.RP.N.</b> -- <i>Boho reipublicae natus.</i></li>
+<li><b>BRT.</b> -- <i>Britannicus.</i></li>
+<li><b>B.T.</b> -- <i>Bonorum tutor, Brevi tempore.</i></li>
+<li><b>B.V.</b> -- <i>Bene vale, Bene vixit, Bonus vir.</i></li>
+<li><b>B.V.V.</b> -- <i>Balnea vina Venus.</i></li>
+<li><b>BX.</b> -- <i>Bixit</i> [recte <i>vixit</i>].</li>
+<li><b>B.</b> -- <i>Bene Merenti</i></li>
+<li><b>BMT.</b> -- <i>Bene Merenti</i> ("To the Well-Deserving")</li>
+<li><b>B.M.</b> -- <i>Bonae Memoriæ</i> ("Of Happy Memory")</li>
+<li><b>B.F.</b> -- <i>Bonae Feminæ</i> ("To the Good Woman")</li>
+<li><b>B.I.C.</b> -- <i>Bibas [for Vivas] In Christo</i> ("May you Live In Christ")</li>
+<li><b>B.M.F.</b> -- <i>Bene Merenti Fecit</i> ("He erected this to the Well-Deserving")</li>
+<li><b>B.Q.</b> -- <i>Bene Quiescat</i> ("May he [or she] Rest Well")</li>
+<li><b>B.A.</b> -- <i>Baccalaureus Artium</i> ("Bachelor of Arts")</li>
+<li><b>B. BB.</b> -- <i>Beatus, Beati</i> ("Blessed")</li>
+<li><b>B.C.</b> -- <i>Before Christ</i></li>
+<li><b>B.C.L.</b> -- <i>Baccalaureus Civilis [or Canonicae] Legis</i> ("Bachelor of Civil [or Canon] Law")</li>
+<li><b>B.D.</b> -- <i>Bachelor of Divinity</i></li>
+<li><b>B.F.</b> -- <i>Bona Fide</i> ("In Good Faith")</li>
+<li><b>Ben.</b> -- <i>Benedictio</i> ("Blessing")</li>
+<li><b>Benevol.</b> -- <i>Benevolentia</i> ("Benevolence")</li>
+<li><b>Bon. Mem.</b> -- <i>Bonæ Memoriæ</i> ("Of Happy Memory")</li>
+<li><b>B.P.</b> -- <i>Beatissime Pater</i> ("Most Holy Father")</li>
+<li><b>Bro.</b> -- <i>Brother</i></li>
+<li><b>B. Se.</b> -- <i>Baccalaureus Scientiarum</i> ("Bachelor of Sciences")</li>
+<li><b>B.U.J.</b> -- <i>Baccalaureus Utriusque Juris</i> ("Bachelor of Both Laws" — i.e., civil and canon)</li>
+<li><b>B.T.</b> -- <i>Baccalaureus Theologiæ</i> ("Bachelor of Theology")</li>
+<li><b>B.V.</b> -- <i>Beatitudo Vestra</i> ("Your Holiness")</li>
+<li><b>B.V.</b> -- <i>Beata Virgo</i> ("Blessed Virgin")</li>
+<li><b>B.V.M.</b> -- <i>Beata Virgo Maria</i> ("Blessed Virgin Mary")</li>
+</ul>
+<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>C.</b> -- <i>Caesar, Cains, Caput, Causa, Censor, Civis, Conors, Colonia Comitialis (dies), Condemno, Consul, Cum, Curo, Custos, Caia, Centuria, Cum, Con.</i> (prefix).</li>
+<li><b>C.B.</b> -- <i>Civis bonus, Commune bonum, Conjugi benemerenti, Cui bono.</i></li>
+<li><b>C.C.</b> -- <i>Calumniae causa, Causa cognita, Conjugi carissimae, Consilium cepit, Curiae consulto.</i></li>
+<li><b>C.C.C.</b> -- <i>Calumniae cavendae causa.</i></li>
+<li><b>C.C.F.</b> -- <i>Caesar</i> (or <i>Caius</i>) <i>curavit faciendum, Caius Caii filius.</i></li>
+<li><b>CC.VV.</b> -- <i>Clarissimi viri.</i> (=senators)</li>
+<li><b>C.D.</b> -- <i>Caesaris decreto, Cains Decius, Comitialibus diebus.</i></li>
+<li><b>CES.</b> -- <i>Censor, Censores.</i></li>
+<li><b>CESS.</b> -- <i>Censores.</i></li>
+<li><b>C.F.</b> -- <i>Causa fiduciae, Conjugi fecit, Curavit faciendum.</i></li>
+<li><b>C.H.</b> -- <i>Custos heredum, Custos hortorum.</i></li>
+<li><b>C.I.</b> -- <i>Caius Julius, Consul jussit, Curavit judex.</i></li>
+<li><b>CL.</b> -- <i>Clarissimus, Claudius, Clodius, Colonia.</i></li>
+<li><b>CL.V.</b> -- <i>Clarissimus vir, Clypeum vovit.</i></li>
+<li><b>C.M.</b> -- <i>Caius Marius, Causa mortis.</i></li>
+<li><b>CN.</b> -- <i>Cnaeus.</i></li>
+<li><b>COH.</b> -- <i>Coheres, Conors.</i></li>
+<li><b>COL.</b> -- <i>Collega, Collegium, Colonia, Columna.</i></li>
+<li><b>COLL.</b> -- <i>Collega, Coloni, Coloniae.</i></li>
+<li><b>COM.</b> -- <i>Comes, Comitium, Comparatum.</i></li>
+<li><b>CON.</b> -- <i>Conjux, Consensus, Consiliarius, Consul, Consularis.</i></li>
+<li><b>COR.</b> -- <i>Cornelia (tribus), Cornelius, Corona, Corpus.</i></li>
+<li><b>COS.</b> -- <i>Consiliarius, Consul, Consulares.</i></li>
+<li><b>COSS.</b> -- <i>Consules.</i></li>
+<li><b>C.P.</b> -- <i>Carissimus</i> (or <i>Clarissimus</i>) <i>puer, Civis publicus, Curavit ponendum.</i></li>
+<li><b>C.R.</b> -- <i>Caius Rufus, <a href="/w/index.php?title=Civis_romanus&amp;action=edit&amp;redlink=1" class="new" title="Civis romanus (page does not exist)">Civis Romanus</a>, Curavit reficiendum.</i></li>
+<li><b>CS.</b> -- <i>Caesar, Communis, Consul.</i></li>
+<li><b>C.V.</b> -- <i>Clarissimus</i> (or <i>Consularis</i>) <i>vir.</i></li>
+<li><b>CVR.</b> -- <i>Cura, Curator, Curavit, Curia.</i></li>
+<li><b>C.</b> -- <i>Caesar, Caius, Caput, Carrissimus, Causa, Censor, Centurio, Civis, Cohors, Colonia Comitialis (dies), Condemno, Coniunx, Comes, Consul, Cum, Curavit, Curo, Custos, Caia, Centuria, Cum, Con.</i> (praeverbium).</li>
+<li><b>c.</b> -- <i>circa</i></li>
+<li><b>CAL.</b> -- <i>Calendis</i></li>
+<li><b>C.B.</b> -- <i>Civis bonus, Commune bonum, Coniugi benemerenti, Cui bono.</i></li>
+<li><b>C.C.</b> -- <i>Calumniae causa, Causa cognita, Coniugi carissimae, Consilium cepit, Curiae consulto.</i></li>
+<li><b>C.C.C.</b> -- <i>Calumniae cavendae causa.</i></li>
+<li><b>C.C.F.</b> -- <i>Caesar</i> (vel <i>Caius</i>) <i>curavit faciendum, Caius Caii filius.</i></li>
+<li><b>CC.VV.</b> -- <i>Clarissimi viri.</i></li>
+<li><b>C.D.</b> -- <i>Caesaris decreto, Cains Decius, Comitialibus diebus.</i></li>
+<li><b>CES.</b> -- <i>Censor, Censores.</i></li>
+<li><b>CESS.</b> -- <i>Censores.</i></li>
+<li><b>C.F.</b> -- <i>Causa fiduciae, Coniugi fecit, Curavit faciendum.</i></li>
+<li><b>C.H.</b> -- <i>Custos heredum, Custos hortorum.</i></li>
+<li><b>C.I.</b> -- <i>Caius Iulius, Consul iussit, Curavit iudex.</i></li>
+<li><b>CL.</b> -- <i>Clarissimus, Claudius, Clodius, Colonia.</i></li>
+<li><b>CL.V.</b> -- <i>Clarissimus vir, Clypeum vovit.</i></li>
+<li><b>C.M.</b> -- <i>Caius Marius, Causa mortis.</i></li>
+<li><b>CN.</b> -- <i>Cnaeus.</i></li>
+<li><b>COH.</b> -- <i>Coheres, Conors.</i></li>
+<li><b>COL.</b> -- <i>Collega, Collegium, Colonia, Columna.</i></li>
+<li><b>COLL.</b> -- <i>Collega, Coloni, Coloniae.</i></li>
+<li><b>COM.</b> -- <i>Comes, Comitium, Comparatum.</i></li>
+<li><b>CON.</b> -- <i>Coniunx, Consensus, Consiliarius, Consul, Consularis.</i></li>
+<li><b>COR.</b> -- <i>Cornelia (tribus), Cornelius, Corona, Corpus.</i></li>
+<li><b>COS.</b> -- <i>Consiliarius, Consul, Consulares.</i></li>
+<li><b>COSS.</b> -- <i>Consules.</i></li>
+<li><b>C.P.</b> -- <i>Carissimus</i> (sive <i>Clarissimus</i>) <i>puer, Civis publicus, Curavit ponendum.</i></li>
+<li><b>C.R.</b> -- <i>Caius Rufus, Civis Romanus, Curavit reficiendum.</i></li>
+<li><b>CS.</b> -- <i>Caesar, Communis, Consul.</i></li>
+<li><b>C.V.</b> -- <i>Clarissimus</i> (sive <i>Consularis</i>) <i>vir.</i></li>
+<li><b>CVR.</b> -- <i>Cura, Curator, Curavit, Curia.</i></li>
+<li><b>Cam.</b> -- <i>Camera</i> (Papal Treasury)</li>
+<li><b>Cam. Ap.</b> -- <i>Camera Apostolica</i> ("Apostolic Camera" — i.e. Papal Treasury)</li>
+<li><b>Can.</b> -- <i>Canonicus</i></li>
+<li><b>Canc.</b> -- <i>Cancellarius</i> ("Chancellor")</li>
+<li><b>Cap.</b> -- <i>Capitulum</i> ("Little Chapter" — Breviary)</li>
+<li><b>Cap. de seq.</b> -- <i>Capitulum de Sequenti</i> ("Little chapter of the following feast" — Breviary)</li>
+<li><b>Capel.</b> -- <i>Capella</i> ("Chapel")</li>
+<li><b>Caus.</b> -- <i>Causa</i> ("Cause")</li>
+<li><b>C.C.</b> -- <i>Curatus</i> ("Curate" — used chiefly in Ireland)</li>
+<li><b>CC. VV.</b> -- <i>Clarissimi Viri</i> ("Illustrious Men")</li>
+<li><b>Cen. Eccl.</b> -- <i>Censura Ecclesiastica</i> ("Ecclesiastical Censure")</li>
+<li><b>Cla.</b> -- <i>Clausula</i> ("Clause")</li>
+<li><b>Cl.</b> -- <i>Clericus</i></li>
+<li><b>Clico.</b> -- <i>Clericus, Clerico</i> ("Cleric")</li>
+<li><b>Clun.</b> -- <i>Cluniacenses</i> ("Monks of Cluny")</li>
+<li><b>C.M.</b> -- <i>Causa Mortis</i> ("On occasion of death")</li>
+<li><b>Cod.</b> -- <i>Codex</i> (Manuscript)</li>
+<li><b>Cog. Leg.</b> -- <i>Cognatio Legalis</i> ("Legal Cognation")</li>
+<li><b>Cog. Spir.</b> -- <i>Cognatio Spiritualis</i> ("Spiritual Cognation")</li>
+<li><b>Coll. Cone.</b> -- <i>Collectio Conciliorum</i> ("Collection of the Councils")</li>
+<li><b>Comm. Prec.</b> -- <i>Commemoratio Praecedentis</i> ("Commemoration of the preceding feast" — Breviary)</li>
+<li><b>Comm. Seq.</b> -- <i>Commemoratio Sequentis</i> ("Commemoration of the following feast" — Breviary)</li>
+<li><b>Compl.</b> -- <i>Completorium</i> ("Compline" — Breviary)</li>
+<li><b>Con.</b> -- <i>Contra</i> ("against")</li>
+<li><b>Cone.</b> -- <i>Concilium</i> ("Council")</li>
+<li><b>Conf.</b> -- <i>Confessor</i></li>
+<li><b>Conf. Doct.</b> -- <i>Confessor et Doctor</i> (Breviary)</li>
+<li><b>Conf. Pont.</b> -- <i>Confessor Pontifex</i> ("Confessor and Bishop" — Breviary)</li>
+<li><b>Cons.</b> -- <i>Consecratio</i> ("Consecration")</li>
+<li><b>Consecr.</b> -- <i>Consecratus</i> ("Consecrated")</li>
+<li><b>Const. Ap.</b> -- <i>Constitutio Apostolica</i> ("Apostolic Constitution")</li>
+<li><b>Cr.</b> -- <i>Credo</i> ("Creed" — Breviary)</li>
+<li><b>Canice.</b> -- <i>Canonice</i> ("Canonically")</li>
+<li><b>Card.</b> -- <i>Cardinalis</i> ("Cardinal")</li>
+<li><b>Cens.</b> -- <i>Censuris</i> ("Censures" — abl. or dat. case)</li>
+<li><b>Circumpeone.</b> -- <i>Circumspectione</i> ("Circumspection" — abl. case)</li>
+<li><b>Coione.</b> -- <i>Communione</i> ("Communion" — abl. case)</li>
+<li><b>Confeone.</b> -- <i>Confessione</i> ("Confession" — abl. case)</li>
+<li><b>Consciae.</b> -- <i>Conscientiæ</i> ("Of [or to] conscience")</li>
+<li><b>Constbus</b> -- <i>Constitutionibus</i> ("Constitutions" — abl. or dat. Case)</li>
+<li><b>C.</b> -- <i>Consul</i></li>
+<li><b>CC.</b> -- <i>Consules</i> ("Consuls")</li>
+<li><b>C.F.</b> -- <i>Clarissima Femina</i> ("Most Illustrious Woman")</li>
+<li><b>Cl. V.</b> -- <i>Clarissimus Vir</i> ("Most Illustrious Man")</li>
+<li><b>C.O.</b> -- Conjugi Optimo <i>("To my Excellent Husband")</i></li>
+<li><b>C.O.B.Q.</b> -- <i>Cum Omnibus Bonis Quiescat</i> ("May he [or she] Repose With All Good souls")</li>
+<li><b>COI.</b> -- <i>Conjugi</i> ("To my Husband [or Wife]")</li>
+<li><b>CS.</b> -- <i>Consul</i></li>
+<li><b>COS.</b> -- <i>Consul</i></li>
+<li><b>COSS.</b> -- <i>Consules</i> ("Consuls")</li>
+<li><b>C.P.</b> -- <i>Clarissima Puella</i> ("Most Illustrious Maiden")</li>
+</ul>
+<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>D.</b> -- <i>Dat, Dedit, De, Decimus, Decius, Decretum, Decurio, Deus, Dicit, Dies, Divus, Dominus, Domus, Donum.</i></li>
+<li><b>D.C.</b> -- <i>Decurio coloniae, Diebus comitialibus, Divus Caesar.</i></li>
+<li><b>D.D.</b> -- <i>Dea Dia, Decurionum decreto, Dedicavit, Deo dedit, Dono dedit, Domus Divina.</i><sup id="cite_ref-LatAcr_3-4" class="reference"><a href="#cite_note-LatAcr-3">[3]</a></sup></li>
+<li><b>D.D.D.</b> -- <i>Datum decreto decurionum, Dono dedit dedicavit, Deo Donum Dedit</i><sup id="cite_ref-LatAcr_3-5" class="reference"><a href="#cite_note-LatAcr-3">[3]</a></sup></li>
+<li><b>D.E.R.</b> -- <i>De ea re.</i></li>
+<li><b>DES.</b> -- <i>Designatus.</i></li>
+<li><b>D.I.</b> -- <i>Dedit imperator, Diis immortalibus, Diis inferis.</i></li>
+<li><b>D.l.M.</b> -- <i>Deo invicto Mithrae, Diis inferis Manibus.</i></li>
+<li><b>D.M.</b> -- <i>Deo Magno, Dignus memoria, Diis Manibus, Dolo malo.</i></li>
+<li><b>D.O.M.</b> -- <i>Deo Optimo Maximo.</i></li>
+<li><b>D.P.S.</b> -- <i>Dedit proprio sumptu, Deo perpetuo sacrum, De pecunia sua.</i></li>
+<li><b>D.</b> -- <i>Dat, Dedit, De, Decimus, Decius, Decretum, Decurio, Deus, Dicit, Dies, Divus, Dominus, Domus, Donum.</i></li>
+<li><b>D.C.</b> -- <i>Decurio coloniae, Diebus comitialibus, Divus Caesar.</i></li>
+<li><b>D.D.</b> -- <i>Dea Dia, Decurionum decreto, Dedicavit, Deo dedit, Dii deaeque, Dono dedit.</i></li>
+<li><b>DD.</b> -- <i>Divi</i></li>
+<li><b>D.D.D.</b> -- <i>Datum decreto decurionum, Dono dedit dedicavit.</i></li>
+<li><b>D.D.L.M.</b> -- <i>Donum dedit libens merito.</i></li>
+<li><b>DEC.</b> -- <i>Decurio</i></li>
+<li><b>D.E.R.</b> -- <i>De ea re.</i></li>
+<li><b>DES.</b> -- <i>Designatus.</i></li>
+<li><b>D.M.</b> -- <i>Dominus</i></li>
+<li><b>D.M.P.S.</b> -- <i>Dis Manibus (et) perpetuae securitati</i></li>
+<li><b>D.N.</b> -- <i>Dominus noster</i></li>
+<li><b>Dni.</b> -- <i>Domini</i></li>
+<li><b>DNO.</b> -- <i>Domino</i></li>
+<li><b>DNS</b> -- <i>Dominus</i></li>
+<li><b>DEV</b> -- <i>Devotus</i></li>
+<li><b>D.I.</b> -- <i>Dedit imperator, Diis immortalibus, Diis inferis.</i></li>
+<li><b>D.l.M.</b> -- <i>Deo invicto Mithrae, Diis inferis Manibus.</i></li>
+<li><b>D.M.</b> -- <i>Deo Magno, Dignus memoria, Diis Manibus, Dolo malo.</i></li>
+<li><b>D.N.I.C.</b> -- <i>Domini nostri Iesu Christi</i></li>
+<li><b>D.O.M.</b> -- <i>Deo optimo maximo, Dominus.</i></li>
+<li>'<b>D.O.M.A.</b> -- <i>Deo Optimo maximo aeterno</i></li>
+<li><b>D.P.S.</b> -- <i>Dedit proprio sumptu, Deo perpetuo sacrum, De pecunia sua.</i></li>
+<li><b>D.S.I.M.</b> -- <i>Deo soli invicto mithrae</i></li>
+<li><b>Dr. iur.</b> -- <a href="/w/index.php?title=Doctor_iuris&amp;action=edit&amp;redlink=1" class="new" title="Doctor iuris (page does not exist)">Doctor iuris</a></li>
+<li><b>D.</b> -- <i>Depositus</i> ("Laid to rest"); or <i>Dulcis</i> ("Dear One")</li>
+<li><b>D.D.</b> -- <i>Dedit, Dedicavit</i> ("Gave", "Dedicated")</li>
+<li><b>DEP.</b> -- <i>Depositus</i> ("Laid to rest")</li>
+<li><b>D.I.P.</b> -- <i>Dormit In Pace</i> ("Sleeps in Peace")</li>
+<li><b>D.M.</b> -- <i>Diis Manibus</i> ("To the Manes [of]")</li>
+<li><b>D.M.S.</b> -- <i>Diis Manibus Sacrum</i> ("Sacred to the Manes [of]")</li>
+<li><b>D.N.</b> -- <i>Domino Nostro</i> ("To Our Lord")</li>
+<li><b>DD. NN.</b> -- <i>Dominis Nostris</i> ("To Our Lords")</li>
+<li><b>Discreoni.</b> -- <i>Discretioni</i> ("To the Discretion")</li>
+<li><b>Dispensao.</b> -- <i>Dispensatio</i> ("Dispensation")</li>
+<li><b>Dnus</b> -- <i>Dominus</i> ("Lord", "Sir", or "Mr.")</li>
+<li><b>D.</b> -- <i>Dominus</i> ("Lord")</li>
+<li><b>d.</b> -- <i>dies</i> ("day")</li>
+<li><b>D.C.L.</b> -- <i>Doctor Civilis [or Canonicae] Legis</i> ("Doctor of Civil [or Canon] Law")</li>
+<li><b>D.D.</b> -- <i>Doctores</i> ("Doctors")</li>
+<li><b>D.D.</b> -- <i>Donum dedit; Dedicavit</i> ("Gave", "dedicated")</li>
+<li><b>D.D.</b> -- <i>Doctor Divinitatis</i> ("Doctor of Divinity" — i.e. Theology)</li>
+<li><b>Dec.</b> -- <i>Decanus</i> ("Dean")</li>
+<li><b>Def.</b> -- <i>Defunctus</i> ("Deceased")</li>
+<li><b>D.G.</b> -- <i>Dei Gratia</i> ("By the Grace of God")</li>
+<li><b>D.N.</b> -- <i>Dominus Noster</i> ("Our Lord")</li>
+<li><b>D.M.</b> -- <i>Dis Manibus ("To the spirits of the departed")</i></li>
+<li><b>D.N.J.C.</b> -- <i>Dominus Noster Jesus Christus</i> ("Our Lord Jesus Christ")</li>
+<li><b>DN</b> -- <i>Dominus</i></li>
+<li><b>DNS</b> -- <i>Dominus</i></li>
+<li><b>DNUS</b> -- <i>Dominus</i> ("Lord")</li>
+<li><b>Doct.</b> -- <i>Doctor</i> (Breviary)</li>
+<li><b>Dom.</b> -- <i>Dominica</i> ("Sunday")</li>
+<li><b>D.O.M.</b> -- <i>Deo Optimo Maximo</i> ("To God, the Best and Greatest")</li>
+<li><b>Doxol.</b> -- <i>Doxologia</i> ("Doxology" — Breviary)</li>
+<li><b>D.R.</b> -- <i>Decanus Ruralis</i> ("Rural Dean")</li>
+<li><b>DS</b> -- <i>Deus</i> ("God")</li>
+<li><b>D.Se.</b> -- <i>Doctor Scientiarum</i> ("Doctor of Sciences")</li>
+<li><b>D.V.</b> -- <i>Deo Volente</i> ("God willing")</li>
+<li><b>Dupl.</b> -- <i>Duplex</i> ("Double feast" — Breviary)</li>
+<li><b>Dupl. Maj.</b> -- <i>Duplex Major</i> ("Double Major feast")</li>
+<li><b>Dupl. I. Cl.</b> -- <i>Duplex Primæ Classis</i> ("Double First Class feast" — Breviary)</li>
+<li><b>Dupl. II. Cl.</b> -- <i>Duplex Secundae Classis</i> ("Double Second Class feast" — Breviary)</li>
+</ul>
+<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>E.</b> -- <i>Ecclesia, Ejus, Eius, Eques, Erexft, Ergo, Est, Et, Earvin, Etiam, Evangelista, Ex.</i></li>
+<li><b>EG.</b> -- <i>Aeger, Egit, Egregius.</i></li>
+<li><b>E.G.</b> -- <i>exempli gratia (e.g.)</i> (<i>for the sake of example</i>)</li>
+<li><b>EQ.M.</b> -- <i>Equitum magister.</i></li>
+<li><b>EL.</b> -- <i>Electus</i></li>
+<li><b>E.M.</b> -- <i><a href="/wiki/EMV" title="EMV">Egregiae memoriae</a>, Eiusmodi, Ejusmodi, Erexit monumentum.</i></li>
+<li><b>EPI.</b> -- <i>Episcopi</i></li>
+<li><b>EPO.</b> -- <i>Episcopo</i></li>
+<li><b>EQ.</b> -- <i>Eques</i></li>
+<li><b>EQ.M.</b> -- <i>Equitum magister.</i></li>
+<li><b>E.Q.R.</b> -- <i><a href="/w/index.php?title=EQR&amp;action=edit&amp;redlink=1" class="new" title="EQR (page does not exist)">Eques Romanus</a>.</i></li>
+<li><b>E.P.</b> -- <i>Equo publico.</i></li>
+<li><b>E.R.A.</b> -- <i>Ea res agitur.</i></li>
+<li><b>E(X)T.</b> -- <i>Ex testamento</i></li>
+<li><b>E(X)V.</b> -- <i>Ex voto</i></li>
+<li><b>Eccl.</b> -- <i>Ecclesiasticus</i> ("Ecclesiastic")</li>
+<li><b>Eccl.</b> -- <i>Ecclesia</i> ("The Church")</li>
+<li><b>El.</b> -- <i>Electio, Electus</i> ("Election", "Elect")</li>
+<li><b>Emus</b> -- <i>Eminentissimus</i> ("Most Eminent")</li>
+<li><b>EPS</b> -- <i>Episcopus</i></li>
+<li><b>EP.</b> -- <i>Episcopus</i></li>
+<li><b>Episc.</b> -- <i>Episcopus</i> ("Bishop")</li>
+<li><b>Et.</b> -- <i>Etiam</i> ("Also, Even")</li>
+<li><b>Evang.</b> -- <i>Evangelium</i> ("Gospel" — Breviary)</li>
+<li><b>Ex.</b> -- <i>Extra</i> ("Outside of")</li>
+<li><b>Exe.</b> -- <i>Excommunicatus, Excommunicatio</i> ("Excommunicated, Excommunication")</li>
+<li><b>Ecclae.</b> -- <i>Ecclesiæ</i> ("Of [or to] the Church")</li>
+<li><b>Ecclis.</b> -- <i>Ecclesiasticis</i> ("Ecclesiastical")</li>
+<li><b>Effum.</b> -- <i>Effectum</i> ("Effect")</li>
+<li><b>Epus.</b> -- <i>Episcopus</i> ("Bishop")</li>
+<li><b>Excoe.</b> -- <i>Excommunicatione</i> ("Excommunication" — abl. case)</li>
+<li><b>Exit.</b> -- <i>Existit</i> ("Exists")</li>
+<li><b>E.V.</b> -- <i>Ex Voto</i> ("In Fulfilment of a Vow")</li>
+<li><b>EX. TM.</b> -- <i>Ex Testamento</i> ("In accordance with the Testament of")</li>
+<li><b>E VIV. DISC.</b> -- <i>E Vivis Discessit</i> ("Departed from Life")</li>
+</ul>
+<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>F.</b> -- <i>Fabius, Facere, Fecit, &amp;c., Familia, Fastus (dies), Felix, Femina, Fides, Filius, Flamen, Fortuna, Frater, Fuit, Functus.</i></li>
+<li><b>F.C.</b> -- <i>Faciendum curavit, Fidei commissume, Fiduciae causa.</i></li>
+<li><b>F.D.</b> -- <i>Fidem dedit, Flamen Dialis, Fraude donavit.</i></li>
+<li><b>F.F.F.</b> -- <i>Ferro flamma fame, Fortior fortuna fato.</i></li>
+<li><b>FL.</b> -- <i>Filius, Flamen, Flaminius, Flavius.</i></li>
+<li><b>F.L.</b> -- <i><a href="/wiki/Favete_linguis" class="mw-redirect" title="Favete linguis">Favete linguis</a>, Fecit libens, Felix liber.</i></li>
+<li><b>FR.</b> -- <i>Forum, Fronte, Frumentarius.</i></li>
+<li><b>F.R.</b> -- <i>Forum Romanum.</i></li>
+<li><b>F.</b> -- <i>Fabius, Facere, Fecit, &amp;c., Familia, Fastus (dies), Felix, Femina, Fides, Filius, Flamen, Fortuna, Frater, Fuit, Functus.</i></li>
+<li><b>F.F.</b> -- <i>Fratres</i></li>
+<li><b>F.F.C.</b> -- <i>Filii faciendum curaverunt</i></li>
+<li><b>F.C.</b> -- <i>Faciendum curavit, Fidei commissume, Fiduciae causa.</i></li>
+<li><b>F.D.</b> -- <i>Fidem dedit, Flamen Dialis, Fraude donavit.</i></li>
+<li><b>F.F.F.</b> -- <i>Ferro flamma fame, Fortior fortuna fato.</i></li>
+<li><b>FL.</b> -- <i>Filius, Flamen, Flaminius, Flavius, <a href="/wiki/Floruit" title="Floruit">floruit</a>.</i></li>
+<li><b>F.L.</b> -- <i>Favete linguis, Fecit libens, Felix liber.</i></li>
+<li><b>FR.</b> -- <i>Forum, Fronte, Frumentarius., Frater</i></li>
+<li><b>F.R.</b> -- <i>Forum Romanum.</i></li>
+<li><b>FS ET S</b> -- <i>Fecit sibi et sui</i></li>
+<li><b>F.</b> -- <i>Fecit</i> ("Did"); or <i>Filius</i> ("Son"); or Feliciter ("Happily")</li>
+<li><b>F.C.</b> -- <i>Fieri Curavit</i> ("Caused to be made")</li>
+<li><b>F.F.</b> -- <i>Fieri Fecit</i> ("Caused to be made")</li>
+<li><b>FF.</b> -- <i>Fratres</i> ("Brothers"); Filii ("Sons")</li>
+<li><b>FS.</b> -- <i>Fossor</i> ("Digger")</li>
+<li><b>Fr.</b> -- <i>Frater</i> ("Brother")</li>
+<li><b>Frum.</b> -- <i>Fratrum</i> ("Of the Brothers")</li>
+<li><b>Fel. Mem.</b> -- <i>Felicis Memoriæ</i> ("Of Happy Memory")</li>
+<li><b>Fel. Rec.</b> -- <i>Felicis Recordationis</i> ("Of Happy Memory")</li>
+<li><b>Fer.</b> -- <i>Feria</i> ("Weekday")</li>
+<li><b>Fr.</b> -- <i>Frater</i></li>
+<li><b>F.</b> -- <i>Frater, Frere</i> ("Brother")</li>
+<li><b>Fund.</b> -- <i>Fundatio</i> ("Foundation")</li>
+</ul>
+<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>G.</b> -- <i>Gaius (Caius), Gallia, Gaudium, Gellius, Gemma, Gens, Gesta, Gratia.</i></li>
+<li><b>G.F.</b> -- <i>Gemina fidelis</i> (legioni).</li>
+<li><b>G.P.F.</b> -- <i>Gemina pia fidelis</i> (legioni).</li>
+<li><b>GL.</b> -- <i>Gloria.</i></li>
+<li><b>GN.</b> -- <i>Genius, Gens, Genus, Gnaeus (Cnaeus).</i></li>
+<li><b>G.P.R.</b> -- <i>Genro populi Romani.</i></li>
+<li><b>Gen.</b> -- <i>Generalis</i> ("General")</li>
+<li><b>Gl.</b> -- <i>Gloria</i> ("Glory to God", etc.)</li>
+<li><b>Gr.</b> -- <i>Gratia</i> ("Grace")</li>
+<li><b>Grad.</b> -- <i>Gradus</i> ("Grade")</li>
+<li><b>Grat.</b> -- <i>Gratias</i> ("Thanks"); or Gratis ("Without expense")</li>
+<li><b>Gnalis</b> -- <i>Generalis</i> ("General")</li>
+<li><b>G.P.R.</b> -- <i>Genro populi Romani.</i></li>
+</ul>
+<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>H.</b> -- <i>Habet, Heres, Hic, Homo, Honor, Hora.</i></li>
+<li><b>HBQ.</b> -- <i>Hic Bene Quiescat (Latin: May He Rest Peacefully Here, epigraphy)"</i></li>
+<li><b>HER.</b> -- <i>Heres, Herennius.</i></li>
+<li><b>HER., HERC.</b> -- <i>Hercules.</i></li>
+<li><b>H.L.</b> -- <i>Hac lege, Hoc loco, Honesto loco.</i></li>
+<li><b>H.M.</b> -- <i>Hoc monumentum, Honesta mulier, Hora mala.</i></li>
+<li><b>H.S.E.</b> -- <i>Hic sepultus est, Hic situs est.</i></li>
+<li><b>H.V.</b> -- <i>Haec urbs, Hic vivit, Honeste vixit, Honestus vir.</i></li>
+<li><b>H.</b> -- <i>Habet, Heres, Hic, Homo, Honor, Hora.</i></li>
+<li><b>H.B.</b> -- <i>Hungaria (et) Bohmia</i></li>
+<li><b>HER.</b> -- <i>Heres, Herennius.</i></li>
+<li><b>HER., HERC.</b> -- <i>Hercules.</i></li>
+<li><b>H.F.C.</b> -- <i>Heres faciendum curavit</i></li>
+<li><b>HH.</b> -- <i>Heredes</i></li>
+<li><b>H.L.</b> -- <i>Hac lege, Hoc loco, Honesto loco.</i></li>
+<li><b>H.M.</b> -- <i>Hoc monumentum, Honesta mulier, Hora mala.</i></li>
+<li><b>H.M.P.</b> -- <i>Hoc monumentum posuit</i></li>
+<li><b>H.S.E.</b> -- <i>Hic sepultus est, Hic situs est.</i></li>
+<li><b>H.V.</b> -- <i>Haec urbs, Hic vivit, Honeste vixit, Honestus vir.</i></li>
+<li><b>Humil.</b> -- <i>Humiliter</i> ("Humbly")</li>
+<li><b>Humoi.</b> -- <i>Huiusmodi</i> ("Of this kind")</li>
+<li><b>hebd.</b> -- <i>Hebdomada</i> ("Week")</li>
+<li><b>Hom.</b> -- <i>Homilia</i> ("Homily" — Breviary)</li>
+<li><b>hor.</b> -- <i>hora</i> ("hour")</li>
+<li><b>H.</b> -- <i>Haeres</i> ("Heir"); Hic ("Here")</li>
+<li><b>H.L.S.</b> -- <i>Hoc Loco Situs</i> ("Laid [or Put] in This Place")</li>
+<li><b>H.M.F.F.</b> -- <i>Hoc Monumentum Fieri Fecit</i> ("Caused This Monument to be Made")</li>
+<li><b>H.S.</b> -- <i>Hic Situs</i> ("Laid Here")</li>
+</ul>
+<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>I.</b> -- <i>Immortalis, Imperator, In, Infra, Inter, Invictus, Ipse, Isis, Judex, Julius, Junius, Jupiter, Justus.</i></li>
+<li><b>IA.</b> -- <i>Jam, Intra.</i></li>
+<li><b>I.C.</b> -- <i>Julius Caesar, Juris Consultum, Jus civile.</i></li>
+<li><b>ID.</b> -- <i>Idem, Idus, Interdum.</i></li>
+<li><b>l.D.</b> -- <i>Inferis diis, Jovi dedicatnm, Jus dicendum, Jussu Dei.</i></li>
+<li><b>I.D.M.</b> -- <i>Jovi deo magno.</i></li>
+<li><b>I.E.</b> -- <i><a href="/wiki/Id_est" class="mw-redirect" title="Id est">Id est</a>.</i></li>
+<li><b>I.F.</b> -- <i>In foro, In fronte.</i></li>
+<li><b>I.H.</b> -- <i>Jacet hic, In honestatem, Justus homo.</i></li>
+<li><b>IM.</b> -- <i>Imago, Immortalis, Immunis, Impensa.</i></li>
+<li><b>IMP.</b> -- <i>Imperator, Imperium.</i></li>
+<li><b>I.N.R.I.</b> -- <i><a href="/wiki/INRI" class="mw-redirect" title="INRI">Iesus Nazarenus Rex Iudaeorum.</a></i></li>
+<li><b>I.O.M.</b> -- <i>Jovi optimo maximo.</i></li>
+<li><b>I.P.</b> -- <i>In publico, Intra provinciam, Justa persona.</i></li>
+<li><b>I.S.V.P.</b> -- <i>Impensa sua vivus posuit.</i></li>
+<li><b>I.</b> -- <i>Immortalis, Imperator, In, Infra, Inter, Invictus, Ipse, Isis, Iudex, Iulius, Iunius, Iupiter, Iustus.</i></li>
+<li><b>IA.</b> -- <i>Iam, Intra.</i></li>
+<li><b>I.C.</b> -- <i>Iulius Caesar, Iuris Consultum, Ius civile.</i></li>
+<li><b>ICTVS</b> -- <i>Iuris consultus</i></li>
+<li><b>ID.</b> -- <i>Idem, <a href="/w/index.php?title=Idus&amp;action=edit&amp;redlink=1" class="new" title="Idus (page does not exist)">Idus</a>, Interdum.</i></li>
+<li><b>l.D.</b> -- <i>Inferis diis, Iovi dedicatnm, Ius dicendum, Iussu Dei.</i></li>
+<li><b>I.D.M.</b> -- <i>Iovi deo magno.</i></li>
+<li><b>I.F.</b> -- <i>In foro, In fronte.</i></li>
+<li><b>I.H.</b> -- <i>Iacet hic, In honestatem, Iustus homo.</i></li>
+<li><b>II VIR I D</b> -- <i>Duovir/Duumvir iure dicundo.</i></li>
+<li><b>IIIIII VIR AVG</b> -- <i>Sevir/Sexvir Augustalis.</i></li>
+<li><b>ILL.</b> -- <i>Illustrissimus</i></li>
+<li><b>ILLMA</b> -- <i>Illustrissima</i></li>
+<li><b>IM.</b> -- <i>Imago, Immortalis, Immunis, Impensa.</i></li>
+<li><b>IMP.</b> -- <i>Imperator, Imperium.</i></li>
+<li><b>I.N.R.I.</b> -- <i><a href="/wiki/INRI" class="mw-redirect" title="INRI">Iesus Nazarenus Rex Iudaeorum.</a></i></li>
+<li><b>I.O.M.</b> -- <i>Iovi optimo maximo.</i></li>
+<li><b>I.P.</b> -- <i>In publico, Intra provinciam, Iusta persona.</i></li>
+<li><b>I.S.V.P.</b> -- <i>Impensa sua vivus posuit.</i></li>
+<li><b>IVL.</b> -- <i>Iulius</i></li>
+<li><b>IVN.</b> -- <i>Iunior</i></li>
+<li><b>ID.</b> -- <i>Idibus</i> ("On the Ides")</li>
+<li><b>IDNE.</b> -- <i>Indictione</i> ("In the Indiction" — a chronological term)</li>
+<li><b>I.L.H.</b> -- <i>Jus Liberorum Habens</i> ("Possessing the Right of Children" — i.e., eligibility to public office under age)</li>
+<li><b>INB.</b> -- <i>In Bono</i> ("In Good [odour]")</li>
+<li><b>IND.</b> -- <i>Same as IDNE</i></li>
+<li><b>INP</b> -- <i>In Pace</i> ("In Peace")</li>
+<li><b>I.X.</b> -- <i>In Christo</i> ("In Christ")</li>
+<li><b>IC</b> -- <i>Jesus</i> (first and third letters of His name in Greek)</li>
+<li><b>Id.</b> -- <i>Idus</i> ("Ides")</li>
+<li><b>Igr.</b> -- <i>Igitur</i> ("Therefore")</li>
+<li><b>Ind.</b> -- <i>Indictio</i> ("Indiction")</li>
+<li><b>Ind.</b> -- <i>Index</i></li>
+<li><b>Inq.</b> -- <i>Inquisitio</i> ("Inquisition")</li>
+<li><b>i.p.i.</b> -- <i>in partibus infidelium</i> ("among the infidels")</li>
+<li><b>Is.</b> -- <i>Idus</i> ("Ides")</li>
+<li><b>Igr.</b> -- <i>Igitur</i> ("Therefore")</li>
+<li><b>Infraptum.</b> -- <i>Infrascriptum</i> ("Written below")</li>
+<li><b>Intropta.</b> -- <i>Introscripta</i> ("Written within")</li>
+<li><b>Irregulte.</b> -- <i>Irregularitate</i> ("Irregularity" — abl. case)</li>
+</ul>
+<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>J.C.</b> -- <i>Jesus Christus</i> ("Jesus Christ")</li>
+<li><b>J.C.D.</b> -- <i>Juris Canonici Doctor, Juris Civilis Doctor</i> ("Doctor of Canon Law", "Doctor of Civil Law")</li>
+<li><b>J.D.</b> -- <i>Juris Doctor</i> ("Doctor of Law")</li>
+<li><b>J.M.J.</b> -- <i>Jesus, Maria, Joseph</i> ("Jesus, Mary, Joseph")</li>
+<li><b>Jo.</b> -- <i>Johannes</i></li>
+<li><b>Joann.</b> -- <i>Joannes</i> ("John")</li>
+<li><b>J.U.D.</b> -- <i>Juris Utriusque Doctor</i> ("Doctor of Both Laws" — Civil and Canon)</li>
+<li><b>Jud.</b> -- <i>Judicium</i> ("Judgment")</li>
+<li><b>J.U.L.</b> -- <i>Juris Utriusque Licentiatus</i> ("Licentiate of Both Laws")</li>
+<li><b>Jur.</b> -- <i>Juris</i> ("Of Law")</li>
+</ul>
+<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>K.</b> -- <i>Kaeso, Caia, Calumnia, Caput, Carus, Castra.</i></li>
+<li><b>K., KAL., KL.</b> -- <i>Kalendae.</i></li>
+<li><b>K.</b> -- <i>Kaeso, Caia, Calumnia, Caput, Carus, Castra.</i></li>
+<li><b>K., KAL., KL.</b> -- <i><a href="/wiki/Kalendae" class="mw-redirect" title="Kalendae">Kalendae</a>.</i></li>
+<li><b>Kal.</b> -- <i>Kalendae</i> ("Calends")</li>
+<li><b>K.</b> -- <i>Kalendas</i> ("Calends"); or <i>Care, Carus, Cara</i> ("Dear One"); or <i>Carissimus[a]</i> ("Dearest")</li>
+<li><b>K.B.M.</b> -- <i>Karissimo Bene Merenti</i> ("To the Most Dear and Well-deserving")</li>
+</ul>
+<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>L.</b> -- <i>Laelius, Legio, Lex, Libens, Liber, Libra, Locus, Lollius, Lucius, Ludus.</i></li>
+<li><b>LB.</b> -- <i>Libens, Liberi, Libertus.</i></li>
+<li><b>L.C.D.</b> -- <i>Legis Civilis Doctor</i> ("Doctor of Civil Law")</li>
+<li><b>L.D.D.D.</b> -- <i>Locus datus decreto decurionum.</i></li>
+<li><b>LEG.</b> -- <i>Legatus, Legio.</i></li>
+<li><b>LEG AVG PR PR</b> -- <i>Legatus Augusti pro praetore</i></li>
+<li><b>LEG LEG</b> -- <i>Legatus legionis</i></li>
+<li><b>LIB.</b> -- <i>Liber, Liberalitas, Libertas, Libertus, Librarius.</i></li>
+<li><b>LIB BAR(O)</b> -- <i>Liber baro</i></li>
+<li><b>LL.</b> -- <i>Leges, Libentissime, Liberti.</i></li>
+<li><b>L.L.V.S.</b> -- <i>Libens laetus votum solvit.</i></li>
+<li><b>L.M.</b> -- <i>Libens merito, Locus monumenti.</i></li>
+<li><b>L.S.</b> -- <i>Laribus sacrum, Libens solvit, Locus sacer, Lectori Salutem.</i></li>
+<li><b>LVD.</b> -- <i>Ludus.</i></li>
+<li><b>LV.P.F.</b> -- <i>Ludos publicos fecit.</i></li>
+</ul>
+<ul>
+<li><b>Lia.</b> -- <i>Licentia</i> ("License")</li>
+<li><b>Litma.</b> -- <i>Legitima</i> ("Lawful")</li>
+<li><b>Lre.</b> -- <i>Litteræ</i> ("Letters")</li>
+<li><b>Lte.</b> -- <i>Licite</i> ("Lawfully", or "licitly")</li>
+<li><b>Laic.</b> -- <i>Laicus</i> ("Layman")</li>
+<li><b>Laud.</b> -- <i>Laudes</i> ("Lauds" — Breviary)</li>
+<li><b>l.c.</b> -- <i>Loco citato</i></li>
+<li><b>loc. cit.</b> -- <i>Loco citato</i> ("at the place already cited")</li>
+<li><b>Lect.</b> -- <i>Lectio</i> ("Lesson")</li>
+<li><b>Legit.</b> -- <i>Legitime, Legitimus</i> ("Legally", "legitimate")</li>
+<li><b>L.H.D.</b> -- <i>Litterarum Humaniorum Doctor</i> ("Doctor of Literature")</li>
+<li><b>Lib.</b> -- <i>Liber</i></li>
+<li><b>Lo.</b> -- <i>Liber, Libro</i> ("Book", "In the book")</li>
+<li><b>Lic.</b> -- <i>Licentia, Licentiatus</i> ("License", "Licentiate")</li>
+<li><b>Litt.</b> -- <i>Littera</i> ("Letter")</li>
+<li><b>LL.B.</b> -- <i>Legum Baccalaureus</i> ("Bachelor of Laws")</li>
+<li><b>LL.D.</b> -- <i>Legum Doctor</i> ("Doctor of Laws")</li>
+<li><b>LL.M.</b> -- <i>Legum Magister</i> ("Master of Laws")</li>
+<li><b>Loc.</b> -- <i>Locus</i> ("Place")</li>
+<li><b>Lov.</b> -- <i>Lovanium</i> ("Louvain")</li>
+<li><b>Lovan.</b> -- <i>Lovanienses</i> (Theologians of Louvain)</li>
+<li><b>L.S.</b> -- <i>Loco Sigilli</i> ("Place of the Seal")</li>
+<li><b>Lud.</b> -- <i>Ludovicus</i></li>
+</ul>
+<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>M.</b> -- <i>Magister, Magistratus, Magnus, Manes, Marcus, Marins, Marti, Mater, Memoria, Mensis, Miles, Monumentum, Mortuus, Mucius, Mulier.</i></li>
+<li><b>M'.</b> -- <i>Manius.</i></li>
+<li><b>M.D.</b> -- <i>Magno Deo, Manibus diis, Matri deum, Merenti dedit.</i></li>
+<li><b>MES.</b> -- <i>Mensis.</i></li>
+<li><b>MESS.</b> -- <i>Menses.</i></li>
+<li><b>M.F.</b> -- <i>Mala fides, Marci filius, Monumentum fecit.</i></li>
+<li><b>M.I.</b> -- <i>Matri Idaeae, Matii Isidi, Maximo Jovi.</i></li>
+<li><b>MNT., MON.</b> -- <i>Moneta.</i></li>
+<li><b>M.P.</b> -- <i>Male positus, Monumentum posuit.</i></li>
+<li><b>M.S.</b> -- <i>Manibus sacrum, Memoriae sacrum, Manu scriptum.</i></li>
+<li><b>MVN.</b> -- <i>Municeps, municipium</i> (also MN., MV. and MVNIC.)</li>
+<li><b>M.V.S.</b> -- <i>Marti ultori sacrum, Merito votum solvit.</i></li>
+<li><b>M.</b> -- <i>Magister, Magistratus, Magnus, Manes, Marcus, Marins, Marti, Mater, Memoria, Mensis, Miles, Monumentum, Mortuus, Mucius, Mulier.</i></li>
+<li><b>M'.</b> -- <i>Manius.</i></li>
+<li><b>M.D.</b> -- <i>Magno Deo, Manibus diis, Matri deum, Merenti dedit.</i></li>
+<li><b>MEN</b> -- <i>Mensis</i></li>
+<li><b>MES.</b> -- <i>Mensis.</i></li>
+<li><b>MESS.</b> -- <i>Menses.</i></li>
+<li><b>M.F.</b> -- <i>Mala fides, Marci filius, Monumentum fecit.</i></li>
+<li><b>M.I.</b> -- <i>Matri Idaeae, Matii Isidi, Maximo Iovi.</i></li>
+<li><b>MIL</b> -- <i>Miles.</i></li>
+<li><b>M L</b> -- <i>Monumentum legavit.</i></li>
+<li><b>MNT.</b> -- <i>Moneta.</i></li>
+<li><b>MON</b> -- <i>Moneta, Monumentum.</i></li>
+<li><b>M.P.</b> -- <i>Male positus, Monumentum posuit.</i></li>
+<li><b>M.S.</b> -- <i>Manibus sacrum, Memoriae sacrum, Manu scriptum.</i></li>
+<li><b>MVN.</b> -- <i>Municeps, municipium</i> (MN., MV. et MVNIC. quoque)</li>
+<li><b>M.V.S.</b> -- <i>Marti ultori sacrum, Merito votum solvit.</i></li>
+<li><b>M.</b> -- <i>Maria</i> ("Mary")</li>
+<li><b>M.A.</b> -- <i>Magister Artium</i> ("Master of Arts")</li>
+<li><b>Mag.</b> -- <i>Magister</i> ("Master")</li>
+<li><b>Mand.</b> -- <i>Mandamus</i> ("We command")</li>
+<li><b>Mand. Ap.</b> -- <i>Mandatum Apostolicum</i> ("Apostolic Mandate", e.g. for a bishop's consecration)</li>
+<li><b>Mart.</b> -- <i>Martyr</i></li>
+<li><b>M.</b> -- <i>Martyr</i></li>
+<li><b>MM.</b> -- <i>Martyr, Martyres</i> ("Martyr", "Martyrs" — Breviary)</li>
+<li><b>Mat.</b> -- <i>Matutinum</i> ("Matins" — Breviary)</li>
+<li><b>Matr.</b> -- <i>Matrimonum</i> ("Marriage")</li>
+<li><b>Mgr.</b> -- <i>Monseigneur, Monsignore</i> ("My Lord")</li>
+<li><b>Miss.</b> -- <i>Missa</i> ("Mass" — Breviary); Missionarius ("Missionary")</li>
+<li><b>Miss. Apost.</b> -- <i>Missionarius Apostolicus</i></li>
+<li><b>M.A.</b> -- <i>Missionarius Apostolicus</i> ("Missionary Apostolic")</li>
+<li><b>M.R.</b> -- <i>Missionarius Rector</i> ("Missionary Rector")</li>
+<li><b>m.t.v.</b> -- <i>mutatur terminatio versiculi</i> ("the termination of the little verse is changed" — Breviary)</li>
+<li><b>Magro.</b> -- <i>Magistro</i> ("Master" — dat. or abl. case)</li>
+<li><b>Mir.</b> -- <i>Misericorditer</i> ("Mercifully")</li>
+<li><b>Miraone.</b> -- <i>Miseratione</i> ("Pity" — abl. case)</li>
+<li><b>Mrimonium.</b> -- <i>Matrimonium</i> ("Matrimony")</li>
+<li><b>M.</b> -- <i>Martyr, or Memoria</i> ("Memory") or <i>Monumentum</i> ("Monument")</li>
+<li><b>MM.</b> -- <i>Martyres</i> ("Martyrs")</li>
+<li><b>M.P.</b> -- <i>Monumentum Posuit</i> ("Erected a Monument")</li>
+<li><b>MRT.</b> -- <i>Merenti</i> ("To the Deserving")</li>
+</ul>
+<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>N.</b> -- <i>Natio, Natus, Nefastus (dies), Nepos, Neptunus, Nero, Nomen, Non, Nonae, Noster, Novus, Numen, Numerius, Numerus, Nummus.</i></li>
+<li><b>NB</b> -- <i>Nota Bene</i></li>
+<li><b>NEP.</b> -- <i>Nepos, Neptunus.</i></li>
+<li><b>N.F.C.</b> -- <i>Nostrae fidei commissum.</i></li>
+<li><b>N.L.</b> -- <i>Non licet, Non liquet, Non longe.</i></li>
+<li><b>N.M.V.</b> -- <i>Nobilis memoriae vir.</i></li>
+<li><b>NN.</b> -- <i>Nostri.</i></li>
+<li><b>N.N.</b> -- <i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><b>NN., NNO., NNR.</b> -- <i>Nostrorum.</i></li>
+<li><b>NOB.</b> -- <i>Nobilis.</i></li>
+<li><b>NOB., NOBR., NOV.</b> -- <i>Novembris.</i></li>
+<li><b>N.P.</b> -- <i>Nefastus primo (priore parto diei), Non potest.</i></li>
+<li><b>N.</b> -- <i>Natio, Natus, Nefastus (dies), Nepos, Neptunus, Nero, Nomen, Non, <a href="/wiki/Nonae" class="mw-redirect" title="Nonae">Nonae</a>, Noster, Novus, Numen, Numerius, Numerus, Nummus.</i></li>
+<li><b>NEP.</b> -- <i>Nepos, Neptunus.</i></li>
+<li><b>N.F.C.</b> -- <i>Nostrae fidei commissum.</i></li>
+<li><b>N.L.</b> -- <i>Non licet, Non liquet, Non longe.</i></li>
+<li><b>N.M.V.</b> -- <i>Nobilis memoriae vir.</i></li>
+<li><b>NN.</b> -- <i>Nostri.</i></li>
+<li><b>NN., NNO., NNR.</b> -- <i>Nostrorum.</i></li>
+<li><b>N.N.</b> -- <i>nomen nominandum</i> seu <i>nomen nescio</i></li>
+<li><b>NO</b> -- <i>Nonis</i></li>
+<li><b>NOB.</b> -- <i>Nobilis.</i></li>
+<li><b>NOB., NOBR., NOV.</b> -- <i>Novembris.</i></li>
+<li><b>N.P.</b> -- <i>Nefastus primo (priore parto diei), Non potest.</i></li>
+<li><b>N.</b> -- <i>Nonas</i> ("Nones"); or <i>Numero</i> ("Number")</li>
+<li><b>NN.</b> -- <i>Nostris</i> ("To Our" — with a plural) or <i>Numeri</i> ("Numbers")</li>
+<li><b>Nultus.</b> -- <i>Nullatenus</i> ("Nowise")</li>
+<li><b>Nativ. D.N.J.C.</b> -- <i>Nativitas Domini Nostri Jesu Christi</i> ("Nativity of Our Lord Jesus Christ")</li>
+<li><b>N. D.</b> -- <i>Nostra Domina, Notre Dame</i> ("Our Lady")</li>
+<li><b>Nigr.</b> -- <i>Niger</i> ("Black" — Breviary)</li>
+<li><b>No.</b> -- <i>Nobis</i> ("to us", "for us")</li>
+<li><b>Nob.</b> -- <i>Nobilis, Nobiles</i> ("Noble", "Nobles")</li>
+<li><b>Noct.</b> -- <i>Nocturnum</i> ("Nocturn")</li>
+<li><b>Non.</b> -- <i>Nonæ</i> ("Nones")</li>
+<li><b>Nostr.</b> -- <i>Noster, nostri</i> ("Our", "of our")</li>
+<li><b>Not.</b> -- <i>Notitia</i> ("Knowledge")</li>
+<li><b>N.S.</b> -- <i>Notre Seigneur, Nostro Signore</i> ("Our Lord")</li>
+<li><b>N.S.</b> -- <i>New Style</i></li>
+<li><b>N.T.</b> -- <i>Novum Testamentum</i> ("New Testament")</li>
+<li><b>Ntri.</b> -- <i>Nostri</i> ("Of our")</li>
+<li><b>Nup.</b> -- <i>Nuptiæ</i> ("Nuptials")</li>
+</ul>
+<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>O.</b> -- <i>Ob, Officium, Omnis, Oportet, Optimus, Opus, Ossa.</i></li>
+<li><b>OB.</b> -- <i>Obiit, Obiter, Orbis.</i></li>
+<li><b>OCist</b> -- <i><a href="/w/index.php?title=Ordo_Cisterciensis&amp;action=edit&amp;redlink=1" class="new" title="Ordo Cisterciensis (page does not exist)">Ordo Cisterciensis</a></i></li>
+<li><b>O.C.S.</b> -- <i>Ob cives servatos.</i></li>
+<li><b>OFM</b> -- <i><a href="/wiki/Ordo_Fratrum_Minorum" class="mw-redirect" title="Ordo Fratrum Minorum">Ordo Fratrum Minorum</a></i></li>
+<li><b>O.H.F.</b> -- <i>Omnibus honoribus functus.</i></li>
+<li><b>O.H.S.S.</b> -- <i>Ossa hic sita sunt.</i></li>
+<li><b>O P N</b> -- <i>Ora pro nobis.</i></li>
+<li><b>OR.</b> -- <i>Hora, Ordo, Ornamentum.</i></li>
+<li><b>OSA</b> -- <i><a href="/wiki/Ordo_Sancti_Augustini" class="mw-redirect" title="Ordo Sancti Augustini">Ordo Sancti Augustini</a></i></li>
+<li><b>OSB</b> -- <a href="/wiki/Ordo_Sancti_Benedicti" class="mw-redirect" title="Ordo Sancti Benedicti">Ordo Sancti Benedicti</a></li>
+<li><b>OT</b> -- <i><a href="/wiki/Ordo_Teutonicus" class="mw-redirect" title="Ordo Teutonicus">Ordo Teutonicus</a></i></li>
+<li><b>O.T.B.Q.</b> -- <i>Ossa tua bene quiescant.</i></li>
+<li><b>OVF</b> -- <i>Oro vos faciatis</i></li>
+<li><b>Ob.</b> -- <i>Obiit</i> ("Died")</li>
+<li><b>Oct.</b> -- <i>Octava</i> ("Octave" — Breviary)</li>
+<li><b>Omn.</b> -- <i>Omnes, Omnibus</i> ("All", "to all")</li>
+<li><b>Op. Cit.</b> -- <i>Opere Citato</i> ("In the work cited")</li>
+<li><b>Or.</b> -- <i>Oratio</i> ("Prayer" — Breviary)</li>
+<li><b>Ord.</b> -- <i>Ordo, Ordinatio, Ordinarius</i> ("Order", "Ordination", "Ordinary")</li>
+<li><b>Or</b> -- <i>Orator</i></li>
+<li><b>Orat.</b> -- <i>Orator</i> ("Petitioner"), <i>Oratorium</i> ("Oratory")</li>
+<li><b>O.S.</b> -- <i>Old Style</i></li>
+<li><b>O.T.</b> -- <i>Old Testament</i></li>
+<li><b>Oxon.</b> -- <i>Oxonium, Oxonienses</i> ("Oxford", "Theologians or Scholars of Oxford")</li>
+<li><b>Ordinaoni.</b> -- <i>Ordinationi</i> ("Ordination" — dat. case)</li>
+<li><b>Ordio.</b> -- <i>Ordinario</i> ("Ordinary" — dat. or abl. case)</li>
+<li><b>O.</b> -- <i>Hora</i> ("Hour"); <i>Obiit</i> ("Died")</li>
+<li><b>OB. IN XTO.</b> -- <i>Obiit In Christo</i> ("Died In Christ")</li>
+<li><b>OMS.</b> -- <i>Omnes</i> ("All")</li>
+<li><b>OP.</b> -- <i>Optimus</i> (Excellent, or Supremely Good)</li>
+</ul>
+<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>P.</b> -- <i>Pars, Passus, Pater, Patronus, Pax, Perpetuus, Pes, Pius, Plebs, Pondo, Populus, Post, Posuit, Praeses, Praetor, Primus, Pro, Provincia, Publicus, Publius, Puer.</i></li>
+<li><b>P.C.</b> -- <i>Pactum conventum, Patres conscripti, Pecunia constituta, Ponendum curavit, Post consulatum, Potestate censoria.</i></li>
+<li><b>P.F.</b> -- <i>Pia fidelis, Pius felix, Promissa fides, Publii filius.</i></li>
+<li><b>P.M.</b> -- <i>Piae memoriae, Pius minus, Pontifex maximus.</i> <i>Post meridiem.</i></li>
+<li><b>P.P.</b> -- <i>Pater patratus, Pater patriae, Pecunia publica, Praepositus, Primipilus, Propraetor.</i></li>
+<li><b>PR.</b> -- <i>Praeses, Praetor, Pridie, Princeps.</i></li>
+<li><b>P.R.</b> -- <i>Permissu reipublicae, Populus Romanus.</i></li>
+<li><b>P.R.C.</b> -- <i>Post Romam conditam.</i></li>
+<li><b>PR.PR.</b> -- <i>Praefectus praetorii, Propraetor.</i></li>
+<li><b>P.S.</b> -- <i>Pecunia sua, Plebiscitum, Proprio sumptu, Publicae saluti, Post scriptum.</i></li>
+<li><b>P.V.</b> -- <i>Pia victrix, praefectus urbi, Praestantissimus vir.</i></li>
+<li><b>P.</b> -- <i>Pars, Passus, Pater, Patronus, Pax, Perpetuus, Pes, Pius, Plebs, Pondo, Populus, Positum, Post, Posuit, Praeses, Praetor, Primus, Pro, Provincia, Publicus/-e, Publius, Puer.</i></li>
+<li><b>P.C.</b> -- <i>Pactum conventum, Patres conscripti, Pecunia constituta, Ponendum curavit, Post consulatum, Potestate censoria.</i></li>
+<li><b>P.F.</b> -- <i>Pia fidelis, Pius felix, Promissa fides, Publii filius.</i></li>
+<li><b>P F INV</b> -- <i>Pius felix invictus.</i></li>
+<li><b>P.M.</b> -- <i>Piae memoriae, Pius minus, Pontifex maximus.</i></li>
+<li><b>PONT MAX</b> -- <i>Pontifex maximus.</i></li>
+<li><b>POS</b> -- <i>Posuit</i></li>
+<li><b>P.P.</b> -- <i>Parentes posuerunt, Parentibus pientissimis, Pater patratus, Pater patriae, Patronus posuit, Pecunia publica, Praepositus, Primipilus/Primus pilus, Pro pietate, Propraetor.</i></li>
+<li><b>PP</b> -- <i>Posuerunt.</i></li>
+<li><b>PR.</b> -- <i>Praeses, Praetor, Pridie, Princeps.</i></li>
+<li><b>PRAEF</b> -- <i>Praefectus</i></li>
+<li><b>PRAET</b> -- <i>Praetor</i></li>
+<li><b>P.R.</b> -- <i>Permissu reipublicae, Populus Romanus.</i></li>
+<li><b>P.R.C.</b> -- <i>Post Romam conditam.</i></li>
+<li><b>PROC</b> -- <i>Procurator</i></li>
+<li><b>PRO SAL</b> -- <i>Pro salute.</i></li>
+<li><b>PR.PR.</b> -- <i>Praefectus praetorii, Propraetor.</i></li>
+<li><b>P.S.</b> -- <i>Pecunia sua, Plebiscitum, Proprio sumptu, Publicae saluti, Post scriptum.</i></li>
+<li><b>PS</b> -- <i>Psalmus.</i></li>
+<li><b>P.V.</b> -- <i>Pia victrix, praefectus urbi, Praestantissimus vir.</i></li>
+<li><b>P.</b> -- <i>Pax</i> ("Peace"); or <i>Pius</i> ("Dutiful"); or <i>Ponendum</i> ("To be Placed"); or <i>Pridie</i> ("The Day Before"); or <i>Plus</i> ("More")</li>
+<li><b>P.C.</b> -- <i>Poni Curavit</i> ("Caused to be Placed")</li>
+<li><b>P.C.</b> -- <i>Post Consulatum</i></li>
+<li><b>P. CONS.</b> -- <i>Post Consulatum</i> ("After the Consulate")</li>
+<li><b>P.I.</b> -- <i>Poni Jussit</i> ("Ordered to be Placed")</li>
+<li><b>P.M.</b> -- <i>Plus Minus</i> ("More or Less"); or Piae Memoriae ("Of Pious Memory"); or Post Mortem ("After Death")</li>
+<li><b>PP.</b> -- <i>Præpositus</i> ("Placed over")</li>
+<li><b>PR.K.</b> -- <i>Pridie Kalendas</i> ("The Day Before the Calends")</li>
+<li><b>PRB.</b> -- <i>Presbyter</i> ("Priest")</li>
+<li><b>PR.N.</b> -- <i>Pridie Nonas</i> ("The Day Before the Nones")</li>
+<li><b>P.T.C.S.</b> -- <i>Pax Tibi Cum Sanctis</i> ("Peace to Thee With the Saints")</li>
+<li><b>PZ.</b> -- <i>Pie Zese</i>s ("May you Live Piously" — Greek)</li>
+<li><b>Pbr.</b> -- <i>Presbyter</i> ("Priest")</li>
+<li><b>Penia.</b> -- <i>Pœnitentia</i> ("Penance", or "repentance")</li>
+<li><b>Peniaria.</b> -- <i>Pœnitentiaria</i> ("Penitentiary"; i.e. Bureau of the Apostolic Penitentiary)</li>
+<li><b>Pntium.</b> -- <i>Præsentium</i> ("Of those present", or, "Of this present writing")</li>
+<li><b>Poe.</b> -- <i>Posse</i> ("To be able", or, "The ability to do a thing")</li>
+<li><b>Pontus.</b> -- <i>Pontificatus</i> ("Pontificate")</li>
+<li><b>PP.</b> -- <i>Papa</i> ("Pope")</li>
+<li><b>Pr.</b> -- <i>Pater</i> ("Father")</li>
+<li><b>Pror.</b> -- <i>Procurator</i></li>
+<li><b>Ptur.</b> -- <i>Præfertur</i> ("Is preferred", or, "Is brought forward")</li>
+<li><b>Ptus.</b> -- <i>Præfatus</i> ("Aforesaid")</li>
+<li><b>P.</b> -- <i>Pater</i>, <i>Pere</i> ("Father")</li>
+<li><b>Pa.</b> -- <i>Papa</i> ("Pope"); <i>Pater</i> ("Father")</li>
+<li><b>Pact.</b> -- <i>Pactum</i> ("Agreement")</li>
+<li><b>Pasch.</b> -- <i>Pascha</i> ("Easter" — Breviary)</li>
+<li><b>Patr.</b> -- <i>Patriarcha</i> ("Patriarch")</li>
+<li><b>Pent.</b> -- <i>Pentecostes</i> ("Pentecost" — Breviary)</li>
+<li><b>Ph.B.</b> -- <i>Philosophiæ Baccalaureus</i> ("Bachelor of Philosophy")</li>
+<li><b>Ph.D.</b> -- <i>Philosophiæ Doctor</i> ("Doctor of Philosophy")</li>
+<li><b>Phil.</b> -- <i>Philosophia</i> ("Philosophy")</li>
+<li><b>Ph.M.</b> -- <i>Philosophiæ Magister</i> ("Master of Philosophy")</li>
+<li><b>P.K.</b> -- <i>Pridie Kalendas</i> ("The day before the Calends")</li>
+<li><b>Poenit.</b> -- <i>Poenitentia</i> ("Penance")</li>
+<li><b>Poenit. Ap.</b> -- <i>Pœnitentiaria Apostolica</i> ("Office of the Apostolic Penitentiary")</li>
+<li><b>Pont.</b> -- <i>Pontifex</i> ("Pontiff", i.e. Bishop — Breviary)</li>
+<li><b>Pont.</b> -- <i>Pontificatus</i> ("Pontificate")</li>
+<li><b>Pont. Max.</b> -- <i>Pontifex Maximus</i> ("Supreme Pontiff")</li>
+<li><b>Poss.</b> -- <i>Possessor, Possessio</i> ("Possessor", "Possession")</li>
+<li><b>PP.</b> -- <i>Papa</i> ("Pope"); <i>Pontificum</i> ("Of the popes")</li>
+<li><b>P.P.</b> -- <i>Parochus</i> ("Parish Priest" — used mostly in Ireland)</li>
+<li><b>PP. AA.</b> -- <i>Patres Amplissimi</i> ("Cardinals")</li>
+<li><b>P.P.P.</b> -- <i>Propria Pecunia Posuit</i> ("Erected at his own expense")</li>
+<li><b>P.R.</b> -- <i>Permanens Rector</i> ("Permanent Rector")</li>
+<li><b>Praef.</b> -- <i>Præfatio</i> ("Preface" of the Mass — Breviary)</li>
+<li><b>Presbit.</b> -- <i>Presbyter</i>, Priest</li>
+<li><b>Prof.</b> -- <i>Professus, Professio, Professor</i> ("Professed", "Profession", "Professor")</li>
+<li><b>Prop. Fid.</b> -- <i>Propaganda Fide</i> (Congregation of the Propaganda, Rome)</li>
+<li><b>Propr.</b> -- <i>Proprium</i> ("Proper" — Breviary)</li>
+<li><b>Prov.</b> -- <i>Provisio, Provisum</i> ("Provision", "Provided")</li>
+<li><b>Ps.</b> -- <i>Psalmus</i> ("Psalm")</li>
+<li><b>Pub.</b> -- <i>Publicus</i></li>
+<li><b>Publ.</b> -- <i>Publicus, Publice</i> ("Public", "Publicly")</li>
+<li><b>Purg. Can.</b> -- <i>Purgatio Canonica</i> ("Canonical Disculpation")</li>
+</ul>
+<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=17" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>Q.</b> -- <i>Quaestor, Quando, Quantus, Que, Qui, Quinquennalis, Quintus, Quirites.</i></li>
+<li><b>Q.D.R.</b> -- <i>Qua de re.</i></li>
+<li><b>Q.I.S.S.</b> -- <i>Quae infra scripta sunt</i></li>
+<li><b>Q.S.S.S.</b> -- <i>Quae supra scripta sunt</i></li>
+<li><b>QQ.</b> -- <i>Quaecunque, Quinquennalis, Quoque.</i></li>
+<li><b>Q.R.</b> -- <i>Quaestor reipublicae.</i></li>
+<li><b>Q.</b> -- <i>Quaestor, Quando, Quantus, Que, Qui, Quinquennalis, Quintus, Quirites.</i></li>
+<li><b>Q.B.F.F.F.Q.S.</b> -- <i>Quod bonum, faustum, felix fortunatumque sit. (Quod bonum, felix, faustum fortunatumque sit.)</i></li>
+<li><b>Q.D.R.</b> -- <i>Qua de re.</i></li>
+<li><b>Q.I.D.</b> -- <i>Quater in die.</i></li>
+<li><b>Q.I.S.S.</b> -- <i>Quae infra scripta sunt</i></li>
+<li><b>Q.S.S.S.</b> -- <i>Quae supra scripta sunt</i></li>
+<li><b>QQ.</b> -- <i>Quaecunque, Quinquennalis, Quoque.</i></li>
+<li><b>Q.R.</b> -- <i>Quaestor reipublicae.</i></li>
+<li><b>Quadrag.</b> -- <i>Quadragesima</i> ("Lent", also the "Fortieth day" before Easter — Breviary)</li>
+<li><b>Quinquag.</b> -- <i>Quinquagesima</i> (The "Fiftieth day" before Easter — Breviary)</li>
+<li><b>Qd.</b> -- <i>Quod</i> ("Because", "That", or, "Which")</li>
+<li><b>Qmlbt.</b> -- <i>Quomodolibet</i> ("In any manner whatsoever")</li>
+<li><b>Qtnus.</b> -- <i>Quatenus</i> ("In so far as")</li>
+<li><b>Q.</b> -- <i>Quiescit</i></li>
+<li><b>Qui.</b> -- <i>Quiescit</i> ("He Rests")</li>
+<li><b>Q.B.AN.</b> -- <i>Qui Bixit [for Vixit] Annos</i> ("Who lived . . . years")</li>
+<li><b>Q.I.P.</b> -- <i>Quiescat In Pace</i> ("May he [or she] Rest in Peace")</li>
+<li><b>Q.V.</b> -- <i>Qui Vixit</i> ("Who Lived")</li>
+</ul>
+<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>R.</b> -- <i>Recte, Res, Res publica, Retro, Rex, Ripa, Roma, Romanus, Rufus, Rursus.</i></li>
+<li><b>R.C.</b> -- <i>Romana civitas, Romanus civis.</i></li>
+<li><b>RESP., RP.</b> -- <i>Res publica.</i></li>
+<li><b>RET.P., RP.</b> -- <i>Retro pedes.</i></li>
+<li><b>RIP</b> -- <i>Requiescat in pace.</i></li>
+<li><b>ROM IMP</b> -- <i>Romanorum imperator.</i></li>
+<li><b>R.R.</b> -- <i>Relationes relatae</i></li>
+<li><b>R.</b> -- <i>Recte, Res, Respublica, Retro, Rex, Ripa, Roma, Romanus, Rufus, Rursus.</i></li>
+<li><b>R.C.</b> -- <i>Romana civitas, Romanus civis.</i></li>
+<li><b>RESP., RP.</b> -- <i>Res publica.</i></li>
+<li><b>RET.P., RP.</b> -- <i>Retro pedes.</i></li>
+<li><b>R.</b> -- <i>Requiescit</i> ("He Rests"); or <i>Refrigerio</i> ("In [a place of] Refreshment")</li>
+<li><b>Reg.</b> -- <i>Regionis</i> ("Of the Region")</li>
+<li><b>Relione.</b> -- <i>Religione</i> ("Religion", or, "Religious Order" — abl. case)</li>
+<li><b>Rlari.</b> -- <i>Regulari</i> ("Regular")</li>
+<li><b>Roma.</b> -- <i>Romana</i> ("Roman")</li>
+<li><b>R.</b> -- <i>Responsorium</i> ("Responsory" — Breviary)</li>
+<li><b>R.</b> -- <i>Roma</i> (Rome)</li>
+<li><b>Rescr.</b> -- <i>Rescriptum</i> ("Rescript")</li>
+<li><b>R.D.</b> -- <i>Rural Dean</i></li>
+<li><b>Req.</b> -- <i>Requiescat</i> ("May he [or she] rest", i.e. in peace)</li>
+<li><b>Resp.</b> -- <i>Responsum</i> ("Reply")</li>
+<li><b>R.I.P.</b> -- <i>Requiescat In Pace</i> ("May he or she rest in peace")</li>
+<li><b>Rit.</b> -- <i>Ritus</i> ("Rite", "Rites")</li>
+<li><b>Rom.</b> -- <i>Romanus, Romana</i> ("Roman")</li>
+<li><b>R. P.</b> -- <i>Reverendus Pater, Reverend Pere</i> ("Reverend Father")</li>
+<li><b>RR.</b> -- <i>Rerum</i> ("Of Things, Subjects" — e.g. SS. RR. Ital., Writers on Italian [historical] subjects); Regesta</li>
+<li><b>Rt. Rev.</b> -- <i>Right Reverend</i></li>
+<li><b>Rub.</b> -- <i>Ruber</i> ("Red" — Breviary)</li>
+<li><b>Rubr.</b> -- <i>Rubrica</i> ("Rubric")</li>
+</ul>
+<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>S.</b> -- <i>Sacrum, Scriptus, Semis, Senatus, Sepultus, Servius, Servus, Sextus, Sibi, Sine, Situs, Solus, Solvit, Sub, Suus.</i></li>
+<li><b>SAC.</b> -- <i>Sacerdos, Sacrificium, Sacrum.</i></li>
+<li><b>S.C.</b> -- <i>Senatus consultum.</i></li>
+<li><b>S.D.</b> -- <i>Sacrum diis, Salutem dicit, Senatus decreto, Sententiam</i></li>
+<li><b>S.D.M.</b> -- <i>Sacrum diis Manibus, Sine dolo malo.</i></li>
+<li><b>SER.</b> -- <i>Servius, Servus.</i></li>
+<li><b>S.E.T.L.</b> -- <i>Sit ei terra levis.</i></li>
+<li><b>SN.</b> -- <i>Senatus, Sententia, Sine nomine.</i><sup id="cite_ref-LatAcr_3-6" class="reference"><a href="#cite_note-LatAcr-3">[3]</a></sup></li>
+<li><b>S.D.</b> -- <i>Salutem dicit.</i><sup id="cite_ref-UTKCSmclennan_4-0" class="reference"><a href="#cite_note-UTKCSmclennan-4">[4]</a></sup></li>
+<li><b>S.P.</b> -- <i>Sacerdos perpetua, Sine pecunia, Sua pecunia.</i></li>
+<li><b>S.P.D.</b> -- <i>Salutem plurimam dicit.</i><sup id="cite_ref-UTKCSmclennan_4-1" class="reference"><a href="#cite_note-UTKCSmclennan-4">[4]</a></sup></li>
+<li><b>S.P.Q.R.</b> -- <i><a href="/wiki/SPQR" title="SPQR">Senatus populusque Romanus</a>.</i></li>
+<li><b>S.S.</b> -- <i>Sanctissimus senatus, Supra scripture.</i></li>
+<li><b>S.T.T.L.</b>-- <i><a href="/wiki/Sit_tibi_terra_levis" title="Sit tibi terra levis">Sit tibi terra levis</a>.</i></li>
+<li><b>S.</b> -- <i>Sacerdos, Sacrum, <a href="/wiki/Sanctus" title="Sanctus">Sanctus</a>, Scriptus, <a href="/wiki/Semis" title="Semis">Semis</a>, Senatus, Sepultus, Servius, Servus, Sestertium, Sextus, Sibi, Sine, Situs, Solus, Solvit, Sub, Suus.</i></li>
+<li><b>SAC.</b> -- <i>Sacerdos, Sacrificium, Sacrum.</i></li>
+<li><b>S.C.</b> -- <i>Senatus consultum.</i></li>
+<li><b><a href="/wiki/Sc." class="mw-redirect" title="Sc.">sc.</a></b>, <b>scil.</b> -- <i>scilicet</i></li>
+<li><b>S.D.</b> -- <i>Sacrum diis, Salutem dicit, Senatus decreto, Sententiam</i></li>
+<li><b>S.D.M.</b> -- <i>Sacrum diis Manibus, Sine dolo malo.</i></li>
+<li><b>SER.</b> -- <i>Servius, Servus/-a.</i></li>
+<li><b>S.E.T.L.</b> -- <i>Sit ei terra levis.</i></li>
+<li><b>SEX</b> -- <i>Sextus.</i></li>
+<li><b>SI</b> -- <i>Societas Iesu</i></li>
+<li><b>SN.</b> -- <i>Senatus, Sententia, Sine.</i></li>
+<li><b>S.P.</b> -- <i>Sacerdos perpetua, Sine pecunia, Spurius, Sua pecunia.</i></li>
+<li><b>S.P.D.</b> -- <i>Salutem plurimam dicit</i>, ad caput litterarum.</li>
+<li><b>S.P.Q.R.</b> -- <i><a href="/wiki/SPQR" title="SPQR">Senatus populusque Romanus</a>.</i></li>
+<li><b><a href="/w/index.php?title=S._R._E.&amp;action=edit&amp;redlink=1" class="new" title="S. R. E. (page does not exist)">S. R. E.</a></b> -- <i><a href="/w/index.php?title=Ecclesia_Catholica_Romana&amp;action=edit&amp;redlink=1" class="new" title="Ecclesia Catholica Romana (page does not exist)">Sacra vel Sancta Romana Ecclesia</a></i></li>
+<li><b>S. R. I. (M. P.)</b> -- <i><a href="/wiki/Imperium_Romanum_Sacrum" class="mw-redirect" title="Imperium Romanum Sacrum">Sacrum Romanum Imperium</a></i></li>
+<li><b>S.S.</b> -- <i>Sancti, Sanctissimus, Sanctissimus senatus, Supra scripture.</i></li>
+<li><b>SSS</b> -- <i>Sanctissimus.</i></li>
+<li><b>ST</b> -- <i>Sanctus.</i></li>
+<li><b>S.T.B.V.E.B.V.</b> -- <i>Si Tu Bene Valeas Ego Bene Valeo.</i></li>
+<li><b>STIP</b> -- <i>Stipendorium.</i></li>
+<li><b>STTL</b> -- <i>Sit tibi terra levis.</i></li>
+<li><b>S.V.B.E.E.Q.V.</b> -- <i>Si vales bene est, ego quidem valeo.</i></li>
+<li><b>S.</b> -- <i>Sacrum</i></li>
+<li><b>Sacr.</b> -- <i>Sacrum</i> ("Sacred")</li>
+<li><b>Sab.</b> -- <i>Sabbatum</i></li>
+<li><b>Sabb.</b> -- <i>Sabbatum</i> ("Sabbath", Saturday)</li>
+<li><b>Saec.</b> -- <i>Saeculum</i> (Century)</li>
+<li><b>Sal.</b> -- <i>Salus, Salutis</i> ("Salvation", "of Salvation")</li>
+<li><b>Salmant.</b> -- <i>Salmanticenses</i> (Theologians of Salamanca)</li>
+<li><b>S.C.</b> -- <i>Sacra Congregatio</i> ("Sacred Congregation")</li>
+<li><b>S.C.C.</b> -- <i>Sacra Congregatio Concilii</i> ("Sacred Congregation of the Council", i.e. of Trent)</li>
+<li><b>S.C.EE.RR.</b> -- <i>Sacra Congregatio Episcoporum et Regularium</i> ("Sacred Congregation of Bishops and Regulars")</li>
+<li><b>S.C.I.</b> -- <i>Sacra Congregatio Indicis</i> ("Sacred Congregation of the Index")</li>
+<li><b>S.C.P.F.</b> -- <i>Sacra Congregatio de Propaganda Fide</i> ("Sacred Congregation for the Propagation of the Faith")</li>
+<li><b>SCS</b> -- <i>Sanctus</i> ("Saint")</li>
+<li><b>s.d.</b> -- <i>sine data</i> (undated book)</li>
+<li><b>S.D.</b> -- <i>Servus Dei</i> (Servant of God)</li>
+<li><b>Semid.</b> -- <i>Semiduplex</i> ("Semi" double feast — Breviary)</li>
+<li><b>Septuag</b> -- <i>Septuagesima</i> ("Seventieth day" before Easter; always a Sunday — Breviary)</li>
+<li><b>Sexag.</b> -- <i>Sexagesima</i> ("Sixtieth day" before Easter — Breviary)</li>
+<li><b>Sig.</b> -- <i>Sigillum</i> ("Seal")</li>
+<li><b>Simpl.</b> -- <i>Simplex</i> ("Simple" feast — Breviary)</li>
+<li><b>Sine Com.</b> -- <i>Sine Commemoratione</i> ("Without commemoration" of other feast, or feasts — Breviary)</li>
+<li><b>s.l.</b> -- <i>sine loco</i> ("without indication" of place of printing)</li>
+<li><b>s.l.n.d.</b> -- <i>sine loco nec data</i> ("without indication of place" or "without date of printing")</li>
+<li><b>S.M.</b> -- <i>Sanctæ Memoriæ</i> ("Of Holy Memory")</li>
+<li><b>Soc.</b> -- <i>Socius, Socii</i> ("Companion", "Companions" — Breviary)</li>
+<li><b>S. Off.</b> -- <i>Sanctum Officium</i> (Congregation of the Holy Office, Inquisition)</li>
+<li><b>S.P.</b> -- <i>Sanctissime Pater</i> ("Most Holy Father")</li>
+<li><b>S.P.</b> -- <i>Sanctus Petrus</i></li>
+<li><b>S. Petr.</b> -- <i>Sanctus Petrus</i> ("St. Peter")</li>
+<li><b>S.P.</b> -- <i>Summus Pontifex</i> ("Supreme Pontiff", Pope)</li>
+<li><b>S.P.A.</b> -- <i>Sacrum Palatium Apostolicum</i> ("Sacred Apostolic Palace", Vatican, Quirinal)</li>
+<li><b>Sr.</b> -- <i>Soror</i> (<i>Sister</i>)</li>
+<li><b>S.R.C.</b> -- <i>Sacra Rituum Congregatio</i> ("Sacred Congregation of Rites")</li>
+<li><b>S.R.E.</b> -- <i>Sancta Romana Ecclesia, Sanctæ Romanæ Ecclesia</i> ("Most Holy Roman Church"; or, "of the Most Holy Roman Church")</li>
+<li><b>SS.</b> -- <i>Scriptores</i> ("Writers")</li>
+<li><b>SS.D.N.</b> -- <i>Sanctissimus Dominus Noster</i> ("Our Most Holy Lord [Jesus Christ]", also a title of the Pope)</li>
+<li><b>S., SS.</b> -- <i>Sanctus, Sancti</i> ("Saint", "Saints")</li>
+<li><b>S.T.B.</b> -- <i>Sacræ Theologiæ Baccalaureus</i> ("Bachelor of Sacred Theology")</li>
+<li><b>S.T.D.</b> -- <i>Sacræ Theologiæ Doctor</i> ("Doctor of Sacred Theology")</li>
+<li><b>S.T.L.</b> -- <i>Sacræ Theologiæ Licentiatus</i> ("Licentiate of Sacred Theology")</li>
+<li><b>Suffr.</b> -- <i>Suffragia</i> ("Suffrages" — i.e. prayers of the saints; Breviary)</li>
+<li><b>S.V.</b> -- <i>Sanctitas Vestra</i> ("Your Holiness")</li>
+<li><b>Syn.</b> -- <i>Synodus</i> ("Synod")</li>
+<li><b>Salri.</b> -- <i>Salutari</i> ("Salutary")</li>
+<li><b>Snia.</b> -- <i>Sententia</i> ("Opinion")</li>
+<li><b>Sntae.</b> -- <i>Sanctæ</i></li>
+<li><b>Stae.</b> -- <i>Sanctæ</i> ("Holy", or, "Saints" — feminine)</li>
+<li><b>Spealer.</b> -- <i>Specialiter</i> ("Specially")</li>
+<li><b>Spualibus</b> -- <i>Spiritualibus</i> ("In spiritual matters")</li>
+<li><b>Supplioni.</b> -- <i>Supplicationibus</i> ("Supplication" — dat. or abl. case)</li>
+<li><b>S.</b> -- <i>Suus</i> ("His"); or <i>Situs</i> ("Placed"); or Sepulchrum ("Sepulchre")</li>
+<li><b>SC. M.</b> -- <i>Sanctæ Memoriæ</i> ("Of Holy Memory")</li>
+<li><b>SD.</b> -- <i>Sedit</i> ("He sat")</li>
+<li><b>SSA.</b> -- <i>Subscripta</i> ("Subscribed")</li>
+<li><b>S.I.D.</b> -- <i>Spiritus In Deo</i> ("Spirit [rests] in God")</li>
+<li><b>S.P.</b> -- <i>Sepultus</i> ("Buried"); or Sepulchrum ("Sepulchre")</li>
+<li><b>SS.</b> -- <i>Sanctorum</i> (Of the Saints)</li>
+<li><b>S.V.</b> -- <i>Sacra Virgo</i> ("Holy Virgin")</li>
+</ul>
+<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>T.</b> -- <i>Terminus, Testamentum, Titus, Tribunus, Tu, Turma, Tutor.</i></li>
+<li><b>TB., TI., TIB.</b> -- <i>Tiberius.</i></li>
+<li><b>TB., TR., TRB.</b> -- <i>Tribunus.</i></li>
+<li><b>T.F.</b> -- <i>Testamentum fecit, Titi filius, Titulum fecit, Titus Flavius.</i></li>
+<li><b>TM.</b> -- <i>Terminus, Testamentum, Thermae.</i></li>
+<li><b>T.P.</b> -- <i>Terminum posuit, Tribunicia potestate, Tribunus plebis.</i></li>
+<li><b>TVL.</b> -- <i>Tullius, Tunus.</i></li>
+<li><b>T.</b> -- <i>Terminus, Testamentum, Titus, Tribunus, Tu, Turma, Tutor.</i></li>
+<li><b>TB., TI., TIB.</b> -- <i>Tiberius.</i></li>
+<li><b>TB., TR., TRB.</b> -- <i>Tribunus.</i></li>
+<li><b>T.F.</b> -- <i>Testamentum fecit, Titi filius, Titulum fecit, Titus Flavius.</i></li>
+<li><b>TFI</b> -- <i>Testamentum fieri iussit.</i></li>
+<li><b>TI(B)</b> -- <i>Tiberius</i></li>
+<li><b>TM.</b> -- <i><a href="/wiki/Terminus_(disambiguation)" class="mw-redirect mw-disambig" title="Terminus (disambiguation)">Terminus</a>, Testamentum, Thermae.</i></li>
+<li><b>T.P.</b> -- <i>Terminum posuit, Tribunicia potestate, Tribunus plebis.</i></li>
+<li><b>TR PL</b> -- <i>Tribunus plebis</i></li>
+<li><b><a href="/w/index.php?title=T.R.E.&amp;action=edit&amp;redlink=1" class="new" title="T.R.E. (page does not exist)">T.R.E.</a></b> -- <i>Tempore Regis Eduardi</i></li>
+<li><b>TVL.</b> -- <i>Tullius, Tunus.</i></li>
+<li><b>T.</b> -- <i>Titulus</i></li>
+<li><b>TT.</b> -- <i>Titulus, Tituli</i> ("Title", "Titles")</li>
+<li><b>TM.</b> -- <i>Testamentum</i> ("Testament")</li>
+<li><b>Thia</b> -- <i>Theologia</i></li>
+<li><b>Theolia.</b> -- <i>Theologia ("Theology")</i></li>
+<li><b>Tli.</b> -- <i>Tituli</i> ("Titles")</li>
+<li><b>Tm.</b> -- <i>Tantum</i> ("So much", or, "Only")</li>
+<li><b>Tn.</b> -- <i>Tamen</i> ("Nevertheless")</li>
+<li><b>Temp.</b> -- <i>Tempus, Tempore</i> ("Time", "in time")</li>
+<li><b>Test.</b> -- <i>Testes, Testimonium</i> ("Witnesses", "Testimony")</li>
+<li><b>Theol.</b> -- <i>Theologia</i> ("Theology")</li>
+<li><b>Tit.</b> -- <i>Titulus, Tituli</i> ("Title", "Titles")</li>
+</ul>
+<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=21" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>Ult.</b> -- <i>Ultimo</i> ("Last" — day, month, year)</li>
+<li><b>Usq.</b> -- <i>Usque</i> ("As far as")</li>
+<li><b>Ux.</b> -- <i>Uxor</i> ("Wife")</li>
+</ul>
+<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=22" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>V.</b> -- <i>Urbs, Usus, Uxor, Vale, Verba, Vestalis, Vester, Vir, Vivus, Vixit, Volo, Votum.</i></li>
+<li><b>VA.</b> -- <i>Veterano assignatus, Vixit annos.</i></li>
+<li><b>V.C.</b> -- <i>Vale conjux, <a href="/wiki/Vir_clarissimus" class="mw-redirect" title="Vir clarissimus">Vir clarissimus</a>, Vir consularis.</i></li>
+<li><b>V.E.</b> -- <i>Verum etiam, Vir egregius (=equestrian), Visum est.</i></li>
+<li><b>V.F.</b> -- <i>Usus fructus, Verba fecit, Vivus fecit.</i></li>
+<li><b>V.P.</b> -- <i>Urbis praefectus, Vir perfectissimus, Vivus posuit.</i></li>
+<li><b>V.R.</b> -- <i>Urbs Roma, Uti rogas, Votum reddidit.</i></li>
+<li><b>V.S.L.M.</b> -- <i>Votum Solvit Libens Merito.</i> (willingly and deservedly fulfilled his vow)</li>
+<li><b>V.</b> -- <i>Urbs, Usus, Uxor, Vale, Verba, Vestalis, Vester, Victrix, Vir, Virgo, Vivus, Vixit, Volo, Votum.</i></li>
+<li><b>VA.</b> -- <i>Veterano assignatus, Vixit annos.</i></li>
+<li><b>V.C.</b> -- <i>Vale coniunx, Vir clarissimus, Vir consularis.</i></li>
+<li><b>V.E.</b> -- <i>Verum etiam, Vir egregius, Visum est.</i></li>
+<li><b>V.F.</b> -- <i>Usus fructus, Verba fecit, Vivus fecit.</i></li>
+<li><b>v.g.</b>, <b>v.gr.</b> - <i>verbi gratia</i></li>
+<li><b>VIX</b> -- <i>Vixit</i></li>
+<li><b>VLP</b> -- <i>Ulpius</i></li>
+<li><b>V.P.</b> -- <i>Urbis praefectus, Vir perfectissimus, Vivus posuit.</i></li>
+<li><b>V.R.</b> -- <i>Urbs Roma, Uti rogas, Votum reddidit.</i></li>
+<li><b>VS</b> -- <i>Votum solvit, Vir spectabilis.</i></li>
+<li><b>VSLLM</b> -- <i>Votum solvit libens laetus merito.</i></li>
+<li><b>V.</b> -- <i>Venerabilis</i></li>
+<li><b>Ven.</b> -- <i>Venerabilis</i></li>
+<li><b>VV.</b> -- <i>Venerabilis, Venerabiles</i> ("Venerable")</li>
+<li>'<i>Venebli — Venerabili</i> ("Venerable")</li>
+<li><b>Vrae.</b> -- <i>Vestræ</i> ("Your")</li>
+<li><b>V.</b> -- <i>Vester</i></li>
+<li><b>Vest.</b> -- <i>Vester</i> ("Your")</li>
+<li><b>Vac.</b> -- <i>Vacat, Vacans</i> ("Vacant")</li>
+<li><b>Val.</b> -- <i>Valor</i> ("Value")</li>
+<li><b>Vat.</b> -- <i>Vaticanus</i> ("Vatican")</li>
+<li><b>Vba.</b> -- <i>Verba</i> ("Words")</li>
+<li><b>Vers.</b> -- <i>Versiculus</i> ("Versicle" — Breviary)</li>
+<li><b>Vesp.</b> -- <i>Vesperæ</i> ("Vespers" — Breviary)</li>
+<li><b>V.F.</b> -- <i>Vicarius Foraneus</i></li>
+<li><b>Vic. For.</b> -- <i>Vicarius Foraneus</i> ("Vicar-Forane")</li>
+<li><b>V.G.</b> -- <i>Vicarius Generalis</i> ("Vicar-General")</li>
+<li><b>Vid.</b> -- <i>Vidua</i> ("Widow" — Breviary)</li>
+<li><b>Vid.<i>Videlicet</i></b></li>
+<li><b>Videl.</b> -- <i>Videlicet</i> ("Namely")</li>
+<li><b>Vig.</b> -- <i>Vigilia</i> ("Vigil" of a feast — Breviary)</li>
+<li><b>Viol.</b> -- <i>Violaceus</i> ("Violet" — Breviary)</li>
+<li><b>Virg.</b> -- <i>Virgo</i> ("Virgin" — Breviary)</li>
+<li><b>Virid.</b> -- <i>Viridis</i> ("Green" — Breviary)</li>
+<li><b>V.M.</b> -- <i>Vir Magnificus</i> ("Great Man")</li>
+<li><b>V. Rev.</b> -- <i>Very Reverend</i></li>
+<li><b>V.T.</b> -- <i>Vetus Testamentum</i></li>
+<li><b>V.</b> -- <i>Vixit</i> ("He Lived"); or <i>Vixisti</i> ("Thou didst Live")</li>
+<li><b>VB.</b> -- <i>Vir Bonus</i> ("A Good Man")</li>
+<li><b>V.C.</b> -- <i>Vir Clarissimus</i> ("A Most Illustrious Man")</li>
+<li><b>VV. CC.</b> -- <i>Viri Clarissimi</i> ("Most Illustrious Men")</li>
+<li><b>V.H.</b> -- <i>Vir Honestus</i> ("A Worthy Man")</li>
+<li><b>V. X.</b> -- <i>Vivas, Care [or Cara]</i> ("Mayest thou Live, Dear One"); or <i>Uxor Carissima</i> ("Most Dear Wife")</li>
+</ul>
+<h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=23" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>XV V.</b> -- <i><a href="/w/index.php?title=XVV&amp;action=edit&amp;redlink=1" class="new" title="XVV (page does not exist)">Quindecimvir</a>.</i></li>
+<li><b>X.</b> -- <i>Christus</i></li>
+<li><b>XPC.</b> -- <i>Christus</i></li>
+<li><b>XS.</b> -- <i>Christus ("Christ")</i></li>
+<li><b>XC.</b> -- <i>Christus</i></li>
+<li><b>XCS.</b> -- <i>Christus ("Christ" — first, middle, and last letters of the Greek name)</i></li>
+</ul>
+<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=24" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>ZC, ZE</b> -- <i>Et cetera</i></li>
+</ul>
+<h2><span class="mw-headline" id="Numbers">Numbers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=25" title="Edit section: Numbers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>I</b> -- <i>unus</i></li>
+<li><b>V</b> -- <i>quinque</i></li>
+<li><b>X</b> -- <i>decem</i></li>
+<li><b>L</b> -- <i>quinquaginta</i></li>
+<li><b>C</b> -- <i>centum</i></li>
+<li><b>D</b> -- <i>quingenti</i></li>
+<li><b>M</b> -- <i>mille</i></li>
+</ul>
+<h2><span class="mw-headline" id="Religious_Orders_and_Congregations">Religious Orders and Congregations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=26" title="Edit section: Religious Orders and Congregations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>A.A.</b> -- <i><a href="/w/index.php?title=Augustiniani_Assumptionis&amp;action=edit&amp;redlink=1" class="new" title="Augustiniani Assumptionis (page does not exist)">Augustiniani Assumptionis</a></i> (Assumptionists)</li>
+<li><b>A.B.A.</b> -- <i><a href="/w/index.php?title=Antoniani_Benedictini_Armeni&amp;action=edit&amp;redlink=1" class="new" title="Antoniani Benedictini Armeni (page does not exist)">Antoniani Benedictini Armeni</a></i> (Mechitarists)</li>
+<li><b>C.J.M.</b> -- <i><a href="/w/index.php?title=Congregatio_Jesu_et_Mari%C3%A6&amp;action=edit&amp;redlink=1" class="new" title="Congregatio Jesu et Mariæ (page does not exist)">Congregatio Jesu et Mariæ</a></i> (Eudist Fathers)</li>
+<li><b>C.M.</b> -- <i>Congregatio Missionis</i> (Lazarists)</li>
+<li><b>C.M.</b> -- <i>Congregatio Mariæ</i> (Fathers of the Company of Mary)</li>
+<li><b>C.O..</b> -- <i>Congregatio Oratorii</i></li>
+<li><b>C.P.</b> -- <i>Congregatio Passionis</i> (Passionists)</li>
+<li><b>C.PP.S.</b> -- <i>Congregatio Pretiosissimi Sanguinis</i> (Fathers of the Most Precious Blood)</li>
+<li><b>C.R.</b> -- <i>Congregatio Resurrectionis</i> (Resurrectionist Fathers)</li>
+<li><b>C.R.C.S.</b> -- <i>Clerici Regulares Congregationis Somaschæ</i> (Somaschi Fathers)</li>
+<li><b>C.R.I.C.</b> -- <i>Canonici Regulares Immaculate Conecptionis</i> ("Canons Regular of the Immaculate Conception")</li>
+<li><b>C.R.L.</b> -- <i>Canonici Regulares Lateranenses</i> ("Canons Regular of the Lateran")</li>
+<li><b>C.R.M.</b> -- <i>Clerici Regulares Minores</i> ("Clerks Regular Minor", Mariani)</li>
+<li><b>C.R.M.D.</b> -- <i>Clerici Regulares Matris Dei</i> ("<a href="/w/index.php?title=Clerks_Regular_of_the_Mother_of_God&amp;action=edit&amp;redlink=1" class="new" title="Clerks Regular of the Mother of God (page does not exist)">Clerks Regular of the Mother of God</a>")</li>
+<li><b>C.R.M.I.</b> -- <i>Clerici Regulares Ministrantes Infirmis</i> ("Clerks Regular Attendant on the Sick", Camillini, Camilliani)</li>
+<li><b>C.R.P.</b> -- <i>Congregatio Reformatorum Præmonstratensium</i> (Premonstratensians)</li>
+<li><b>C.R.S.P.</b> -- <i>Clerici Regulares Sancti Pauli</i> (<a href="/wiki/Barnabites" title="Barnabites">Barnabites</a>)</li>
+<li><b>C.R.S.P.</b> -- <i>Clerici Regulares Pauperum Matris Dei Scholarum Piarum</i> ("Clerks Regular of the Poor Men of the Mother of God for Pious Schools", Piarists)</li>
+<li><b>C.R.T.</b> -- <i><a href="/w/index.php?title=Clerici_Regulares_Theatini&amp;action=edit&amp;redlink=1" class="new" title="Clerici Regulares Theatini (page does not exist)">Clerici Regulares Theatini</a></i> (<a href="/wiki/Theatines" title="Theatines">Theatines</a>)</li>
+<li><b>C.S.B.</b> -- <i><a href="/w/index.php?title=Congregatio_Sancti_Basilii&amp;action=edit&amp;redlink=1" class="new" title="Congregatio Sancti Basilii (page does not exist)">Congregatio Sancti Basilii</a></i> (<a href="/wiki/Congregation_of_St._Basil" title="Congregation of St. Basil">Basilians</a>)</li>
+<li><b>C.S.C.</b> -- <i>Congregatio Sanctæ Crucis</i> (Fathers and Brothers of the Holy Cross)</li>
+<li><b>C.S.P.</b> -- <i>Congregatio Sancti Pauli</i> (<a href="/wiki/Paulists" title="Paulists">Paulists</a>)</li>
+<li><b>C.S.Sp.</b> -- <i>Congregatio Sancti Spiritus</i> (Fathers of the Holy Ghost)</li>
+<li><b>C.S.V.</b> -- <i>Clerici Sancti Viatoris</i> (Clerks, or Clerics, of St. Viateur)</li>
+<li><b>C.SS.CC.</b> -- <i>Congregatio Sacratissimorum Cordium</i> (Missionaries of the Sacred Hearts of Jesus and Mary)</li>
+<li><b>C. SS. R.</b> -- <i>Congregatio Sanctissimi Redemptoris</i> (Redemptorists)</li>
+<li><b><a href="/w/index.php?title=F.S.S.P.&amp;action=edit&amp;redlink=1" class="new" title="F.S.S.P. (page does not exist)">F.S.S.P.</a></b> -- <i><a href="/wiki/Fraternitas_Sacerdotalis_Sancti_Petri" class="mw-redirect" title="Fraternitas Sacerdotalis Sancti Petri">Fraternitas Sacerdotalis Sancti Petri</a></i></li>
+<li><b><a href="/w/index.php?title=F.S.S.P.X&amp;action=edit&amp;redlink=1" class="new" title="F.S.S.P.X (page does not exist)">F.S.S.P.X</a></b> -- <i><a href="/wiki/Fraternitas_Sacerdotalis_Sancti_Pii_X" class="mw-redirect" title="Fraternitas Sacerdotalis Sancti Pii X">Fraternitas Sacerdotalis Sancti Pii X</a></i></li>
+<li><b>Inst. Char.</b> -- <i>Institutum Charitatis</i> (Rosminians)</li>
+<li><b><a href="/w/index.php?title=I.C.R.S.S.&amp;action=edit&amp;redlink=1" class="new" title="I.C.R.S.S. (page does not exist)">I.C.R.S.S.</a></b> -- <i><a href="/w/index.php?title=Instituttum_Christi_Regis_Summi_Sacerdotis&amp;action=edit&amp;redlink=1" class="new" title="Instituttum Christi Regis Summi Sacerdotis (page does not exist)">Instituttum Christi Regis Summi Sacerdotis</a></i></li>
+<li><b><a href="/w/index.php?title=I.C.R.S.P.&amp;action=edit&amp;redlink=1" class="new" title="I.C.R.S.P. (page does not exist)">I.C.R.S.P.</a></b> -- <i><a href="/w/index.php?title=Institutum_Christi_Regis_Summi_Sacerdotis&amp;action=edit&amp;redlink=1" class="new" title="Institutum Christi Regis Summi Sacerdotis (page does not exist)">Institutum Christi Regis Summi Sacerdotis</a></i></li>
+<li><b>M.C.</b> -- <i>Missionaries of Charity</i></li>
+<li><b>M.S.</b> -- <i>Missionaries of La Salette</i> [France]</li>
+<li><b>M.S.C.</b> -- <i>Missionarii Sancti Caroli</i> ("Missionaries of St. Charles")</li>
+<li><b>M.S.C.</b> -- <i>Missionarii Sacratissimi Cordis</i> ("Missionaries of the Most Sacred Heart")</li>
+<li><b>O.C.</b> -- <i>Ordo Charitatis</i> (Fathers of the Order of Charity)</li>
+<li><b>O. Camald.</b> -- <i>Ordo Camaldulensium</i> (Camaldolese)</li>
+<li><b>O. Cart.</b> -- <i>Ordo Cartusiensis</i> (Carthusians)</li>
+<li><b>O. Cist.</b> -- <i>Ordo Cisterciensium</i> (Cistercians)</li>
+<li><b>O.C.C.</b> -- <i>Ordo Carmelitarum Calceatorum</i> (Carmelites)</li>
+<li><b>O.C.D.</b> -- <i>Ordo Carmelitarum Discalceatorum</i> (Discalced, or Barefoot, Carmelites)</li>
+<li><b>O.C.R.</b> -- <i>Ordo Reformatorum</i> Cisterciensium (Cistercians, Trappists)</li>
+<li><b>O.F.M.</b> -- <i>Ordo Fratrum Minorum</i> (Observant Franciscans)</li>
+<li><b>O.M.</b> -- <i>Ordo [Fratrum] Minimorum</i> (Minims of St. Francis of Paul)</li>
+<li><b>O. Merced.</b> -- <i>Ordo Beatæ Mariæ Virginis de Redemptione Captivorum</i> (Mercedarians, Nolaschi)</li>
+<li><b>O.M.C.</b> -- <i>Ordo Minorum Conventualium</i> (Conventual Franciscans)</li>
+<li><b>O.M. Cap.</b> -- <i>Ordo Minorum Cappucinorum</i></li>
+<li><b>O.F.M. Cap.</b> -- <i>Ordo Minorum Cappucinorum</i></li>
+<li><b>O.M.C.</b> -- <i>Ordo Minorum Cappucinorum</i> (Capuchins)</li>
+<li><b>O.M.I.</b> -- <i>Oblati Mariæ Immaculatæ</i> (Oblate Fathers of Mary Immaculate)</li>
+<li><b>O.P.</b> -- <i>Ordo Prædicatorum</i></li>
+<li><b>Ord Fratr. Praed.</b> -- <i>Ordo Prædicatorum</i> (Dominicans)</li>
+<li><b>Ord. Praem.</b> -- <i>Ordo Præmonstratensium</i> (Premonstratensians, Norbertines)</li>
+<li><b>O.S.A.</b> -- <i>Ordo [Eremitarum] Sancti Augustini</i> (Augustinians)</li>
+<li><b>O.S.B.</b> -- <i>Ordo Sancti Benedicti</i> (Benedictines)</li>
+<li><b>O.S.C.</b> -- <i>Oblati Sancti Caroli</i> (Oblate Fathers of St. Charles)</li>
+<li><b>O.S.F.C.</b> -- <i>Ordinis Sancti Francisci Capuccini</i> (Franciscan Capuchins)</li>
+<li><b>O.S.F.S.</b> -- <i>Oblati Sancti Francisci Salesii</i> (Oblate Fathers of St. Francis of Sales)</li>
+<li><b>O.S.H.</b> -- <i>Ordo [Eremitarum] Sancti Hieronymi</i> (Hieronymites)</li>
+<li><b>O.S.M.</b> -- <i>Ordo Servorum Mariæ</i> (Servites)</li>
+<li><b>O.SS.C.</b> -- <i>Oblati Sacratissimi Cordis</i> ("Oblate Fathers of the Sacred Heart")</li>
+<li><b>O. Trinit.</b> -- <i>Ordo Sanctissimæ Trinitatis</i> (Trinitarians)</li>
+<li><b>P.O.</b> -- <i>Presbyteri Oratorii</i> (Oratorians)</li>
+<li><b>P.S.M.</b> -- <i>Pia Societas Missionum</i> (Fathers of the Pious Society of Missions, Pallottini)</li>
+<li><b>P.S.S.</b> -- <i>Presbyteri Sancti Sulpicii</i> (Sulpicians)</li>
+<li><b><a href="/w/index.php?title=R.O.S.M.A.&amp;action=edit&amp;redlink=1" class="new" title="R.O.S.M.A. (page does not exist)">R.O.S.M.A.</a></b> -- <i><a href="/w/index.php?title=Realis_Ordo_Sancti_Micha%C3%ABli_ab_Ansa&amp;action=edit&amp;redlink=1" class="new" title="Realis Ordo Sancti Michaëli ab Ansa (page does not exist)">Realis Ordo Sancti Michaëli ab Ansa</a></i></li>
+<li><b>S.C.</b> -- <i>Salesianorum Congregatio</i> (Congregation of St. Francis of Sales — Salesian Fathers)</li>
+<li><b>S.D.S.</b> -- <i>Societas Divini Salvatoris</i> ("Society of the Divine Saviour")</li>
+<li><b>S.D.V.</b> -- <i>Societas Divini Verbi</i> (Fathers of the Divine Word)</li>
+<li><b>S.J.</b> -- <i>Societas Jesu</i> ("Society of Jesus", i.e. the Jesuits)</li>
+<li><b>S.M.</b> -- <i>Societas Mariæ</i> (Marists)</li>
+<li><b><a href="/wiki/S.M.O.M." class="mw-redirect" title="S.M.O.M.">S.M.O.M.</a></b> -- <i><a href="/w/index.php?title=Supremus_ac_Militaris_Ordo_Melitensis&amp;action=edit&amp;redlink=1" class="new" title="Supremus ac Militaris Ordo Melitensis (page does not exist)">Supremus ac Militaris Ordo Melitensis</a></i></li>
+<li><b><a href="/w/index.php?title=SMOCSG&amp;action=edit&amp;redlink=1" class="new" title="SMOCSG (page does not exist)">SMOCSG</a></b> -- <i><a href="/w/index.php?title=Sacer_ac_Militaris_Ordo_Constantinianus_Sancti_Georgii&amp;action=edit&amp;redlink=1" class="new" title="Sacer ac Militaris Ordo Constantinianus Sancti Georgii (page does not exist)">Sacer ac Militaris Ordo Constantinianus Sancti Georgii</a></i></li>
+<li><b>S.P.M.</b> -- <i>Societas Patrum Misericordiae</i> (Fathers of Mercy)</li>
+<li><b>S.S.S.</b> -- <i>Societas Sanctissimi Sacramenti</i> (Fathers of the Blessed Sacrament)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=27" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Citations">Citations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=28" title="Edit section: Citations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-FOOTNOTE''EB''1878-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTE''EB''1878_1-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFEB1878"><i>EB</i> (1878)</a>.</span></li>
+<li id="cite_note-FOOTNOTE''EB''1911-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTE''EB''1911_2-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFEB1911"><i>EB</i> (1911)</a>.</span></li>
+<li id="cite_note-LatAcr-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-LatAcr_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LatAcr_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-LatAcr_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-LatAcr_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-LatAcr_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-LatAcr_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-LatAcr_3-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.all-acronyms.com/?tg=latin&amp;o=a">"Latin acronyms and abbreviations"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-07-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Latin+acronyms+and+abbreviations&amp;rft_id=http%3A%2F%2Fwww.all-acronyms.com%2F%3Ftg%3Dlatin%26o%3Da&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+classical+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-UTKCSmclennan-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-UTKCSmclennan_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UTKCSmclennan_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100608083654/http://www.cs.utk.edu/~mclennan/OM/CSC.html">"Classical Salutations and Closings"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.cs.utk.edu/~mclennan/OM/CSC.html">the original</a> on 2010-06-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Classical+Salutations+and+Closings&amp;rft_id=http%3A%2F%2Fwww.cs.utk.edu%2F~mclennan%2FOM%2FCSC.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+classical+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=29" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite id="CITEREFEB1878" class="citation">"<a href="https://en.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition/Abbreviation" class="extiw" title="s:Encyclopædia Britannica, Ninth Edition/Abbreviation">Abbreviation</a>", <a href="https://en.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition" class="extiw" title="s:Encyclopædia Britannica, Ninth Edition"><i>Encyclopædia Britannica</i>, 9th ed.</a>, <a href="https://en.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition/Volume_I" class="extiw" title="s:Encyclopædia Britannica, Ninth Edition/Volume I">Vol.&nbsp;I</a>, New York: Charles Scribner's Sons, 1878, pp.&nbsp;26–9</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Abbreviation&amp;rft.btitle=Encyclop%C3%A6dia+Britannica%2C+9th+ed.%2C+Vol.+I&amp;rft.place=New+York&amp;rft.pages=26-9&amp;rft.pub=Charles+Scribner%27s+Sons&amp;rft.date=1878&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+classical+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span>.</li>
+<li><cite id="CITEREFEB1911" class="citation">"<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Abbreviation" class="extiw" title="s:1911 Encyclopædia Britannica/Abbreviation">Abbreviation</a>", <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica" class="extiw" title="s:1911 Encyclopædia Britannica"><i>Encyclopædia Britannica</i>, 11th ed.</a>, <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Volume_I" class="extiw" title="s:1911 Encyclopædia Britannica/Volume I">Vol.&nbsp;I</a>, <a href="/wiki/Cambridge,_England" class="mw-redirect" title="Cambridge, England">Cambridge</a>: Cambridge University Press, 1911, pp.&nbsp;27–30</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Abbreviation&amp;rft.btitle=Encyclop%C3%A6dia+Britannica%2C+11th+ed.%2C+Vol.+I&amp;rft.place=Cambridge&amp;rft.pages=27-30&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1911&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+classical+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_classical_abbreviations&amp;action=edit&amp;section=30" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.smartdefine.org/latin/abb/r">Latin abbreviations</a></li>
+<li><a rel="nofollow" class="external text" href="http://stephanscom.at/edw/ordensabkuerzungen.html">abbreviationes ordinum ecclesiae catholicae Romanae (Germanice editum cum verbis Latinis)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.uni-mannheim.de/mateo/camenaref/siglalatina.html">Sigla Latina in Libris Impressis Occurrentia</a></li>
+</ul>
+
+
+<!--
+NewPP limit report
+Parsed by mw1325
+Cached time: 20180502143400
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.176 seconds
+Real time usage: 0.232 seconds
+Preprocessor visited node count: 998/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 16607/2097152 bytes
+Template argument size: 407/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4021/5000000 bytes
+Lua time usage: 0.052/10.000 seconds
+Lua memory usage: 2.81 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  160.774      1 -total
+ 30.29%   48.700      1 Template:Refimprove
+ 29.99%   48.216      1 Template:Reflist
+ 21.07%   33.883      2 Template:Cite_web
+ 19.89%   31.975      1 Template:Ambox
+ 14.59%   23.456      1 Template:Merge
+ 10.23%   16.448      2 Template:Citation
+  6.58%   10.571      1 Template:Compact_ToC
+  5.79%    9.315      1 Template:DMC
+  5.11%    8.208      1 Template:Mbox
+-->
+</div>
