@@ -1,0 +1,353 @@
+<div class="mw-parser-output"><p>It is common practice in legal documents to cite to other publications by using standard abbreviations for the title of each source. Abbreviations may also be found for common words or legal phrases. Such citations and abbreviations are found in court decisions, statutes, regulations, journal articles, books, and other documents. Below is a basic list of very common abbreviations. Because publishers adopt different practices regarding how abbreviations are printed, one may find abbreviations with or without periods for each letter. For example, the <i><a href="/wiki/Code_of_Federal_Regulations" title="Code of Federal Regulations">Code of Federal Regulations</a></i> may appear abbreviated as "C.F.R." or just as "CFR."</p>
+<p>For abbreviations not found in this list, here are alternate websites to search:</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.gpo.gov/fdsys/pkg/GOVMAN-2009-09-15/pdf/GOVMAN-2009-09-15-Pg575.pdf">Abbreviations and Acronyms of the U.S. Government</a> (maintained by U.S. Government Publishing Office)</li>
+<li><a rel="nofollow" class="external text" href="http://www.legalabbrevs.cardiff.ac.uk/">The Cardiff Index to Legal Abbreviations</a> (maintained by Cardiff University).</li>
+<li><a rel="nofollow" class="external text" href="http://www.llsdc.org/assets/sourcebook/common-abbreviations.pdf">Common Abbreviations and Legal Citation Examples for Selected Federal Government Documents: Legislative, Regulatory and Statutory</a> (maintained by LLSDC.org)</li>
+</ul>
+<p>For legal abbreviations not found online, try searching one of the following print sources. These publications are regularly found at law and other libraries.</p>
+<ul>
+<li>Columbia Law Review Association, Inc., Harvard Law Review Association, University of Pennsylvania Law Review, and Yale Law Journal (Eds.) (2015). <i><a href="/wiki/Bluebook" title="Bluebook">The Bluebook: A Uniform System of Citation</a></i>. 20th ed. Cambridge, MA: Harvard Law Review Association.</li>
+<li>Garner, Brian. <i><a href="/wiki/Black%27s_Law_Dictionary" title="Black's Law Dictionary">Black's Law Dictionary</a></i>. 10th ed. St. Paul, MN: West Pub. Co., 2014.</li>
+<li><i><a href="/wiki/Jowitt%27s_Dictionary_of_English_Law" title="Jowitt's Dictionary of English Law">Jowitt's Dictionary of English Law</a></i>. 4th ed., 2015.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li>McGill Law Journal. <i><a href="/wiki/Canadian_Guide_to_Uniform_Legal_Citation" title="Canadian Guide to Uniform Legal Citation">Canadian Guide to Uniform Legal Citation</a></i>. 6th ed. Toronto: Carswell, 2006.</li>
+<li>Prince, Mary Miles. <i><a href="/w/index.php?title=Bieber%27s_Dictionary_of_Legal_Abbreviations&amp;action=edit&amp;redlink=1" class="new" title="Bieber's Dictionary of Legal Abbreviations (page does not exist)">Bieber's Dictionary of Legal Abbreviations</a>.</i> 6th ed. Buffalo, NY: Hein, 2009. <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=ESV7eCMXgrEC">Bieber's Dictionary of Legal Abbreviations, 5th ed.</a></i> at <a href="/wiki/Google_Books" title="Google Books">Google Books</a></li>
+<li>Trinxet, Salvador. <i><a href="/w/index.php?title=Template:Trinxet_Dictionary_of_Legal_Abbreviations_and_Acronyms&amp;action=edit&amp;redlink=1" class="new" title="Template:Trinxet Dictionary of Legal Abbreviations and Acronyms (page does not exist)">Template:Trinxet Dictionary of Legal Abbreviations and Acronyms</a> Series. A Law Reference Collection</i>, 2011, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/1624680003" title="Special:BookSources/1624680003">1624680003</a> and <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-62468-000-7" title="Special:BookSources/978-1-62468-000-7">978-1-62468-000-7</a></li>
+<li>Trinxet, Salvador. <i>Trinxet Reverse Dictionary of Legal Abbreviations and Acronyms</i>, 2011, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/1624680011" title="Special:BookSources/1624680011">1624680011</a> and <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-62468-001-4" title="Special:BookSources/978-1-62468-001-4">978-1-62468-001-4</a>.</li>
+<li>Raistrick, Donald. <i>Index to Legal Citations and Abbreviations</i>. 3rd ed. London: Sweet &amp; Maxwell, 2008. This book focuses more on British and other foreign/international abbreviations.</li>
+<li>Kavass, <i><a href="/w/index.php?title=World_Dictionary_of_Legal_Abbreviations&amp;action=edit&amp;redlink=1" class="new" title="World Dictionary of Legal Abbreviations (page does not exist)">World Dictionary of Legal Abbreviations</a></i></li>
+</ul>
+<p><b>List Of Common Legal Abbreviations Or Terms</b><br></p>
+<div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="text-align:left;">
+<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents:&nbsp;</span></div>
+<div style="margin:auto;white-space:nowrap;display:inline-block;">
+<ul>
+<li><a href="#top">Top</a></li>
+<li><a href="#!$@">!$@</a></li>
+<li><a href="#0–9">0–9</a></li>
+<li><a href="#A">A</a></li>
+<li><a href="#B">B</a></li>
+<li><a href="#C">C</a></li>
+<li><a href="#D">D</a></li>
+<li><a href="#E">E</a></li>
+<li><a href="#F">F</a></li>
+<li><a href="#G">G</a></li>
+<li><a href="#H">H</a></li>
+<li><a href="#I">I</a></li>
+<li><a href="#J">J</a></li>
+<li><a href="#K">K</a></li>
+<li><a href="#L">L</a></li>
+<li><a href="#M">M</a></li>
+<li><a href="#N">N</a></li>
+<li><a href="#O">O</a></li>
+<li><a href="#P">P</a></li>
+<li><a href="#Q">Q</a></li>
+<li><a href="#R">R</a></li>
+<li><a href="#S">S</a></li>
+<li><a href="#T">T</a></li>
+<li><a href="#U">U</a></li>
+<li><a href="#V">V</a></li>
+<li><a href="#W">W</a></li>
+<li><a href="#X">X</a></li>
+<li><a href="#Y">Y</a></li>
+<li><a href="#Z">Z</a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Symbol">Symbol</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=1" title="Edit section: Symbol">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/%C2%A9" class="mw-redirect" title="©">©</a> — Copyright, meaning someone claims ownership of the text, book, music, software, etc.</li>
+<li><a href="/wiki/%C2%AE" class="mw-redirect" title="®">®</a> — Registered Trademark (typically a word or phrase identifying a company or product, e.g. Coca-Cola)</li>
+</ul>
+<h2><span id="0.E2.80.939"></span><span class="mw-headline" id="0–9">0–9</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=2" title="Edit section: 0–9">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>1A <a href="/wiki/First_Amendment" class="mw-redirect" title="First Amendment">First Amendment</a></li>
+</ul>
+<p>through</p>
+<ul>
+<li>27A <a href="/wiki/Twenty-Seventh_Amendment_to_the_United_States_Constitution" class="mw-redirect" title="Twenty-Seventh Amendment to the United States Constitution">Twenty-Seventh Amendment to the United States Constitution</a></li>
+</ul>
+<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=3" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>A. — <a href="/wiki/Atlantic_Reporter" title="Atlantic Reporter">Atlantic Reporter</a></li>
+<li>A.2d — Atlantic Reporter, 2nd Series</li>
+<li>ABA — <a href="/wiki/American_Bar_Association" title="American Bar Association">American Bar Association</a></li>
+<li>ACC — <a href="/wiki/Association_of_Corporate_Counsel" title="Association of Corporate Counsel">Association of Corporate Counsel</a></li>
+<li>ad., ads., adsm. — ad sectam (Latin), at the suit of. Used in colonial and Federal Era American cases when the defendant is listed first; e.g., "John Doe v. Richard Roe" is labeled "Richard Roe ads. John Doe." The long script "S" of the period often makes this appear as "adj."</li>
+<li>adj. — see "ad." above.</li>
+<li>Ala. Admin. Code — <a rel="nofollow" class="external text" href="http://www.alabamaadministrativecode.state.al.us/">Alabama Administrative Code</a> (unofficial text)</li>
+<li>Ala. Code — <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071219230533/http://alisdb.legislature.state.al.us/acas/CodeOfAlabama/1975/coatoc.htm">Code of Alabama 1975</a> (unofficial text)</li>
+<li>Alaska Admin. Code — <a rel="nofollow" class="external text" href="http://www.legis.state.ak.us/cgi-bin/folioisa.dll/aac?">Alaska Administrative Code</a> (unofficial text)</li>
+<li>Alaska Stat. — <a rel="nofollow" class="external text" href="http://www.legis.state.ak.us/folhome.htm">Alaska Statutes</a> (unofficial text)</li>
+<li>All ER — <a href="/wiki/All_England_Law_Reports" title="All England Law Reports">All England Law Reports</a></li>
+<li>A.L.R. — <a href="/wiki/American_Law_Reports" title="American Law Reports">American Law Reports</a></li>
+<li>A.L.R.2d — American Law Reports, 2nd Series</li>
+<li>A.L.R.3d — American Law Reports, 3rd Series</li>
+<li>A.L.R.4th — American Law Reports, 4th Series</li>
+<li>A.L.R.5th — American Law Reports, 5th Series</li>
+<li>A.L.R.6th — American Law Reports, 6th Series</li>
+<li>A.L.R. Fed. — American Law Reports, Federal</li>
+<li>Am. Jur. — <a href="/wiki/American_Jurisprudence" title="American Jurisprudence">American Jurisprudence</a></li>
+<li>Am. Jur. 2d. — American Jurisprudence, 2nd Series</li>
+<li>Anor - Another</li>
+<li>Ariz. Admin. Code — <a rel="nofollow" class="external text" href="http://www.azsos.gov/public_services/Table_of_Contents.htm">Arizona Administrative Code</a> (unofficial text)</li>
+<li>Ariz. Admin. Reg. — <a rel="nofollow" class="external text" href="http://www.azsos.gov/aar/contents.htm">Arizona Administrative Register</a> (unofficial text)</li>
+<li>Ariz. Rev. Stat. — <a rel="nofollow" class="external text" href="http://www.azleg.state.az.us/ArizonaRevisedStatutes.asp">Arizona Revised Statutes</a> (unofficial text)</li>
+<li>Ark. Code — <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081013051630/http://www.arkleg.state.ar.us/data/ar_code.asp">Arkansas Code</a> (unofficial text)</li>
+<li>Art - Article</li>
+<li>Asap- As soon as possible</li>
+<li>ATS — At the suit of</li>
+<li>Atty - Attorney</li>
+</ul>
+<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=4" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>B.A.P. — <a href="/wiki/Bankruptcy_Appellate_Panel" title="Bankruptcy Appellate Panel">Bankruptcy Appellate Panel</a></li>
+<li>BFP — <a href="/wiki/Bona_fide_purchaser" title="Bona fide purchaser">Bona fide purchaser</a></li>
+<li>BR or B/R — <a href="/wiki/Bankruptcy" title="Bankruptcy">Bankruptcy</a> (also the abbreviation for the <a href="/wiki/United_States_bankruptcy_courts" class="mw-redirect" title="United States bankruptcy courts">United States bankruptcy courts</a> reporter, West's Bankruptcy Reporter)</li>
+</ul>
+<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=5" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>c. — <a href="https://en.wiktionary.org/wiki/chapter" class="extiw" title="wikt:chapter">Chapter</a></li>
+<li>cc. — Chapters</li>
+<li>CA — <a href="/wiki/Class_action" title="Class action">Class action</a></li>
+<li>CB — <a href="/wiki/Casebook" title="Casebook">Casebook</a></li>
+<li>CBJ — <a href="/w/index.php?title=California_Bar_journal&amp;action=edit&amp;redlink=1" class="new" title="California Bar journal (page does not exist)">California Bar journal</a></li>
+<li>CC — <a href="/wiki/Commerce_Clause" title="Commerce Clause">Commerce Clause</a></li>
+<li>CCH — <a href="/wiki/CCH_(company)" title="CCH (company)">Commerce Clearing House</a>, a publisher of case law reporters owned by <a href="/wiki/Wolters_Kluwer" title="Wolters Kluwer">Wolters Kluwer</a></li>
+<li>C-C — <a href="/wiki/Counterclaim" title="Counterclaim">Counterclaim</a></li>
+<li>CE — <a href="/wiki/Collateral_estoppel" title="Collateral estoppel">Collateral estoppel</a></li>
+<li>CD - <a href="/w/index.php?title=Closing_disclosure&amp;action=edit&amp;redlink=1" class="new" title="Closing disclosure (page does not exist)">Closing disclosure</a></li>
+<li>CL — <a href="/wiki/Common_law" title="Common law">Common law</a></li>
+<li>CNeg — <a href="/wiki/Contributory_negligence" title="Contributory negligence">Contributory negligence</a></li>
+<li>CA # — <a href="/wiki/Appellate_court" title="Appellate court">Court of Appeals</a> (Court of Appeals for the #th Circuit)</li>
+<li>CA Fed. — <a href="/wiki/Court_of_Appeals_for_the_Federal_Circuit" class="mw-redirect" title="Court of Appeals for the Federal Circuit">Court of Appeals for the Federal Circuit</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+<li>Cx — <a href="/wiki/Constitution" title="Constitution">Constitution</a></li>
+<li>Cx-C — <a href="/wiki/Cross-claim" class="mw-redirect" title="Cross-claim">Cross-claim</a></li>
+<li>Cxl — Constitutional</li>
+<li>Cal. Code — <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090714132609/http://www.leginfo.ca.gov/calaw.html">California Code</a> (unofficial text?<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>)</li>
+<li>Cal. Code Reg. — California Code of Regulations (see: CCR below)</li>
+<li>CCR — <a rel="nofollow" class="external text" href="http://www.calregs.com/linkedslice/default.asp?SP=CCR-1000&amp;Action=Welcome">California Code of Regulations</a> (official text?) (source: Thomson/West)</li>
+<li>CIF — <a href="/wiki/Coming_into_force" title="Coming into force">Coming into force</a></li>
+<li>C.F.R. — <a href="/wiki/Code_of_Federal_Regulations" title="Code of Federal Regulations">Code of Federal Regulations</a></li>
+<li>CFR — Call for Response (At the US Supreme Court, if the other side has stated it will not respond to a <a href="/wiki/Certiorari" title="Certiorari">petition for cert.</a>, any Justice may direct the Clerk to <a rel="nofollow" class="external text" href="http://www.law.com/jsp/scm/PubArticleSCM.jsp?id=1202431493125">call for a response</a>.)</li>
+<li>CJS — <a href="/wiki/Corpus_Juris_Secundum" title="Corpus Juris Secundum">Corpus Juris Secundum</a></li>
+<li>Cong. Rec. — <a href="/wiki/Congressional_Record" title="Congressional Record">Congressional Record</a></li>
+<li>CRS - <a href="/wiki/Congressional_Research_Service" title="Congressional Research Service">Congressional Research Service</a></li>
+<li>Ct. Cl. — the <a href="/wiki/United_States_Court_of_Federal_Claims" title="United States Court of Federal Claims">United States Court of Federal Claims</a> Reporter</li>
+</ul>
+<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=6" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Δ (<a href="/wiki/Greek_alphabet" title="Greek alphabet">Greek letter</a> <a href="/wiki/Delta_(letter)" title="Delta (letter)">delta</a>) — <a href="/wiki/Defendant" title="Defendant">Defendant</a></li>
+<li>DAC — Days After Contract</li>
+<li>d/b/a <a href="/wiki/Doing_business_as" class="mw-redirect" title="Doing business as">doing business as</a></li>
+</ul>
+<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=7" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>ER — Employer</li>
+<li>EE — Employee</li>
+<li>et als. — Latin for "and others".</li>
+</ul>
+<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=8" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>F. — <a href="/wiki/Federal_Reporter" title="Federal Reporter">Federal Reporter</a></li>
+<li>F.2d — Federal Reporter, 2nd Series</li>
+<li>F.3d — Federal Reporter, 3rd Series</li>
+<li>F.App'x — <a href="/wiki/Federal_Appendix" title="Federal Appendix">Federal Appendix</a></li>
+<li>F.Cas. — <a href="/wiki/Federal_Cases" title="Federal Cases">Federal Cases 1789–1880</a></li>
+<li>Fed. Reg. (sometimes FR) — <a href="/wiki/Federal_Register" title="Federal Register">Federal Register</a> (see <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060928192054/http://www.gpoaccess.gov/fr/index.html">Federal Register</a> for full text from 1994 to date)</li>
+<li>Fed. R. Bankr. P. — <a href="/wiki/Federal_Rules_of_Bankruptcy_Procedure" title="Federal Rules of Bankruptcy Procedure">Federal Rules of Bankruptcy Procedure</a></li>
+<li>Fed. R. Civ. P. (sometimes FRCP) — <a href="/wiki/Federal_Rules_of_Civil_Procedure" title="Federal Rules of Civil Procedure">Federal Rules of Civil Procedure</a></li>
+<li>Fed. R. Crim. P. — <a href="/wiki/Federal_Rules_of_Criminal_Procedure" title="Federal Rules of Criminal Procedure">Federal Rules of Criminal Procedure</a></li>
+<li>Fed. R. Evid. (sometimes FRE) — <a href="/wiki/Federal_Rules_of_Evidence" title="Federal Rules of Evidence">Federal Rules of Evidence</a></li>
+<li>F. Supp. — <a href="/wiki/Federal_Supplement" title="Federal Supplement">Federal Supplement</a></li>
+<li>F. Supp. 2d — Federal Supplement, 2nd Series</li>
+</ul>
+<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=9" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>GATT — <a href="/wiki/General_Agreement_on_Tariffs_and_Trade" title="General Agreement on Tariffs and Trade">General Agreement on Tariffs and Trade</a></li>
+<li>GC — <a href="/wiki/General_Counsel" class="mw-redirect" title="General Counsel">General Counsel</a></li>
+<li>GVR — <a href="/wiki/GVR_Order" class="mw-redirect" title="GVR Order">Grant, Vacate, and Remand</a></li>
+<li>NGO - Non Government Organization</li>
+</ul>
+<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=10" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>HDC — <a href="/wiki/Holder_in_due_course" title="Holder in due course">Holder in due course</a></li>
+</ul>
+<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=11" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>I.L.M. — International Legal Materials</li>
+<li><a href="/wiki/Internal_Revenue_Bulletin" title="Internal Revenue Bulletin">IRB</a> — <a rel="nofollow" class="external text" href="https://www.irs.gov/irb/">Internal Revenue Bulletin</a> (from July 2003 to date)</li>
+<li>ILRM - Irish Law Reports Monthly</li>
+<li>IR - Irish Law Reports</li>
+<li>IRC — <a href="/wiki/Internal_Revenue_Code" title="Internal Revenue Code">Internal Revenue Code</a></li>
+<li>ISLN — <a href="/wiki/International_Standard_Lawyer_Number" class="mw-redirect" title="International Standard Lawyer Number">International Standard Lawyer Number</a></li>
+<li>ILRM - Irish Law Reports Monthly</li>
+</ul>
+<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=12" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>J — <a href="/wiki/Judge" title="Judge">Judge</a> or Justice, according to jurisdiction</li>
+<li>JJ - Judges or Justices, plural</li>
+<li>JMOL — <a href="/wiki/Judgment_as_a_matter_of_law" title="Judgment as a matter of law">Judgment as a matter of law</a></li>
+<li>JNOV — <a href="/wiki/Judgment_notwithstanding_verdict" title="Judgment notwithstanding verdict">Judgment notwithstanding verdict</a></li>
+<li>Jx - <a href="/wiki/Jurisdiction" title="Jurisdiction">Jurisdiction</a></li>
+<li>JU-disposed of by Judge</li>
+</ul>
+<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=13" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>K — <a href="/wiki/Contract" title="Contract">Contract</a></li>
+</ul>
+<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=14" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>L/C — <a href="/wiki/Letter_of_credit" title="Letter of credit">Letter of credit</a></li>
+<li>L.Ed - <a href="/wiki/Lawyers%27_Edition" title="Lawyers' Edition">Lawyers' Edition</a></li>
+<li>L.Ed.2d - <a href="/w/index.php?title=Lawyers_2nd_Edition&amp;action=edit&amp;redlink=1" class="new" title="Lawyers 2nd Edition (page does not exist)">Lawyers 2nd Edition</a></li>
+<li>LLC — <a href="/wiki/Limited_liability_company" title="Limited liability company">Limited liability company</a></li>
+<li>LLP — <a href="/wiki/Limited_liability_partnership" title="Limited liability partnership">Limited liability partnership</a></li>
+</ul>
+<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=15" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>MIL — <a href="/wiki/Motion_in_limine" title="Motion in limine">Motion in limine</a></li>
+<li>MOU — <a href="/wiki/Memorandum_of_Understanding" class="mw-redirect" title="Memorandum of Understanding">Memorandum of Understanding</a></li>
+<li>MPC — <a href="/wiki/Model_Penal_Code" title="Model Penal Code">Model Penal Code</a></li>
+<li>MSJ - <a href="/w/index.php?title=Motion_for_Summary_Judgment&amp;action=edit&amp;redlink=1" class="new" title="Motion for Summary Judgment (page does not exist)">Motion for Summary Judgment</a></li>
+</ul>
+<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=16" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>NDA — <a href="/wiki/Non-Disclosure_Agreement" class="mw-redirect" title="Non-Disclosure Agreement">Non-Disclosure Agreement</a></li>
+<li>n/k/a — <a href="/w/index.php?title=Now_Known_As&amp;action=edit&amp;redlink=1" class="new" title="Now Known As (page does not exist)">Now Known As</a></li>
+<li>N.E. — <a href="/wiki/North_Eastern_Reporter" title="North Eastern Reporter">North Eastern Reporter</a></li>
+<li>N.E.2d — North Eastern Reporter, 2nd Series</li>
+<li>No. - Number</li>
+<li>N.W. — <a href="/wiki/North_Western_Reporter" title="North Western Reporter">North Western Reporter</a></li>
+<li>N.W.2d — North Western Reporter, 2nd Series</li>
+</ul>
+<p>Opmv</p>
+<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=17" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/%C2%B6" class="mw-redirect" title="¶">¶</a> (<a href="/wiki/Pilcrow" title="Pilcrow">Pilcrow</a>)— <a href="/wiki/Paragraph" title="Paragraph">Paragraph</a></li>
+<li>Π (<a href="/wiki/Greek_alphabet" title="Greek alphabet">Greek letter</a> <a href="/wiki/Pi_(letter)" title="Pi (letter)">Pi</a>) — <a href="/wiki/Plaintiff" title="Plaintiff">Plaintiff</a></li>
+<li>P. — <a href="/wiki/Pacific_Reporter" title="Pacific Reporter">Pacific Reporter</a></li>
+<li>P.2d — Pacific Reporter, 2nd Series</li>
+<li>P.3d — Pacific Reporter, 3rd Series</li>
+<li>p. — Page</li>
+<li>pp. — Pages</li>
+<li>PL — Public Law</li>
+<li>Pub.L. — Public Law</li>
+</ul>
+<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=18" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>QDRO — Qualified Domestic Relations Order</li>
+</ul>
+<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=19" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>R — <a href="/wiki/Monarch" title="Monarch">Rex</a> or <a href="/wiki/Monarch" title="Monarch">Regina</a></li>
+<li>R.E. or R/E — <a href="/wiki/Real_Estate" class="mw-redirect" title="Real Estate">Real Estate</a></li>
+<li>Rev. Proc. — Revenue Procedure (published in IRB)</li>
+<li>Rev. Rul. — <a href="/wiki/Revenue_Ruling" class="mw-redirect" title="Revenue Ruling">Revenue Ruling</a> (published in IRB)</li>
+<li>R J - Recurring Judgement. (published in All In Reports)</li>
+<li>R.I.A.A. - Reports of International Arbitral Awards</li>
+</ul>
+<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=20" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>s. or <a href="/wiki/%C2%A7" class="mw-redirect" title="§">§</a> — <a href="/wiki/Section_sign" title="Section sign">Section</a></li>
+<li>sd — said</li>
+<li>ss. or §§ — Sections</li>
+<li>S.C.R. (or SCR) — <a href="/wiki/Supreme_Court_Reports_(Canada)" title="Supreme Court Reports (Canada)">Supreme Court Reports</a> (<a href="/wiki/Supreme_Court_of_Canada" title="Supreme Court of Canada">Supreme Court of Canada</a>)</li>
+<li>S. Ct. — Supreme Court Reporter (<a href="/wiki/Supreme_Court_of_the_United_States" title="Supreme Court of the United States">Supreme Court of the United States</a>)</li>
+<li>S.E. — <a href="/wiki/South_Eastern_Reporter" title="South Eastern Reporter">South Eastern Reporter</a></li>
+<li>S.E.2d — South Eastern Reporter, 2nd Series</li>
+<li>SCOTUS - Supreme Court of the United States (<a href="/wiki/Supreme_Court_of_the_United_States" title="Supreme Court of the United States">Supreme Court of the United States</a>)</li>
+<li>SI — <a href="/wiki/Statute" title="Statute">Statutory</a> <a href="/wiki/Legal_instrument" title="Legal instrument">instruments</a></li>
+<li>S/J — <a href="/wiki/Summary_judgment" title="Summary judgment">Summary judgment</a></li>
+<li>SMJ — <a href="/wiki/Subject-matter_jurisdiction" title="Subject-matter jurisdiction">Subject-matter jurisdiction</a></li>
+<li>So. — <a href="/wiki/Southern_Reporter" title="Southern Reporter">Southern Reporter</a></li>
+<li>So. 2d — Southern Reporter, 2nd Series</li>
+<li>SOL — <a href="/wiki/Statute_of_Limitations" class="mw-redirect" title="Statute of Limitations">Statute of Limitations</a></li>
+<li>SOR — <a href="/w/index.php?title=Statutory_Orders_and_Regulations&amp;action=edit&amp;redlink=1" class="new" title="Statutory Orders and Regulations (page does not exist)">Statutory Orders and Regulations</a></li>
+<li>Stat. — <a href="/wiki/United_States_Statutes_at_Large" title="United States Statutes at Large">United States Statutes at Large</a> (See <a href="/wiki/United_States_Code" title="United States Code">United States Code</a>)</li>
+<li>S.W. — <a href="/wiki/South_Western_Reporter" title="South Western Reporter">South Western Reporter</a></li>
+<li>S.W.2d — South Western Reporter, 2nd Series</li>
+<li>S.W.3d — South Western Reporter, 3rd Series</li>
+</ul>
+<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=21" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>T.C. — Reported decisions of the <a href="/wiki/United_States_Tax_Court" title="United States Tax Court">United States Tax Court</a></li>
+<li>T.D. — Treasury Decision</li>
+<li><a href="/wiki/%E2%84%A2" class="mw-redirect" title="™">™</a> or TM — Trademark (such as a word or phrase identifying a company or product)</li>
+</ul>
+<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=22" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>UCC — <a href="/wiki/Uniform_Commercial_Code" title="Uniform Commercial Code">Uniform Commercial Code</a></li>
+<li>UCMJ — <a href="/wiki/Uniform_Code_of_Military_Justice" title="Uniform Code of Military Justice">Uniform Code of Military Justice</a> (Laws of the U.S. military)</li>
+<li>UPC — <a href="/wiki/Uniform_Probate_Code" title="Uniform Probate Code">Uniform Probate Code</a></li>
+<li>U.S. — <a rel="nofollow" class="external text" href="http://www.supremecourtus.gov/opinions/boundvolumes.html">United States Reports (beginning with v. 502 (1991))</a></li>
+<li>USC — <a href="/wiki/United_States_Code" title="United States Code">United States Code</a> (A free website for the full text is at <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090130171856/http://www.gpoaccess.gov/uscode/index.html">U.S. Code</a>. This text is maintained by the U.S. Gov't Printing Office, but must be checked for revisions or amendments after its effective date.)</li>
+<li>USCA — United States Code Annotated</li>
+<li>USCCAN — <a href="/wiki/United_States_Code_Congressional_and_Administrative_News" title="United States Code Congressional and Administrative News">United States Code Congressional and Administrative News</a></li>
+<li>USCS — United States Code Service</li>
+<li>UST — United States Treaties and Other International Agreements (See <a href="/wiki/Treaty_series" title="Treaty series">Treaty series</a>.)</li>
+</ul>
+<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=23" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>v. — versus. Used when plaintiff is listed first on a case title. John Doe v. Richard Roe.</li>
+</ul>
+<p>See also "ad." above. "vs." is used in most scholarly writing in other fields, but "v." alone in legal writing.</p>
+<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=24" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>WTO — <a href="/wiki/World_Trade_Organization" title="World Trade Organization">World Trade Organization</a></li>
+<li>W. Va. Code — <a rel="nofollow" class="external text" href="http://www.legis.state.wv.us/WVCODE/masterfrm3Banner.cfm">West Virginia Code</a> (unofficial text)</li>
+</ul>
+<h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=25" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>XN - Examination in Chief</li>
+<li>XXN - <a href="/wiki/Cross_examination" class="mw-redirect" title="Cross examination">Cross examination</a></li>
+</ul>
+<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=26" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=27" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=28" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">London: Sweet &amp; Maxwell. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780414051140" title="Special:BookSources/9780414051140">9780414051140</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.supremecourt.gov/opinions/16pdf/16-677_mkhn.pdf">"<i>See, e.g.</i>, Mathis v. McDonald, 834 F. 3d 1347 (Fed. Cir., 2016) (denial of hearing en banc), <i>cert. denied</i>, Mathis v. Shulkin, U.S. No. 16-677, slip op. (Sotomayor, J., statement) (June 26, 2017)"</a> <span style="font-size:85%;">(PDF)</span>. <i>United States Supreme Court</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 11,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=United+States+Supreme+Court&amp;rft.atitle=See%2C+e.g.%2C+Mathis+v.+McDonald%2C+834+F.+3d+1347+%28Fed.+Cir.%2C+2016%29+%28denial+of+hearing+en+banc%29%2C+cert.+denied%2C+Mathis+v.+Shulkin%2C+U.S.+No.+16-677%2C+slip+op.+%28Sotomayor%2C+J.%2C+statement%29+%28June+26%2C+2017%29&amp;rft_id=https%3A%2F%2Fwww.supremecourt.gov%2Fopinions%2F16pdf%2F16-677_mkhn.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+legal+abbreviations" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">For more information on official, unofficial, and authenticated online state laws and regulations, see <a rel="nofollow" class="external text" href="http://www.aallnet.org/aallwash/authen_rprt/AuthenFinalReport.pdf">Matthews &amp; Baish, <i>State-by-State Authentication of Online Legal Resources,</i></a><a href="/wiki/American_Association_of_Law_Libraries" title="American Association of Law Libraries">American Association of Law Libraries</a>, 2007.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_legal_abbreviations&amp;action=edit&amp;section=29" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.allacronyms.com/Legal/topic">Legal acronyms and abbreviations</a>, Retrieved 2014-30-06.</li>
+</ul>
+
+
+<!--
+NewPP limit report
+Parsed by mw1290
+Cached time: 20180503144817
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.132 seconds
+Real time usage: 0.170 seconds
+Preprocessor visited node count: 1710/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9368/2097152 bytes
+Template argument size: 2128/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2359/5000000 bytes
+Lua time usage: 0.029/10.000 seconds
+Lua memory usage: 1.47 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  129.638      1 -total
+ 53.81%   69.761      5 Template:ISBN
+ 27.86%   36.121      1 Template:Cite_web
+ 18.54%   24.039      5 Template:Catalog_lookup_link
+ 10.74%   13.927      1 Template:Compact_ToC
+  7.34%    9.521      5 Template:Error-small
+  6.20%    8.036     15 Template:Yesno-no
+  3.92%    5.075     15 Template:Yesno
+  3.81%    4.942      1 Template:Google_books
+  3.77%    4.889     31 Template:Trim
+-->
+</div>

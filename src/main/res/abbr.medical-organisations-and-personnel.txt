@@ -1,0 +1,1236 @@
+<div class="mw-parser-output"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="text-align:left;">
+<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents:&nbsp;</span></div>
+<div style="margin:auto;white-space:nowrap;display:inline-block;">
+<ul>
+<li><a href="#top">Top</a></li>
+<li><a href="#0–9">0–9</a></li>
+<li><a href="#A">A</a></li>
+<li><a href="#B">B</a></li>
+<li><a href="#C">C</a></li>
+<li><a href="#D">D</a></li>
+<li><a href="#E">E</a></li>
+<li><a href="#F">F</a></li>
+<li><a href="#G">G</a></li>
+<li><a href="#H">H</a></li>
+<li><a href="#I">I</a></li>
+<li><a href="#J">J</a></li>
+<li><a href="#K">K</a></li>
+<li><a href="#L">L</a></li>
+<li><a href="#M">M</a></li>
+<li><a href="#N">N</a></li>
+<li><a href="#O">O</a></li>
+<li><a href="#P">P</a></li>
+<li><a href="#Q">Q</a></li>
+<li><a href="#R">R</a></li>
+<li><a href="#S">S</a></li>
+<li><a href="#T">T</a></li>
+<li><a href="#U">U</a></li>
+<li><a href="#V">V</a></li>
+<li><a href="#W">W</a></li>
+<li><a href="#X">X</a></li>
+<li><a href="#Y">Y</a></li>
+<li><a href="#Z">Z</a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>AA</td>
+<td><a href="/wiki/Alcoholics_Anonymous" title="Alcoholics Anonymous">Alcoholics Anonymous</a></td>
+</tr>
+<tr>
+<td>AABB</td>
+<td>AABB, formerly known as the <a href="/wiki/American_Association_of_Blood_Banks" class="mw-redirect" title="American Association of Blood Banks">American Association of Blood Banks</a></td>
+</tr>
+<tr>
+<td>AACN</td>
+<td><a href="/w/index.php?title=American_Association_of_Critical-Care_Nurses&amp;action=edit&amp;redlink=1" class="new" title="American Association of Critical-Care Nurses (page does not exist)">American Association of Critical-Care Nurses</a></td>
+</tr>
+<tr>
+<td>AAD</td>
+<td><a href="/w/index.php?title=American_Association_of_Dermatology&amp;action=edit&amp;redlink=1" class="new" title="American Association of Dermatology (page does not exist)">American Association of Dermatology</a></td>
+</tr>
+<tr>
+<td>AADGP</td>
+<td><a href="/w/index.php?title=American_Academy_of_Dental_Group_Practice&amp;action=edit&amp;redlink=1" class="new" title="American Academy of Dental Group Practice (page does not exist)">American Academy of Dental Group Practice</a></td>
+</tr>
+<tr>
+<td>AAFP</td>
+<td><a href="/wiki/American_Academy_of_Family_Physicians" title="American Academy of Family Physicians">American Academy of Family Physicians</a></td>
+</tr>
+<tr>
+<td>AAIN</td>
+<td><a href="/w/index.php?title=American_Academy_of_Industrial_Nurses&amp;action=edit&amp;redlink=1" class="new" title="American Academy of Industrial Nurses (page does not exist)">American Academy of Industrial Nurses</a></td>
+</tr>
+<tr>
+<td>AAMC</td>
+<td><a href="/wiki/Australian_Army_Medical_Corps" class="mw-redirect" title="Australian Army Medical Corps">Australian Army Medical Corps</a></td>
+</tr>
+<tr>
+<td>AAN</td>
+<td><a href="/wiki/American_Academy_of_Nursing" title="American Academy of Nursing">American Academy of Nursing</a></td>
+</tr>
+<tr>
+<td>AANS</td>
+<td><a href="/wiki/Australian_Army_Nursing_Service" title="Australian Army Nursing Service">Australian Army Nursing Service</a></td>
+</tr>
+<tr>
+<td>AAO</td>
+<td><a href="/wiki/American_Academy_of_Ophthalmology" title="American Academy of Ophthalmology">American Academy of Ophthalmology</a></td>
+</tr>
+<tr>
+<td>AAO</td>
+<td><a href="/wiki/American_Academy_of_Optometry" title="American Academy of Optometry">American Academy of Optometry</a></td>
+</tr>
+<tr>
+<td>AAOS</td>
+<td><a href="/wiki/American_Academy_of_Orthopaedic_Surgeons" title="American Academy of Orthopaedic Surgeons">American Academy of Orthopaedic Surgeons</a></td>
+</tr>
+<tr>
+<td>AAP</td>
+<td><a href="/wiki/American_Academy_of_Pediatrics" title="American Academy of Pediatrics">American Academy of Pediatrics</a></td>
+</tr>
+<tr>
+<td>ABEM</td>
+<td><a href="/wiki/American_Board_of_Emergency_Medicine" title="American Board of Emergency Medicine">American Board of Emergency Medicine</a></td>
+</tr>
+<tr>
+<td>ABMS</td>
+<td><a href="/wiki/American_Board_of_Medical_Specialties" title="American Board of Medical Specialties">American Board of Medical Specialties</a></td>
+</tr>
+<tr>
+<td>ACCP</td>
+<td><a href="/wiki/American_College_of_Chest_Physicians" title="American College of Chest Physicians">American College of Chest Physicians</a></td>
+</tr>
+<tr>
+<td>ACEP</td>
+<td><a href="/wiki/American_College_of_Emergency_Physicians" title="American College of Emergency Physicians">American College of Emergency Physicians</a></td>
+</tr>
+<tr>
+<td>ACMPH</td>
+<td><a href="/wiki/American_College_of_Military_Public_Health" title="American College of Military Public Health">American College of Military Public Health</a></td>
+</tr>
+<tr>
+<td>ACGME</td>
+<td><a href="/wiki/Accreditation_Council_for_Graduate_Medical_Education" title="Accreditation Council for Graduate Medical Education">Accreditation Council for Graduate Medical Education</a></td>
+</tr>
+<tr>
+<td>ACOG</td>
+<td><a href="/wiki/American_College_of_Obstetricians_and_Gynecologists" class="mw-redirect" title="American College of Obstetricians and Gynecologists">American College of Obstetricians and Gynecologists</a></td>
+</tr>
+<tr>
+<td>ACP</td>
+<td><a href="/wiki/Paramedics_in_Canada#Advanced_Care_Paramedics" title="Paramedics in Canada">Advanced Care Paramedic</a> (Canada)</td>
+</tr>
+<tr>
+<td>ACR</td>
+<td><a href="/wiki/American_College_of_Radiology" title="American College of Radiology">American College of Radiology</a></td>
+</tr>
+<tr>
+<td>ACR</td>
+<td><a href="/wiki/American_College_of_Rheumatology" title="American College of Rheumatology">American College of Rheumatology</a></td>
+</tr>
+<tr>
+<td>ACS</td>
+<td><a href="/wiki/American_Cancer_Society" title="American Cancer Society">American Cancer Society</a></td>
+</tr>
+<tr>
+<td>ACP</td>
+<td><a href="/wiki/American_College_of_Physicians" title="American College of Physicians">American College of Physicians</a></td>
+</tr>
+<tr>
+<td>ACS</td>
+<td><a href="/wiki/American_College_of_Surgeons" title="American College of Surgeons">American College of Surgeons</a></td>
+</tr>
+<tr>
+<td>ADA</td>
+<td><a href="/wiki/American_Dental_Association" title="American Dental Association">American Dental Association</a></td>
+</tr>
+<tr>
+<td>ADA</td>
+<td><a href="/wiki/American_Diabetes_Association" title="American Diabetes Association">American Diabetes Association</a></td>
+</tr>
+<tr>
+<td>AGD</td>
+<td><a href="/wiki/Academy_of_General_Dentistry" title="Academy of General Dentistry">Academy of General Dentistry</a></td>
+</tr>
+<tr>
+<td>AHA</td>
+<td><a href="/wiki/American_Heart_Association" title="American Heart Association">American Heart Association</a></td>
+</tr>
+<tr>
+<td>AIEOP</td>
+<td>Associazione Italiana Ematologia Oncologia Pediatrica (Italian association to study pediatric oncology)</td>
+</tr>
+<tr>
+<td>AMA</td>
+<td><a href="/wiki/American_Medical_Association" title="American Medical Association">American Medical Association</a></td>
+</tr>
+<tr>
+<td>AMA</td>
+<td><a href="/wiki/Australian_Medical_Association" title="Australian Medical Association">Australian Medical Association</a></td>
+</tr>
+<tr>
+<td>AMSA</td>
+<td><a href="/wiki/American_Medical_Student_Association" title="American Medical Student Association">American Medical Student Association</a></td>
+</tr>
+<tr>
+<td>ANA</td>
+<td><a href="/wiki/American_Nurses_Association" title="American Nurses Association">American Nurses Association</a></td>
+</tr>
+<tr>
+<td>AND</td>
+<td><a href="/wiki/Academy_of_Nutrition_and_Dietetics" title="Academy of Nutrition and Dietetics">Academy of Nutrition and Dietetics</a> (formerly <a href="/wiki/American_Dietetic_Association" class="mw-redirect" title="American Dietetic Association">American Dietetic Association</a>)</td>
+</tr>
+<tr>
+<td>ANF</td>
+<td><a href="/wiki/Australian_Nursing_Federation" class="mw-redirect" title="Australian Nursing Federation">Australian Nursing Federation</a></td>
+</tr>
+<tr>
+<td>ANNA</td>
+<td><a href="/w/index.php?title=American_Nephrology_Nurses%27_Association&amp;action=edit&amp;redlink=1" class="new" title="American Nephrology Nurses' Association (page does not exist)">American Nephrology Nurses' Association</a></td>
+</tr>
+<tr>
+<td>AOA</td>
+<td><a href="/wiki/American_Optometric_Association" title="American Optometric Association">American Optometric Association</a></td>
+</tr>
+<tr>
+<td>AOA</td>
+<td><a href="/wiki/Australian_Orthopaedic_Association" title="Australian Orthopaedic Association">Australian Orthopaedic Association</a></td>
+</tr>
+<tr>
+<td>AOA</td>
+<td><a href="/wiki/American_Osteopathic_Association" title="American Osteopathic Association">American Osteopathic Association</a></td>
+</tr>
+<tr>
+<td>AOBEM</td>
+<td><a href="/wiki/American_Osteopathic_Board_of_Emergency_Medicine" title="American Osteopathic Board of Emergency Medicine">American Osteopathic Board of Emergency Medicine</a></td>
+</tr>
+<tr>
+<td>AORN</td>
+<td><a href="/wiki/Association_of_Perioperative_Registered_Nurses" class="mw-redirect" title="Association of Perioperative Registered Nurses">Association of Perioperative Registered Nurses</a></td>
+</tr>
+<tr>
+<td>APGAR</td>
+<td><a href="/wiki/American_Pediatric_Gross_Assessment_Record" class="mw-redirect" title="American Pediatric Gross Assessment Record">American Pediatric Gross Assessment Record</a> (a <a href="/wiki/Backronym" title="Backronym">backronym</a>)</td>
+</tr>
+<tr>
+<td>APA</td>
+<td><a href="/wiki/American_Psychiatric_Association" title="American Psychiatric Association">American Psychiatric Association</a></td>
+</tr>
+<tr>
+<td>APN</td>
+<td><a href="/wiki/Advanced_practice_nurse" class="mw-redirect" title="Advanced practice nurse">Advanced practice nurse</a></td>
+</tr>
+<tr>
+<td>ARA</td>
+<td><a href="/w/index.php?title=American_Rheumatological_Association&amp;action=edit&amp;redlink=1" class="new" title="American Rheumatological Association (page does not exist)">American Rheumatological Association</a></td>
+</tr>
+<tr>
+<td>ARRT</td>
+<td><a href="/w/index.php?title=American_Registry_of_Radiologic_Technologists&amp;action=edit&amp;redlink=1" class="new" title="American Registry of Radiologic Technologists (page does not exist)">American Registry of Radiologic Technologists</a></td>
+</tr>
+<tr>
+<td>ASCEPT</td>
+<td><a href="/w/index.php?title=Australasian_Society_of_Clinical_%26_Experimental_Pharmacologists_and_Toxicologists&amp;action=edit&amp;redlink=1" class="new" title="Australasian Society of Clinical &amp; Experimental Pharmacologists and Toxicologists (page does not exist)">Australasian Society of Clinical &amp; Experimental Pharmacologists and Toxicologists</a></td>
+</tr>
+<tr>
+<td>ASCP</td>
+<td><a href="/wiki/American_Society_for_Clinical_Pathology" title="American Society for Clinical Pathology">American Society for Clinical Pathology</a></td>
+</tr>
+<tr>
+<td>ASCP</td>
+<td><a href="/wiki/American_Society_of_Consultant_Pharmacists" title="American Society of Consultant Pharmacists">American Society of Consultant Pharmacists</a></td>
+</tr>
+<tr>
+<td>ASHA</td>
+<td><a href="/wiki/American_Speech-Language-Hearing_Association" class="mw-redirect" title="American Speech-Language-Hearing Association">American Speech-Language-Hearing Association</a></td>
+</tr>
+<tr>
+<td>ASMI</td>
+<td><a href="/w/index.php?title=Australian_Self-Medication_Industry&amp;action=edit&amp;redlink=1" class="new" title="Australian Self-Medication Industry (page does not exist)">Australian Self-Medication Industry</a></td>
+</tr>
+<tr>
+<td>ASMSO</td>
+<td><a href="/w/index.php?title=American_Society_of_Medication_Safety_Officers&amp;action=edit&amp;redlink=1" class="new" title="American Society of Medication Safety Officers (page does not exist)">American Society of Medication Safety Officers</a></td>
+</tr>
+<tr>
+<td>ASPS</td>
+<td><a href="/wiki/American_Society_of_Plastic_Surgeons" title="American Society of Plastic Surgeons">American Society of Plastic Surgeons</a></td>
+</tr>
+<tr>
+<td>ASRT</td>
+<td><a href="/wiki/American_Society_of_Radiologic_Technologists" title="American Society of Radiologic Technologists">American Society of Radiologic Technologists</a></td>
+</tr>
+<tr>
+<td>ASTRO</td>
+<td><a href="/wiki/ASTRO_(American_Society_for_Radiation_Oncology)" class="mw-redirect" title="ASTRO (American Society for Radiation Oncology)">ASTRO (American Society for Radiation Oncology)</a></td>
+</tr>
+<tr>
+<td>ASSH</td>
+<td><a href="/wiki/American_Society_for_Surgery_of_the_Hand" title="American Society for Surgery of the Hand">American Society for Surgery of the Hand</a></td>
+</tr>
+<tr>
+<td>AWHONN</td>
+<td><a href="/wiki/Association_of_Women%27s_Health,_Obstetric_and_Neonatal_Nurses" title="Association of Women's Health, Obstetric and Neonatal Nurses">Association of Women's Health, Obstetric and Neonatal Nurses</a></td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>BMA</td>
+<td><a href="/wiki/British_Medical_Association" title="British Medical Association">British Medical Association</a></td>
+</tr>
+<tr>
+<td>BAAPS</td>
+<td><a href="/wiki/British_Association_of_Aesthetic_Plastic_Surgeons" title="British Association of Aesthetic Plastic Surgeons">British Association of Aesthetic Plastic Surgeons</a></td>
+</tr>
+<tr>
+<td>BNF</td>
+<td><a href="/wiki/British_National_Formulary" title="British National Formulary">British National Formulary</a></td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>CAD</td>
+<td><a href="/w/index.php?title=Canadian_Association_of_the_Deaf&amp;action=edit&amp;redlink=1" class="new" title="Canadian Association of the Deaf (page does not exist)">Canadian Association of the Deaf</a></td>
+</tr>
+<tr>
+<td>CAEP</td>
+<td><a href="/wiki/Canadian_Association_of_Emergency_Physicians" title="Canadian Association of Emergency Physicians">Canadian Association of Emergency Physicians</a></td>
+</tr>
+<tr>
+<td>CAG</td>
+<td><a href="/w/index.php?title=Canadian_Association_of_Gerontology&amp;action=edit&amp;redlink=1" class="new" title="Canadian Association of Gerontology (page does not exist)">Canadian Association of Gerontology</a></td>
+</tr>
+<tr>
+<td>CAMT</td>
+<td><a href="/w/index.php?title=Canadian_Association_of_Music_Therapy&amp;action=edit&amp;redlink=1" class="new" title="Canadian Association of Music Therapy (page does not exist)">Canadian Association of Music Therapy</a></td>
+</tr>
+<tr>
+<td>CAMTS</td>
+<td><a href="/wiki/Commission_on_Accreditation_of_Medical_Transport_Systems" title="Commission on Accreditation of Medical Transport Systems">Commission on Accreditation of Medical Transport Systems</a></td>
+</tr>
+<tr>
+<td>CAO</td>
+<td><a href="/wiki/Canadian_Association_of_Optometrists" title="Canadian Association of Optometrists">Canadian Association of Optometrists</a></td>
+</tr>
+<tr>
+<td>CAOT</td>
+<td><a href="/w/index.php?title=Canadian_Association_of_Occupational_Therapists&amp;action=edit&amp;redlink=1" class="new" title="Canadian Association of Occupational Therapists (page does not exist)">Canadian Association of Occupational Therapists</a></td>
+</tr>
+<tr>
+<td>CAP</td>
+<td><a href="/wiki/Canadian_Association_of_Physicists" title="Canadian Association of Physicists">Canadian Association of Physicists</a></td>
+</tr>
+<tr>
+<td>CAP</td>
+<td><a href="/wiki/College_of_American_Pathologists" title="College of American Pathologists">College of American Pathologists</a></td>
+</tr>
+<tr>
+<td>CAR</td>
+<td><a href="/w/index.php?title=Canadian_Association_of_Radiologists&amp;action=edit&amp;redlink=1" class="new" title="Canadian Association of Radiologists (page does not exist)">Canadian Association of Radiologists</a></td>
+</tr>
+<tr>
+<td>CASLPA</td>
+<td><a href="/wiki/Canadian_Association_of_Speech-Language_Pathologists_and_Audiologists" class="mw-redirect" title="Canadian Association of Speech-Language Pathologists and Audiologists">Canadian Association of Speech-Language Pathologists and Audiologists</a></td>
+</tr>
+<tr>
+<td>CASLPO</td>
+<td><a href="/w/index.php?title=College_of_Audiologists_and_Speech-Language_Pathologists_of_Ontario&amp;action=edit&amp;redlink=1" class="new" title="College of Audiologists and Speech-Language Pathologists of Ontario (page does not exist)">College of Audiologists and Speech-Language Pathologists of Ontario</a></td>
+</tr>
+<tr>
+<td>CCG</td>
+<td>Children's Cancer Group</td>
+</tr>
+<tr>
+<td>CCOHS</td>
+<td><a href="/w/index.php?title=Canadian_Centre_for_Occupational_Health&amp;action=edit&amp;redlink=1" class="new" title="Canadian Centre for Occupational Health (page does not exist)">Canadian Centre for Occupational Health</a></td>
+</tr>
+<tr>
+<td>CCRN</td>
+<td><a href="/w/index.php?title=Certification_for_adult,_pediatric_and_neonatal_critical_care_nurses&amp;action=edit&amp;redlink=1" class="new" title="Certification for adult, pediatric and neonatal critical care nurses (page does not exist)">Certification for adult, pediatric and neonatal critical care nurses</a></td>
+</tr>
+<tr>
+<td>CCS</td>
+<td><a href="/wiki/Canadian_Cardiovascular_Society" title="Canadian Cardiovascular Society">Canadian Cardiovascular Society</a></td>
+</tr>
+<tr>
+<td>CDAAC</td>
+<td><a href="/wiki/Communicative_Disorders_Assistant" class="mw-redirect" title="Communicative Disorders Assistant">Communicative Disorders Assistant Association of Canada</a></td>
+</tr>
+<tr>
+<td>CDC</td>
+<td><a href="/wiki/Centers_for_Disease_Control_and_Prevention" title="Centers for Disease Control and Prevention">Centers for Disease Control and Prevention</a></td>
+</tr>
+<tr>
+<td>CfWI</td>
+<td><a href="/wiki/Centre_for_Workforce_Intelligence" title="Centre for Workforce Intelligence">Centre for Workforce Intelligence</a></td>
+</tr>
+<tr>
+<td>CESMA</td>
+<td><a href="/w/index.php?title=Council_for_European_Specialist_Medical_Assessments&amp;action=edit&amp;redlink=1" class="new" title="Council for European Specialist Medical Assessments (page does not exist)">Council for European Specialist Medical Assessments</a></td>
+</tr>
+<tr>
+<td>CHT</td>
+<td><a href="/w/index.php?title=Certified_Hand_Therapist&amp;action=edit&amp;redlink=1" class="new" title="Certified Hand Therapist (page does not exist)">Certified Hand Therapist</a></td>
+</tr>
+<tr>
+<td>CMA</td>
+<td><a href="/wiki/Canadian_Medical_Association" title="Canadian Medical Association">Canadian Medical Association</a></td>
+</tr>
+<tr>
+<td>CMA</td>
+<td><a href="/wiki/Certified_medical_assistant" class="mw-redirect" title="Certified medical assistant">Certified medical assistant</a></td>
+</tr>
+<tr>
+<td>CMS</td>
+<td><a href="/wiki/Centers_for_Medicare_and_Medicaid_Services" title="Centers for Medicare and Medicaid Services">Centers for Medicare and Medicaid Services</a></td>
+</tr>
+<tr>
+<td>CNA</td>
+<td><a href="/wiki/Certified_Nursing_Assistant" class="mw-redirect" title="Certified Nursing Assistant">Certified Nursing Assistant</a></td>
+</tr>
+<tr>
+<td>COG</td>
+<td>Children's Oncology Group]]</td>
+</tr>
+<tr>
+<td>COTA(A)</td>
+<td><a href="/w/index.php?title=Council_on_the_Ageing_(Australia)&amp;action=edit&amp;redlink=1" class="new" title="Council on the Ageing (Australia) (page does not exist)">Council on the Ageing (Australia)</a></td>
+</tr>
+<tr>
+<td>CPhT</td>
+<td>Certified pharmacy technician</td>
+</tr>
+<tr>
+<td>CPM</td>
+<td><a href="/w/index.php?title=Certified_Professional_Midwife&amp;action=edit&amp;redlink=1" class="new" title="Certified Professional Midwife (page does not exist)">Certified Professional Midwife</a></td>
+</tr>
+<tr>
+<td>CPME</td>
+<td><a href="/wiki/Standing_Committee_of_European_Doctors" title="Standing Committee of European Doctors">Standing Committee of European Doctors</a></td>
+</tr>
+<tr>
+<td>CRD</td>
+<td><a href="/wiki/Centre_for_Reviews_and_Dissemination" title="Centre for Reviews and Dissemination">Centre for Reviews and Dissemination</a></td>
+</tr>
+<tr>
+<td>CRN</td>
+<td><a href="/w/index.php?title=Certified_radiology_nurse&amp;action=edit&amp;redlink=1" class="new" title="Certified radiology nurse (page does not exist)">Certified radiology nurse</a></td>
+</tr>
+<tr>
+<td>CRNA</td>
+<td><a href="/wiki/Certified_registered_nurse_anesthetist" class="mw-redirect" title="Certified registered nurse anesthetist">Certified registered nurse anesthetist</a></td>
+</tr>
+<tr>
+<td>CRT</td>
+<td>Certified respiratory therapists – <a href="/wiki/Respiratory_therapy" class="mw-redirect" title="Respiratory therapy">Respiratory therapy</a></td>
+</tr>
+<tr>
+<td>CRT</td>
+<td>Certified Radiologic Technologist – <a href="/w/index.php?title=California_License&amp;action=edit&amp;redlink=1" class="new" title="California License (page does not exist)">California License</a></td>
+</tr>
+<tr>
+<td>CRTT</td>
+<td>Certified Respiratory Therapy Technicians – <a href="/wiki/Respiratory_therapy" class="mw-redirect" title="Respiratory therapy">Respiratory therapy</a></td>
+</tr>
+<tr>
+<td>CTRS</td>
+<td>Certified therapeutic recreation specialist – <a href="/wiki/Recreation_therapy" class="mw-redirect" title="Recreation therapy">Recreation therapy</a> or <a href="/wiki/Therapeutic_recreation" class="mw-redirect" title="Therapeutic recreation">Therapeutic recreation</a></td>
+</tr>
+<tr>
+<td>CSA</td>
+<td>Certified surgical assistant</td>
+</tr>
+<tr>
+<td>CWS</td>
+<td>cooperative weichteilsarkomen study (German soft tissue sarcoma cooperative group)</td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>DC</td>
+<td><a href="/wiki/Doctor_of_Chiropractic" class="mw-redirect" title="Doctor of Chiropractic">Doctor of Chiropractic</a></td>
+</tr>
+<tr>
+<td>DDS</td>
+<td><a href="/wiki/Doctor_of_Dental_Surgery" class="mw-redirect" title="Doctor of Dental Surgery">Doctor of Dental Surgery</a></td>
+</tr>
+<tr>
+<td>DI</td>
+<td>Digital Imaging Technologist</td>
+</tr>
+<tr>
+<td>DMD</td>
+<td><a href="/wiki/Doctor_of_Dental_Medicine" class="mw-redirect" title="Doctor of Dental Medicine">Doctor of Dental Medicine</a></td>
+</tr>
+<tr>
+<td>DNP</td>
+<td><a href="/wiki/Doctor_of_Nursing_Practice" title="Doctor of Nursing Practice">Doctor of Nursing Practice</a></td>
+</tr>
+<tr>
+<td>DO</td>
+<td><a href="/wiki/Doctor_of_Osteopathic_Medicine" title="Doctor of Osteopathic Medicine">Doctor of Osteopathic Medicine</a></td>
+</tr>
+<tr>
+<td>DoH</td>
+<td><a href="/wiki/Department_of_Health" class="mw-redirect" title="Department of Health">Department of Health</a> (various countries)</td>
+</tr>
+<tr>
+<td>DNB</td>
+<td><a href="/wiki/Diplomate_of_National_Board" title="Diplomate of National Board">Diplomate of National Board</a> India</td>
+</tr>
+<tr>
+<td>DPT</td>
+<td><a href="/wiki/Doctor_of_Physical_Therapy" title="Doctor of Physical Therapy">Doctor of Physical Therapy</a></td>
+</tr>
+<tr>
+<td>DPM</td>
+<td><a href="/wiki/Doctor_of_Podiatric_Medicine" class="mw-redirect" title="Doctor of Podiatric Medicine">Doctor of Podiatric Medicine</a></td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>EMA</td>
+<td>European Medicines Agency</td>
+</tr>
+<tr>
+<td>EMS</td>
+<td><a href="/wiki/Emergency_medical_services" title="Emergency medical services">Emergency medical services</a></td>
+</tr>
+<tr>
+<td>EMT</td>
+<td><a href="/wiki/Emergency_medical_technician" title="Emergency medical technician">Emergency medical technician</a></td>
+</tr>
+<tr>
+<td>EMT-B</td>
+<td><a href="/wiki/Emergency_Medical_Technician_-_Basic" class="mw-redirect" title="Emergency Medical Technician - Basic">Emergency Medical Technician - Basic</a>(OLD)</td>
+</tr>
+<tr>
+<td>EMT-I</td>
+<td><a href="/wiki/Emergency_Medical_Technician_-_Intermediate" class="mw-redirect" title="Emergency Medical Technician - Intermediate">Emergency Medical Technician - Intermediate</a> (OLD)</td>
+</tr>
+<tr>
+<td>EMT-P</td>
+<td><a href="/wiki/Emergency_Medical_Technician_-_Paramedic" class="mw-redirect" title="Emergency Medical Technician - Paramedic">Emergency Medical Technician - Paramedic</a> (OLD)</td>
+</tr>
+<tr>
+<td>EN</td>
+<td>Enrolled nurse (AU) – See <a href="/wiki/Licensed_practical_nurse" title="Licensed practical nurse">Licensed practical nurse</a></td>
+</tr>
+<tr>
+<td>EORTC</td>
+<td>European Organization for Research Treatment in Cancer</td>
+</tr>
+<tr>
+<td>EpSSG</td>
+<td>European paediatric soft tissue sarcoma study group</td>
+</tr>
+<tr>
+<td>ESRD</td>
+<td><a href="/wiki/End_Stage_Renal_Disease_Program" title="End Stage Renal Disease Program">End Stage Renal Disease Program</a></td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>FDA</td>
+<td><a href="/wiki/Food_and_Drug_Administration" title="Food and Drug Administration">Food and Drug Administration</a></td>
+</tr>
+<tr>
+<td>FACE</td>
+<td><a rel="nofollow" class="external text" href="https://beloithealthsystem.org/what-do-those-letters-mean">Fellow of the American College of Endocrinology</a></td>
+</tr>
+<tr>
+<td>FHO</td>
+<td><a href="/wiki/Foundation_house_officer" class="mw-redirect" title="Foundation house officer">Foundation house officer</a></td>
+</tr>
+<tr>
+<td>FIGO</td>
+<td><a href="/wiki/International_Federation_of_Gynecology_and_Obstetrics" class="mw-redirect" title="International Federation of Gynecology and Obstetrics">International Federation of Gynecology and Obstetrics</a></td>
+</tr>
+<tr>
+<td>FNP</td>
+<td><a href="/wiki/Family_Nurse_Practitioner" class="mw-redirect" title="Family Nurse Practitioner">Family Nurse Practitioner</a></td>
+</tr>
+<tr>
+<td>FRCP</td>
+<td>Fellow of the <a href="/wiki/Royal_College_of_Physicians" title="Royal College of Physicians">Royal College of Physicians</a> (UK)</td>
+</tr>
+<tr>
+<td>FVRS</td>
+<td><a href="/w/index.php?title=Fellowship_in_Vitreo-Retinal_Surgery&amp;action=edit&amp;redlink=1" class="new" title="Fellowship in Vitreo-Retinal Surgery (page does not exist)">Fellowship in Vitreo-Retinal Surgery</a></td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>GDC</td>
+<td><a href="/wiki/General_Dental_Council" title="General Dental Council">General Dental Council</a> (UK)</td>
+</tr>
+<tr>
+<td>GMC</td>
+<td><a href="/wiki/General_Medical_Council" title="General Medical Council">General Medical Council</a> (UK)</td>
+</tr>
+<tr>
+<td>GMS</td>
+<td><a href="/wiki/General_medical_services" title="General medical services">General medical services</a> medical services provided by GPs (UK)</td>
+</tr>
+<tr>
+<td>GP</td>
+<td><a href="/wiki/General_practitioner" title="General practitioner">General practitioner</a></td>
+</tr>
+<tr>
+<td>GPhC</td>
+<td><a href="/wiki/General_Pharmaceutical_Council" title="General Pharmaceutical Council">General Pharmaceutical Council</a> (UK)</td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>HC</td>
+<td><a href="/wiki/Health_Canada" title="Health Canada">Health Canada</a></td>
+</tr>
+<tr>
+<td>HEMS</td>
+<td><a href="/wiki/London_Air_Ambulance" class="mw-redirect" title="London Air Ambulance">Helicopter Emergency Medical Service</a></td>
+</tr>
+<tr>
+<td>HPCSA</td>
+<td>Health Professions Council of South Africa</td>
+</tr>
+<tr>
+<td>HSE</td>
+<td><a href="/wiki/Health_Service_Executive" title="Health Service Executive">Health Service Executive</a> (Ireland)</td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>IASP</td>
+<td><a href="/wiki/International_Association_for_the_Study_of_Pain" title="International Association for the Study of Pain">International Association for the Study of Pain</a></td>
+</tr>
+<tr>
+<td>IAMMS</td>
+<td><a href="/wiki/Ibn_Sina_Academy_of_Medieval_Medicine_and_Sciences" title="Ibn Sina Academy of Medieval Medicine and Sciences">Ibn Sina Academy of Medieval Medicine and Sciences</a></td>
+</tr>
+<tr>
+<td>IBCLC</td>
+<td><a href="/wiki/International_Board-Certified_Lactation_consultant" class="mw-redirect" title="International Board-Certified Lactation consultant">International Board Certified Lactation Consultant</a></td>
+</tr>
+<tr>
+<td>ICG</td>
+<td>Italian Cooperative Group</td>
+</tr>
+<tr>
+<td>IFMSA</td>
+<td><a href="/wiki/International_Federation_of_Medical_Students%27_Associations" title="International Federation of Medical Students' Associations">International Federation of Medical Students' Associations</a></td>
+</tr>
+<tr>
+<td>IMD</td>
+<td><a href="/wiki/Institution_for_Mental_Disease" class="mw-redirect" title="Institution for Mental Disease">Institution for Mental Disease</a></td>
+</tr>
+<tr>
+<td>IMF</td>
+<td><a href="/wiki/Irish_Medicines_Formulary" title="Irish Medicines Formulary">Irish Medicines Formulary</a></td>
+</tr>
+<tr>
+<td>IMO</td>
+<td><a href="/wiki/Irish_Medical_Organisation" title="Irish Medical Organisation">Irish Medical Organisation</a></td>
+</tr>
+<tr>
+<td>INHS</td>
+<td><a href="/wiki/Inland_Northwest_Health_Services" title="Inland Northwest Health Services">Inland Northwest Health Services</a></td>
+</tr>
+<tr>
+<td>ISMP</td>
+<td><a href="/w/index.php?title=Institute_for_Safe_Medication_Practices&amp;action=edit&amp;redlink=1" class="new" title="Institute for Safe Medication Practices (page does not exist)">Institute for Safe Medication Practices</a></td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>JAMA</td>
+<td><a href="/wiki/Journal_of_the_American_Medical_Association" class="mw-redirect" title="Journal of the American Medical Association">Journal of the American Medical Association</a></td>
+</tr>
+<tr>
+<td>JAOA</td>
+<td><a href="/wiki/Journal_of_the_American_Osteopathic_Association" class="mw-redirect" title="Journal of the American Osteopathic Association">Journal of the American Osteopathic Association</a></td>
+</tr>
+<tr>
+<td>JC</td>
+<td><a href="/wiki/Joint_Commission" title="Joint Commission">Joint Commission</a>, previously JCAHO</td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=11" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>LA</td>
+<td>Laboratory aide or assistant</td>
+</tr>
+<tr>
+<td>LMSSA</td>
+<td>Licentiate in Medicine and Surgery of the <a href="/wiki/Society_of_Apothecaries" class="mw-redirect" title="Society of Apothecaries">Society of Apothecaries</a></td>
+</tr>
+<tr>
+<td>LMT</td>
+<td><a href="/wiki/Licensed_massage_therapist" class="mw-redirect" title="Licensed massage therapist">Licensed massage therapist</a></td>
+</tr>
+<tr>
+<td>LPN</td>
+<td><a href="/wiki/Licensed_practical_nurse" title="Licensed practical nurse">Licensed practical nurse</a></td>
+</tr>
+<tr>
+<td>LSA</td>
+<td><a href="/w/index.php?title=Licensed_surgical_assistant&amp;action=edit&amp;redlink=1" class="new" title="Licensed surgical assistant (page does not exist)">Licensed surgical assistant</a></td>
+</tr>
+<tr>
+<td>LVN</td>
+<td>Licensed vocational nurse&nbsp;– see <a href="/wiki/Licensed_practical_nurse" title="Licensed practical nurse">licensed practical nurse</a></td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=12" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>MASH</td>
+<td><a href="/wiki/Mobile_army_surgical_hospital_(US)" class="mw-redirect" title="Mobile army surgical hospital (US)">Mobile army surgical hospital (US)</a></td>
+</tr>
+<tr>
+<td>MedPAC</td>
+<td><a href="/wiki/Medicare_Payment_Advisory_Commission" title="Medicare Payment Advisory Commission">Medicare Payment Advisory Commission</a></td>
+</tr>
+<tr>
+<td>MD</td>
+<td><a href="/wiki/Doctor_of_Medicine" title="Doctor of Medicine">Doctor of Medicine</a></td>
+</tr>
+<tr>
+<td>MLA</td>
+<td><a href="/wiki/Medical_laboratory_assistant" class="mw-redirect" title="Medical laboratory assistant">Medical laboratory assistant</a></td>
+</tr>
+<tr>
+<td>MT</td>
+<td><a href="/wiki/Medical_technologist" title="Medical technologist">Medical technologist</a></td>
+</tr>
+<tr>
+<td>MLT</td>
+<td>Medical laboratory technician</td>
+</tr>
+<tr>
+<td>MNAMS</td>
+<td>[Member of National Academy of Medical Sciences] India</td>
+</tr>
+<tr>
+<td>MRCP</td>
+<td><a href="/wiki/Membership_of_the_Royal_College_of_Physicians" class="mw-redirect" title="Membership of the Royal College of Physicians">Membership of the Royal College of Physicians</a></td>
+</tr>
+<tr>
+<td>MRCS</td>
+<td><a href="/wiki/Fellowship_of_the_Royal_College_of_Surgeons#Membership_of_the_Royal_College_of_Surgeons" class="mw-redirect" title="Fellowship of the Royal College of Surgeons">Membership of the Royal College of Surgeons</a></td>
+</tr>
+<tr>
+<td>MRT</td>
+<td>Medical radiation technologist</td>
+</tr>
+<tr>
+<td>MP</td>
+<td><a href="/wiki/Medical_psychologist" class="mw-redirect" title="Medical psychologist">Medical psychologist</a></td>
+</tr>
+<tr>
+<td>MSOS</td>
+<td><a href="/w/index.php?title=Medication_Safety_Officers_Society&amp;action=edit&amp;redlink=1" class="new" title="Medication Safety Officers Society (page does not exist)">Medication Safety Officers Society</a></td>
+</tr>
+<tr>
+<td>MSPT</td>
+<td><a href="/w/index.php?title=Master_of_Science_in_Physical_Therapy&amp;action=edit&amp;redlink=1" class="new" title="Master of Science in Physical Therapy (page does not exist)">Master of Science in Physical Therapy</a></td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=13" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>NA</td>
+<td><a href="/wiki/Narcotics_Anonymous" title="Narcotics Anonymous">Narcotics Anonymous</a></td>
+</tr>
+<tr>
+<td>NAACLS</td>
+<td>National accrediting agency for <a href="/wiki/Medical_technology" class="mw-redirect" title="Medical technology">clinical laboratory science</a></td>
+</tr>
+<tr>
+<td>NCA</td>
+<td>National credentialing agency for <a href="/wiki/Medical_technologist" title="Medical technologist">laboratory personnel</a></td>
+</tr>
+<tr>
+<td>NCI</td>
+<td>National Cancer Institute</td>
+</tr>
+<tr>
+<td>NCTMB</td>
+<td>Nationally certified in therapeutic massage and bodywork</td>
+</tr>
+<tr>
+<td>NEJM</td>
+<td><i><a href="/wiki/New_England_Journal_of_Medicine" class="mw-redirect" title="New England Journal of Medicine">New England Journal of Medicine</a></i></td>
+</tr>
+<tr>
+<td>NHC</td>
+<td><a href="/w/index.php?title=Nephrology_Hypertension_Clinic,_P.C&amp;action=edit&amp;redlink=1" class="new" title="Nephrology Hypertension Clinic, P.C (page does not exist)">Nephrology Hypertension Clinic, P.C</a></td>
+</tr>
+<tr>
+<td>NHS</td>
+<td><a href="/wiki/National_Health_Service" title="National Health Service">National Health Service</a></td>
+</tr>
+<tr>
+<td>NICE</td>
+<td><a href="/wiki/National_Institute_for_Health_and_Clinical_Excellence" class="mw-redirect" title="National Institute for Health and Clinical Excellence">National Institute for Health and Clinical Excellence</a></td>
+</tr>
+<tr>
+<td>NKC</td>
+<td><a href="/wiki/Northwest_Kidney_Centers" title="Northwest Kidney Centers">Northwest Kidney Centers</a></td>
+</tr>
+<tr>
+<td>NKF</td>
+<td><a href="/wiki/National_Kidney_Foundation" title="National Kidney Foundation">National Kidney Foundation</a></td>
+</tr>
+<tr>
+<td>NYHA</td>
+<td><a href="/wiki/New_York_Heart_Association" class="mw-redirect" title="New York Heart Association">New York Heart Association</a></td>
+</tr>
+<tr>
+<td>NPS</td>
+<td><a href="/w/index.php?title=National_Prescribing_Service_(Australia)&amp;action=edit&amp;redlink=1" class="new" title="National Prescribing Service (Australia) (page does not exist)">National Prescribing Service (Australia)</a></td>
+</tr>
+<tr>
+<td>NPSA</td>
+<td><a href="/w/index.php?title=National_Pharmaceutical_Services_Association&amp;action=edit&amp;redlink=1" class="new" title="National Pharmaceutical Services Association (page does not exist)">National Pharmaceutical Services Association</a></td>
+</tr>
+<tr>
+<td>NREMT</td>
+<td><a href="/w/index.php?title=National_Registry_of_Emergency_Medical_Technicians(ORG)&amp;action=edit&amp;redlink=1" class="new" title="National Registry of Emergency Medical Technicians(ORG) (page does not exist)">National Registry of Emergency Medical Technicians(ORG)</a></td>
+</tr>
+<tr>
+<td>NREMR</td>
+<td><a href="/w/index.php?title=National_Registry_Emergency_Medical_First_Responder_(NREMR)&amp;action=edit&amp;redlink=1" class="new" title="National Registry Emergency Medical First Responder (NREMR) (page does not exist)">National Registry Emergency Medical First Responder (NREMR)</a></td>
+</tr>
+<tr>
+<td>NREMT</td>
+<td><a href="/w/index.php?title=National_Registry_Emergency_Medical_Technician_(NREMT)&amp;action=edit&amp;redlink=1" class="new" title="National Registry Emergency Medical Technician (NREMT) (page does not exist)">National Registry Emergency Medical Technician (NREMT)</a></td>
+</tr>
+<tr>
+<td>NRAEMT</td>
+<td><a href="/w/index.php?title=National_Registry_Advanced_Emergency_Medical_Technician_(NRAEMT)&amp;action=edit&amp;redlink=1" class="new" title="National Registry Advanced Emergency Medical Technician (NRAEMT) (page does not exist)">National Registry Advanced Emergency Medical Technician (NRAEMT)</a></td>
+</tr>
+<tr>
+<td>NRP</td>
+<td><a href="/w/index.php?title=National_Registry_Paramedic&amp;action=edit&amp;redlink=1" class="new" title="National Registry Paramedic (page does not exist)">National Registry Paramedic</a></td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=14" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>OD</td>
+<td><a href="/wiki/Optometrist" class="mw-redirect" title="Optometrist">Doctor of Optometry</a></td>
+</tr>
+<tr>
+<td>ONG</td>
+<td><a href="/w/index.php?title=Orthodontic_National_Group&amp;action=edit&amp;redlink=1" class="new" title="Orthodontic National Group (page does not exist)">Orthodontic National Group</a></td>
+</tr>
+<tr>
+<td>OTA</td>
+<td><a href="/w/index.php?title=Orthodontic_Technicians_Association&amp;action=edit&amp;redlink=1" class="new" title="Orthodontic Technicians Association (page does not exist)">Orthodontic Technicians Association</a></td>
+</tr>
+<tr>
+<td>OTR</td>
+<td><a href="/w/index.php?title=Occupational_Therapist_Registered&amp;action=edit&amp;redlink=1" class="new" title="Occupational Therapist Registered (page does not exist)">Occupational Therapist Registered</a></td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=15" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>PA</td>
+<td><a href="/wiki/Physician_assistant" title="Physician assistant">Physician assistant</a> or pathologist assistant</td>
+</tr>
+<tr>
+<td>PAC</td>
+<td><a href="/w/index.php?title=Certified_Physician_assistant&amp;action=edit&amp;redlink=1" class="new" title="Certified Physician assistant (page does not exist)">Certified Physician assistant</a> or pathologist assistant</td>
+</tr>
+<tr>
+<td>CPT</td>
+<td><a href="/wiki/Phlebotomist" class="mw-redirect" title="Phlebotomist">Phlebotomist</a></td>
+</tr>
+<tr>
+<td>PCT</td>
+<td><a href="/wiki/Primary_Care_Trust" class="mw-redirect" title="Primary Care Trust">Primary Care Trust</a> (UK)</td>
+</tr>
+<tr>
+<td>PGNZ</td>
+<td>Pharmaceutical Guild Of New Zealand</td>
+</tr>
+<tr>
+<td>PHARM</td>
+<td><a href="/w/index.php?title=Pharmaceutical_Health_and_Rational_Use_of_Medicines&amp;action=edit&amp;redlink=1" class="new" title="Pharmaceutical Health and Rational Use of Medicines (page does not exist)">Pharmaceutical Health and Rational Use of Medicines</a> (Australia)</td>
+</tr>
+<tr>
+<td>Pharm.D</td>
+<td>Doctor of Pharmacy</td>
+</tr>
+<tr>
+<td>PMS</td>
+<td><a href="/wiki/General_medical_services#Other_Primary_Care_Contracts" title="General medical services">Personal Medical Services</a> alternative contract for UK GPs</td>
+</tr>
+<tr>
+<td>POG</td>
+<td>Pediatric Oncology Group</td>
+</tr>
+<tr>
+<td>PRHO</td>
+<td><a href="/wiki/Pre-registration_house_officer" title="Pre-registration house officer">Pre-registration house officer</a> (UK)</td>
+</tr>
+<tr>
+<td>PSNZ</td>
+<td><a href="/wiki/Pharmaceutical_Society_Of_New_Zealand" class="mw-redirect" title="Pharmaceutical Society Of New Zealand">Pharmaceutical Society Of New Zealand</a></td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=16" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>RA</td>
+<td>Radiologist's assistant</td>
+</tr>
+<tr>
+<td>RACP</td>
+<td><a href="/wiki/Royal_Australasian_College_of_Physicians" title="Royal Australasian College of Physicians">Royal Australasian College of Physicians</a></td>
+</tr>
+<tr>
+<td>RACS</td>
+<td><a href="/wiki/Royal_Australasian_College_of_Surgeons" title="Royal Australasian College of Surgeons">Royal Australasian College of Surgeons</a></td>
+</tr>
+<tr>
+<td>RCGP</td>
+<td><a href="/wiki/Royal_College_of_General_Practitioners" title="Royal College of General Practitioners">Royal College of General Practitioners</a></td>
+</tr>
+<tr>
+<td>RCIS</td>
+<td><a href="/wiki/Registered_Cardiovascular_Invasive_Specialist" title="Registered Cardiovascular Invasive Specialist">Registered Cardiovascular Invasive Specialist</a></td>
+</tr>
+<tr>
+<td>RCS</td>
+<td><a href="/w/index.php?title=Registered_Cardiovascular_Specialist&amp;action=edit&amp;redlink=1" class="new" title="Registered Cardiovascular Specialist (page does not exist)">Registered Cardiovascular Specialist</a></td>
+</tr>
+<tr>
+<td>RCM</td>
+<td>Royal College of Midwives</td>
+</tr>
+<tr>
+<td>RCN</td>
+<td><a href="/wiki/Royal_College_of_Nursing" title="Royal College of Nursing">Royal College of Nursing</a></td>
+</tr>
+<tr>
+<td>RCOG</td>
+<td><a href="/wiki/Royal_College_of_Obstetricians_and_Gynaecologists" title="Royal College of Obstetricians and Gynaecologists">Royal College of Obstetricians and Gynaecologists</a></td>
+</tr>
+<tr>
+<td>RCP</td>
+<td><a href="/wiki/Royal_College_of_Pathologists" title="Royal College of Pathologists">Royal College of Pathologists</a></td>
+</tr>
+<tr>
+<td>RCP</td>
+<td><a href="/wiki/Royal_College_of_Physicians" title="Royal College of Physicians">Royal College of Physicians</a></td>
+</tr>
+<tr>
+<td>RCPA</td>
+<td><a href="/wiki/Royal_College_of_Pathologists_of_Australasia" title="Royal College of Pathologists of Australasia">Royal College of Pathologists of Australasia</a></td>
+</tr>
+<tr>
+<td>RCS</td>
+<td><a href="/wiki/Royal_College_of_Surgeons_of_England" title="Royal College of Surgeons of England">Royal College of Surgeons (England)</a></td>
+</tr>
+<tr>
+<td>RCSI</td>
+<td><a href="/wiki/Royal_College_of_Surgeons_in_Ireland" title="Royal College of Surgeons in Ireland">Royal College of Surgeons in Ireland</a></td>
+</tr>
+<tr>
+<td>RMA</td>
+<td><a href="/wiki/Registered_medical_assistant" class="mw-redirect" title="Registered medical assistant">Registered medical assistant</a></td>
+</tr>
+<tr>
+<td>RN</td>
+<td><a href="/wiki/Registered_nurse" title="Registered nurse">Registered nurse</a></td>
+</tr>
+<tr>
+<td>R.Ph</td>
+<td><a href="/w/index.php?title=Registered_pharmacist&amp;action=edit&amp;redlink=1" class="new" title="Registered pharmacist (page does not exist)">Registered pharmacist</a></td>
+</tr>
+<tr>
+<td>RPhT</td>
+<td><a href="/w/index.php?title=Registered_pharmacy_technician&amp;action=edit&amp;redlink=1" class="new" title="Registered pharmacy technician (page does not exist)">Registered pharmacy technician</a></td>
+</tr>
+<tr>
+<td>RPN</td>
+<td>Registered practical nurse&nbsp;— See <a href="/wiki/Licensed_practical_nurse" title="Licensed practical nurse">Licensed practical nurse</a></td>
+</tr>
+<tr>
+<td>RPN</td>
+<td><a href="/wiki/Registered_psychiatric_nurse" title="Registered psychiatric nurse">Registered psychiatric nurse</a></td>
+</tr>
+<tr>
+<td>RPS</td>
+<td><a href="/wiki/Royal_Pharmaceutical_Society" title="Royal Pharmaceutical Society">Royal Pharmaceutical Society</a></td>
+</tr>
+<tr>
+<td>RRT</td>
+<td>Registered Respiratory Therapist - <a href="/wiki/Respiratory_therapy" class="mw-redirect" title="Respiratory therapy">Respiratory therapy</a></td>
+</tr>
+<tr>
+<td>RSN</td>
+<td><a href="/w/index.php?title=Renal_support_network&amp;action=edit&amp;redlink=1" class="new" title="Renal support network (page does not exist)">Renal support network</a></td>
+</tr>
+<tr>
+<td>RT</td>
+<td><a href="/wiki/Radiologic_technologist" class="mw-redirect" title="Radiologic technologist">Radiologic technologist</a></td>
+</tr>
+<tr>
+<td>RT</td>
+<td>Respiratory therapist – <a href="/wiki/Respiratory_therapy" class="mw-redirect" title="Respiratory therapy">Respiratory therapy</a></td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=17" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>SCOAP</td>
+<td>Surgical Care and Outcomes Assessment Program</td>
+</tr>
+<tr>
+<td>SEN</td>
+<td>State Enrolled Nurse (UK) – See <a href="/wiki/Licensed_Practical_Nurse" class="mw-redirect" title="Licensed Practical Nurse">Licensed Practical Nurse</a></td>
+</tr>
+<tr>
+<td>SHO</td>
+<td><a href="/wiki/Senior_house_officer" title="Senior house officer">Senior house officer</a> (UK)</td>
+</tr>
+<tr>
+<td>SIGN</td>
+<td><a href="/wiki/Scottish_Intercollegiate_Guidelines_Network" class="mw-redirect" title="Scottish Intercollegiate Guidelines Network">Scottish Intercollegiate Guidelines Network</a> (SIGN and NICE are major centers of CPG development)</td>
+</tr>
+<tr>
+<td>SIOP</td>
+<td>International Society of Paediatric Oncology</td>
+</tr>
+<tr>
+<td>SN</td>
+<td>Student nurse</td>
+</tr>
+<tr>
+<td>SOMA</td>
+<td><a href="/wiki/Student_Osteopathic_Medical_Association" title="Student Osteopathic Medical Association">Student Osteopathic Medical Association</a></td>
+</tr>
+<tr>
+<td>STFM</td>
+<td><a rel="nofollow" class="external text" href="http://www.stfm.org">Society of Teachers of Family Medicine</a></td>
+</tr>
+<tr>
+<td>STSC</td>
+<td>Soft tissue sarcoma committee</td>
+</tr>
+<tr>
+<td>SpR</td>
+<td><a href="/wiki/Specialist_registrar" title="Specialist registrar">Specialist registrar</a> (UK)</td>
+</tr>
+<tr>
+<td>SLP</td>
+<td><a href="/wiki/Speech-language_pathologist" class="mw-redirect" title="Speech-language pathologist">Speech-language pathologist</a></td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=18" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>UDC</td>
+<td><a href="/w/index.php?title=University_Disability_Consortium&amp;action=edit&amp;redlink=1" class="new" title="University Disability Consortium (page does not exist)">University Disability Consortium</a></td>
+</tr>
+<tr>
+<td>UEMS</td>
+<td><a href="/w/index.php?title=Union_Europ%C3%A9enne_des_M%C3%A9decins_Sp%C3%A9cialistes&amp;action=edit&amp;redlink=1" class="new" title="Union Européenne des Médecins Spécialistes (page does not exist)">Union Européenne des Médecins Spécialistes</a></td>
+</tr>
+<tr>
+<td>UKPDS</td>
+<td><a href="/wiki/United_Kingdom_Prospective_Diabetes_Study" title="United Kingdom Prospective Diabetes Study">United Kingdom Prospective Diabetes Study</a></td>
+</tr>
+<tr>
+<td>UNOS</td>
+<td><a href="/wiki/United_Network_for_Organ_Sharing" title="United Network for Organ Sharing">United Network for Organ Sharing</a></td>
+</tr>
+<tr>
+<td>USMLE</td>
+<td><a href="/wiki/United_States_Medical_Licensing_Examination" title="United States Medical Licensing Examination">United States Medical Licensing Examination</a></td>
+</tr>
+</tbody></table>
+<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=19" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>VA</td>
+<td>Veterans Administration – <a href="/wiki/United_States_Department_of_Veterans_Affairs" title="United States Department of Veterans Affairs">United States Department of Veterans Affairs</a></td>
+</tr>
+</tbody></table>
+<p>,</p>
+<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_abbreviations_for_medical_organisations_and_personnel&amp;action=edit&amp;section=20" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th style="width:8em;">Abbreviation</th>
+<th>Organization or personnel</th>
+</tr>
+<tr>
+<td>WHO</td>
+<td><a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization</a></td>
+</tr>
+<tr>
+<td>WMA</td>
+<td><a href="/wiki/World_Medical_Association" title="World Medical Association">World Medical Association</a></td>
+</tr>
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Medical_abbreviations" style="padding:3px">
+<table class="nowraplinks collapsible show navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tbody><tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:MedAbbrev" title="Template:MedAbbrev"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:MedAbbrev" title="Template talk:MedAbbrev"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:MedAbbrev&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Medical_abbreviations" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_medical_abbreviations" title="List of medical abbreviations">Medical abbreviations</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div>
+<p><a href="/wiki/List_of_medical_abbreviations:_0-9" class="mw-redirect" title="List of medical abbreviations: 0-9">0–9</a> <a href="/wiki/List_of_medical_abbreviations:_A" title="List of medical abbreviations: A">A</a> <a href="/wiki/List_of_medical_abbreviations:_B" title="List of medical abbreviations: B">B</a> <a href="/wiki/List_of_medical_abbreviations:_C" title="List of medical abbreviations: C">C</a> <a href="/wiki/List_of_medical_abbreviations:_D" title="List of medical abbreviations: D">D</a> <a href="/wiki/List_of_medical_abbreviations:_E" title="List of medical abbreviations: E">E</a> <a href="/wiki/List_of_medical_abbreviations:_F" title="List of medical abbreviations: F">F</a> <a href="/wiki/List_of_medical_abbreviations:_G" title="List of medical abbreviations: G">G</a> <a href="/wiki/List_of_medical_abbreviations:_H" title="List of medical abbreviations: H">H</a> <a href="/wiki/List_of_medical_abbreviations:_I" title="List of medical abbreviations: I">I</a> <a href="/wiki/List_of_medical_abbreviations:_J" title="List of medical abbreviations: J">J</a> <a href="/wiki/List_of_medical_abbreviations:_K" title="List of medical abbreviations: K">K</a> <a href="/wiki/List_of_medical_abbreviations:_L" title="List of medical abbreviations: L">L</a> <a href="/wiki/List_of_medical_abbreviations:_M" title="List of medical abbreviations: M">M</a> <a href="/wiki/List_of_medical_abbreviations:_N" title="List of medical abbreviations: N">N</a> <a href="/wiki/List_of_medical_abbreviations:_O" title="List of medical abbreviations: O">O</a> <a href="/wiki/List_of_medical_abbreviations:_P" title="List of medical abbreviations: P">P</a> <a href="/wiki/List_of_medical_abbreviations:_Q" title="List of medical abbreviations: Q">Q</a> <a href="/wiki/List_of_medical_abbreviations:_R" title="List of medical abbreviations: R">R</a> <a href="/wiki/List_of_medical_abbreviations:_S" title="List of medical abbreviations: S">S</a> <a href="/wiki/List_of_medical_abbreviations:_T" title="List of medical abbreviations: T">T</a> <a href="/wiki/List_of_medical_abbreviations:_U" title="List of medical abbreviations: U">U</a> <a href="/wiki/List_of_medical_abbreviations:_V" title="List of medical abbreviations: V">V</a> <a href="/wiki/List_of_medical_abbreviations:_W" title="List of medical abbreviations: W">W</a> <a href="/wiki/List_of_medical_abbreviations:_X" title="List of medical abbreviations: X">X</a> <a href="/wiki/List_of_medical_abbreviations:_Y" title="List of medical abbreviations: Y">Y</a> <a href="/wiki/List_of_medical_abbreviations:_Z" title="List of medical abbreviations: Z">Z</a></p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_medical_abbreviations:_Latin_abbreviations" title="List of medical abbreviations: Latin abbreviations">Latin abbreviations</a></li>
+<li><a href="/wiki/List_of_abbreviations_used_in_medical_prescriptions" title="List of abbreviations used in medical prescriptions">Prescription abbreviations</a></li>
+<li><a href="/wiki/Acronyms_in_healthcare" title="Acronyms in healthcare">Acronyms in healthcare</a></li>
+<li><a class="mw-selflink selflink">Abbreviations for medical organisations and personnel</a></li>
+<li><a href="/wiki/List_of_abbreviations_for_diseases_and_disorders" title="List of abbreviations for diseases and disorders">Abbreviations for diseases and disorders</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<!--
+NewPP limit report
+Parsed by mw1239
+Cached time: 20180519161220
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.092 seconds
+Real time usage: 0.114 seconds
+Preprocessor visited node count: 592/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10425/2097152 bytes
+Template argument size: 15/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.006/10.000 seconds
+Lua memory usage: 708 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   33.763      1 -total
+ 70.82%   23.910      1 Template:MedAbbrev
+ 61.52%   20.770      1 Template:Navbox
+ 28.47%    9.613      1 Template:Compact_ToC
+  1.66%    0.561      1 MediaWiki:Toc
+-->
+</div>

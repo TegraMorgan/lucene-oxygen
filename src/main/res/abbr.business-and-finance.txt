@@ -1,0 +1,466 @@
+<div class="mw-parser-output"><p>This is a <b>list of business and finance abbreviations</b>.</p>
+<div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="text-align:left;">
+<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents:&nbsp;</span></div>
+<div style="margin:auto;white-space:nowrap;display:inline-block;">
+<ul>
+<li><a href="#top">Top</a></li>
+<li><a href="#0–9">0–9</a></li>
+<li><a href="#A">A</a></li>
+<li><a href="#B">B</a></li>
+<li><a href="#C">C</a></li>
+<li><a href="#D">D</a></li>
+<li><a href="#E">E</a></li>
+<li><a href="#F">F</a></li>
+<li><a href="#G">G</a></li>
+<li><a href="#H">H</a></li>
+<li><a href="#I">I</a></li>
+<li><a href="#J">J</a></li>
+<li><a href="#K">K</a></li>
+<li><a href="#L">L</a></li>
+<li><a href="#M">M</a></li>
+<li><a href="#N">N</a></li>
+<li><a href="#O">O</a></li>
+<li><a href="#P">P</a></li>
+<li><a href="#Q">Q</a></li>
+<li><a href="#R">R</a></li>
+<li><a href="#S">S</a></li>
+<li><a href="#T">T</a></li>
+<li><a href="#U">U</a></li>
+<li><a href="#V">V</a></li>
+<li><a href="#W">W</a></li>
+<li><a href="#X">X</a></li>
+<li><a href="#Y">Y</a></li>
+<li><a href="#Z">Z</a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>ADR</b> – <a href="/wiki/American_Depositary_Receipt" class="mw-redirect" title="American Depositary Receipt">American Depositary Receipt</a></li>
+<li><b>AOP</b> – <a href="/w/index.php?title=Annual_Operating_Plan&amp;action=edit&amp;redlink=1" class="new" title="Annual Operating Plan (page does not exist)">Annual Operating Plan</a></li>
+<li><b>AP</b> – <a href="/wiki/Accounts_payable" title="Accounts payable">Accounts payable</a></li>
+<li><b>ARPU</b> – <a href="/wiki/Average_revenue_per_user" title="Average revenue per user">Average revenue per user</a></li>
+<li><b>ASP</b> – <a href="/wiki/Average_selling_price" title="Average selling price">Average selling price</a></li>
+<li><b>ASAP</b> – "As soon as possible"</li>
+<li><b>agcy.</b> – Agency</li>
+<li><b>agt.</b> – Agent</li>
+<li><b>asst.</b> – Assistant</li>
+<li><b>a/c.</b> – Account</li>
+<li><b>afaik.</b> – As far as i know</li>
+</ul>
+<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>BAU</b> – <a href="/wiki/Business_as_usual_(business)" title="Business as usual (business)">Business As Usual</a></li>
+<li><b>BRU</b> – <a href="/w/index.php?title=Business_Recovery_Unit&amp;action=edit&amp;redlink=1" class="new" title="Business Recovery Unit (page does not exist)">Business Recovery Unit</a></li>
+<li><b>B2B</b> – <a href="/wiki/Business-to-business" title="Business-to-business">Business-to-business</a></li>
+<li><b>B2C</b> – <a href="/wiki/B2C" class="mw-redirect" title="B2C">Business to Consumer</a></li>
+<li><b>B2G</b> – <a href="/wiki/Business-to-government" title="Business-to-government">Business-to-government</a></li>
+<li><b>BUSI</b> – business</li>
+<li><b>bus.</b> – business</li>
+<li><b>bldg.</b> – Building</li>
+<li><b>BEP</b> - Break Even Point</li>
+</ul>
+<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>CAO</b> – <a href="/wiki/Chief_Administrative_Officer" class="mw-redirect" title="Chief Administrative Officer">Chief Administrative Officer</a></li>
+<li><b>CAGR</b> – <a href="/wiki/Compound_annual_growth_rate" title="Compound annual growth rate">Compound annual growth rate</a></li>
+<li><b>CAPEX</b> – <a href="/wiki/Capital_expenditure" title="Capital expenditure">Capital Expenditure</a></li>
+<li><b>CAPM</b> – <a href="/wiki/Capital_asset_pricing_model" title="Capital asset pricing model">Capital asset pricing model</a></li>
+<li><b>CBOE</b> – <a href="/wiki/Chicago_Board_Options_Exchange" title="Chicago Board Options Exchange">Chicago Board Options Exchange</a></li>
+<li><b>CBOT</b> – <a href="/wiki/Chicago_Board_of_Trade" title="Chicago Board of Trade">Chicago Board of Trade</a></li>
+<li><b>CDO</b> – <a href="/wiki/Collateralized_debt_obligation" title="Collateralized debt obligation">Collateralized debt obligation</a></li>
+<li><b>CDM</b> – <a href="/w/index.php?title=Change_and_Data_Management&amp;action=edit&amp;redlink=1" class="new" title="Change and Data Management (page does not exist)">Change and Data Management</a></li>
+<li><b>CDS</b> – <a href="/wiki/Credit_default_swap" title="Credit default swap">Credit default swap</a></li>
+<li><b>CEO</b> – <a href="/wiki/Chief_executive_officer" title="Chief executive officer">Chief executive officer</a></li>
+<li><b>COA</b> – <a href="/w/index.php?title=Chart_of_Account&amp;action=edit&amp;redlink=1" class="new" title="Chart of Account (page does not exist)">Chart of Account</a></li>
+<li><b>CFA</b> – <a href="/wiki/Chartered_Financial_Analyst" title="Chartered Financial Analyst">Chartered Financial Analyst</a></li>
+<li><b>CFD</b> – <a href="/wiki/Contract_for_difference" title="Contract for difference">Contract for difference</a></li>
+<li><b>CFC</b> – <a href="/wiki/Consumption_of_fixed_capital" title="Consumption of fixed capital">Consumption of fixed capital</a></li>
+<li><b>CFCT</b> – <a href="/w/index.php?title=Cash_Flow_Cycle_Time&amp;action=edit&amp;redlink=1" class="new" title="Cash Flow Cycle Time (page does not exist)">Cash Flow Cycle Time</a></li>
+<li><b>CFM</b> – <a href="/wiki/Certified_Financial_Manager" title="Certified Financial Manager">Certified Financial Manager</a></li>
+<li><b>CFO PEX</b> – <a href="/wiki/Capital_Expenditures" class="mw-redirect" title="Capital Expenditures">Capital Expenditures</a></li>
+<li><b>CFO</b> – <a href="/wiki/Chief_Financial_Officer" class="mw-redirect" title="Chief Financial Officer">Chief Financial Officer</a></li>
+<li><b>CFS</b> – <a href="/w/index.php?title=Consolidated_Financial_Statement&amp;action=edit&amp;redlink=1" class="new" title="Consolidated Financial Statement (page does not exist)">Consolidated Financial Statement</a></li>
+<li><b>CIA</b> – <a href="/wiki/Certified_Internal_Auditor" class="mw-redirect" title="Certified Internal Auditor">Certified Internal Auditor</a></li>
+<li><b>CIF</b> – <a href="/w/index.php?title=Cost_Insurance_With_Freight&amp;action=edit&amp;redlink=1" class="new" title="Cost Insurance With Freight (page does not exist)">Cost Insurance With Freight</a></li>
+<li><b>CIMA</b> – <a href="/wiki/Chartered_Institute_of_Management_Accountants" title="Chartered Institute of Management Accountants">Chartered Institute of Management Accountants</a></li>
+<li><b>CIO</b> – <a href="/wiki/Chief_information_officer" title="Chief information officer">Chief Information Officer</a> or <a href="/wiki/Chief_investment_officer" title="Chief investment officer">Chief Investment Officer</a></li>
+<li><b>CISA</b> – <a href="/wiki/Certified_Information_Systems_Auditor" class="mw-redirect" title="Certified Information Systems Auditor">Certified Information Systems Auditor</a></li>
+<li><b>CIP</b> - <a href="/w/index.php?title=Carriage_and_Insurance_Paid&amp;action=edit&amp;redlink=1" class="new" title="Carriage and Insurance Paid (page does not exist)">Carriage and Insurance Paid</a></li>
+<li><b>CMA</b> – <a href="/wiki/Certified_Management_Accountant" title="Certified Management Accountant">Certified Management Accountant</a></li>
+<li><b>CMFB</b> – <a href="/wiki/Committee_on_monetary,_finance_and_balance_of_payments_statistics" class="mw-redirect" title="Committee on monetary, finance and balance of payments statistics">Committee on monetary, finance and balance of payments statistics</a></li>
+<li><b>CMO</b> – <a href="/wiki/Chief_Marketing_Officer" class="mw-redirect" title="Chief Marketing Officer">Chief Marketing Officer</a></li>
+<li><b>COB</b> – <a href="/wiki/Close_of_Business" class="mw-redirect" title="Close of Business">Close of Business</a></li>
+<li><b>COGS</b> – <a href="/wiki/Cost_of_Goods_Sold" class="mw-redirect" title="Cost of Goods Sold">Cost of Goods Sold</a></li>
+<li><b>Corp.</b> – <a href="/wiki/Corporation" title="Corporation">Corporation</a></li>
+<li><b>COO</b> – <a href="/wiki/Chief_Operating_Officer" class="mw-redirect" title="Chief Operating Officer">Chief Operating Officer</a></li>
+<li><b>CPA</b> – <a href="/wiki/Certified_Public_Accountant" title="Certified Public Accountant">Certified Public Accountant</a></li>
+<li><b>CPQ</b> – <a href="/w/index.php?title=Configure,_Price,_Quote&amp;action=edit&amp;redlink=1" class="new" title="Configure, Price, Quote (page does not exist)">Configure, Price, Quote</a></li>
+<li><b>CPI</b> – <a href="/wiki/Consumer_Price_Index" class="mw-redirect" title="Consumer Price Index">Consumer Price Index</a></li>
+<li><b>CPU</b> - Cost per Unit</li>
+<li><b>CSI</b> - <a href="/w/index.php?title=Continual_Service_Improvement&amp;action=edit&amp;redlink=1" class="new" title="Continual Service Improvement (page does not exist)">Continual Service Improvement</a></li>
+<li><b>CSO</b> – <a href="/wiki/Chief_Security_Officer" class="mw-redirect" title="Chief Security Officer">Chief Security Officer</a></li>
+<li><b>CSR</b> - <a href="/wiki/Corporate_social_responsibility" title="Corporate social responsibility">Corporate social responsibility</a></li>
+<li><b>CRM</b> – <a href="/wiki/Customer_Relationship_Management" class="mw-redirect" title="Customer Relationship Management">Customer Relationship Management</a></li>
+<li><b>CVP</b> – <a href="/w/index.php?title=Cost_Volume_Profit&amp;action=edit&amp;redlink=1" class="new" title="Cost Volume Profit (page does not exist)">Cost Volume Profit</a></li>
+<li><b>C2B</b> – <a href="/wiki/Consumer-to-business" title="Consumer-to-business">Consumer-to-business</a></li>
+<li><b>CTO</b> – <a href="/wiki/Chief_Technology_Officer" class="mw-redirect" title="Chief Technology Officer">Chief Technology Officer</a></li>
+<li><b>C&amp;F</b> – <a href="/w/index.php?title=Cost_With_Freight&amp;action=edit&amp;redlink=1" class="new" title="Cost With Freight (page does not exist)">Cost With Freight</a></li>
+<li><b>CX</b> – <a href="/wiki/Customer_Experience" class="mw-redirect" title="Customer Experience">Customer Experience</a></li>
+<li><b>CKM</b> <a href="/w/index.php?title=Customer_Knowledge_Management&amp;action=edit&amp;redlink=1" class="new" title="Customer Knowledge Management (page does not exist)">Customer Knowledge Management</a></li>
+<li><b>CTC</b> - <a href="/wiki/Cost_to_company" title="Cost to company">Cost to company</a></li>
+</ul>
+<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>DDA</b> – <a href="/wiki/Depletion_(accounting)" title="Depletion (accounting)">Depletion</a> <a href="/wiki/Depreciation" title="Depreciation">Depreciation</a> <a href="/wiki/Amortization" title="Amortization">Amortization</a></li>
+<li><b>dept.</b> – Department</li>
+<li><b>Dept</b> - <a href="/wiki/Departmentalization" title="Departmentalization">Department</a></li>
+<li><b>DI</b> – <a href="/w/index.php?title=Dispatch_information&amp;action=edit&amp;redlink=1" class="new" title="Dispatch information (page does not exist)">Dispatch information</a></li>
+<li><b>Dir</b> - <a href="/wiki/Director_(business)" title="Director (business)">Director</a></li>
+<li><b>disc.</b> – Discount</li>
+<li><b>DMA</b> – <a href="/wiki/Direct_market_access" title="Direct market access">Direct market access</a></li>
+<li><b>DR</b> – <a href="/wiki/Depositary_receipt" title="Depositary receipt">Depositary receipt</a></li>
+<li><b>DSP</b> - <a href="/w/index.php?title=Delivery_service_provider&amp;action=edit&amp;redlink=1" class="new" title="Delivery service provider (page does not exist)">Delivery service provider</a></li>
+<li><b>DTP</b>-<a href="/w/index.php?title=Do_this_please&amp;action=edit&amp;redlink=1" class="new" title="Do this please (page does not exist)">Do this please</a></li>
+<li><b>DVP</b> - <a href="/wiki/Delivery_versus_payment" title="Delivery versus payment">Delivery versus payment</a></li>
+<li><b>DSO</b> - <a href="/wiki/Days_Sales_Outstanding" class="mw-redirect" title="Days Sales Outstanding">Days Sales Outstanding</a></li>
+<li><b>DPO</b> - <a href="/w/index.php?title=Days_Payable_Outstanding&amp;action=edit&amp;redlink=1" class="new" title="Days Payable Outstanding (page does not exist)">Days Payable Outstanding</a></li>
+</ul>
+<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>ECS</b> — <a href="/wiki/Electronic_Clearing_Service" class="mw-redirect" title="Electronic Clearing Service">Electronic Clearing Service</a></li>
+<li><b>ECS</b> — <a href="/w/index.php?title=Electronic_Clearing_System&amp;action=edit&amp;redlink=1" class="new" title="Electronic Clearing System (page does not exist)">Electronic Clearing System</a></li>
+<li><b>EAR</b> – <a href="/wiki/Effective_annual_rate" class="mw-redirect" title="Effective annual rate">Effective annual rate</a></li>
+<li><b>EAY</b> – <a href="/w/index.php?title=Effective_Annual_Yield&amp;action=edit&amp;redlink=1" class="new" title="Effective Annual Yield (page does not exist)">Effective Annual Yield</a></li>
+<li><b>EBITA</b> – <a href="/w/index.php?title=Earnings_before_interest_and_taxes_and_amortization&amp;action=edit&amp;redlink=1" class="new" title="Earnings before interest and taxes and amortization (page does not exist)">Earnings before interest and taxes and amortization</a></li>
+<li><b>EBITDA</b> – <a href="/wiki/Earnings_before_Interest,_Taxes,_Depreciation,_and_Amortization" class="mw-redirect" title="Earnings before Interest, Taxes, Depreciation, and Amortization">Earnings before Interest, Taxes, Depreciation, and Amortization</a></li>
+<li><b>ECB</b> – <a href="/wiki/European_Central_Bank" title="European Central Bank">European Central Bank</a></li>
+<li><b>EDI</b> – <a href="/wiki/Electronic_Data_Interchange" class="mw-redirect" title="Electronic Data Interchange">Electronic Data Interchange</a></li>
+<li><b>EFSM</b> – <a href="/wiki/European_Financial_Stabilisation_Mechanism" title="European Financial Stabilisation Mechanism">European Financial Stabilisation Mechanism</a></li>
+<li><b>EFTPOS</b> – <a href="/wiki/EFTPOS" title="EFTPOS">Electronic Funds Transfer at Point of Sale</a></li>
+<li><b>EPS</b> – <a href="/wiki/Earnings_per_share" title="Earnings per share">Earnings per share</a></li>
+<li><b>EXP</b> – <a href="/wiki/Export" title="Export">Export</a></li>
+<li><b>EOB</b> – <a href="/w/index.php?title=End_Of_the_Business&amp;action=edit&amp;redlink=1" class="new" title="End Of the Business (page does not exist)">End Of the Business</a></li>
+<li><b>EOD</b> – <a href="/w/index.php?title=End_Of_the_Day&amp;action=edit&amp;redlink=1" class="new" title="End Of the Day (page does not exist)">End Of the Day</a></li>
+<li><b>EOM</b> – <a href="/w/index.php?title=End_Of_Message&amp;action=edit&amp;redlink=1" class="new" title="End Of Message (page does not exist)">End Of Message</a></li>
+<li><b>ERP</b> - <a href="/wiki/Enterprise_Resource_Planning" class="mw-redirect" title="Enterprise Resource Planning">Enterprise Resource Planning</a></li>
+<li><b>ETA</b> - <a href="/wiki/Estimated_Time_of_Arrival" class="mw-redirect" title="Estimated Time of Arrival">Estimated Time of Arrival</a></li>
+<li><b>ETD</b> - <a href="/w/index.php?title=Estimated_Time_of_Delivery&amp;action=edit&amp;redlink=1" class="new" title="Estimated Time of Delivery (page does not exist)">Estimated Time of Delivery</a></li>
+<li><b>EMI</b> - <a href="/wiki/Equated_Monthly_Installment" class="mw-redirect" title="Equated Monthly Installment">Equated Monthly Installment</a></li>
+<li><b>EPC</b> - <a href="/wiki/Export_Promotion_Council" title="Export Promotion Council">Export Promotion Council</a></li>
+<li><b>ECGC</b> - <a href="/wiki/Export_Credit_Guarantee_Corporation_of_India" title="Export Credit Guarantee Corporation of India">Export Credit Guarantee Corporation of India</a></li>
+<li><b>EXW</b> - <a href="/w/index.php?title=Ex_Works_,_Ready_at_Warehouse&amp;action=edit&amp;redlink=1" class="new" title="Ex Works , Ready at Warehouse (page does not exist)">Ex Works , Ready at Warehouse</a></li>
+</ul>
+<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>FAB</b> - <a href="/w/index.php?title=Feature_Advantage_Benefits&amp;action=edit&amp;redlink=1" class="new" title="Feature Advantage Benefits (page does not exist)">Feature Advantage Benefits</a></li>
+<li><b>FDP</b> – <a href="/wiki/Finance_Department" class="mw-redirect" title="Finance Department">Finance Department</a></li>
+<li><b>FOB</b> – <a href="/wiki/Freight_On_Board" class="mw-redirect" title="Freight On Board">Freight On Board</a></li>
+<li><b>FIFO</b> – <a href="/wiki/FIFO_and_LIFO_accounting" title="FIFO and LIFO accounting">First In, First Out</a></li>
+<li><b>FinMin</b> – <a href="/wiki/Finance_Minister" class="mw-redirect" title="Finance Minister">Finance Minister</a></li>
+<li><b>Fin Min</b> – <a href="/wiki/Finance_Minister" class="mw-redirect" title="Finance Minister">Finance Minister</a></li>
+<li><b>FL</b> – <a href="/wiki/Financial_leverage" class="mw-redirect" title="Financial leverage">Financial leverage</a></li>
+<li><b>FOMC</b> – <a href="/wiki/Federal_Open_Market_Committee" title="Federal Open Market Committee">Federal Open Market Committee</a></li>
+<li><b>FP&amp;A</b> – <a href="/w/index.php?title=Financial_Planning_%26_Analysis&amp;action=edit&amp;redlink=1" class="new" title="Financial Planning &amp; Analysis (page does not exist)">Financial Planning &amp; Analysis</a></li>
+<li><b>FPO</b> – <a href="/w/index.php?title=Follow_on_public_offer&amp;action=edit&amp;redlink=1" class="new" title="Follow on public offer (page does not exist)">Follow on public offer</a></li>
+<li><b>FIX</b> – <a href="/wiki/Financial_Information_Exchange" class="mw-redirect" title="Financial Information Exchange">Financial Information Exchange</a></li>
+<li><b>FSA</b> – <a href="/wiki/Financial_Services_Authority" title="Financial Services Authority">Financial Services Authority</a></li>
+<li><b>FX</b> – <a href="/wiki/Foreign_exchange_market" title="Foreign exchange market">Foreign exchange market</a></li>
+<li><b>FYI</b>- <a href="/wiki/For_Your_Information" class="mw-redirect" title="For Your Information">For Your Information</a></li>
+<li><b>FOC</b>- <a href="/w/index.php?title=Free_Of_Cost&amp;action=edit&amp;redlink=1" class="new" title="Free Of Cost (page does not exist)">Free Of Cost</a></li>
+<li><b>FYA</b>- <a href="/w/index.php?title=For_Your_Action&amp;action=edit&amp;redlink=1" class="new" title="For Your Action (page does not exist)">For Your Action</a></li>
+<li><b>FTE</b>- <a href="/w/index.php?title=Full_Time_Equivalent&amp;action=edit&amp;redlink=1" class="new" title="Full Time Equivalent (page does not exist)">Full Time Equivalent</a></li>
+<li><b>F/U</b>- <a href="/w/index.php?title=Follow-Up&amp;action=edit&amp;redlink=1" class="new" title="Follow-Up (page does not exist)">Follow-Up</a></li>
+</ul>
+<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>GAAP</b> – <a href="/wiki/Generally_Accepted_Accounting_Principles" class="mw-redirect" title="Generally Accepted Accounting Principles">Generally Accepted Accounting Principles</a></li>
+<li><b>GAAS</b> – <a href="/w/index.php?title=Generally_Accepted_Audit_Standards&amp;action=edit&amp;redlink=1" class="new" title="Generally Accepted Audit Standards (page does not exist)">Generally Accepted Audit Standards</a></li>
+<li><b>GDP</b> – <a href="/wiki/Gross_Domestic_Product" class="mw-redirect" title="Gross Domestic Product">Gross Domestic Product</a></li>
+<li><b>GDR</b> – <a href="/wiki/Global_depository_receipt" title="Global depository receipt">Global depository receipt</a></li>
+<li><b>GFCF</b> – <a href="/wiki/Gross_fixed_capital_formation" title="Gross fixed capital formation">Gross fixed capital formation</a></li>
+<li><b>GL</b> – <a href="/wiki/General_Ledger" class="mw-redirect" title="General Ledger">General Ledger</a></li>
+<li><b>GMV</b> – <a href="/wiki/Gross_Merchandise_Volume" class="mw-redirect" title="Gross Merchandise Volume">Gross Merchandise Volume</a></li>
+<li><b>GP</b> – <a href="/wiki/Gross_Profit" class="mw-redirect" title="Gross Profit">Gross Profit</a></li>
+<li><b>GPO</b> – <a href="/wiki/Group_purchasing_organization" title="Group purchasing organization">Group purchasing organization</a></li>
+<li><b>GRN</b> – <a href="/w/index.php?title=Goods_Receipt_Note&amp;action=edit&amp;redlink=1" class="new" title="Goods Receipt Note (page does not exist)">Goods Receipt Note</a></li>
+<li><b>GRNI</b> - <a href="/w/index.php?title=Goods_Receipt_Not_Invoiced&amp;action=edit&amp;redlink=1" class="new" title="Goods Receipt Not Invoiced (page does not exist)">Goods Receipt Not Invoiced</a></li>
+<li><b>GSV</b> – <a href="/w/index.php?title=Gross_Sales_Value&amp;action=edit&amp;redlink=1" class="new" title="Gross Sales Value (page does not exist)">Gross Sales Value</a></li>
+<li><b>GVC</b> – <a href="/wiki/Global_Value_Chain" class="mw-redirect" title="Global Value Chain">Global Value Chain</a></li>
+<li><b>GMROII</b>-<a href="/w/index.php?title=Gross_Margin_Return_on_Inventory_Investment&amp;action=edit&amp;redlink=1" class="new" title="Gross Margin Return on Inventory Investment (page does not exist)">Gross Margin Return on Inventory Investment</a></li>
+<li><b>G&amp;A</b> – <a href="/w/index.php?title=General_and_Administration_expense._expenditures_related_to_the_day-to-day_operations_of_a_business.&amp;action=edit&amp;redlink=1" class="new" title="General and Administration expense. expenditures related to the day-to-day operations of a business. (page does not exist)">General and Administration expense. expenditures related to the day-to-day operations of a business.</a></li>
+</ul>
+<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>HR</b> – <a href="/wiki/Human_Resources" class="mw-redirect" title="Human Resources">Human Resources</a></li>
+<li><b>HQ</b> – Headquarters</li>
+<li><b>HRD</b> – Human Resource Development</li>
+<li><b>HMRC</b> - Her Majesty's Revenue and Customs</li>
+</ul>
+<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>IAS</b> – <a href="/wiki/International_Accounting_Standards" class="mw-redirect" title="International Accounting Standards">International Accounting Standards</a></li>
+<li><b>ICB</b> – <a href="/wiki/Industry_Classification_Benchmark" title="Industry Classification Benchmark">Industry Classification Benchmark</a></li>
+<li><b>ICRM</b> – <a href="/w/index.php?title=Innovative_Customer_Relationship_Management&amp;action=edit&amp;redlink=1" class="new" title="Innovative Customer Relationship Management (page does not exist)">Innovative Customer Relationship Management</a></li>
+<li><b>IE</b> – <a href="/wiki/Interest_expense" title="Interest expense">Interest expense</a></li>
+<li><b>IFRS</b> – <a href="/wiki/International_Financial_Reporting_Standard" class="mw-redirect" title="International Financial Reporting Standard">International Financial Reporting Standard</a></li>
+<li><b>ILCLP</b> – <a href="/w/index.php?title=IdentLogic_Systems_Customer_Loyalty_Program&amp;action=edit&amp;redlink=1" class="new" title="IdentLogic Systems Customer Loyalty Program (page does not exist)">IdentLogic Systems Customer Loyalty Program</a></li>
+<li><b>IMF</b> – <a href="/wiki/International_Monetary_Fund" title="International Monetary Fund">International Monetary Fund</a></li>
+<li><b>IMP</b> – <a href="/wiki/Import" title="Import">Import</a></li>
+<li><b>Inc.</b> – <a href="/wiki/Corporation" title="Corporation">Incorporated</a></li>
+<li><b>IoT</b> – <a href="/wiki/Internet_of_Things" class="mw-redirect" title="Internet of Things">Internet of Things</a></li>
+<li><b>IPO</b> – <a href="/wiki/Initial_Public_Offering" class="mw-redirect" title="Initial Public Offering">Initial Public Offering</a></li>
+<li><b>IR</b> – <a href="/wiki/Interest_Rate" class="mw-redirect" title="Interest Rate">Interest Rate</a> - typically referring to an IR derivative product</li>
+<li><b>IRS</b> – <a href="/wiki/Internal_Revenue_Service" title="Internal Revenue Service">Internal Revenue Service</a></li>
+<li><b>ISIN</b> – <a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">International Securities Identification Number</a></li>
+<li><b>ISM</b> – <a href="/wiki/Institute_of_Supply_Management" class="mw-redirect" title="Institute of Supply Management">Institute of Supply Management</a></li>
+<li><b>IYR</b> – <a href="/w/index.php?title=In_Year_Revenue&amp;action=edit&amp;redlink=1" class="new" title="In Year Revenue (page does not exist)">In Year Revenue</a></li>
+<li><b>IPT</b> - <a href="/w/index.php?title=Item_Per_Transaction&amp;action=edit&amp;redlink=1" class="new" title="Item Per Transaction (page does not exist)">Item Per Transaction</a></li>
+</ul>
+<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>J</b> – Journal</li>
+<li><b>JIT</b> - Just in time</li>
+<li><b>JIS</b> - Just in sequence</li>
+<li><b>JST</b> - Joint Supervisory Team</li>
+</ul>
+<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>K</b> – Is used as an abbreviation for <a href="/wiki/1000_(number)#In_mathematics" title="1000 (number)">1,000</a>. For example, $225K would be understood to mean $225,000, and $3.6K would be understood to mean $3,600. Multiple K's are not commonly used to represent larger numbers. In other words, it would look odd to use $1.2KK to represent $1,200,000.</li>
+<li><b>KIBOR</b> - Karachi Interbank Offered Rate</li>
+<li><b>KPI</b> – "Key Performance Indicators" refers to a type of performance measurement. An organization may use KPIs to evaluate its success, or to evaluate the success of a particular activity in which it is engaged.</li>
+<li><b>KYC</b> – "Know Your Customer" refers to due diligence activities that financial institutions and other regulated companies must perform to ascertain relevant information.</li>
+</ul>
+<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>LBO</b> – <a href="/wiki/Leveraged_buyout" title="Leveraged buyout">Leveraged Buyout</a></li>
+<li><b>LC</b> – <a href="/wiki/Letter_of_credit" title="Letter of credit">Letter of credit</a></li>
+<li><b>LIBOR</b> – <a href="/wiki/London_Interbank_Offered_Rate" class="mw-redirect" title="London Interbank Offered Rate">London Interbank Offered Rate</a></li>
+<li><b>LE</b> – <a href="/w/index.php?title=Latest_Estimate&amp;action=edit&amp;redlink=1" class="new" title="Latest Estimate (page does not exist)">Latest Estimate</a></li>
+<li><b>LIFFE</b> – <a href="/wiki/London_International_Financial_Futures_and_Options_Exchange" title="London International Financial Futures and Options Exchange">London International Financial Futures and Options Exchange</a></li>
+<li><b>LIFO</b> – <a href="/wiki/FIFO_and_LIFO_accounting" title="FIFO and LIFO accounting">Last In, First Out</a></li>
+<li><b>LLC</b> – <a href="/wiki/Limited_Liability_Company" class="mw-redirect" title="Limited Liability Company">Limited Liability Company</a></li>
+<li><b>LME</b> – <a href="/wiki/London_Metal_Exchange" title="London Metal Exchange">London Metal Exchange</a></li>
+<li><b>Ltd.</b> – <a href="/wiki/Limited_Company" class="mw-redirect" title="Limited Company">Limited Company</a></li>
+<li><b>LTV</b> - <a href="/w/index.php?title=Loan_to_Value&amp;action=edit&amp;redlink=1" class="new" title="Loan to Value (page does not exist)">Loan to Value</a></li>
+<li><b>LoU</b> - <a href="/w/index.php?title=Letters_of_Undertaking&amp;action=edit&amp;redlink=1" class="new" title="Letters of Undertaking (page does not exist)">Letters of Undertaking</a></li>
+</ul>
+<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>MBS</b> – <a href="/wiki/Mortgage-backed_security" title="Mortgage-backed security">mortgage-backed security</a></li>
+<li><b>mfg.</b> – Manufacturing</li>
+<li><b>MGMT</b> - Management</li>
+<li><b>MIC</b> – <a href="/wiki/Market_Identifier_Code" title="Market Identifier Code">Market Identifier Code</a></li>
+<li><b>MoM</b> - Month on Month / Month over Month</li>
+<li><b>MOQ</b> – <a href="/w/index.php?title=Minimum_Order_Quantity&amp;action=edit&amp;redlink=1" class="new" title="Minimum Order Quantity (page does not exist)">Minimum Order Quantity</a></li>
+<li><b>MOU</b> - <a href="/wiki/Memorandum_of_understanding" title="Memorandum of understanding">Memorandum of understanding</a></li>
+<li><b>MPC</b> – <a href="/wiki/Marginal_propensity_to_consume" title="Marginal propensity to consume">marginal propensity to consume</a></li>
+<li><b>MRO</b> – <a href="/wiki/Maintenance,_repair,_and_operations" class="mw-redirect" title="Maintenance, repair, and operations">Maintenance, Repair, and Operations</a></li>
+<li><b>MRP</b> - Maximum Retail Price</li>
+<li><b>MSOD</b> – <a href="/w/index.php?title=Monthly_Statement_of_Select_Operational_Data&amp;action=edit&amp;redlink=1" class="new" title="Monthly Statement of Select Operational Data (page does not exist)">Monthly Statement of Select Operational Data</a></li>
+<li><b>MSRP</b> - Manufacturer's Suggested Retail Price</li>
+<li><b>MTD</b> – <a href="/wiki/Month-to-date" title="Month-to-date">Month-to-date</a></li>
+<li><b>MWC</b> – <a href="/w/index.php?title=Managerial_Working_Capital&amp;action=edit&amp;redlink=1" class="new" title="Managerial Working Capital (page does not exist)">Managerial Working Capital</a></li>
+</ul>
+<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>NAV</b> – <a href="/wiki/Net_asset_value" title="Net asset value">Net asset value</a></li>
+<li><b>NCBO</b> – <a href="/w/index.php?title=No_Change_of_Beneficial_Ownership&amp;action=edit&amp;redlink=1" class="new" title="No Change of Beneficial Ownership (page does not exist)">No Change of Beneficial Ownership</a></li>
+<li><b>NCND</b> – <a href="/w/index.php?title=Non-Circumvent_and_Non-Disclosure&amp;action=edit&amp;redlink=1" class="new" title="Non-Circumvent and Non-Disclosure (page does not exist)">Non-Circumvent and Non-Disclosure</a></li>
+<li><b>NDA</b> – <a href="/wiki/Non-Disclosure_Agreement" class="mw-redirect" title="Non-Disclosure Agreement">Non-Disclosure Agreement</a></li>
+<li><b>NII</b> – <a href="/wiki/Net_Interest_Income" class="mw-redirect" title="Net Interest Income">Net Interest Income</a></li>
+<li><b>NIM</b> – <a href="/wiki/Net_interest_margin" title="Net interest margin">Net Interest Margin</a></li>
+<li><b>NOA</b> – <a href="/wiki/Net_Operating_Assets" class="mw-redirect" title="Net Operating Assets">Net Operating Assets</a></li>
+<li><b>NOI</b> – <a href="/wiki/Net_Operating_Income" class="mw-redirect" title="Net Operating Income">Net Operating Income</a></li>
+<li><b>NOPAT</b> – <a href="/wiki/NOPAT" title="NOPAT">Net Operating Profit After Tax</a></li>
+<li><b>NPL</b> – <a href="/wiki/Non-performing_loan" title="Non-performing loan">Non-performing loan</a></li>
+<li><b>NPV</b> – <a href="/wiki/Net_Present_Value" class="mw-redirect" title="Net Present Value">Net Present Value</a></li>
+<li><b>NTE</b> - <a href="/wiki/Not_To_Exceed" class="mw-redirect" title="Not To Exceed">Not To Exceed</a></li>
+<li><b>NYMEX</b> – <a href="/wiki/New_York_Mercantile_Exchange" title="New York Mercantile Exchange">New York Mercantile Exchange</a></li>
+<li><b>NYSE</b> – <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">New York Stock Exchange</a></li>
+</ul>
+<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>OC</b> – <a href="/wiki/Opportunity_Cost" class="mw-redirect" title="Opportunity Cost">Opportunity Cost</a></li>
+<li><b>OCF</b> – <a href="/wiki/Operating_cash_flow" title="Operating cash flow">Operating cash flow</a></li>
+<li><b>OECD</b> – <a href="/wiki/Organisation_for_Economic_Co-operation_and_Development" class="mw-redirect" title="Organisation for Economic Co-operation and Development">Organisation for Economic Co-operation and Development</a></li>
+<li><b>OEM</b> - Original Equipment Manufacturer</li>
+<li><b>OIBDA</b> - Operating Income Before Depreciation And Amortization</li>
+<li><b>OPEX</b> – <a href="/wiki/Operating_expense" title="Operating expense">Operational Expenditures</a></li>
+<li><b>OTC</b> – <a href="/wiki/Over-the-counter_(finance)" title="Over-the-counter (finance)">Over-the-counter (finance)</a></li>
+<li><b>OOO</b> - <a href="/w/index.php?title=Out_of_Office&amp;action=edit&amp;redlink=1" class="new" title="Out of Office (page does not exist)">Out of Office</a></li>
+</ul>
+<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>PA</b> - <a href="/wiki/Purchasing_agent" class="mw-redirect" title="Purchasing agent">Purchasing agent</a></li>
+<li><b>PA</b> - <a href="/w/index.php?title=Promotional_Activity&amp;action=edit&amp;redlink=1" class="new" title="Promotional Activity (page does not exist)">Promotional Activity</a></li>
+<li><b>PAT</b> – <a href="/wiki/Profit_After_Tax" class="mw-redirect" title="Profit After Tax">Profit After Tax</a></li>
+<li><b>PBT</b> – <a href="/wiki/Profit_before_tax" class="mw-redirect" title="Profit before tax">Profit Before Tax</a></li>
+<li><b>P/E</b> – <a href="/wiki/P/E_ratio" class="mw-redirect" title="P/E ratio">Price-to-earnings ratio</a></li>
+<li><b>PEG</b> – <a href="/wiki/PEG_ratio" title="PEG ratio">Price-to-earnings growth ratio</a></li>
+<li><b>P&amp;L</b> – <a href="/wiki/Profit_and_loss_statement" class="mw-redirect" title="Profit and loss statement">Profit and Loss</a></li>
+<li><b>PI</b> - <a href="/w/index.php?title=Professional_Indemnity_(insurance_coverage)&amp;action=edit&amp;redlink=1" class="new" title="Professional Indemnity (insurance coverage) (page does not exist)">Professional Indemnity (insurance coverage)</a></li>
+<li><b>pip</b> – <a href="/wiki/Percentage_in_point" title="Percentage in point">Percentage in point</a></li>
+<li><b>PMAC</b> – <a href="/wiki/Moving_average_cost" class="mw-redirect" title="Moving average cost">Period Moving Average Cost</a></li>
+<li><b>PO</b> – <a href="/w/index.php?title=Profit_Objective&amp;action=edit&amp;redlink=1" class="new" title="Profit Objective (page does not exist)">Profit Objective</a> or <a href="/wiki/Purchase_Order" class="mw-redirect" title="Purchase Order">Purchase Order</a></li>
+<li><b>POS</b> – <a href="/wiki/Point_of_sale" title="Point of sale">Point of sale</a></li>
+<li><b>PP&amp;E</b> – <a href="/wiki/Property,_plant,_and_equipment" class="mw-redirect" title="Property, plant, and equipment">Property, plant, and equipment</a></li>
+<li><b>PPP</b> – <a href="/wiki/Public-private_partnership" class="mw-redirect" title="Public-private partnership">Public-private partnership</a></li>
+<li><b>PPP</b> – <a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">Purchasing power parity</a></li>
+<li><b>PR</b> – <a href="/w/index.php?title=Purchase_Requisition&amp;action=edit&amp;redlink=1" class="new" title="Purchase Requisition (page does not exist)">Purchase Requisition</a></li>
+<li><b>PHEK</b> – <a href="/w/index.php?title=Planherstellungskosten_(Product_Planning_cost)&amp;action=edit&amp;redlink=1" class="new" title="Planherstellungskosten (Product Planning cost) (page does not exist)">Planherstellungskosten (Product Planning cost)</a></li>
+<li><b>PTD</b> <a href="/w/index.php?title=Project_to_Date&amp;action=edit&amp;redlink=1" class="new" title="Project to Date (page does not exist)">Project to Date</a></li>
+<li><b>PPt</b> <a href="/w/index.php?title=Power_point_presentation&amp;action=edit&amp;redlink=1" class="new" title="Power point presentation (page does not exist)">Power point presentation</a></li>
+</ul>
+<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=17" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>QC</b> – <a href="/wiki/Quality_control" title="Quality control">Quality control</a> or <a href="/wiki/Quality_costs" title="Quality costs">Quality costs</a></li>
+<li><b>QoQ</b> - <a href="/wiki/Quarter_on_quarter" title="Quarter on quarter">Quarter on quarter</a></li>
+<li><b>q/q</b> – <a href="/wiki/Quarter_on_quarter" title="Quarter on quarter">Quarter on quarter</a></li>
+<li><b>QTD</b> – <a href="/wiki/Quarter-to-date" title="Quarter-to-date">Quarter-to-date</a></li>
+</ul>
+<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>RBI</b> – <a href="/wiki/Reserve_Bank_of_India" title="Reserve Bank of India">Reserve Bank of India</a></li>
+<li><b>RBA</b> – <a href="/wiki/Reserve_Bank_of_Australia" title="Reserve Bank of Australia">Reserve Bank of Australia</a></li>
+<li><b>RE</b> – <a href="/wiki/Retained_Earnings" class="mw-redirect" title="Retained Earnings">Retained Earnings</a></li>
+<li><b>RFI</b> – <a href="/wiki/Request_for_information" title="Request for information">Request for information</a></li>
+<li><b>RFP</b> – <a href="/wiki/Request_for_Proposal" class="mw-redirect" title="Request for Proposal">Request for Proposal</a></li>
+<li><b>RFQ</b> – <a href="/wiki/Request_for_Quotation" class="mw-redirect" title="Request for Quotation">Request for Quotation</a></li>
+<li><b>RFX</b> – Generic name for a Request for Information, Proposal or Quotation</li>
+<li><b>ROA</b> – <a href="/wiki/Return_on_assets" title="Return on assets">Return on assets</a></li>
+<li><b>ROCE</b> – <a href="/wiki/Return_On_Capital_Employed" class="mw-redirect" title="Return On Capital Employed">Return On Capital Employed</a></li>
+<li><b>ROE</b> – <a href="/wiki/Return_on_Equity" class="mw-redirect" title="Return on Equity">Return on Equity</a></li>
+<li><b>ROI</b> – <a href="/wiki/Return_on_Investment" class="mw-redirect" title="Return on Investment">Return on Investment</a></li>
+<li><b>ROIC</b> – <a href="/wiki/Return_on_Invested_Capital" class="mw-redirect" title="Return on Invested Capital">Return on Invested Capital</a></li>
+<li><b>RONA</b> – <a href="/wiki/Return_on_net_assets" title="Return on net assets">Return on net assets</a></li>
+<li><b>ROS</b> – <a href="/wiki/Return_on_Sales" class="mw-redirect" title="Return on Sales">Return on Sales</a></li>
+<li><b>RR</b> – <a href="/wiki/Resource_rent" title="Resource rent">Resource rent</a></li>
+<li><b>RSP</b> – <a href="/w/index.php?title=Retail_selling_price&amp;action=edit&amp;redlink=1" class="new" title="Retail selling price (page does not exist)">Retail selling price</a></li>
+<li><b>R&amp;D</b> – <a href="/wiki/Research_and_Development" class="mw-redirect" title="Research and Development">Research and Development</a></li>
+<li><b>RC</b> – <a href="/w/index.php?title=Retail_Company&amp;action=edit&amp;redlink=1" class="new" title="Retail Company (page does not exist)">Retail Company</a></li>
+</ul>
+<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>S<sub>t</sub></b> – <a href="/wiki/Sales#Accounting" title="Sales">Sales</a>, during time period <i>t</i>.</li>
+<li><b>S&amp;M</b> - Sales &amp; Marketing</li>
+<li><b>S&amp;OP</b> - <a href="/wiki/Sales_and_operations_planning" title="Sales and operations planning">Sales and operations planning</a></li>
+<li><b>SAAS</b> – <a href="/wiki/Software_as_a_service" title="Software as a service">Software-as-a-Service</a></li>
+<li><b>SCM</b> – <a href="/wiki/Supply_Chain_Management" class="mw-redirect" title="Supply Chain Management">Supply Chain Management</a></li>
+<li><b>SCBA</b> – <a href="/w/index.php?title=Social_Cost_Benefit_Analysis&amp;action=edit&amp;redlink=1" class="new" title="Social Cost Benefit Analysis (page does not exist)">Social Cost Benefit Analysis</a></li>
+<li><b>SEBI</b> – <a href="/wiki/Securities_and_Exchange_Board_of_India" title="Securities and Exchange Board of India">Securities and Exchange Board of India</a></li>
+<li><b>SEC</b> - <a href="/wiki/Securities_and_Exchange_Commission" class="mw-redirect" title="Securities and Exchange Commission">Securities and Exchange Commission</a></li>
+<li><b>SG&amp;A</b> – <a href="/wiki/SG%26A" title="SG&amp;A">Sales, General, and Administrative expenses</a></li>
+<li><b>SIR</b> – <a href="/w/index.php?title=Stores_Issuance_Requisition&amp;action=edit&amp;redlink=1" class="new" title="Stores Issuance Requisition (page does not exist)">Stores Issuance Requisition</a></li>
+<li><b>SIOP</b> – <a href="/w/index.php?title=Sales_Inventory_and_Operations_Plan&amp;action=edit&amp;redlink=1" class="new" title="Sales Inventory and Operations Plan (page does not exist)">Sales Inventory and Operations Plan</a></li>
+<li><b>SIV</b> – <a href="/wiki/Structured_investment_vehicle" title="Structured investment vehicle">Structured investment vehicle</a></li>
+<li><b>SKU</b> – <a href="/wiki/Stock_keeping_unit" title="Stock keeping unit">Stock keeping unit</a></li>
+<li><b>SME</b> - <a href="/wiki/Small_and_Medium_Enterprises" class="mw-redirect" title="Small and Medium Enterprises">Small and Medium Enterprises</a></li>
+<li><b>SOHO</b> – <a href="/wiki/Small_Office/Home_Office" class="mw-redirect" title="Small Office/Home Office">Small Office/Home Office</a></li>
+<li><b>SOX</b> – <a href="/wiki/Sarbanes-Oxley" class="mw-redirect" title="Sarbanes-Oxley">Sarbanes-Oxley</a></li>
+<li><b>SROI</b> - <a href="/wiki/Social_return_on_investment" title="Social return on investment">Social return on investment</a></li>
+<li><b>SOP</b> - <a href="/wiki/Standard_Operating_Procedure" class="mw-redirect" title="Standard Operating Procedure">Standard Operating Procedure</a></li>
+<li><b>SOW</b> - <a href="/w/index.php?title=Statement_Of_Work&amp;action=edit&amp;redlink=1" class="new" title="Statement Of Work (page does not exist)">Statement Of Work</a></li>
+<li><b>SLA</b>* -<a href="/wiki/Service_Level_Agreement" class="mw-redirect" title="Service Level Agreement">Service Level Agreement</a></li>
+<li><b>SUA</b> - <a href="/w/index.php?title=Start_Up_Agreement&amp;action=edit&amp;redlink=1" class="new" title="Start Up Agreement (page does not exist)">Start Up Agreement</a></li>
+</ul>
+<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>TCO</b> – <a href="/wiki/Total_Cost_of_Ownership" class="mw-redirect" title="Total Cost of Ownership">Total Cost of Ownership</a></li>
+<li><b>TCV</b> – <a href="/w/index.php?title=Total_Contract_Value&amp;action=edit&amp;redlink=1" class="new" title="Total Contract Value (page does not exist)">Total Contract Value</a></li>
+<li><b>TSR</b> – <a href="/wiki/Total_Shareholder_Return" class="mw-redirect" title="Total Shareholder Return">Total Shareholder Return</a></li>
+<li><b>TB</b> – <a href="/w/index.php?title=Transaction_Banking&amp;action=edit&amp;redlink=1" class="new" title="Transaction Banking (page does not exist)">Transaction Banking</a></li>
+<li><b>TBD</b> – <a href="/w/index.php?title=To_Be_Defined&amp;action=edit&amp;redlink=1" class="new" title="To Be Defined (page does not exist)">To Be Defined</a></li>
+<li><b>TBC</b> - <a href="/w/index.php?title=To_Be_Completed&amp;action=edit&amp;redlink=1" class="new" title="To Be Completed (page does not exist)">To Be Completed</a></li>
+<li><b>TQM</b>- <a href="/wiki/Total_Quality_Management" class="mw-redirect" title="Total Quality Management">Total Quality Management</a></li>
+<li><b>TOTW</b>- <a href="/w/index.php?title=Time_Off_for_Time_Worked&amp;action=edit&amp;redlink=1" class="new" title="Time Off for Time Worked (page does not exist)">Time Off for Time Worked</a></li>
+<li><b>TTM</b>- Trailing Twelve Months</li>
+</ul>
+<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=21" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>USP</b> – Unique Selling Proposition</li>
+</ul>
+<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=22" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>VAD</b> – Value-Added Distributor</li>
+<li><b>VAT</b> – <a href="/wiki/Value-added_tax" title="Value-added tax">Value-Added Tax</a></li>
+<li><b>VAR</b> – Value-Added Reseller</li>
+<li><b>VC</b> – <a href="/wiki/Venture_Capital" class="mw-redirect" title="Venture Capital">Venture Capital</a></li>
+<li><b>VaR</b> – Value at Risk</li>
+</ul>
+<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=23" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>WACC</b> – <a href="/wiki/Weighted_average_cost_of_capital" title="Weighted average cost of capital">Weighted average cost of capital</a></li>
+<li><b>WC</b> – <a href="/wiki/Working_capital" title="Working capital">Working capital</a></li>
+<li><b>WFH</b> – Work From Home</li>
+<li><b>wk</b> – <a href="/wiki/Week" title="Week">week</a></li>
+<li><b>wrk</b> – <a href="/wiki/Work_(disambiguation)" class="mw-redirect mw-disambig" title="Work (disambiguation)">work</a></li>
+<li><b>wo</b> – work order</li>
+<li><b>WIGs</b> – <a href="/w/index.php?title=Wildly_Important_Goals&amp;action=edit&amp;redlink=1" class="new" title="Wildly Important Goals (page does not exist)">Wildly Important Goals</a></li>
+<li><b>wasp</b> - weighted average selling price</li>
+<li><b>WLL</b> - With Limited Liability</li>
+<li><b>w.r.t</b> - With Respect To</li>
+<li><b>WTI</b> – <a href="/wiki/West_Texas_Intermediate" title="West Texas Intermediate">West Texas Intermediate</a></li>
+<li><b>WVN</b> - Withdraw Voucher Note</li>
+<li><b>WHT</b> - Withholding Tax</li>
+<li><b>WTO</b> -World Trade Organization</li>
+<li><b>WTD</b> -Week-To-Date</li>
+</ul>
+<h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=24" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=25" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>YTD</b>– <a href="/wiki/Year-to-date" title="Year-to-date">Year-to-date</a></li>
+<li><b>YTG</b> – <a href="/w/index.php?title=Year-to-go&amp;action=edit&amp;redlink=1" class="new" title="Year-to-go (page does not exist)">Year-to-go</a></li>
+<li><b>YOY</b> – <a href="/wiki/Year-over-year" title="Year-over-year">Year-over-year</a></li>
+<li><b>YTC</b> – <a href="/w/index.php?title=Yet-To-Confirm&amp;action=edit&amp;redlink=1" class="new" title="Yet-To-Confirm (page does not exist)">Yet-To-Confirm</a></li>
+<li><b>FYF</b> – <a href="/w/index.php?title=Full_Year_Forecast&amp;action=edit&amp;redlink=1" class="new" title="Full Year Forecast (page does not exist)">Full Year Forecast</a></li>
+<li><b>1H</b> – <a href="/w/index.php?title=1st_Half&amp;action=edit&amp;redlink=1" class="new" title="1st Half (page does not exist)">1st Half</a></li>
+</ul>
+<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=26" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>zcyc</b> – <a href="/w/index.php?title=Zero_Coupon_Yield_Curve&amp;action=edit&amp;redlink=1" class="new" title="Zero Coupon Yield Curve (page does not exist)">Zero Coupon Yield Curve</a></li>
+<li><b>ZOPA</b> – <a href="/wiki/Zone_of_Possible_Agreement" class="mw-redirect" title="Zone of Possible Agreement">Zone of Possible Agreement</a></li>
+</ul>
+<div role="note" class="hatnote navigation-not-searchable plainlinks">This list is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit">expanding it</a>.</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=27" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;"></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_business_and_finance_abbreviations&amp;action=edit&amp;section=28" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.all-acronyms.com/?g=4">Business acronyms and abbreviations</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.smartdefine.org/business/abb/r">Business acronyms</a></li>
+</ul>
+
+
+<!--
+NewPP limit report
+Parsed by mw1233
+Cached time: 20180508085458
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.084 seconds
+Real time usage: 0.115 seconds
+Preprocessor visited node count: 800/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 4112/2097152 bytes
+Template argument size: 273/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.006/10.000 seconds
+Lua memory usage: 779 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   54.570      1 -total
+ 65.54%   35.767      1 Template:Expand_list
+ 37.00%   20.192      1 Template:Hatnote
+ 22.71%   12.391      1 Template:TDMCA
+ 20.15%   10.997      1 Template:Compact_ToC
+ 19.71%   10.754      1 Template:DMCA
+ 15.49%    8.452      1 Template:Dated_maintenance_category
+ 13.40%    7.315      1 Template:Reflist
+ 10.09%    5.504      1 Template:FULLROOTPAGENAME
+  6.62%    3.612      1 Template:Ns_has_subpages
+-->
+</div>

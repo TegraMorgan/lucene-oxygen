@@ -1,0 +1,326 @@
+<table class="wikitable" cellpadding="2" style="border: 1px solid gray;">
+<tbody><tr>
+<td>A or Av</td>
+<td><b><a href="/wiki/Aperture_priority" title="Aperture priority">Aperture priority</a></b> or <b><a href="/wiki/F-number" title="F-number">Aperture value</a></b>. Automatic exposure mode where the photographer sets the lens f-stop and the <a href="/wiki/Exposure_(photography)#Automatic_exposure" title="Exposure (photography)">AE</a> <a href="/wiki/Firmware" title="Firmware">firmware</a> sets the <a href="/wiki/Shutter_speed" title="Shutter speed">shutter speed</a>.<sup id="cite_ref-langford_4-0" class="reference"><a href="#cite_note-langford-4">[4]</a></sup></td>
+</tr>
+<tr>
+<td>AE</td>
+<td><b><a href="/wiki/Exposure_(photography)#Automatic_exposure" title="Exposure (photography)">Automatic exposure</a></b>. Hardware and software ("<a href="/wiki/Firmware" title="Firmware">firmware</a>"), built into the camera, measures luminance of the subject and automatically sets <a href="/wiki/Shutter_speed" title="Shutter speed">shutter speed</a>, lens <a href="/wiki/F-number" title="F-number">aperture</a> or <a href="/wiki/Film_speed" title="Film speed">sensitivity</a>, this also allow camera to set the aperture for manual lenses fixed with this AE chip.<sup id="cite_ref-langford_4-1" class="reference"><a href="#cite_note-langford-4">[4]</a></sup></td>
+</tr>
+<tr>
+<td>AE-L or AEL</td>
+<td><b>Automatic exposure lock</b>. Technology for holding an exposure setting from one scene to another.<sup id="cite_ref-langford_4-2" class="reference"><a href="#cite_note-langford-4">[4]</a></sup></td>
+</tr>
+<tr>
+<td>AF</td>
+<td><b><a href="/wiki/Autofocus" title="Autofocus">Autofocus</a></b>. The lens is focused automatically by means of the camera's hardware and <a href="/wiki/Firmware" title="Firmware">firmware</a>, to obtain optimum sharpness of an image.<sup id="cite_ref-langford_4-3" class="reference"><a href="#cite_note-langford-4">[4]</a></sup></td>
+</tr>
+<tr>
+<td>AF-L or AFL</td>
+<td><b>Autofocus lock</b>. Locks a particular focus setting, preventing refocusing if the scene changes.<sup id="cite_ref-langford_4-4" class="reference"><a href="#cite_note-langford-4">[4]</a></sup></td>
+</tr>
+<tr>
+<td>APEX</td>
+<td><b><a href="/wiki/APEX_system" title="APEX system">Additive system of photographic exposure</a></b>. A system to aid calculation of correct exposures, developed in the 1960s. Some aspects are included in <a href="/wiki/Exif" title="Exif">Exif</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/APS-C" title="APS-C">APS-C</a></td>
+<td>A film format defined by the <a href="/wiki/Advanced_Photo_System" title="Advanced Photo System">Advanced Photo System</a> as 25.1&nbsp;× 16.7&nbsp;mm. Different manufacturers use this term for <a href="/wiki/Image_sensor" title="Image sensor">image sensors</a> measuring between about 20.7&nbsp;× 13.8&nbsp;mm to 28.7&nbsp;× 19.1&nbsp;mm. This format has an approximate ratio of 1.5&nbsp;: 1.</td>
+</tr>
+<tr>
+<td>ASA</td>
+<td>The <b>American Standards Association</b> (now called the <b><a href="/wiki/American_National_Standards_Institute" title="American National Standards Institute">American National Standards Institute</a>, ANSI</b>) defined the <a href="/wiki/Film_speed#ASA" title="Film speed">ASA system</a> for rating the speed sensitivity of photographic emulsions; now superseded by the <a href="/wiki/Film_speed#ISO" title="Film speed">ISO system</a>.<sup id="cite_ref-langford_4-5" class="reference"><a href="#cite_note-langford-4">[4]</a></sup></td>
+</tr>
+<tr>
+<td>AWB</td>
+<td><b><a href="/wiki/Color_balance" title="Color balance">Automatic white balance</a></b>. A setting that uses the camera's hardware and <a href="/wiki/Firmware" title="Firmware">firmware</a> to estimate the colour temperature of the scene.<sup id="cite_ref-sheppard_6-0" class="reference"><a href="#cite_note-sheppard-6">[6]</a></sup></td>
+</tr>
+<tr>
+<td>CA</td>
+<td><b><a href="/wiki/Chromatic_aberration" title="Chromatic aberration">Chromatic aberration</a></b>. Failure of a lens to focus all colours at the same point.<sup id="cite_ref-busch_2-1" class="reference"><a href="#cite_note-busch-2">[2]</a></sup> The aberrations can be along the optical axis (Longitudinal CA, or LoCA) or off-axis (Lateral or Transverse CA, TCA).<sup id="cite_ref-ray92_7-0" class="reference"><a href="#cite_note-ray92-7">[7]</a></sup></td>
+</tr>
+<tr>
+<td>CCD</td>
+<td><b><a href="/wiki/Charge-coupled_device" title="Charge-coupled device">Charge-coupled device</a></b>. A semiconductor technology, used to create photosensor arrays for some digital cameras.<sup id="cite_ref-andrews_8-0" class="reference"><a href="#cite_note-andrews-8">[8]</a></sup></td>
+</tr>
+<tr>
+<td>CL</td>
+<td><b><a href="/wiki/Camera_left" class="mw-redirect" title="Camera left">Camera left</a></b>. Similar CR is camera right, slang in photography groups</td>
+</tr>
+<tr>
+<td>CIF</td>
+<td><b><a href="/wiki/Autofocus#Trap_focus" title="Autofocus">Catch in focus</a></b>. A technique for allowing a camera to be pre-focussed to a defined spot, and the exposure is only made when a subject is in focus at that spot. Also called trap focus.</td>
+</tr>
+<tr>
+<td>CMOS</td>
+<td><b><a href="/wiki/CMOS" title="CMOS">Complementary metal oxide semiconductor</a></b>. A semiconductor technology, used to create photosensor arrays for some digital cameras.<sup id="cite_ref-langford_4-6" class="reference"><a href="#cite_note-langford-4">[4]</a></sup></td>
+</tr>
+<tr>
+<td>CMYK</td>
+<td><b><a href="/wiki/CMYK_color_model" title="CMYK color model">CMYK color model</a></b>. A subtractive process for color printing that utilises cyan, magenta, yellow and black inks to create most printable colors. (Some colors can not be accurately reproduced using this system and require the use of "<a href="/wiki/Spot_color" title="Spot color">spot color</a>" to be used. See also: <a href="/wiki/Pantone_Matching_System" class="mw-redirect" title="Pantone Matching System">Pantone Matching System</a>.) Some other printable colors can be reproduced using <a href="/wiki/Hexachrome" title="Hexachrome">Hexachrome</a> color model which adds orange and green to the base CMYK color model. (<a href="/wiki/CMYKOG" class="mw-redirect" title="CMYKOG">CMYKOG</a>) It is possible to omit black ink, in which case the process is termed CMY.<sup id="cite_ref-hamber_9-0" class="reference"><a href="#cite_note-hamber-9">[9]</a></sup></td>
+</tr>
+<tr>
+<td>CP, CPL, or CPoL</td>
+<td><b><a href="/wiki/Polarizing_filter_(photography)" title="Polarizing filter (photography)">Circular polarizing filter</a></b>.</td>
+</tr>
+<tr>
+<td>CSC</td>
+<td><b>Compact system camera</b>. <a href="/wiki/Mirrorless_interchangeable-lens_camera" title="Mirrorless interchangeable-lens camera">Mirrorless interchangeable-lens camera</a>, smaller than a <a href="/wiki/Digital_single-lens_reflex_camera" title="Digital single-lens reflex camera">digital single-lens reflex camera</a>.</td>
+</tr>
+<tr>
+<td>DCF</td>
+<td><b><a href="/wiki/Design_rule_for_Camera_File_system" title="Design rule for Camera File system">Design rule for Camera File system</a></b>. A digital camera file system standard; JEITA number CP-3461.<sup id="cite_ref-farace_10-0" class="reference"><a href="#cite_note-farace-10">[10]</a></sup></td>
+</tr>
+<tr>
+<td>DIN</td>
+<td><b><a href="/wiki/Deutsches_Institut_f%C3%BCr_Normung" title="Deutsches Institut für Normung">Deutsches Institut für Normung</a></b>. A logarithmic system for expressing <a href="/wiki/Film_speed#DIN" title="Film speed">film speed</a> in common use in Europe since 1934. Now combined with the <a href="/wiki/Film_speed#ASA" title="Film speed">ASA</a> linear system, in the form of the <a href="/wiki/Film_speed#ISO" title="Film speed">ISO</a> system.<sup id="cite_ref-langford_4-7" class="reference"><a href="#cite_note-langford-4">[4]</a></sup></td>
+</tr>
+<tr>
+<td>DOF or DoF</td>
+<td><b><a href="/wiki/Depth_of_field" title="Depth of field">Depth of field</a></b>. A measure of the permissible distance within which an object remains in acceptable, though not perfect, focus.<sup id="cite_ref-warren_11-0" class="reference"><a href="#cite_note-warren-11">[11]</a></sup> Calculations of DOF assume that an imperfectly focused "<a href="/wiki/Circle_of_confusion" title="Circle of confusion">circle of confusion</a>" smaller than 0.20 to 0.25&nbsp;mm is indistinguishable from perfect focus in an image viewed from a normal distance.<sup id="cite_ref-ray92_7-1" class="reference"><a href="#cite_note-ray92-7">[7]</a></sup><sup id="cite_ref-ray99_12-0" class="reference"><a href="#cite_note-ray99-12">[12]</a></sup> This is approximately equivalent to 0.03&nbsp;mm in the case of an image on 35&nbsp;mm film or FF format.<sup id="cite_ref-kerr2_13-0" class="reference"><a href="#cite_note-kerr2-13">[13]</a></sup></td>
+</tr>
+<tr>
+<td>DPI</td>
+<td><b><a href="/wiki/Dots_per_inch" title="Dots per inch">Dots per inch</a></b>. A measure of the ability of a printer or scanner to handle fine detail.<sup id="cite_ref-andrews_8-1" class="reference"><a href="#cite_note-andrews-8">[8]</a></sup></td>
+</tr>
+<tr>
+<td>DR</td>
+<td><b><a href="/wiki/Dynamic_range" title="Dynamic range">Dynamic range</a></b>. Expresses the luminance range of a scene, a captured image or the maximum range of luminance that a camera can successfully capture at one setting. It is often used imprecisely, but can sometimes be quantified as a ratio.<sup id="cite_ref-hamber_9-1" class="reference"><a href="#cite_note-hamber-9">[9]</a></sup> The term <a href="/wiki/Contrast_ratio" title="Contrast ratio">contrast ratio</a> may be preferred for the luminance range in a scene.<sup id="cite_ref-kerr_14-0" class="reference"><a href="#cite_note-kerr-14">[14]</a></sup></td>
+</tr>
+<tr>
+<td>DSC</td>
+<td><b><a href="/wiki/Digital_camera" title="Digital camera">Digital Still Camera</a></b>. Prefix on image filenames produced by various digital cameras.</td>
+</tr>
+<tr>
+<td>DSLR</td>
+<td><b><a href="/wiki/Digital_single-lens_reflex_camera" title="Digital single-lens reflex camera">Digital single-lens reflex camera</a></b>; also dSLR.<sup id="cite_ref-busch_2-2" class="reference"><a href="#cite_note-busch-2">[2]</a></sup></td>
+</tr>
+<tr>
+<td>ED</td>
+<td><b><a href="/wiki/Low_dispersion_glass" class="mw-redirect" title="Low dispersion glass">Extra low dispersion glass</a></b>. Used in composite lenses to reduce chromatic aberration. One of a class of special glasses, including anomalous dispersion (AD), special low dispersion (SLD) and extraordinary low dispersion (ELD) glass, used in place of fluorite.<sup id="cite_ref-ray92_7-2" class="reference"><a href="#cite_note-ray92-7">[7]</a></sup></td>
+</tr>
+<tr>
+<td>EFC, <a href="/wiki/EFCS" class="mw-redirect" title="EFCS">EFCS</a> or EFSC</td>
+<td><b><a href="/wiki/Electronic_first_curtain" class="mw-redirect" title="Electronic first curtain">Electronic first curtain</a></b>, <b>electronic front curtain</b>, <b><a href="/wiki/Electronic_first_curtain_shutter" class="mw-redirect" title="Electronic first curtain shutter">electronic first curtain shutter</a></b>, <b><a href="/wiki/Electronic_first_shutter_curtain" class="mw-redirect" title="Electronic first shutter curtain">electronic first shutter curtain</a></b> of a <a href="/wiki/Focal_plane_shutter" class="mw-redirect" title="Focal plane shutter">focal plane shutter</a>.</td>
+</tr>
+<tr>
+<td>EV</td>
+<td><b><a href="/wiki/Exposure_value" title="Exposure value">Exposure value</a></b>. A system for indicating correct exposure in which the shutter speed and f-number are related arithmetically.<sup id="cite_ref-langford_4-8" class="reference"><a href="#cite_note-langford-4">[4]</a></sup><sup id="cite_ref-kerr3_15-0" class="reference"><a href="#cite_note-kerr3-15">[15]</a></sup></td>
+</tr>
+<tr>
+<td>EVF</td>
+<td><b><a href="/wiki/Electronic_viewfinder" title="Electronic viewfinder">Electronic viewfinder</a></b>. The through-the-lens view is displayed on a miniature solid-state screen, rather than on an optical screen or view.<sup id="cite_ref-busch_2-3" class="reference"><a href="#cite_note-busch-2">[2]</a></sup></td>
+</tr>
+<tr>
+<td>EVIL</td>
+<td><b><a href="/wiki/Electronic_viewfinder_interchangeable_lens_camera" class="mw-redirect" title="Electronic viewfinder interchangeable lens camera">Electronic viewfinder interchangeable lens camera</a></b>. See also MILC, <a href="/wiki/Mirrorless_interchangeable-lens_camera" title="Mirrorless interchangeable-lens camera">mirrorless interchangeable-lens camera</a>.<sup id="cite_ref-hirsch_16-0" class="reference"><a href="#cite_note-hirsch-16">[16]</a></sup></td>
+</tr>
+<tr>
+<td>Exif</td>
+<td><b><a href="/wiki/Exchangeable_image_file_format" class="mw-redirect" title="Exchangeable image file format">Exchangeable image file format</a></b>. A standard format for tag data in digital camera files.<sup id="cite_ref-farace_10-1" class="reference"><a href="#cite_note-farace-10">[10]</a></sup></td>
+</tr>
+<tr>
+<td>f</td>
+<td><b><a href="/wiki/Aperture#In_photography" title="Aperture">f-number, f-stop</a></b>. The numerical value of a lens aperture. The ratio of the focal length of the lens divided by its effective aperture diameter.<sup id="cite_ref-langford_4-9" class="reference"><a href="#cite_note-langford-4">[4]</a></sup></td>
+</tr>
+<tr>
+<td>FF</td>
+<td><b><a href="/wiki/Full-frame_digital_SLR" title="Full-frame digital SLR">Full frame</a></b>, where the <a href="/wiki/Image_sensor" title="Image sensor">image sensor</a> is approximately the same size as a 35&nbsp;mm film: 36&nbsp;× 24&nbsp;mm.</td>
+</tr>
+<tr>
+<td>FP</td>
+<td><b><a href="/wiki/Focal-plane_shutter" title="Focal-plane shutter">Focal plane</a></b>. A shutter that opens and closes near to the film or <a href="/wiki/Image_sensor" title="Image sensor">image sensor</a>, usually as a fast-moving slit, as contrasted with a bladed/leaf shutter located near a nodal point of a lens.<sup id="cite_ref-ray99_12-1" class="reference"><a href="#cite_note-ray99-12">[12]</a></sup></td>
+</tr>
+<tr>
+<td>FPA</td>
+<td><b><a href="/wiki/Staring_array" title="Staring array">Focal plane array</a></b>. A matrix of sensors positioned in the focal plane of a lens or other focusing device.<sup id="cite_ref-ray99_12-2" class="reference"><a href="#cite_note-ray99-12">[12]</a></sup></td>
+</tr>
+<tr>
+<td>FPS</td>
+<td><b><a href="/wiki/Frame_rate" title="Frame rate">Frames per second</a></b>. Used in reference to maximum continuous shooting rate or video.<sup id="cite_ref-rutenbeck_17-0" class="reference"><a href="#cite_note-rutenbeck-17">[17]</a></sup></td>
+</tr>
+<tr>
+<td>GIF</td>
+<td><b><a href="/wiki/Graphics_Interchange_Format" class="mw-redirect" title="Graphics Interchange Format">Graphics Interchange Format</a></b>. A computer file format for coloured images, restricted to 256 colours and useful for small file-size.<sup id="cite_ref-andrews_8-2" class="reference"><a href="#cite_note-andrews-8">[8]</a></sup></td>
+</tr>
+<tr>
+<td>GN</td>
+<td><b><a href="/wiki/Guide_number" title="Guide number">Guide number</a></b>. A value indicating the power of an <a href="/wiki/Flash_(photography)" title="Flash (photography)">electronic flash</a> apparatus, and used to estimate exposure. GN = distance × f-number. One needs to specify the film or sensor ISO speed, and it is conventional to quote for ISO&nbsp;100/21°. The distance can be in feet or in metres, the units to be specified.<sup id="cite_ref-langford_4-10" class="reference"><a href="#cite_note-langford-4">[4]</a></sup></td>
+</tr>
+<tr>
+<td>GND</td>
+<td><b><a href="/wiki/Graduated_neutral_density_filter" class="mw-redirect" title="Graduated neutral density filter">Graduated neutral density</a></b>. A type of neutral density filter in which brightness is reduced more on one side of the filter than on the other, allowing the photographer to reduce the contrast between, for example, bright sky and dark land.</td>
+</tr>
+<tr>
+<td>HDR</td>
+<td><b><a href="/wiki/High_dynamic_range_imaging" class="mw-redirect" title="High dynamic range imaging">High dynamic range</a></b>. Techniques that allow a digital image to show a wider contrast range than current <a href="/wiki/Image_sensor" title="Image sensor">image sensors</a> can record in one file. Some cameras have <a href="/wiki/Firmware" title="Firmware">firmware</a> to do the processing.<sup id="cite_ref-farace_10-2" class="reference"><a href="#cite_note-farace-10">[10]</a></sup></td>
+</tr>
+<tr>
+<td>ICM</td>
+<td><b><a href="/wiki/Intentional_camera_movement" title="Intentional camera movement">Intentional camera movement</a></b>. The camera or the focus or zoom of its lens is adjusted by the photographer during an exposure in order to achieve special or artistic effects.</td>
+</tr>
+<tr>
+<td>IQ</td>
+<td><b><a href="/wiki/Image_quality" title="Image quality">Image quality</a></b>. An informal abbreviation used in discussion forums. Usually subjective, though some studies have analysed mathematically quantifiable components of image quality.<sup id="cite_ref-Wangbovik_18-0" class="reference"><a href="#cite_note-Wangbovik-18">[18]</a></sup></td>
+</tr>
+<tr>
+<td>IR</td>
+<td><b><a href="/wiki/Infrared" title="Infrared">Infrared</a></b>. The electromagnetic radiation with wavelengths longer than about 700&nbsp;nm and not visible to the human eye.<sup id="cite_ref-hayball_19-0" class="reference"><a href="#cite_note-hayball-19">[19]</a></sup></td>
+</tr>
+<tr>
+<td>IS</td>
+<td><b><a href="/wiki/Image_stabilization" title="Image stabilization">Image stabilization</a></b>. Technology to minimize image blurring by camera movement during exposure. See also AS, OS, OIS, OSS, SR, SS, SSI, SSS, VR as brand-specific terms.<sup id="cite_ref-farace_10-3" class="reference"><a href="#cite_note-farace-10">[10]</a></sup></td>
+</tr>
+<tr>
+<td>ISO</td>
+<td>A system for quantifying the sensitivity ("<a href="/wiki/Film_speed" title="Film speed">speed</a>") of a photographic emulsion, or a solid-state digital-camera's <a href="/wiki/Image_sensor" title="Image sensor">image sensor</a>, to visible light. Normally followed by a numerical value, e.g.: ISO&nbsp;100 or ISO&nbsp;64/19°. Developed from the <a href="/wiki/Film_speed#ASA" title="Film speed">ASA</a> and the <a href="/wiki/Film_speed#DIN" title="Film speed">DIN</a> systems by the <b><a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">International Organization for Standardization</a></b>.<sup id="cite_ref-langford_4-11" class="reference"><a href="#cite_note-langford-4">[4]</a></sup></td>
+</tr>
+<tr>
+<td>JPEG</td>
+<td>A format designed by the <b><a href="/wiki/Joint_Photographic_Experts_Group" title="Joint Photographic Experts Group">Joint Photographic Experts Group</a></b>, that allows files of coloured images to be compressed to a smaller digital file than if the full range of colours were to be saved. Also .JPG as a computer file extension.<sup id="cite_ref-andrews_8-3" class="reference"><a href="#cite_note-andrews-8">[8]</a></sup></td>
+</tr>
+<tr>
+<td>LBA</td>
+<td><b>Lens buying addiction</b>. Usually used in a jocular sense on camera forums, about a wish to add to an already extensive collection of interchangeable lenses.</td>
+</tr>
+<tr>
+<td>LCA</td>
+<td>An ambiguous abbreviation that should be avoided. Some writers use it to mean <a href="/wiki/Chromatic_aberration" title="Chromatic aberration">lateral (transverse) chromatic aberration</a>, TCA, while others use it to mean longitudial (axial) chromatic aberration, LoCA.</td>
+</tr>
+<tr>
+<td>LCD</td>
+<td><b><a href="/wiki/Liquid_crystal_display" class="mw-redirect" title="Liquid crystal display">Liquid crystal display</a></b>. A technology often used in the monitor screens of digital cameras, etc.<sup id="cite_ref-langford_4-12" class="reference"><a href="#cite_note-langford-4">[4]</a></sup><sup id="cite_ref-warren_11-1" class="reference"><a href="#cite_note-warren-11">[11]</a></sup></td>
+</tr>
+<tr>
+<td>LED</td>
+<td><b><a href="/wiki/Light-emitting_diode" title="Light-emitting diode">Light-emitting diode</a></b>. Semiconductor technology to convert electrical energy into light efficiently. Quasi-white and a range of colours, as well as infrared are possible.<sup id="cite_ref-langford_4-13" class="reference"><a href="#cite_note-langford-4">[4]</a></sup></td>
+</tr>
+<tr>
+<td>LoCA</td>
+<td><a href="/wiki/Chromatic_aberration" title="Chromatic aberration"><b>Longitudinal</b> (axial) <b>chromatic aberration</b></a>.<sup id="cite_ref-ray92_7-3" class="reference"><a href="#cite_note-ray92-7">[7]</a></sup><sup id="cite_ref-ray99_12-3" class="reference"><a href="#cite_note-ray99-12">[12]</a></sup></td>
+</tr>
+<tr>
+<td>LR</td>
+<td><b><a href="/wiki/Adobe_Photoshop_Lightroom" class="mw-redirect" title="Adobe Photoshop Lightroom">Lightroom</a></b>, a popular software application for processing images from digital cameras. Developed by Adobe.<sup id="cite_ref-adobe_20-0" class="reference"><a href="#cite_note-adobe-20">[20]</a></sup></td>
+</tr>
+<tr>
+<td>MC</td>
+<td><b><a href="/wiki/Anti-reflective_coating" title="Anti-reflective coating">Multi-coating</a></b> or <b>multi-coated</b>. Anti-reflection coating of lenses to reduce transmission losses. May also stand for <b>meter coupling</b> or <b>meter-coupled</b> lenses. Whilst being a generic term, the designation in the latter meaning is mostly used to describe a generation of Minolta <a href="/wiki/Minolta_SR_mount" class="mw-redirect" title="Minolta SR mount">SR-mount</a> lenses implementing this feature.</td>
+</tr>
+<tr>
+<td>MF</td>
+<td><b><a href="/wiki/Manual_focus" title="Manual focus">Manual focus</a></b>. The photographer adjusts the lens to obtain the image sharpness required, as opposed to AF.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Alternative meaning: <b><a href="/wiki/Medium_format_(film)" title="Medium format (film)">Medium Format</a></b>. A size of film or <a href="/wiki/Image_sensor" title="Image sensor">image sensor</a> somewhat larger than the 35mm film standard of 36&nbsp;× 24&nbsp;mm.</td>
+</tr>
+<tr>
+<td>MILC</td>
+<td><b><a href="/wiki/Mirrorless_interchangeable-lens_camera" title="Mirrorless interchangeable-lens camera">Mirrorless interchangeable-lens camera</a></b>. Similar to a <a href="/wiki/Digital_single-lens_reflex_camera" title="Digital single-lens reflex camera">digital single-lens reflex camera</a>, but having an <a href="/wiki/Electronic_viewfinder" title="Electronic viewfinder">electronic</a> or rangefinder type of viewfinder in place of the mirror and pentaprism, to allow a more compact design. See also EVIL camera.</td>
+</tr>
+<tr>
+<td>MTF</td>
+<td><b><a href="/wiki/Optical_transfer_function" title="Optical transfer function">Modulation transfer function</a></b>. A technical measure of the ability of a lens to create a finely detailed image.<sup id="cite_ref-langford_4-14" class="reference"><a href="#cite_note-langford-4">[4]</a></sup> Several types of specialized apparatus are available to get the basic data on a lens and to analyse it. The calculated performance may be presented in various ways.<sup id="cite_ref-ray92_7-4" class="reference"><a href="#cite_note-ray92-7">[7]</a></sup></td>
+</tr>
+<tr>
+<td>ND</td>
+<td><b><a href="/wiki/Neutral_density_filter" class="mw-redirect" title="Neutral density filter">Neutral density</a></b>. A neutral-grey pre-lens filter to reduce overall brightness without altering colour balance.<sup id="cite_ref-langford_4-15" class="reference"><a href="#cite_note-langford-4">[4]</a></sup><sup id="cite_ref-warren_11-2" class="reference"><a href="#cite_note-warren-11">[11]</a></sup></td>
+</tr>
+<tr>
+<td>NR</td>
+<td><b><a href="/wiki/Image_noise_reduction" class="mw-redirect" title="Image noise reduction">Noise reduction</a></b>. Digital noise reduction through <a href="/wiki/Firmware" title="Firmware">firmware</a> processing or editing the digitized image.</td>
+</tr>
+<tr>
+<td>OCF</td>
+<td><b><a href="/w/index.php?title=Off-camera_flash&amp;action=edit&amp;redlink=1" class="new" title="Off-camera flash (page does not exist)">Off-camera flash</a></b>.</td>
+</tr>
+<tr>
+<td>OOF or OoF</td>
+<td><b><a href="/wiki/Defocus_aberration" title="Defocus aberration">Out of focus, Out of Frame</a></b>. As well from a Roblox sound, where people just say OOF here and there for unknown reasons</td>
+</tr>
+<tr>
+<td>OVF</td>
+<td><b><a href="/wiki/Optical_viewfinder" class="mw-redirect" title="Optical viewfinder">Optical viewfinder</a></b>. The picture is framed on the focusing screen of a through-the-lens optical viewfinder, as found on [D]SLR cameras, or in a look-through-viewfinder, as found on rangefinder cameras.</td>
+</tr>
+<tr>
+<td>PC</td>
+<td><b><a href="/wiki/Prontor-Compur" title="Prontor-Compur">Prontor-Compur</a></b>. A 3.5&nbsp;mm coaxial camera jack named PC terminal, to synchronize external non-dedicated <a href="/wiki/Flash_(photography)" title="Flash (photography)">flashes</a> (f.e. studio flashes), found on many more advanced camera models. Also may mean "Perspective Control" for a lens that has the ability to shift to tilt to control linear perspective in an image. May also stand for <b><a href="/wiki/Personal_computer" title="Personal computer">personal computer</a></b> in conjunction with digital photography.</td>
+</tr>
+<tr>
+<td>PF</td>
+<td><b><a href="/wiki/Purple_fringing" title="Purple fringing">Purple fringing</a></b>. A form of chromatic aberration in which a purple-violet haze degrades high contrast edges or over-saturated highlights. Some models of lens are widely criticised for this fault, though there are suggestions that it might also be due to properties of <a href="/wiki/Image_sensor" title="Image sensor">digital sensors</a>.<sup id="cite_ref-freeman_22-0" class="reference"><a href="#cite_note-freeman-22">[22]</a></sup></td>
+</tr>
+<tr>
+<td>PNG</td>
+<td><b><a href="/wiki/Portable_Network_Graphics" title="Portable Network Graphics">Portable Network Graphics</a></b>. A computer file format for compressed coloured images useful for small file-size.</td>
+</tr>
+<tr>
+<td>P&amp;S</td>
+<td><b><a href="/wiki/Point-and-shoot_camera" title="Point-and-shoot camera">Point-and-shoot camera</a></b>. Photographers' slang for a small or compact camera that is easy to use because the essential functions are automated. Popular, but with limitations compared with more advanced cameras such as DSLR cameras with larger <a href="/wiki/Image_sensor" title="Image sensor">image sensors</a>.</td>
+</tr>
+<tr>
+<td>PPI</td>
+<td><b><a href="/w/index.php?title=PixelsPerInch&amp;action=edit&amp;redlink=1" class="new" title="PixelsPerInch (page does not exist)">PixelsPerInch</a></b>. The number of pixels or picture elements contained in one linear inch in a digitally stored image.</td>
+</tr>
+<tr>
+<td>PS, PSE</td>
+<td><b><a href="/wiki/Adobe_Photoshop" title="Adobe Photoshop">Photoshop</a></b>, <b><a href="/wiki/Adobe_Photoshop_Elements" title="Adobe Photoshop Elements">Photoshop Elements</a></b>. Commercial computer applications developed by Adobe for editing digital images.<sup id="cite_ref-adobe_20-1" class="reference"><a href="#cite_note-adobe-20">[20]</a></sup></td>
+</tr>
+<tr>
+<td>RGB</td>
+<td><b><a href="/wiki/RGB_color_space" title="RGB color space">RGB color space</a></b>. An additive colour space that uses the primary colours of red, green and blue to create any colour. There are several variants: sRGB, ISO&nbsp;RGB and some proprietary standards. Used mainly in colour displays: computer monitors, digital cameras, etc.<sup id="cite_ref-hamber_9-2" class="reference"><a href="#cite_note-hamber-9">[9]</a></sup></td>
+</tr>
+<tr>
+<td>RP</td>
+<td><b><a href="/wiki/Angular_resolution" title="Angular resolution">Resolving power</a></b>. Usual meaning is the reciprocal of the distance between two just-distinguishable subject details.<sup id="cite_ref-ray92_7-5" class="reference"><a href="#cite_note-ray92-7">[7]</a></sup></td>
+</tr>
+<tr>
+<td>S or TV</td>
+<td><b><a href="/wiki/Shutter_priority" title="Shutter priority">Shutter priority</a></b> or <b><a href="/wiki/Shutter_speed" title="Shutter speed">time value</a></b>. Automatic exposure mode where the photographer sets a shutter speed, and the <a href="/wiki/Exposure_(photography)#Automatic_exposure" title="Exposure (photography)">AE</a> <a href="/wiki/Firmware" title="Firmware">firmware</a> automatically sets the appropriate lens <a href="/wiki/F-number" title="F-number">aperture</a>.<sup id="cite_ref-langford_4-16" class="reference"><a href="#cite_note-langford-4">[4]</a></sup></td>
+</tr>
+<tr>
+<td>SC</td>
+<td><b><a href="/w/index.php?title=Soft_Capture&amp;action=edit&amp;redlink=1" class="new" title="Soft Capture (page does not exist)">Soft Capture</a></b>. Capture of light emitting objects as the primary subject with light quality that is not primary but equally soft or washed as the background.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2017)">citation needed</span></a></i>]</sup></td>
+</tr>
+<tr>
+<td>SLR</td>
+<td><b><a href="/wiki/Single-lens_reflex_camera" title="Single-lens reflex camera">Single-lens reflex camera</a></b>. A camera where the same lens is used to view the scene and to focus its image onto a film emulsion or solid-state photosensor. Usually combined with the facility to fit one of a range of lenses, and often more versatile than viewfinder/rangefinder cameras.<sup id="cite_ref-warren_11-3" class="reference"><a href="#cite_note-warren-11">[11]</a></sup></td>
+</tr>
+<tr>
+<td>SOOC</td>
+<td><b><a href="/w/index.php?title=Straight_out_of_camera&amp;action=edit&amp;redlink=1" class="new" title="Straight out of camera (page does not exist)">Straight out of camera</a></b>. Images as shot out of camera; implied is no post processing, slang in photography groups</td>
+</tr>
+<tr>
+<td>STU</td>
+<td><b><a href="/wiki/Shoot_through_umbrella" class="mw-redirect" title="Shoot through umbrella">Shoot through umbrella</a></b>. White translucent photographic umbrella; a flash is shot inside the umbrella and the light is diffused onto the intended target; provides a soft, large light source.</td>
+</tr>
+<tr>
+<td>Sv</td>
+<td><b><a href="/wiki/APEX_system" title="APEX system">Sensitivity value</a></b>. <a href="/wiki/Sensitivity_priority" title="Sensitivity priority">Sensitivity priority</a> automatic exposure mode, where the photographer sets the ISO sensitivity and the <a href="/wiki/Exposure_(photography)#Automatic_exposure" title="Exposure (photography)">AE</a> <a href="/wiki/Firmware" title="Firmware">firmware</a> sets the aperture or shutter speed.</td>
+</tr>
+<tr>
+<td>TC</td>
+<td><b><a href="/wiki/Teleconverter" title="Teleconverter">Teleconverter</a></b>. A lens accessory that fits between the lens and camera body and extends the focal length of the lens, often by 1.4x or 2x, at the cost of reduced light, decreased image quality, and slower autofocus.</td>
+</tr>
+<tr>
+<td>TCA</td>
+<td><a href="/wiki/Chromatic_aberration" title="Chromatic aberration"><b>Transverse</b> (lateral) <b>chromatic aberration</b></a> or <b>lateral colour</b>. Colour fringes that worsen the further the image point is from the optical axis.<sup id="cite_ref-ray92_7-6" class="reference"><a href="#cite_note-ray92-7">[7]</a></sup><sup id="cite_ref-ray99_12-4" class="reference"><a href="#cite_note-ray99-12">[12]</a></sup></td>
+</tr>
+<tr>
+<td>TIFF</td>
+<td><b><a href="/wiki/Tagged_Image_File_Format" class="mw-redirect" title="Tagged Image File Format">Tagged Image File Format</a></b>. A high fidelity computer file format for handling digital images that does not sacrifice colour and form detail in the way that 'lossy' compression formats such as GIF, JPEG and PNG do.<sup id="cite_ref-andrews_8-4" class="reference"><a href="#cite_note-andrews-8">[8]</a></sup></td>
+</tr>
+<tr>
+<td>TLR</td>
+<td><b><a href="/wiki/Twin-lens_reflex_camera" title="Twin-lens reflex camera">Twin-lens reflex</a></b>. A camera with two lenses, one for taking pictures and one for viewing the scene. The two lenses are typically linked to ensure that they remain focused at the same distance.</td>
+</tr>
+<tr>
+<td>TTL</td>
+<td><b><a href="/wiki/Through_the_lens" class="mw-redirect" title="Through the lens">Through the lens</a></b>. Through the lens metering measures the luminance after it has passed through the camera lens, thus providing readings or settings that allow for aperture and focus changes, filters, etc.<sup id="cite_ref-warren_11-4" class="reference"><a href="#cite_note-warren-11">[11]</a></sup></td>
+</tr>
+<tr>
+<td>UV</td>
+<td><b><a href="/wiki/Ultraviolet" title="Ultraviolet">Ultraviolet</a></b>. The electromagnetic radiation with wavelengths shorter than about 400&nbsp;nm and not visible to the human eye.<sup id="cite_ref-hayball_19-1" class="reference"><a href="#cite_note-hayball-19">[19]</a></sup></td>
+</tr>
+<tr>
+<td>WB</td>
+<td><b><a href="/wiki/White_balance" class="mw-redirect" title="White balance">White balance</a></b>.</td>
+</tr>
+</tbody></table>
