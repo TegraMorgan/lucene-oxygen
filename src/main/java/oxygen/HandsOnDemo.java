@@ -112,7 +112,7 @@ public class HandsOnDemo {
             try (DirectoryReader reader = DirectoryReader.open(dir)) {
                 //logIndexInfo(reader);
 
-                String queryString = "Why, when a Palestinian kills an Israeli its called Terrorism, but when an Israeli kills a Palestinian........";                        // String to search
+                String queryString = "If I become a Used Car Dealer, how do I go about buying a group (say 10) of cars from a new car dealer?";                        // String to search
                 queryString = OxygenCustomAnalyzer.symbolRemoval(queryString);      // Making string lucene friendly
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
                 startQueryParse = System.currentTimeMillis();
