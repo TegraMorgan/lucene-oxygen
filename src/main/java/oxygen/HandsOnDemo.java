@@ -130,7 +130,8 @@ public class HandsOnDemo {
 
                 */
 
-                System.out.println("Query: " + q);
+                System.out.println("Original query: " + queryString);
+                System.out.println("Indexed query: " + q);
                 System.out.println();
                 System.out.printf("Query parsed.\nTime elapsed : %d seconds\n", (endQueryParse - startQueryParse) / 1000);
 
