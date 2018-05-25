@@ -112,7 +112,7 @@ public class HandsOnDemo {
             try (DirectoryReader reader = DirectoryReader.open(dir)) {
                 //logIndexInfo(reader);
 
-                String queryString = "us US U.S.A U.S. u.s";      // String to search
+                String queryString = "Why, when a Palestinian kills an Israeli its called Terrorism, but when an Israeli kills a Palestinian........";                        // String to search
                 queryString = OxygenCustomAnalyzer.symbolRemoval(queryString);      // Making string lucene friendly
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
                 startQueryParse = System.currentTimeMillis();
