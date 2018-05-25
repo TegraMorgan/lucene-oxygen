@@ -12,6 +12,8 @@ import org.apache.lucene.analysis.standard.StandardTokenizer;
 
 import java.util.Arrays;
 import java.util.List;
+import org.apache.lucene.analysis.shingle.ShingleFilter;
+
 
 public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
     private final CharArraySet stemExclusionSet;
@@ -137,8 +139,11 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
         result = new EnglishPossessiveFilter(result);       // Removes ' symbol (exmpl: Harry's book -> Harry book)
         result = new LowerCaseFilter(result);         // Self explanatory
         result = new StopFilter(result, stopwords);         // Stop words
-        if (!stemExclusionSet.isEmpty())
+        if (!stemExclusionSet.isEmpty()) {
             result = new SetKeywordMarkerFilter(result, stemExclusionSet); // Stemming exclusions
+        }
+
+        result = new ShingleFilter(result);
         result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
         return new TokenStreamComponents(source, result);
     }
