@@ -174,14 +174,18 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
         final Tokenizer source = new StandardTokenizer();
         TokenStream result = new StandardFilter(source);    // Basic initialization
         result = new EnglishPossessiveFilter(result);       // Removes ' symbol (exmpl: Harry's book -> Harry book)
-        result = new LowerCaseFilter(result);         // Self explanatory
+        result = new LowerCaseFilter(result);               // Self explanatory
+
         result = new StopFilter(result, stopwords);         // Stop words
         if (!stemExclusionSet.isEmpty()) {
             result = new SetKeywordMarkerFilter(result, stemExclusionSet); // Stemming exclusions
         }
 
-        result = new ShingleFilter(result, 3); // min shingle is awlays 2
+        result = new ShingleFilter(result);                 // min shingle is by default 2
+        ((ShingleFilter) result).setFillerToken("");        // this should make deleted words not appear in Indexed query
         result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
+
+
         return new TokenStreamComponents(source, result);
     }
 

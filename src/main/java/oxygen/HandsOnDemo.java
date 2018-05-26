@@ -112,7 +112,8 @@ public class HandsOnDemo {
             try (DirectoryReader reader = DirectoryReader.open(dir)) {
                 //logIndexInfo(reader);
 
-                String queryString = "If I become a Used Car Dealer, how do I go about buying a group (say 10) of cars from a new car dealer?";                        // String to search
+                //Why in the world do I have to press 1 to get English when the official national language IS English?
+                String queryString = "Why the world to "; //press 1 to English when the official national language English?";                    //
                 queryString = OxygenCustomAnalyzer.symbolRemoval(queryString);      // Making string lucene friendly
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
                 BooleanQuery.setMaxClauseCount(65536);
