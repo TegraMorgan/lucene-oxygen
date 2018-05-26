@@ -143,7 +143,7 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
             result = new SetKeywordMarkerFilter(result, stemExclusionSet); // Stemming exclusions
         }
 
-        result = new ShingleFilter(result);
+        result = new ShingleFilter(result, 3);
         result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
         return new TokenStreamComponents(source, result);
     }
