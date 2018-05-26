@@ -113,7 +113,7 @@ public class HandsOnDemo {
                 //logIndexInfo(reader);
 
                 //Why in the world do I have to press 1 to get English when the official national language IS English?
-                String queryString = "Why the world to "; //press 1 to English when the official national language English?";                    //
+                String queryString = "Why in the world to "; //press 1 to English when the official national language English?";                    //
                 queryString = OxygenCustomAnalyzer.symbolRemoval(queryString);      // Making string lucene friendly
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
                 BooleanQuery.setMaxClauseCount(65536);
