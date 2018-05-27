@@ -1,34 +1,20 @@
 package oxygen;
 
 import org.apache.lucene.analysis.*;
-import org.apache.lucene.analysis.en.EnglishAnalyzer;
-import org.apache.lucene.analysis.en.EnglishMinimalStemFilter;
 import org.apache.lucene.analysis.en.EnglishPossessiveFilter;
 import org.apache.lucene.analysis.en.PorterStemFilter;
 import org.apache.lucene.analysis.miscellaneous.SetKeywordMarkerFilter;
-import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.analysis.shingle.ShingleFilter;
 import org.apache.lucene.analysis.standard.StandardFilter;
 import org.apache.lucene.analysis.standard.StandardTokenizer;
 
 import java.util.Arrays;
 import java.util.List;
-import org.apache.lucene.analysis.shingle.ShingleFilter;
 
 
-public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
-    private final CharArraySet stemExclusionSet;
+public class OxygenCustomAnalyzerNoShingle extends StopwordAnalyzerBase {
     public static final CharArraySet OXYGEN_STOP_SET;
     public static final CharArraySet OXYGEN_EXCLUSION_SET;
-    protected final CharArraySet stopwords;
-
-
-    public OxygenCustomAnalyzer() {
-        this(getDefaultStopSet());
-    }
-
-
-    //Abbigious abbr. removed
-    //TODO special quotation filter: (Eddisson) etc.
 
     static {
         final List<String> stopWords = Arrays.asList(
@@ -86,13 +72,25 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
         final CharArraySet stopSet = new CharArraySet(stopWords, false);
         OXYGEN_STOP_SET = CharArraySet.unmodifiableSet(stopSet);
     }
-// US
+
+    // US
     static {
         final List<String> exclusionSet = Arrays.asList(
                 "u.s.a", "u.s.a.", "u.s", "u.s."
         );
         final CharArraySet stopSet = new CharArraySet(exclusionSet, false);
         OXYGEN_EXCLUSION_SET = CharArraySet.unmodifiableSet(stopSet);
+    }
+
+    protected final CharArraySet stopwords;
+
+
+    //Abbigious abbr. removed
+    //TODO special quotation filter: (Eddisson) etc.
+    private final CharArraySet stemExclusionSet;
+
+    public OxygenCustomAnalyzerNoShingle() {
+        this(getDefaultStopSet());
     }
 
     /**
@@ -103,7 +101,7 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
      * @param stopWords        a stopword set
      * @param stemExclusionSet a set of terms not to be stemmed
      */
-    public OxygenCustomAnalyzer(CharArraySet stopWords, CharArraySet stemExclusionSet) {
+    public OxygenCustomAnalyzerNoShingle(CharArraySet stopWords, CharArraySet stemExclusionSet) {
         super(stopWords);
         this.stemExclusionSet = CharArraySet.unmodifiableSet(CharArraySet.copy(stemExclusionSet));
         this.stopwords = CharArraySet.unmodifiableSet(CharArraySet.copy(stopWords));
@@ -114,15 +112,8 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
      *
      * @param stopWords a stopword set
      */
-    public OxygenCustomAnalyzer(CharArraySet stopWords) {
+    public OxygenCustomAnalyzerNoShingle(CharArraySet stopWords) {
         this(stopWords, OXYGEN_EXCLUSION_SET);
-    }
-
-    @Override
-    protected TokenStream normalize(String fieldName, TokenStream in) {
-        TokenStream result = new StandardFilter(in);
-        result = new LowerCaseFilter(result);
-        return result;
     }
 
     /**
@@ -131,7 +122,7 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
      * @return default stop words set.
      */
     public static CharArraySet getDefaultStopSet() {
-        return OxygenCustomAnalyzer.DefaultSetHolder.DEFAULT_STOP_SET;
+        return OxygenCustomAnalyzerNoShingle.DefaultSetHolder.DEFAULT_STOP_SET;
     }
 
     public static String symbolRemoval(String q) {
@@ -165,28 +156,6 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
 
         }
         return String.valueOf(res).trim();
-    }
-
-    @Override
-    protected TokenStreamComponents createComponents(String fieldName) {
-        /* This is the main point of the analyzer - Tegra */
-        //TODO Change the analyzer
-        final Tokenizer source = new StandardTokenizer();
-        TokenStream result = new StandardFilter(source);    // Basic initialization
-        result = new EnglishPossessiveFilter(result);       // Removes ' symbol (exmpl: Harry's book -> Harry book)
-        result = new LowerCaseFilter(result);               // Self explanatory
-
-        result = new StopFilter(result, stopwords);         // Stop words
-        if (!stemExclusionSet.isEmpty()) {
-            result = new SetKeywordMarkerFilter(result, stemExclusionSet); // Stemming exclusions
-        }
-
-        result = new ShingleFilter(result);                 // min shingle is by default 2
-        ((ShingleFilter) result).setFillerToken("");        // this should make deleted words not appear in Indexed query
-        result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
-
-
-        return new TokenStreamComponents(source, result);
     }
 
     private static boolean isDoubleWC(char c, char c1) {
@@ -234,6 +203,29 @@ public class OxygenCustomAnalyzer extends StopwordAnalyzerBase {
             default:
                 return false;
         }
+    }
+
+    @Override
+    protected TokenStream normalize(String fieldName, TokenStream in) {
+        TokenStream result = new StandardFilter(in);
+        result = new LowerCaseFilter(result);
+        return result;
+    }
+
+    @Override
+    protected TokenStreamComponents createComponents(String fieldName) {
+        /* This is the main point of the analyzer - Tegra */
+        //TODO Change the analyzer
+        final Tokenizer source = new StandardTokenizer();
+        TokenStream result = new StandardFilter(source);    // Basic initialization
+        result = new EnglishPossessiveFilter(result);       // Removes ' symbol (exmpl: Harry's book -> Harry book)
+        result = new LowerCaseFilter(result);               // Self explanatory
+        result = new StopFilter(result, stopwords);         // Stop words
+        if (!stemExclusionSet.isEmpty()) {
+            result = new SetKeywordMarkerFilter(result, stemExclusionSet); // Stemming exclusions
+        }
+        result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
+        return new TokenStreamComponents(source, result);
     }
 
     /**

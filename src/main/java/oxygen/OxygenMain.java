@@ -46,11 +46,13 @@ import static oxygen.Utils.format;
 
 import utils.CmdParser;
 
-public class HandsOnDemo {
+public class OxygenMain {
 
     private static final String PATH_TO_JSON = "../nfL6.json";
-    private static final String PATH_TO_INDEX = "./tmp/ir-class/demo";
+    private static final String PATH_TO_INDEX = "./oxygen/index";
+    private static final String PATH_TO_INDEX2 = "./oxygen/shingle_index";
     private static final String BODY_FIELD = "body";
+    private static final String CATEGORY_FIELD = "main_category";
     private static final FieldType termVector_t;
 
     private static long overallTime = 0;
@@ -114,7 +116,7 @@ public class HandsOnDemo {
 
                 //Why in the world do I have to press 1 to get English when the official national language IS English?
                 String queryString = "Why in the world to "; //press 1 to English when the official national language English?";                    //
-                queryString = OxygenCustomAnalyzer.symbolRemoval(queryString);      // Making string lucene friendly
+                queryString = OxygenCustomAnalyzerWithShingles.symbolRemoval(queryString);      // Making string lucene friendly
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
                 BooleanQuery.setMaxClauseCount(65536);
                 startQueryParse = System.currentTimeMillis();
@@ -169,7 +171,7 @@ public class HandsOnDemo {
     }
 
     private static Analyzer newAnalyzer() {
-        return new oxygen.OxygenCustomAnalyzer();
+        return new OxygenCustomAnalyzerWithShingles();
     }
 
     private static IndexWriterConfig newIndexWriterConfig(Analyzer analyzer, Similarity similarity) {
