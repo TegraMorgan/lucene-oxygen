@@ -49,7 +49,7 @@ import utils.CmdParser;
 public class OxygenMain {
 
     private static final String PATH_TO_JSON = "../nfL6.json";
-    private static final String PATH_TO_INDEX = "./oxygen/index";
+    private static final String PATH_TO_INDEX1 = "./oxygen/index";
     private static final String PATH_TO_INDEX2 = "./oxygen/shingle_index";
     private static final String BODY_FIELD = "body";
     private static final String CATEGORY_FIELD = "main_category";
@@ -99,11 +99,15 @@ public class OxygenMain {
             System.exit(1);
         }
 
-        try (Directory dir = newDirectory(); Analyzer analyzer = newAnalyzer()) {
+        try (Directory dirShingle = FSDirectory.open(new File(PATH_TO_INDEX1).toPath());
+             Directory dirNoShingle = FSDirectory.open(new File(PATH_TO_INDEX2).toPath());
+             Analyzer analyzerShingle = new OxygenCustomAnalyzerWithShingles();
+             Analyzer analyzerNoShingle = new OxygenCustomAnalyzerNoShingle()) {
 
             if (parser.hasIndexingOption()) {
                 startIndexing = System.currentTimeMillis();
-                indexCorpus(dir, PATH_TO_JSON, analyzer, similarity);
+                indexCorpus(dirShingle, PATH_TO_JSON, analyzerShingle, similarity);
+                indexCorpus(dirNoShingle, PATH_TO_JSON, analyzerNoShingle, similarity);
                 endIndexing = System.currentTimeMillis();
                 overallTime += (endIndexing - startIndexing) / 1000;
 
@@ -111,13 +115,13 @@ public class OxygenMain {
 
                 // Search
             }
-            try (DirectoryReader reader = DirectoryReader.open(dir)) {
+            try (DirectoryReader reader = DirectoryReader.open(dirShingle)) {
                 //logIndexInfo(reader);
 
                 //Why in the world do I have to press 1 to get English when the official national language IS English?
-                String queryString = "Why in the world to "; //press 1 to English when the official national language English?";                    //
+                String queryString = "Why in the world do I have to press 1 to get English when the official national language IS English?";
                 queryString = OxygenCustomAnalyzerWithShingles.symbolRemoval(queryString);      // Making string lucene friendly
-                final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);       // Basic Query Parser creates
+                final QueryParser qp = new QueryParser(BODY_FIELD, analyzerShingle);       // Basic Query Parser creates
                 BooleanQuery.setMaxClauseCount(65536);
                 startQueryParse = System.currentTimeMillis();
                 final Query q = qp.parse(queryString);                              // Boolean Query
@@ -148,26 +152,73 @@ public class OxygenMain {
                 endSearch = System.currentTimeMillis();
 
                 overallTime += (endSearch - startSearch) / 1000;
+                if (td.scoreDocs.length > 0) {
+                    System.out.printf("Search finished.\nTime elapsed : %d seconds\n", (endSearch - startSearch) / 1000);
+                    System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTime);
 
-                System.out.printf("Search finished.\nTime elapsed : %d seconds\n", (endSearch - startSearch) / 1000);
-                System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTime);
+                    System.out.printf("\nSearch results:\n");
+                    final FastVectorHighlighter highlighter = new FastVectorHighlighter();
+                    final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
 
-                System.out.printf("\nSearch results:\n");
-                final FastVectorHighlighter highlighter = new FastVectorHighlighter();
-                final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
-                for (final ScoreDoc sd : td.scoreDocs) {
-                    final String[] snippets =
-                            highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
-                    final Document doc = searcher.doc(sd.doc);
-                    System.out.println(format("doc=%d, score=%.4f, text=%s snippet=%s", sd.doc, sd.score,
-                            doc.get(BODY_FIELD), Arrays.stream(snippets).collect(Collectors.joining(" "))));
+                    for (final ScoreDoc sd : td.scoreDocs) {
+                        final String[] snippets =
+                                highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
+                        final Document doc = searcher.doc(sd.doc);
+                        System.out.println(format("doc=%d, score=%.4f, text=%s snippet=%s", sd.doc, sd.score,
+                                doc.get(BODY_FIELD), Arrays.stream(snippets).collect(Collectors.joining(" "))));
+                    }
+                } else {
+                    throw new OxygenNotFound();
+                }
+            } catch (OxygenNotFound e) {
+                try (DirectoryReader reader = DirectoryReader.open(dirNoShingle)) {
+
+                    //Why in the world do I have to press 1 to get English when the official national language IS English?
+                    String queryString = "Why in the world do I have to press 1 to get English when the official national language IS English?";
+                    queryString = OxygenCustomAnalyzerWithShingles.symbolRemoval(queryString);      // Making string lucene friendly
+                    final QueryParser qp = new QueryParser(BODY_FIELD, analyzerNoShingle);       // Basic Query Parser creates
+                    BooleanQuery.setMaxClauseCount(65536);
+                    startQueryParse = System.currentTimeMillis();
+                    final Query q = qp.parse(queryString);                              // Boolean Query
+                    endQueryParse = System.currentTimeMillis();
+
+                    overallTime += (endQueryParse - startQueryParse) / 1000;
+
+                    System.out.println("Original query: " + queryString);
+                    System.out.println("Indexed query: " + q);
+                    System.out.println();
+                    System.out.printf("Query parsed.\nTime elapsed : %d seconds\n", (endQueryParse - startQueryParse) / 1000);
+
+                    final IndexSearcher searcher = new IndexSearcher(reader);
+                    /* There is also a PassageSearcher */
+                    searcher.setSimilarity(similarity);
+
+                    startSearch = System.currentTimeMillis();
+                    final TopDocs td = searcher.search(q, 10);
+                    endSearch = System.currentTimeMillis();
+
+                    overallTime += (endSearch - startSearch) / 1000;
+                    System.out.printf("Search finished.\nTime elapsed : %d seconds\n", (endSearch - startSearch) / 1000);
+                    System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTime);
+
+                    System.out.print("\nSearch results:\n");
+                    final FastVectorHighlighter highlighter = new FastVectorHighlighter();
+                    final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
+
+                    for (final ScoreDoc sd : td.scoreDocs) {
+                        final String[] snippets =
+                                highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
+                        final Document doc = searcher.doc(sd.doc);
+                        System.out.println(format("doc=%d, score=%.4f, text=%s snippet=%s", sd.doc, sd.score,
+                                doc.get(BODY_FIELD), Arrays.stream(snippets).collect(Collectors.joining(" "))));
+                    }
                 }
             }
         }
     }
 
     private static Directory newDirectory() throws IOException {
-        return FSDirectory.open(new File(PATH_TO_INDEX).toPath());
+        return FSDirectory.open(new File(PATH_TO_INDEX1).toPath());
     }
 
     private static Analyzer newAnalyzer() {
