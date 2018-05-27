@@ -101,8 +101,8 @@ public class OxygenMain {
 
         try (Directory dirShingle = FSDirectory.open(new File(PATH_TO_INDEX1).toPath());
              Directory dirNoShingle = FSDirectory.open(new File(PATH_TO_INDEX2).toPath());
-             Analyzer analyzerShingle = new OxygenCustomAnalyzerWithShingles();
-             Analyzer analyzerNoShingle = new OxygenCustomAnalyzerNoShingle()) {
+             Analyzer analyzerShingle = new OxygenAnalyzerWithShingles();
+             Analyzer analyzerNoShingle = new OxygenAnalyzerBase()) {
 
             if (parser.hasIndexingOption()) {
                 startIndexing = System.currentTimeMillis();
@@ -119,8 +119,8 @@ public class OxygenMain {
                 //logIndexInfo(reader);
 
                 //Why in the world do I have to press 1 to get English when the official national language IS English?
-                String queryString = "Why in the world ";//do I have to press 1 to get English when the official national language IS English?";
-                queryString = OxygenCustomAnalyzerWithShingles.symbolRemoval(queryString);      // Making string lucene friendly
+                String queryString = "How to eat chicken?";//do I have to press 1 to get English when the official national language IS English?";
+                queryString = OxygenAnalyzerWithShingles.symbolRemoval(queryString);      // Making string lucene friendly
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzerShingle);       // Basic Query Parser creates
                 BooleanQuery.setMaxClauseCount(65536);
                 startQueryParse = System.currentTimeMillis();
@@ -174,8 +174,8 @@ public class OxygenMain {
                 try (DirectoryReader reader = DirectoryReader.open(dirNoShingle)) {
 
                     //Why in the world do I have to press 1 to get English when the official national language IS English?
-                    String queryString = "Why in the world ";//do I have to press 1 to get English when the official national language IS English?";
-                    queryString = OxygenCustomAnalyzerWithShingles.symbolRemoval(queryString);      // Making string lucene friendly
+                    String queryString = "Why in the world ";//do I have to press 1 to get English when the official national language IS English?"
+                    queryString = OxygenAnalyzerWithShingles.symbolRemoval(queryString);      // Making string lucene friendly
                     final QueryParser qp = new QueryParser(BODY_FIELD, analyzerNoShingle);       // Basic Query Parser creates
                     BooleanQuery.setMaxClauseCount(65536);
                     startQueryParse = System.currentTimeMillis();
@@ -222,7 +222,7 @@ public class OxygenMain {
     }
 
     private static Analyzer newAnalyzer() {
-        return new OxygenCustomAnalyzerWithShingles();
+        return new OxygenAnalyzerWithShingles();
     }
 
     private static IndexWriterConfig newIndexWriterConfig(Analyzer analyzer, Similarity similarity) {
