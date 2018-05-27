@@ -4,6 +4,8 @@ import org.apache.lucene.analysis.*;
 import org.apache.lucene.analysis.en.EnglishPossessiveFilter;
 import org.apache.lucene.analysis.en.PorterStemFilter;
 import org.apache.lucene.analysis.miscellaneous.SetKeywordMarkerFilter;
+import org.apache.lucene.analysis.pattern.PatternReplaceFilter;
+import org.apache.lucene.analysis.pattern.PatternReplaceFilterFactory;
 import org.apache.lucene.analysis.standard.StandardFilter;
 import org.apache.lucene.analysis.standard.StandardTokenizer;
 
@@ -181,6 +183,9 @@ public class OxygenCustomAnalyzerWithShingles extends StopwordAnalyzerBase {
         }
 
         result = new ShingleFilter(result);                 // min shingle is by default 2
+        ((ShingleFilter) result).setOutputUnigrams(true);
+        java.util.regex.Pattern regex = java.util.regex.Pattern.compile(".*_.*");
+        result = new PatternReplaceFilter(result, regex, "", true);
         result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
 
 
