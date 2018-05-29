@@ -110,7 +110,10 @@ public class OxygenMain {
 
             String[] OxygenQueries = {"How do you tell if your computer has already gotton instant messenger downloaded on it?",
                     "What does it mean when a dog licks its own private?",
-                    " If I become a Used Car Dealer, how do I go about buying a group (say 10) of cars from a new car dealer?"};
+                    " If I become a Used Car Dealer, how do I go about buying a group (say 10) of cars from a new car dealer?",
+                    "Why in the world do I have to press 1 to get English when the official national language \"IS\" English?",
+                    "is it safe to put extra strength gold bond powder on my ball sack?"};
+            //String[] OxygenQueries ={"Burger food nice"};
 
             for (String queryString : OxygenQueries) {
 
@@ -120,7 +123,7 @@ public class OxygenMain {
                 try (DirectoryReader reader = DirectoryReader.open(dirShingle)) {
                     //logIndexInfo(reader);
 
-                    final QueryParser qp = new QueryParser(BODY_FIELD, analyzerShingle);       // Basic Query Parser creates
+                    final QueryParser qp = new QueryParser(BODY_FIELD, analyzerShingle);     // Basic Query Parser creates
                     BooleanQuery.setMaxClauseCount(65536);
                     startQueryParse = System.currentTimeMillis();
                     final Query q = qp.parse(preFilteredQuery);                              // Boolean Query
@@ -139,15 +142,18 @@ public class OxygenMain {
                     endSearch = System.currentTimeMillis();
 
                     overallTime += endSearch - startSearch;
+
                     if (td.scoreDocs.length > 0) {
                         printSearchResults(td, q,reader, searcher, endSearch - startSearch, overallTime);
                     } else {
+                        System.out.println("Shingle search returned empty  ");
                         throw new OxygenNotFound();
                     }
+
                 } catch (OxygenNotFound e) {
                     try (DirectoryReader reader = DirectoryReader.open(dirNoShingle)) {
 
-                        final QueryParser qp = new QueryParser(BODY_FIELD, analyzerNoShingle);       // Basic Query Parser creates
+                        final QueryParser qp = new QueryParser(BODY_FIELD, analyzerNoShingle);   // Basic Query Parser creates
                         BooleanQuery.setMaxClauseCount(65536);
                         startQueryParse = System.currentTimeMillis();
                         final Query q = qp.parse(preFilteredQuery);                              // Boolean Query

@@ -25,15 +25,12 @@ public class OxygenAnalyzerWithShingles extends OxygenAnalyzerBase {
         result = new EnglishPossessiveFilter(result);       // Removes ' symbol (exmpl: Harry's book -> Harry book)
         result = new LowerCaseFilter(result);               // Self explanatory
 
-        result = new StopFilter(result, stopwords);         // Stop words
         if (!stemExclusionSet.isEmpty()) {
             result = new SetKeywordMarkerFilter(result, stemExclusionSet); // Stemming exclusions
         }
 
         result = new ShingleFilter(result);                 // min shingle is by default 2
-        ((ShingleFilter) result).setOutputUnigrams(true);
-        java.util.regex.Pattern regex = java.util.regex.Pattern.compile(".*_.*");
-        result = new PatternReplaceFilter(result, regex, "", true);
+        ((ShingleFilter) result).setOutputUnigrams(false);
         result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
 
 
