@@ -59,7 +59,7 @@ public class Constants {
                 "however", "hundred", "i", "id", "ie", "if", "i'll", "im", "immediate", "immediately",
                 "importance", "important", "in", "inc", "indeed", "index", "information", "instead", "into",
                 "invention", "inward", "is", "isn't", "it", "itd", "it'll", "its", "itself", "i've",
-                "j", "just", "k", "keep	keeps", "kept", "kg", "km", "know", "known", "knows", "l", "largely",
+                "j", "just", "k", "keep",	"keeps", "kept", "kg", "km", "know", "known", "knows", "l", "largely",
                 "last", "lately", "later", "latter", "latterly", "least", "less", "lest", "let", "lets",
                 "like", "liked", "likely", "line", "little", "'ll", "look", "looking", "looks", "ltd", "m",
                 "made", "mainly", "make", "makes", "many", "may", "maybe", "me", "mean", "means", "meantime",
@@ -84,7 +84,7 @@ public class Constants {
                 "some", "somebody", "somehow", "someone", "somethan", "something", "sometime", "sometimes",
                 "somewhat", "somewhere", "soon", "sorry", "specifically", "specified", "specify", "specifying",
                 "still", "stop", "strongly", "sub", "substantially", "successfully", "such", "sufficiently",
-                "suggest", "sup", "sure","you", "your","yours"
+                "suggest", "sup", "sure","tell","what", "when", "you", "your","yours"
         );
 
         final CharArraySet stopSet = new CharArraySet(stopWords, false);

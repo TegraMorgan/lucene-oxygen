@@ -128,11 +128,7 @@ public class OxygenMain {
 
                     overallTime += (endQueryParse - startQueryParse) / 1000;
 
-                    System.out.println("Original query: " + queryString);
-                    System.out.println("Pre-filtered query: " + preFilteredQuery);
-                    System.out.println("Indexed query: " + q);
-                    System.out.println();
-                    System.out.printf("Query parsed.\nTime elapsed : %d seconds\n", (endQueryParse - startQueryParse) / 1000);
+                    printQueryInfo(queryString, preFilteredQuery, q, endQueryParse, startQueryParse);
 
                     final IndexSearcher searcher = new IndexSearcher(reader);
                     /* There is also a PassageSearcher */
@@ -142,22 +138,9 @@ public class OxygenMain {
                     final TopDocs td = searcher.search(q, 10);
                     endSearch = System.currentTimeMillis();
 
-                    overallTime += (endSearch - startSearch) / 1000;
+                    overallTime += endSearch - startSearch;
                     if (td.scoreDocs.length > 0) {
-                        System.out.printf("Search finished.\nTime elapsed : %d seconds\n", (endSearch - startSearch) / 1000);
-                        System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTime);
-
-                        System.out.printf("\nSearch results:\n");
-                        final FastVectorHighlighter highlighter = new FastVectorHighlighter();
-                        final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
-
-                        for (final ScoreDoc sd : td.scoreDocs) {
-                            final String[] snippets =
-                                    highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
-                            final Document doc = searcher.doc(sd.doc);
-                            System.out.println(format("doc=%d, score=%.4f, text=%s snippet=%s", sd.doc, sd.score,
-                                    doc.get(BODY_FIELD), Arrays.stream(snippets).collect(Collectors.joining(" "))));
-                        }
+                        printSearchResults(td, q,reader, searcher, endSearch - startSearch, overallTime);
                     } else {
                         throw new OxygenNotFound();
                     }
@@ -172,11 +155,7 @@ public class OxygenMain {
 
                         overallTime += (endQueryParse - startQueryParse) / 1000;
 
-                        System.out.println("Original query: " + queryString);
-                        System.out.println("Pre-filtered query: " + preFilteredQuery);
-                        System.out.println("Indexed query: " + q);
-                        System.out.println();
-                        System.out.printf("Query parsed.\nTime elapsed : %d seconds\n", (endQueryParse - startQueryParse) / 1000);
+                        printQueryInfo(queryString, preFilteredQuery, q, endQueryParse, startQueryParse);
 
                         final IndexSearcher searcher = new IndexSearcher(reader);
                         /* There is also a PassageSearcher */
@@ -186,21 +165,8 @@ public class OxygenMain {
                         final TopDocs td = searcher.search(q, 10);
                         endSearch = System.currentTimeMillis();
 
-                        overallTime += (endSearch - startSearch) / 1000;
-                        System.out.printf("Search finished.\nTime elapsed : %d seconds\n", (endSearch - startSearch) / 1000);
-                        System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTime);
-
-                        System.out.print("\nSearch results:\n");
-                        final FastVectorHighlighter highlighter = new FastVectorHighlighter();
-                        final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
-
-                        for (final ScoreDoc sd : td.scoreDocs) {
-                            final String[] snippets =
-                                    highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
-                            final Document doc = searcher.doc(sd.doc);
-                            System.out.println(format("doc=%d, score=%.4f, text=%s snippet=%s", sd.doc, sd.score,
-                                    doc.get(BODY_FIELD), Arrays.stream(snippets).collect(Collectors.joining(" "))));
-                        }
+                        overallTime += endSearch - startSearch;
+                        printSearchResults(td, q,reader, searcher, endSearch - startSearch, overallTime);
                     }
                 }
             }
@@ -255,6 +221,36 @@ public class OxygenMain {
         for (String answer : corpus) {
             System.out.println(answer);
         }
+    }
+
+
+    private static void printQueryInfo(String originalQuery, String preFilteredQuery, Query parsedQuery,
+                                       long endQueryParseMillis, long startQueryParseMillis) {
+        System.out.println();
+        System.out.println("Original query: " + originalQuery);
+        System.out.println("Pre-filtered query: " + preFilteredQuery);
+        System.out.println("Indexed query: " + parsedQuery);
+        System.out.println();
+        System.out.printf("Query parsed.\nTime elapsed : %d seconds\n", (endQueryParseMillis - startQueryParseMillis) / 1000);
+    }
+
+    private static void printSearchResults(TopDocs td, Query q, DirectoryReader reader, IndexSearcher searcher,
+                                           long searchTimeMillis, long overallTimeMillis) throws IOException {
+
+            System.out.printf("Search finished.\nTime elapsed : %d seconds\n", searchTimeMillis / 1000);
+            System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTimeMillis / 1000);
+
+            System.out.print("\nSearch results:\n");
+            final FastVectorHighlighter highlighter = new FastVectorHighlighter();
+            final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
+
+            for (final ScoreDoc sd : td.scoreDocs) {
+                final String[] snippets =
+                        highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
+                final Document doc = searcher.doc(sd.doc);
+                System.out.println(format("doc=%d, score=%.4f, text=%s", sd.doc, sd.score, doc.get(BODY_FIELD)));
+            }
+            System.out.println();
     }
 
     @SuppressWarnings("unused")
