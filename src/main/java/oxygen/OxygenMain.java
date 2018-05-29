@@ -73,17 +73,13 @@ public class OxygenMain {
         //similarities = new Similarity[] {new BooleanSimilarity()};
         //similarities = new Similarity[] {new OxygenCustomSimilarity()};
         //similarities = new Similarity[] {new LMJelinekMercerSimilarity(0.7f)};
-
         //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity()};
         //similarities = new Similarity[] {new BooleanSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
-
-        similarities = new Similarity[]{new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
-
-
         //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
 
-        similarity = new MultiSimilarity(similarities);
 
+        similarities = new Similarity[]{new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
+        similarity = new MultiSimilarity(similarities);
         termVector_t = new FieldType(TextField.TYPE_STORED);
         termVector_t.setStoreTermVectors(true);
         termVector_t.setStoreTermVectorPositions(true);
@@ -92,47 +88,45 @@ public class OxygenMain {
     }
 
     public static void main(String[] args) throws Exception {
-
-
         CmdParser parser = new CmdParser();
         try {
             parser.extract(args);
         } catch (Exception e) {
             System.exit(1);
         }
-
         try (Directory dirShingle = FSDirectory.open(new File(PATH_TO_INDEX1).toPath());
              Directory dirNoShingle = FSDirectory.open(new File(PATH_TO_INDEX2).toPath());
              Analyzer analyzerShingle = new OxygenAnalyzerWithShingles();
              Analyzer analyzerNoShingle = new OxygenAnalyzerBase()) {
-
             if (parser.hasIndexingOption()) {
                 startIndexing = System.currentTimeMillis();
                 indexCorpus(dirShingle, PATH_TO_JSON, analyzerShingle, similarity);
                 indexCorpus(dirNoShingle, PATH_TO_JSON, analyzerNoShingle, similarity);
                 endIndexing = System.currentTimeMillis();
                 overallTime += (endIndexing - startIndexing) / 1000;
-
                 System.out.printf("Index ready.\nTime elapsed : %d seconds\n", (endIndexing - startIndexing) / 1000);
-
                 // Search
             }
-            //Why in the world do I have to press 1 to get English when the official national language IS English?
-            String queryString = "How to eat chicken?";//do I have to press 1 to get English when the official national language IS English?";
-            String preFilteredQuery = OxygenPreFilter.filter(queryString, Constants.getStopWords());
-            queryString = symbolRemoval(queryString);      // Making string lucene friendly
-            try (DirectoryReader reader = DirectoryReader.open(dirShingle)) {
-                //logIndexInfo(reader);
 
-                final QueryParser qp = new QueryParser(BODY_FIELD, analyzerShingle);       // Basic Query Parser creates
-                BooleanQuery.setMaxClauseCount(65536);
-                startQueryParse = System.currentTimeMillis();
-                final Query q = qp.parse(preFilteredQuery);                              // Boolean Query
-                endQueryParse = System.currentTimeMillis();
+            String[] OxygenQueries = {"How do you tell if your computer has already gotton instant messenger downloaded on it?",
+                    "What does it mean when a dog licks its own private?",
+                    " If I become a Used Car Dealer, how do I go about buying a group (say 10) of cars from a new car dealer?"};
 
-                overallTime += (endQueryParse - startQueryParse) / 1000;
+            for (String queryString : OxygenQueries) {
+                String preFilteredQuery = OxygenPreFilter.filter(queryString, Constants.getStopWords());
+                preFilteredQuery = symbolRemoval(preFilteredQuery);      // Making string lucene friendly
+                try (DirectoryReader reader = DirectoryReader.open(dirShingle)) {
+                    //logIndexInfo(reader);
 
-                // PhraseQuery should be added perhaps?
+                    final QueryParser qp = new QueryParser(BODY_FIELD, analyzerShingle);       // Basic Query Parser creates
+                    BooleanQuery.setMaxClauseCount(65536);
+                    startQueryParse = System.currentTimeMillis();
+                    final Query q = qp.parse(preFilteredQuery);                              // Boolean Query
+                    endQueryParse = System.currentTimeMillis();
+
+                    overallTime += (endQueryParse - startQueryParse) / 1000;
+
+                    // PhraseQuery should be added perhaps?
                 /* Viable classes are as follows:
 
                 PhraseQuery
@@ -141,51 +135,8 @@ public class OxygenMain {
 
                 */
 
-                System.out.println("Original query: " + queryString);
-                System.out.println("Pre-filtered query: " + preFilteredQuery);
-                System.out.println("Indexed query: " + q);
-                System.out.println();
-                System.out.printf("Query parsed.\nTime elapsed : %d seconds\n", (endQueryParse - startQueryParse) / 1000);
-
-                final IndexSearcher searcher = new IndexSearcher(reader);
-                /* There is also a PassageSearcher */
-                searcher.setSimilarity(similarity);
-
-                startSearch = System.currentTimeMillis();
-                final TopDocs td = searcher.search(q, 10);
-                endSearch = System.currentTimeMillis();
-
-                overallTime += (endSearch - startSearch) / 1000;
-                if (td.scoreDocs.length > 0) {
-                    System.out.printf("Search finished.\nTime elapsed : %d seconds\n", (endSearch - startSearch) / 1000);
-                    System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTime);
-
-                    System.out.printf("\nSearch results:\n");
-                    final FastVectorHighlighter highlighter = new FastVectorHighlighter();
-                    final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
-
-                    for (final ScoreDoc sd : td.scoreDocs) {
-                        final String[] snippets =
-                                highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
-                        final Document doc = searcher.doc(sd.doc);
-                        System.out.println(format("doc=%d, score=%.4f, text=%s snippet=%s", sd.doc, sd.score,
-                                doc.get(BODY_FIELD), Arrays.stream(snippets).collect(Collectors.joining(" "))));
-                    }
-                } else {
-                    throw new OxygenNotFound();
-                }
-            } catch (OxygenNotFound e) {
-                try (DirectoryReader reader = DirectoryReader.open(dirNoShingle)) {
-
-                    final QueryParser qp = new QueryParser(BODY_FIELD, analyzerNoShingle);       // Basic Query Parser creates
-                    BooleanQuery.setMaxClauseCount(65536);
-                    startQueryParse = System.currentTimeMillis();
-                    final Query q = qp.parse(queryString);                              // Boolean Query
-                    endQueryParse = System.currentTimeMillis();
-
-                    overallTime += (endQueryParse - startQueryParse) / 1000;
-
                     System.out.println("Original query: " + queryString);
+                    System.out.println("Pre-filtered query: " + preFilteredQuery);
                     System.out.println("Indexed query: " + q);
                     System.out.println();
                     System.out.printf("Query parsed.\nTime elapsed : %d seconds\n", (endQueryParse - startQueryParse) / 1000);
@@ -199,19 +150,63 @@ public class OxygenMain {
                     endSearch = System.currentTimeMillis();
 
                     overallTime += (endSearch - startSearch) / 1000;
-                    System.out.printf("Search finished.\nTime elapsed : %d seconds\n", (endSearch - startSearch) / 1000);
-                    System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTime);
+                    if (td.scoreDocs.length > 0) {
+                        System.out.printf("Search finished.\nTime elapsed : %d seconds\n", (endSearch - startSearch) / 1000);
+                        System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTime);
 
-                    System.out.print("\nSearch results:\n");
-                    final FastVectorHighlighter highlighter = new FastVectorHighlighter();
-                    final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
+                        System.out.printf("\nSearch results:\n");
+                        final FastVectorHighlighter highlighter = new FastVectorHighlighter();
+                        final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
 
-                    for (final ScoreDoc sd : td.scoreDocs) {
-                        final String[] snippets =
-                                highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
-                        final Document doc = searcher.doc(sd.doc);
-                        System.out.println(format("doc=%d, score=%.4f, text=%s snippet=%s", sd.doc, sd.score,
-                                doc.get(BODY_FIELD), Arrays.stream(snippets).collect(Collectors.joining(" "))));
+                        for (final ScoreDoc sd : td.scoreDocs) {
+                            final String[] snippets =
+                                    highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
+                            final Document doc = searcher.doc(sd.doc);
+                            System.out.println(format("doc=%d, score=%.4f, text=%s snippet=%s", sd.doc, sd.score,
+                                    doc.get(BODY_FIELD), Arrays.stream(snippets).collect(Collectors.joining(" "))));
+                        }
+                    } else {
+                        throw new OxygenNotFound();
+                    }
+                } catch (OxygenNotFound e) {
+                    try (DirectoryReader reader = DirectoryReader.open(dirNoShingle)) {
+
+                        final QueryParser qp = new QueryParser(BODY_FIELD, analyzerNoShingle);       // Basic Query Parser creates
+                        BooleanQuery.setMaxClauseCount(65536);
+                        startQueryParse = System.currentTimeMillis();
+                        final Query q = qp.parse(queryString);                              // Boolean Query
+                        endQueryParse = System.currentTimeMillis();
+
+                        overallTime += (endQueryParse - startQueryParse) / 1000;
+
+                        System.out.println("Original query: " + queryString);
+                        System.out.println("Indexed query: " + q);
+                        System.out.println();
+                        System.out.printf("Query parsed.\nTime elapsed : %d seconds\n", (endQueryParse - startQueryParse) / 1000);
+
+                        final IndexSearcher searcher = new IndexSearcher(reader);
+                        /* There is also a PassageSearcher */
+                        searcher.setSimilarity(similarity);
+
+                        startSearch = System.currentTimeMillis();
+                        final TopDocs td = searcher.search(q, 10);
+                        endSearch = System.currentTimeMillis();
+
+                        overallTime += (endSearch - startSearch) / 1000;
+                        System.out.printf("Search finished.\nTime elapsed : %d seconds\n", (endSearch - startSearch) / 1000);
+                        System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTime);
+
+                        System.out.print("\nSearch results:\n");
+                        final FastVectorHighlighter highlighter = new FastVectorHighlighter();
+                        final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
+
+                        for (final ScoreDoc sd : td.scoreDocs) {
+                            final String[] snippets =
+                                    highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
+                            final Document doc = searcher.doc(sd.doc);
+                            System.out.println(format("doc=%d, score=%.4f, text=%s snippet=%s", sd.doc, sd.score,
+                                    doc.get(BODY_FIELD), Arrays.stream(snippets).collect(Collectors.joining(" "))));
+                        }
                     }
                 }
             }
