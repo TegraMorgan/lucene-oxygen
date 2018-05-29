@@ -117,14 +117,15 @@ public class OxygenMain {
             }
             //Why in the world do I have to press 1 to get English when the official national language IS English?
             String queryString = "How to eat chicken?";//do I have to press 1 to get English when the official national language IS English?";
-            queryString = OxygenAnalyzerWithShingles.symbolRemoval(queryString);      // Making string lucene friendly
+            String preFilteredQuery = OxygenPreFilter.filter(queryString, Constants.getStopWords());
+            preFilteredQuery = OxygenAnalyzerWithShingles.symbolRemoval(preFilteredQuery);      // Making string lucene friendly
             try (DirectoryReader reader = DirectoryReader.open(dirShingle)) {
                 //logIndexInfo(reader);
 
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzerShingle);       // Basic Query Parser creates
                 BooleanQuery.setMaxClauseCount(65536);
                 startQueryParse = System.currentTimeMillis();
-                final Query q = qp.parse(queryString);                              // Boolean Query
+                final Query q = qp.parse(preFilteredQuery);                              // Boolean Query
                 endQueryParse = System.currentTimeMillis();
 
                 overallTime += (endQueryParse - startQueryParse) / 1000;
@@ -139,6 +140,7 @@ public class OxygenMain {
                 */
 
                 System.out.println("Original query: " + queryString);
+                System.out.println("Pre-filtered query: " + preFilteredQuery);
                 System.out.println("Indexed query: " + q);
                 System.out.println();
                 System.out.printf("Query parsed.\nTime elapsed : %d seconds\n", (endQueryParse - startQueryParse) / 1000);
