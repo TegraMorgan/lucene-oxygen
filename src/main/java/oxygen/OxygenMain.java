@@ -115,12 +115,12 @@ public class OxygenMain {
 
                 // Search
             }
+            //Why in the world do I have to press 1 to get English when the official national language IS English?
+            String queryString = "How to eat chicken?";//do I have to press 1 to get English when the official national language IS English?";
+            queryString = OxygenAnalyzerWithShingles.symbolRemoval(queryString);      // Making string lucene friendly
             try (DirectoryReader reader = DirectoryReader.open(dirShingle)) {
                 //logIndexInfo(reader);
 
-                //Why in the world do I have to press 1 to get English when the official national language IS English?
-                String queryString = "How to eat chicken?";//do I have to press 1 to get English when the official national language IS English?";
-                queryString = OxygenAnalyzerWithShingles.symbolRemoval(queryString);      // Making string lucene friendly
                 final QueryParser qp = new QueryParser(BODY_FIELD, analyzerShingle);       // Basic Query Parser creates
                 BooleanQuery.setMaxClauseCount(65536);
                 startQueryParse = System.currentTimeMillis();
@@ -173,9 +173,6 @@ public class OxygenMain {
             } catch (OxygenNotFound e) {
                 try (DirectoryReader reader = DirectoryReader.open(dirNoShingle)) {
 
-                    //Why in the world do I have to press 1 to get English when the official national language IS English?
-                    String queryString = "Why in the world ";//do I have to press 1 to get English when the official national language IS English?"
-                    queryString = OxygenAnalyzerWithShingles.symbolRemoval(queryString);      // Making string lucene friendly
                     final QueryParser qp = new QueryParser(BODY_FIELD, analyzerNoShingle);       // Basic Query Parser creates
                     BooleanQuery.setMaxClauseCount(65536);
                     startQueryParse = System.currentTimeMillis();
