@@ -84,7 +84,7 @@ public class Constants {
                 "some", "somebody", "somehow", "someone", "somethan", "something", "sometime", "sometimes",
                 "somewhat", "somewhere", "soon", "sorry", "specifically", "specified", "specify", "specifying",
                 "still", "stop", "strongly", "sub", "substantially", "successfully", "such", "sufficiently",
-                "suggest", "sup", "sure"
+                "suggest", "sup", "sure","you", "your","yours"
         );
 
         final CharArraySet stopSet = new CharArraySet(stopWords, false);
