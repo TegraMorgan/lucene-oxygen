@@ -51,8 +51,8 @@ import utils.QueryToLucene;
 public class OxygenMain {
 
     private static final String PATH_TO_JSON = "../nfL6.json";
-    private static final String PATH_TO_INDEX1 = "./oxygen/index";
-    private static final String PATH_TO_INDEX2 = "./oxygen/shingle_index";
+    private static final String PATH_TO_INDEX1 = "./indexes/index";
+    private static final String PATH_TO_INDEX2 = "./indexes/shingle_index";
     private static final String BODY_FIELD = "body";
     private static final String CATEGORY_FIELD = "main_category";
     private static final FieldType termVector_t;
