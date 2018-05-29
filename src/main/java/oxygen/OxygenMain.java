@@ -167,7 +167,7 @@ public class OxygenMain {
                         final QueryParser qp = new QueryParser(BODY_FIELD, analyzerNoShingle);       // Basic Query Parser creates
                         BooleanQuery.setMaxClauseCount(65536);
                         startQueryParse = System.currentTimeMillis();
-                        final Query q = qp.parse(queryString);                              // Boolean Query
+                        final Query q = qp.parse(preFilteredQuery);                              // Boolean Query
                         endQueryParse = System.currentTimeMillis();
 
                         overallTime += (endQueryParse - startQueryParse) / 1000;

@@ -31,9 +31,9 @@ public class OxygenPreFilter {
 
 
     public static String filter(String query, List<String> stopWords) {
-        String filtered = "";
+        String filtered = query;
         for (String word: stopWords){
-            filtered = query.replaceAll("(?i)" + word, "").trim();
+            filtered = filtered.replaceAll("(?i)" + "\\b" + word + "\\b", "").trim();
         }
         return filtered;
     }
