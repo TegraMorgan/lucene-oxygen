@@ -43,8 +43,10 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 import static oxygen.Utils.format;
+import static utils.QueryToLucene.symbolRemoval;
 
 import utils.CmdParser;
+import utils.QueryToLucene;
 
 public class OxygenMain {
 
@@ -118,7 +120,7 @@ public class OxygenMain {
             //Why in the world do I have to press 1 to get English when the official national language IS English?
             String queryString = "How to eat chicken?";//do I have to press 1 to get English when the official national language IS English?";
             String preFilteredQuery = OxygenPreFilter.filter(queryString, Constants.getStopWords());
-            preFilteredQuery = OxygenAnalyzerWithShingles.symbolRemoval(preFilteredQuery);      // Making string lucene friendly
+            queryString = symbolRemoval(queryString);      // Making string lucene friendly
             try (DirectoryReader reader = DirectoryReader.open(dirShingle)) {
                 //logIndexInfo(reader);
 
