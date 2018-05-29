@@ -113,6 +113,7 @@ public class OxygenMain {
                     " If I become a Used Car Dealer, how do I go about buying a group (say 10) of cars from a new car dealer?",
                     "Why in the world do I have to press 1 to get English when the official national language \"IS\" English?",
                     "is it safe to put extra strength gold bond powder on my ball sack?"};
+            //String[] OxygenQueries ={"Burger food nice"};
 
             for (String queryString : OxygenQueries) {
 
@@ -130,11 +131,10 @@ public class OxygenMain {
 
                     overallTime += (endQueryParse - startQueryParse) / 1000;
 
-                    System.out.println("Original query: " + queryString);
-                    System.out.println("Pre-filtered query: " + preFilteredQuery);
-                    System.out.println("Indexed query: " + q);
-                    System.out.println();
-                    System.out.printf("Query parsed.\nTime elapsed : %d seconds\n", (endQueryParse - startQueryParse) / 1000);
+                    System.out.println("Original query: " + queryString + "  ");
+                    System.out.println("Pre-filtered query: " + preFilteredQuery + "  ");
+                    System.out.println("Indexed query: " + q + "  \n");
+                    System.out.printf("Query parsed.  \nTime elapsed : %d seconds\n  ", (endQueryParse - startQueryParse) / 1000);
 
                     final IndexSearcher searcher = new IndexSearcher(reader);
                     /* There is also a PassageSearcher */
@@ -146,10 +146,10 @@ public class OxygenMain {
 
                     overallTime += (endSearch - startSearch) / 1000;
                     if (td.scoreDocs.length > 0) {
-                        System.out.printf("Search finished.\nTime elapsed : %d seconds\n", (endSearch - startSearch) / 1000);
-                        System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTime);
+                        System.out.printf("Search finished.\nTime elapsed : %d seconds\n  ", (endSearch - startSearch) / 1000);
+                        System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n  ", overallTime);
 
-                        System.out.printf("\nSearch results:\n");
+                        System.out.printf("\nSearch results:  \n");
                         final FastVectorHighlighter highlighter = new FastVectorHighlighter();
                         final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
 
@@ -157,11 +157,10 @@ public class OxygenMain {
                             final String[] snippets =
                                     highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
                             final Document doc = searcher.doc(sd.doc);
-                            System.out.println(format("doc=%d, score=%.4f, text=%s snippet=%s", sd.doc, sd.score,
-                                    doc.get(BODY_FIELD), Arrays.stream(snippets).collect(Collectors.joining(" "))));
+                            System.out.println(format("doc=%d, score=%.4f, text=%s  ", sd.doc, sd.score, doc.get(BODY_FIELD)));
                         }
                     } else {
-                        System.out.println("Shingle search returned empty");
+                        System.out.println("Shingle search returned empty  ");
                         throw new OxygenNotFound();
                     }
                 } catch (OxygenNotFound e) {
@@ -175,11 +174,10 @@ public class OxygenMain {
 
                         overallTime += (endQueryParse - startQueryParse) / 1000;
 
-                        System.out.println("Original query: " + queryString);
-                        System.out.println("Pre-filtered query: " + preFilteredQuery);
-                        System.out.println("Indexed query: " + q);
-                        System.out.println();
-                        System.out.printf("Query parsed.\nTime elapsed : %d seconds\n", (endQueryParse - startQueryParse) / 1000);
+                        System.out.println("Original query: " + queryString + "  ");
+                        System.out.println("Pre-filtered query: " + preFilteredQuery + "  ");
+                        System.out.println("Indexed query: " + q + "  \n");
+                        System.out.printf("Query parsed.  \nTime elapsed : %d seconds  \n", (endQueryParse - startQueryParse) / 1000);
 
                         final IndexSearcher searcher = new IndexSearcher(reader);
                         /* There is also a PassageSearcher */
@@ -190,10 +188,10 @@ public class OxygenMain {
                         endSearch = System.currentTimeMillis();
 
                         overallTime += (endSearch - startSearch) / 1000;
-                        System.out.printf("Search finished.\nTime elapsed : %d seconds\n", (endSearch - startSearch) / 1000);
-                        System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTime);
+                        System.out.printf("Search finished.  \nTime elapsed : %d seconds  \n", (endSearch - startSearch) / 1000);
+                        System.out.printf("Total time on indexing, parsing query and searching : %d seconds  \n", overallTime);
 
-                        System.out.print("\nSearch results:\n");
+                        System.out.print("  \nSearch results:  \n");
                         final FastVectorHighlighter highlighter = new FastVectorHighlighter();
                         final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
 
@@ -201,8 +199,7 @@ public class OxygenMain {
                             final String[] snippets =
                                     highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
                             final Document doc = searcher.doc(sd.doc);
-                            System.out.println(format("doc=%d, score=%.4f, text=%s snippet=%s", sd.doc, sd.score,
-                                    doc.get(BODY_FIELD), Arrays.stream(snippets).collect(Collectors.joining(" "))));
+                            System.out.println(format("doc=%d, score=%.4f, text=%s  ", sd.doc, sd.score, doc.get(BODY_FIELD)));
                         }
                     }
                 }
