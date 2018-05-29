@@ -110,7 +110,9 @@ public class OxygenMain {
 
             String[] OxygenQueries = {"How do you tell if your computer has already gotton instant messenger downloaded on it?",
                     "What does it mean when a dog licks its own private?",
-                    " If I become a Used Car Dealer, how do I go about buying a group (say 10) of cars from a new car dealer?"};
+                    " If I become a Used Car Dealer, how do I go about buying a group (say 10) of cars from a new car dealer?",
+                    "Why in the world do I have to press 1 to get English when the official national language \"IS\" English?",
+                    "is it safe to put extra strength gold bond powder on my ball sack?"};
 
             for (String queryString : OxygenQueries) {
                 String preFilteredQuery = OxygenPreFilter.filter(queryString, Constants.getStopWords());
@@ -166,6 +168,7 @@ public class OxygenMain {
                                     doc.get(BODY_FIELD), Arrays.stream(snippets).collect(Collectors.joining(" "))));
                         }
                     } else {
+                        System.out.println("Shingle search returned empty");
                         throw new OxygenNotFound();
                     }
                 } catch (OxygenNotFound e) {
@@ -174,7 +177,7 @@ public class OxygenMain {
                         final QueryParser qp = new QueryParser(BODY_FIELD, analyzerNoShingle);       // Basic Query Parser creates
                         BooleanQuery.setMaxClauseCount(65536);
                         startQueryParse = System.currentTimeMillis();
-                        final Query q = qp.parse(queryString);                              // Boolean Query
+                        final Query q = qp.parse(preFilteredQuery);                              // Boolean Query
                         endQueryParse = System.currentTimeMillis();
 
                         overallTime += (endQueryParse - startQueryParse) / 1000;
