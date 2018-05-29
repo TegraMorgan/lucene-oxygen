@@ -113,8 +113,10 @@ public class OxygenMain {
                     " If I become a Used Car Dealer, how do I go about buying a group (say 10) of cars from a new car dealer?"};
 
             for (String queryString : OxygenQueries) {
+
+                queryString = symbolRemoval(queryString);      // Making string lucene friendly
                 String preFilteredQuery = OxygenPreFilter.filter(queryString, Constants.getStopWords());
-                preFilteredQuery = symbolRemoval(preFilteredQuery);      // Making string lucene friendly
+
                 try (DirectoryReader reader = DirectoryReader.open(dirShingle)) {
                     //logIndexInfo(reader);
 
@@ -125,15 +127,6 @@ public class OxygenMain {
                     endQueryParse = System.currentTimeMillis();
 
                     overallTime += (endQueryParse - startQueryParse) / 1000;
-
-                    // PhraseQuery should be added perhaps?
-                /* Viable classes are as follows:
-
-                PhraseQuery
-                TermQuery
-                BooleanQuery
-
-                */
 
                     System.out.println("Original query: " + queryString);
                     System.out.println("Pre-filtered query: " + preFilteredQuery);
@@ -180,6 +173,7 @@ public class OxygenMain {
                         overallTime += (endQueryParse - startQueryParse) / 1000;
 
                         System.out.println("Original query: " + queryString);
+                        System.out.println("Pre-filtered query: " + preFilteredQuery);
                         System.out.println("Indexed query: " + q);
                         System.out.println();
                         System.out.printf("Query parsed.\nTime elapsed : %d seconds\n", (endQueryParse - startQueryParse) / 1000);

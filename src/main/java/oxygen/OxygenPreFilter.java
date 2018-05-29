@@ -29,9 +29,12 @@ import java.util.List;
 
 public class OxygenPreFilter {
 
-    private static final String splitSet = "\\W";
 
     public static String filter(String query, List<String> stopWords) {
-        return query.replaceAll("(?i)" + (query.split(splitSet)[0]), "").trim();
+        String filtered = "";
+        for (String word: stopWords){
+            filtered = query.replaceAll("(?i)" + word, "").trim();
+        }
+        return filtered;
     }
 }
