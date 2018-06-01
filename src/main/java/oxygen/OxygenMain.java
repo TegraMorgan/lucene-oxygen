@@ -141,7 +141,7 @@ public class OxygenMain {
                     QuestionAnswered q = new QuestionAnswered(Long.parseLong(queryId), answers);
                     allQuestionsAnswered.add(q);
                 }
-
+                createAnswersJson(allQuestionsAnswered);
             }
         }
     }
