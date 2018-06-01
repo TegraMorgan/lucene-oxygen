@@ -18,6 +18,8 @@ package oxygen;
 
 import com.google.common.collect.Iterables;
 import com.google.gson.Gson;
+import com.google.gson.JsonArray;
+import com.google.gson.reflect.TypeToken;
 import org.apache.lucene.analysis.Analyzer;
 
 
@@ -29,6 +31,7 @@ import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.*;
 import org.apache.lucene.index.IndexWriterConfig.OpenMode;
+import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.*;
 import org.apache.lucene.search.vectorhighlight.FastVectorHighlighter;
@@ -40,19 +43,21 @@ import org.apache.lucene.search.similarities.*;
 
 import java.io.*;
 import java.util.*;
-import java.util.stream.Collectors;
+
 
 import static oxygen.Utils.format;
 import static utils.QueryToLucene.symbolRemoval;
 
 import utils.CmdParser;
-import utils.QueryToLucene;
 
 public class OxygenMain {
 
     private static final String PATH_TO_JSON = "../nfL6.json";
     private static final String PATH_TO_INDEX1 = "./indexes/index";
     private static final String PATH_TO_INDEX2 = "./indexes/shingle_index";
+    private static final String PATH_TO_QUESTIONS = "./test/exampleTestQuestions.txt";
+    private static final String PATH_TO_ANSWERS_OUTPUT = "./test/out/answers.json";
+
     private static final String BODY_FIELD = "body";
     private static final String CATEGORY_FIELD = "main_category";
     private static final FieldType termVector_t;
@@ -96,85 +101,47 @@ public class OxygenMain {
         }
         try (Directory dirShingle = FSDirectory.open(new File(PATH_TO_INDEX1).toPath());
              Directory dirNoShingle = FSDirectory.open(new File(PATH_TO_INDEX2).toPath());
-             Analyzer analyzerShingle = new OxygenAnalyzerWithShingles();
-             Analyzer analyzerNoShingle = new OxygenAnalyzerBase()) {
+             OxygenAnalyzerWithShingles analyzerShingle = new OxygenAnalyzerWithShingles();
+             OxygenAnalyzerBase analyzerNoShingle = new OxygenAnalyzerBase()) {
             if (parser.hasIndexingOption()) {
                 startIndexing = System.currentTimeMillis();
                 indexCorpus(dirShingle, PATH_TO_JSON, analyzerShingle, similarity);
                 indexCorpus(dirNoShingle, PATH_TO_JSON, analyzerNoShingle, similarity);
                 endIndexing = System.currentTimeMillis();
-                overallTime += (endIndexing - startIndexing) / 1000;
+                overallTime += endIndexing - startIndexing;
                 System.out.printf("Index ready.\nTime elapsed : %d seconds\n", (endIndexing - startIndexing) / 1000);
                 // Search
             }
+            try (BufferedReader br = new BufferedReader(new FileReader(PATH_TO_QUESTIONS))) {
+                List<QuestionAnswered> allQuestionsAnswered = new ArrayList<>();
+                for (String line; (line = br.readLine()) != null; ) {
+                    String[] parts = line.split(" ");
+                    String queryId = parts[0];
+                    List<String> list = Arrays.asList(parts);
+                    list.remove(0);
+                    String queryString = String.join(" ", list);
 
-            String[] OxygenQueries = {"How do you tell if your computer has already gotton instant messenger downloaded on it?",
-                    "What does it mean when a dog licks its own private?",
-                    " If I become a Used Car Dealer, how do I go about buying a group (say 10) of cars from a new car dealer?",
-                    "Why in the world do I have to press 1 to get English when the official national language \"IS\" English?",
-                    "is it safe to put extra strength gold bond powder on my ball sack?"};
-            //String[] OxygenQueries ={"Burger food nice"};
+                    queryString = symbolRemoval(queryString);      // Making string lucene friendly
+                    String preFilteredQuery = OxygenPreFilter.filter(queryString, Constants.getStopWords());
 
-            for (String queryString : OxygenQueries) {
+                    List<Answer> answers = new ArrayList<>(0);
+                    try (DirectoryReader reader = DirectoryReader.open(dirShingle)) {
 
-                queryString = symbolRemoval(queryString);      // Making string lucene friendly
-                String preFilteredQuery = OxygenPreFilter.filter(queryString, Constants.getStopWords());
+                        answers = search(reader, queryString, preFilteredQuery, analyzerShingle);
 
-                try (DirectoryReader reader = DirectoryReader.open(dirShingle)) {
-                    //logIndexInfo(reader);
+                    } catch (OxygenNotFound withShinglesException) {
+                        try (DirectoryReader reader = DirectoryReader.open(dirNoShingle)) {
 
-                    final QueryParser qp = new QueryParser(BODY_FIELD, analyzerShingle);     // Basic Query Parser creates
-                    BooleanQuery.setMaxClauseCount(65536);
-                    startQueryParse = System.currentTimeMillis();
-                    final Query q = qp.parse(preFilteredQuery);                              // Boolean Query
-                    endQueryParse = System.currentTimeMillis();
+                            answers = search(reader, queryString, preFilteredQuery, analyzerNoShingle);
 
-                    overallTime += (endQueryParse - startQueryParse) / 1000;
+                        } catch (OxygenNotFound withoutShinglesException) {
 
-                    printQueryInfo(queryString, preFilteredQuery, q, endQueryParse, startQueryParse);
-
-                    final IndexSearcher searcher = new IndexSearcher(reader);
-                    /* There is also a PassageSearcher */
-                    searcher.setSimilarity(similarity);
-
-                    startSearch = System.currentTimeMillis();
-                    final TopDocs td = searcher.search(q, 10);
-                    endSearch = System.currentTimeMillis();
-
-                    overallTime += endSearch - startSearch;
-
-                    if (td.scoreDocs.length > 0) {
-                        printSearchResults(td, q,reader, searcher, endSearch - startSearch, overallTime);
-                    } else {
-                        System.out.println("Shingle search returned empty  ");
-                        throw new OxygenNotFound();
+                        }
                     }
-
-                } catch (OxygenNotFound e) {
-                    try (DirectoryReader reader = DirectoryReader.open(dirNoShingle)) {
-
-                        final QueryParser qp = new QueryParser(BODY_FIELD, analyzerNoShingle);   // Basic Query Parser creates
-                        BooleanQuery.setMaxClauseCount(65536);
-                        startQueryParse = System.currentTimeMillis();
-                        final Query q = qp.parse(preFilteredQuery);                              // Boolean Query
-                        endQueryParse = System.currentTimeMillis();
-
-                        overallTime += (endQueryParse - startQueryParse) / 1000;
-
-                        printQueryInfo(queryString, preFilteredQuery, q, endQueryParse, startQueryParse);
-
-                        final IndexSearcher searcher = new IndexSearcher(reader);
-                        /* There is also a PassageSearcher */
-                        searcher.setSimilarity(similarity);
-
-                        startSearch = System.currentTimeMillis();
-                        final TopDocs td = searcher.search(q, 10);
-                        endSearch = System.currentTimeMillis();
-
-                        overallTime += endSearch - startSearch;
-                        printSearchResults(td, q,reader, searcher, endSearch - startSearch, overallTime);
-                    }
+                    QuestionAnswered q = new QuestionAnswered(Long.parseLong(queryId), answers);
+                    allQuestionsAnswered.add(q);
                 }
+
             }
         }
     }
@@ -198,9 +165,9 @@ public class OxygenMain {
     private static void indexCorpus(Directory dir, String jsonPath, Analyzer analyzer, Similarity similarity) {
         try {
             BufferedReader br = new BufferedReader(new FileReader(jsonPath));
-            List<Question> questions = Arrays.asList(new Gson().fromJson(br, Question[].class));
+            List<BestAnswersCollection> questions = Arrays.asList(new Gson().fromJson(br, BestAnswersCollection[].class));
 
-            List<String> allAnswers = new ArrayList<String>();
+            List<String> allAnswers = new ArrayList<>();
             for (Integer i = 0; i < questions.size(); ++i) {
                 allAnswers.addAll(questions.get(i).nbestanswers);
             }
@@ -220,6 +187,69 @@ public class OxygenMain {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    private static List<Answer> search(DirectoryReader reader, String queryString, String preFilteredQuery,
+                                       OxygenAnalyzerBase analyzer) throws IOException, ParseException, OxygenNotFound {
+        final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);     // Basic Query Parser creates
+        BooleanQuery.setMaxClauseCount(65536);
+        startQueryParse = System.currentTimeMillis();
+        final Query q = qp.parse(preFilteredQuery);                       // Boolean Query
+        endQueryParse = System.currentTimeMillis();
+
+        overallTime += endQueryParse - startQueryParse;
+
+        printQueryInfo(queryString, preFilteredQuery, q, endQueryParse, startQueryParse);
+
+        final IndexSearcher searcher = new IndexSearcher(reader);
+        /* There is also a PassageSearcher */
+        searcher.setSimilarity(similarity);
+
+        startSearch = System.currentTimeMillis();
+
+        final TopDocs topDocs = searcher.search(q, 10);
+        endSearch = System.currentTimeMillis();
+
+        overallTime += endSearch - startSearch;
+
+        if (topDocs.scoreDocs.length > 0) {
+            printSearchResults(topDocs, q, reader, searcher, endSearch - startSearch, overallTime);
+            List<Answer> answers = createAnswersArray(searcher, q, topDocs);
+            return answers;
+        } else {
+            System.out.printf("Search: %s not succeeded.\n", analyzer.getShingleInfo());
+            throw new OxygenNotFound();
+        }
+    }
+
+    private static List<Answer> createAnswersArray(IndexSearcher searcher, Query q, TopDocs topDocs)
+            throws IOException {
+
+        List<Answer> list = new ArrayList<>();
+
+        for (final ScoreDoc sd : topDocs.scoreDocs) {
+            list.add(new Answer(searcher.doc(sd.doc).get(BODY_FIELD), sd.score));
+        }
+        return list;
+    }
+
+    private static void createAnswersJson(List<QuestionAnswered> qa) throws IOException {
+        //TODO to check
+        JsonArray json = (JsonArray) new Gson().toJsonTree(qa, new TypeToken<List<QuestionAnswered>>(){}.getType());
+
+        try {
+            File file=new File(PATH_TO_ANSWERS_OUTPUT);
+            file.createNewFile();
+            FileWriter fileWriter = new FileWriter(file);
+
+            fileWriter.write(json.toString());
+            fileWriter.flush();
+            fileWriter.close();
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
     }
 
     @SuppressWarnings("unused")
@@ -243,20 +273,20 @@ public class OxygenMain {
     private static void printSearchResults(TopDocs td, Query q, DirectoryReader reader, IndexSearcher searcher,
                                            long searchTimeMillis, long overallTimeMillis) throws IOException {
 
-            System.out.printf("Search finished.\nTime elapsed : %d seconds\n", searchTimeMillis / 1000);
-            System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTimeMillis / 1000);
+        System.out.printf("Search finished.\nTime elapsed : %d seconds\n", searchTimeMillis / 1000);
+        System.out.printf("Total time on indexing, parsing query and searching : %d seconds\n", overallTimeMillis / 1000);
 
-            System.out.print("\nSearch results:\n");
-            final FastVectorHighlighter highlighter = new FastVectorHighlighter();
-            final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
+        System.out.print("\nSearch results:\n");
+        final FastVectorHighlighter highlighter = new FastVectorHighlighter();
+        final FieldQuery fieldQuery = highlighter.getFieldQuery(q, reader);
 
-            for (final ScoreDoc sd : td.scoreDocs) {
-                final String[] snippets =
-                        highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
-                final Document doc = searcher.doc(sd.doc);
-                System.out.println(format("doc=%d, score=%.4f, text=%s", sd.doc, sd.score, doc.get(BODY_FIELD)));
-            }
-            System.out.println();
+        for (final ScoreDoc sd : td.scoreDocs) {
+            final String[] snippets =
+                    highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
+            final Document doc = searcher.doc(sd.doc);
+            System.out.println(format("doc=%d, score=%.4f, text=%s", sd.doc, sd.score, doc.get(BODY_FIELD)));
+        }
+        System.out.println();
     }
 
     @SuppressWarnings("unused")

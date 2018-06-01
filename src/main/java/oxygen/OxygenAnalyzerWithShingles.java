@@ -37,4 +37,7 @@ public class OxygenAnalyzerWithShingles extends OxygenAnalyzerBase {
         return new TokenStreamComponents(source, result);
     }
 
+    public static String getShingleInfo(){
+        return new String("with shingles");
+    }
 }

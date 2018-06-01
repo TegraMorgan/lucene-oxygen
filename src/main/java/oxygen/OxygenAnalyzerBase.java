@@ -102,4 +102,8 @@ public class OxygenAnalyzerBase extends StopwordAnalyzerBase {
         result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
         return new TokenStreamComponents(source, result);
     }
+
+    public static String getShingleInfo(){
+        return new String("without shingles");
+    }
 }
