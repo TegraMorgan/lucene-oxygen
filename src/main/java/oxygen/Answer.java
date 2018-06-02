@@ -27,8 +27,12 @@ public class Answer {
     private String answer;
     private Float score;
 
-    Answer(String answerText, Float answerScore)  {
+    Answer(String answerText, Float answerScore) {
         answer = answerText;
         score = answerScore;
+    }
+
+    public String toString() {
+        return new String(score.toString()  + " " + answer.toString()+ "\n");
     }
 }

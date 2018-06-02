@@ -23,14 +23,21 @@
 /* -------------------------------------------------------------------------- */
 package oxygen;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class QuestionAnswered {
     private Long id;
     private List<Answer> answers;
 
-    QuestionAnswered(Long questionId, List<Answer> answersArray)  {
-        id = questionId;
+    QuestionAnswered(Long questionId, List<Answer> answersArray) {
+        id = new Long(questionId);
+        answers = new ArrayList<>();
         answers.addAll(answersArray);
+    }
+
+    @Override
+    public String toString() {
+        return new String(id.toString() + answers.toString());
     }
 }

@@ -115,9 +115,15 @@ public class OxygenMain {
             try (BufferedReader br = new BufferedReader(new FileReader(PATH_TO_QUESTIONS))) {
                 List<QuestionAnswered> allQuestionsAnswered = new ArrayList<>();
                 for (String line; (line = br.readLine()) != null; ) {
-                    String[] parts = line.split(" ");
-                    String queryId = parts[0];
-                    List<String> list = Arrays.asList(parts);
+
+                    System.out.println("The line that was read from file: " + line);
+
+                    String[] parts = line.split("\\s+");
+
+                    String queryId = new String(parts[0]);
+
+                    List<String> list = new ArrayList(Arrays.asList(parts));
+
                     list.remove(0);
                     String queryString = String.join(" ", list);
 
@@ -138,6 +144,19 @@ public class OxygenMain {
 
                         }
                     }
+
+                    System.out.println("PRINTING answers BEGIN");
+                    System.out.println(answers);
+                    System.out.println("PRINTING answers END");
+                    System.out.println("PRINTING queryId BEGIN");
+                    System.out.println(queryId);
+                    System.out.println("PRINTING queryId END");
+
+                    System.out.println("PRINTING queryId BEGIN");
+                    System.out.println(Long.parseLong(queryId));
+                    System.out.println("PRINTING queryId END");
+
+
                     QuestionAnswered q = new QuestionAnswered(Long.parseLong(queryId), answers);
                     allQuestionsAnswered.add(q);
                 }
@@ -235,10 +254,11 @@ public class OxygenMain {
 
     private static void createAnswersJson(List<QuestionAnswered> qa) throws IOException {
         //TODO to check
-        JsonArray json = (JsonArray) new Gson().toJsonTree(qa, new TypeToken<List<QuestionAnswered>>(){}.getType());
+        JsonArray json = (JsonArray) new Gson().toJsonTree(qa, new TypeToken<List<QuestionAnswered>>() {
+        }.getType());
 
         try {
-            File file=new File(PATH_TO_ANSWERS_OUTPUT);
+            File file = new File(PATH_TO_ANSWERS_OUTPUT);
             file.createNewFile();
             FileWriter fileWriter = new FileWriter(file);
 
