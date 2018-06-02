@@ -145,18 +145,6 @@ public class OxygenMain {
                         }
                     }
 
-                    System.out.println("PRINTING answers BEGIN");
-                    System.out.println(answers);
-                    System.out.println("PRINTING answers END");
-                    System.out.println("PRINTING queryId BEGIN");
-                    System.out.println(queryId);
-                    System.out.println("PRINTING queryId END");
-
-                    System.out.println("PRINTING queryId BEGIN");
-                    System.out.println(Long.parseLong(queryId));
-                    System.out.println("PRINTING queryId END");
-
-
                     QuestionAnswered q = new QuestionAnswered(Long.parseLong(queryId), answers);
                     allQuestionsAnswered.add(q);
                 }
