@@ -103,6 +103,7 @@ public class OxygenMain {
         try {
             if (parser.hasCreateQuiestionsOption()) {
                 createQuestionsJson(PATH_TO_JSON);
+                //System.exit(0);
             }
         } catch (Exception e) {
             System.out.println("Cannot create " + PATH_TO_QUESTIONS + ". " + e.getMessage());
@@ -273,7 +274,7 @@ public class OxygenMain {
             file.createNewFile();
             FileWriter fileWriter = new FileWriter(file);
             for (OriginalQuiestionObject q : data) {
-                fileWriter.write(q.id + " " + q.question + "\n");
+                fileWriter.write(q.id + "\t" + q.question + "\n");
             }
             fileWriter.flush();
             fileWriter.close();
