@@ -17,9 +17,9 @@
 package oxygen;
 
 import com.google.common.collect.Iterables;
-import com.google.gson.Gson;
-import com.google.gson.JsonArray;
+import com.google.gson.*;
 import com.google.gson.reflect.TypeToken;
+import com.google.gson.stream.JsonReader;
 import org.apache.lucene.analysis.Analyzer;
 
 
@@ -42,6 +42,7 @@ import org.apache.lucene.search.similarities.*;
 
 
 import java.io.*;
+import java.lang.reflect.Type;
 import java.util.*;
 
 
@@ -55,7 +56,7 @@ public class OxygenMain {
     private static final String PATH_TO_JSON = "../nfL6.json";
     private static final String PATH_TO_INDEX1 = "./indexes/index";
     private static final String PATH_TO_INDEX2 = "./indexes/shingle_index";
-    private static final String PATH_TO_QUESTIONS = "./test/exampleTestQuestions.txt";
+    private static final String PATH_TO_QUESTIONS = "./test/questions.txt";
     private static final String PATH_TO_ANSWERS_OUTPUT = "./test/out/answers.json";
 
     private static final String BODY_FIELD = "body";
@@ -99,6 +100,14 @@ public class OxygenMain {
         } catch (Exception e) {
             System.exit(1);
         }
+        try {
+            if (parser.hasCreateQuiestionsOption()) {
+                createQuestionsJson(PATH_TO_JSON);
+            }
+        } catch (Exception e) {
+            System.out.println("Cannot create " + PATH_TO_QUESTIONS + ". " + e.getMessage());
+        }
+
         try (Directory dirShingle = FSDirectory.open(new File(PATH_TO_INDEX1).toPath());
              Directory dirNoShingle = FSDirectory.open(new File(PATH_TO_INDEX2).toPath());
              OxygenAnalyzerWithShingles analyzerShingle = new OxygenAnalyzerWithShingles();
@@ -114,6 +123,12 @@ public class OxygenMain {
             }
             try (BufferedReader br = new BufferedReader(new FileReader(PATH_TO_QUESTIONS))) {
                 List<QuestionAnswered> allQuestionsAnswered = new ArrayList<>();
+
+                File file = new File(PATH_TO_ANSWERS_OUTPUT);
+                file.createNewFile();
+                FileWriter fileWriter = new FileWriter(file);
+                fileWriter.write("[    \n");
+
                 for (String line; (line = br.readLine()) != null; ) {
 
                     System.out.println("The line that was read from file: " + line);
@@ -145,20 +160,15 @@ public class OxygenMain {
                         }
                     }
 
-                    QuestionAnswered q = new QuestionAnswered(Long.parseLong(queryId), answers);
+                    QuestionAnswered q = new QuestionAnswered(queryId, answers);
                     allQuestionsAnswered.add(q);
+                    appendToAnswersJson(q, fileWriter);
                 }
-                createAnswersJson(allQuestionsAnswered);
+                fileWriter.write("\n]\n");
+                fileWriter.flush();
+                fileWriter.close();
             }
         }
-    }
-
-    private static Directory newDirectory() throws IOException {
-        return FSDirectory.open(new File(PATH_TO_INDEX1).toPath());
-    }
-
-    private static Analyzer newAnalyzer() {
-        return new OxygenAnalyzerWithShingles();
     }
 
     private static IndexWriterConfig newIndexWriterConfig(Analyzer analyzer, Similarity similarity) {
@@ -189,8 +199,6 @@ public class OxygenMain {
                     writer.addDocument(doc);
                 }
             }
-            //printCorpus(allAnswers);
-
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -220,7 +228,7 @@ public class OxygenMain {
         overallTime += endSearch - startSearch;
 
         if (topDocs.scoreDocs.length > 0) {
-            printSearchResults(topDocs, q, reader, searcher, endSearch - startSearch, overallTime);
+            //printSearchResults(topDocs, q, reader, searcher, endSearch - startSearch, overallTime);
             List<Answer> answers = createAnswersArray(searcher, q, topDocs);
             return answers;
         } else {
@@ -235,29 +243,44 @@ public class OxygenMain {
         List<Answer> list = new ArrayList<>();
 
         for (final ScoreDoc sd : topDocs.scoreDocs) {
-            list.add(new Answer(searcher.doc(sd.doc).get(BODY_FIELD), sd.score));
+            list.add(new Answer(searcher.doc(sd.doc).get(BODY_FIELD), new Float(sd.score).toString()));
         }
         return list;
     }
 
-    private static void createAnswersJson(List<QuestionAnswered> qa) throws IOException {
-        //TODO to check
-        JsonArray json = (JsonArray) new Gson().toJsonTree(qa, new TypeToken<List<QuestionAnswered>>() {
-        }.getType());
+
+    private static void appendToAnswersJson(QuestionAnswered q, FileWriter writer) {
 
         try {
-            File file = new File(PATH_TO_ANSWERS_OUTPUT);
+            writer.write(q.toString());
+            writer.write(",");
+            writer.flush();
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static void createQuestionsJson(String filename) throws IOException {
+
+        Gson gson = new Gson();
+        JsonReader reader = new JsonReader(new FileReader(filename));
+        List<OriginalQuiestionObject> data = gson.fromJson(reader, new TypeToken<List<OriginalQuiestionObject>>() {
+        }.getType()); // contains the whole reviews list
+
+        try {
+            File file = new File(PATH_TO_QUESTIONS);
             file.createNewFile();
             FileWriter fileWriter = new FileWriter(file);
-
-            fileWriter.write(json.toString());
+            for (OriginalQuiestionObject q : data) {
+                fileWriter.write(q.id + " " + q.question + "\n");
+            }
             fileWriter.flush();
             fileWriter.close();
 
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
     @SuppressWarnings("unused")
@@ -293,43 +316,6 @@ public class OxygenMain {
                     highlighter.getBestFragments(fieldQuery, reader, sd.doc, BODY_FIELD, 100, 3);
             final Document doc = searcher.doc(sd.doc);
             System.out.println(format("doc=%d, score=%.4f, text=%s", sd.doc, sd.score, doc.get(BODY_FIELD)));
-        }
-        System.out.println();
-    }
-
-    @SuppressWarnings("unused")
-    private static void logIndexInfo(IndexReader reader) throws IOException {
-        System.out.println("Index info:");
-        System.out.println("----------");
-        System.out.println("Docs: " + reader.numDocs());
-        final Fields fields = MultiFields.getFields(reader);
-        System.out.println("Fields: " + Iterables.toString(fields));
-        System.out.println("Terms:");
-        for (final String field : fields) {
-            final Terms terms = MultiFields.getTerms(reader, field);
-            System.out.println(format("  %s (sumTTF=%d sumDF=%d)", field, terms.getSumTotalTermFreq(),
-                    terms.getSumDocFreq()));
-            final TermsEnum termsEnum = terms.iterator();
-            final StringBuilder sb = new StringBuilder();
-            while (termsEnum.next() != null) {
-                sb.append("    ").append(termsEnum.term().utf8ToString());
-                sb.append(" (").append(termsEnum.docFreq()).append(")");
-                sb.append("  docs=");
-                final PostingsEnum postings = termsEnum.postings(null, PostingsEnum.ALL);
-                while (postings.nextDoc() != DocIdSetIterator.NO_MORE_DOCS) {
-                    sb.append("{id=").append(postings.docID()).append(',');
-                    sb.append("freq=").append(postings.freq());
-                    sb.append(",pos=[");
-                    for (int i = 0; i < postings.freq(); i++) {
-                        final int pos = postings.nextPosition();
-                        sb.append(pos).append(',');
-                    }
-                    sb.append(']');
-                    sb.append("} ");
-                }
-                System.out.println(sb);
-                sb.setLength(0);
-            }
         }
         System.out.println();
     }

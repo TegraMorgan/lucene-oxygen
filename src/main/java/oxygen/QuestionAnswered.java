@@ -23,21 +23,32 @@
 /* -------------------------------------------------------------------------- */
 package oxygen;
 
+import com.google.gson.*;
+import com.google.gson.reflect.TypeToken;
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class QuestionAnswered {
-    private Long id;
+    private String  id;
     private List<Answer> answers;
 
-    QuestionAnswered(Long questionId, List<Answer> answersArray) {
-        id = new Long(questionId);
+    QuestionAnswered(String  questionId, List<Answer> answersArray) {
+        id = new String (questionId);
         answers = new ArrayList<>();
         answers.addAll(answersArray);
     }
 
     @Override
     public String toString() {
-        return new String(id.toString() + answers.toString());
+        JsonElement json = new Gson().toJsonTree(this, new TypeToken<QuestionAnswered>() {
+        }.getType());
+
+        String jsonNoIndentation = json.toString();
+
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        JsonParser jp = new JsonParser();
+        JsonElement je = jp.parse(jsonNoIndentation);
+        return gson.toJson(je);
     }
 }

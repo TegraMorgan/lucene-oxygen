@@ -30,9 +30,13 @@ public class CmdParser {
     Options options = new Options();
 
     try {
-      Option address = new Option("i", "index", false, "Reindex documents");
-      address.setRequired(false);
-      options.addOption(address);
+      Option index = new Option("i", "index", false, "Reindex documents");
+      index.setRequired(false);
+      options.addOption(index);
+
+      Option questions = new Option("q", "create-questions", false, "Create questions file from corpus json file");
+        questions.setRequired(false);
+      options.addOption(questions);
 
       CommandLineParser parser = new DefaultParser();
       cmd = parser.parse(options, args);
@@ -48,4 +52,7 @@ public class CmdParser {
   public boolean hasIndexingOption() {
     return cmd.hasOption("index");
   }
+  public boolean hasCreateQuiestionsOption() {
+        return cmd.hasOption("create-questions");
+    }
 }

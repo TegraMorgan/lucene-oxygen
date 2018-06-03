@@ -56,6 +56,6 @@ meanAcc = sumAccuracy / len(questions);
 meanMRR = sumMRR / len(questions);
 print("Accuracy: {}".format(meanAcc))
 print("MRR@5: {}".format(meanMRR))
-		
-			
-	
+
+
+

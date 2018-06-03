@@ -25,14 +25,14 @@ package oxygen;
 
 public class Answer {
     private String answer;
-    private Float score;
+    private String score;
 
-    Answer(String answerText, Float answerScore) {
+    Answer(String answerText, String answerScore) {
         answer = answerText;
         score = answerScore;
     }
 
     public String toString() {
-        return new String(score.toString()  + " " + answer.toString()+ "\n");
+        return new String(score  + " " + answer+ "\n");
     }
 }
