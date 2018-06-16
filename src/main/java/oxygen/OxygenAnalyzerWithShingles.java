@@ -2,6 +2,7 @@ package oxygen;
 
 import org.apache.lucene.analysis.*;
 import org.apache.lucene.analysis.en.EnglishPossessiveFilter;
+import org.apache.lucene.analysis.en.KStemFilter;
 import org.apache.lucene.analysis.en.PorterStemFilter;
 import org.apache.lucene.analysis.miscellaneous.SetKeywordMarkerFilter;
 import org.apache.lucene.analysis.pattern.PatternReplaceFilter;
