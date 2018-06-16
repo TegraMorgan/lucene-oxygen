@@ -56,8 +56,8 @@ public class OxygenMain {
     private static final String PATH_TO_JSON = "../nfL6.json";
     private static final String PATH_TO_INDEX1 = "./indexes/index";
     private static final String PATH_TO_INDEX2 = "./indexes/shingle_index";
-    private static final String PATH_TO_QUESTIONS = "./test/questions2.txt";
-    private static final String PATH_TO_ANSWERS_OUTPUT = "./test/out/answers2.json";
+    private static final String PATH_TO_QUESTIONS = "./test/questions.txt";
+    private static final String PATH_TO_ANSWERS_OUTPUT = "./test/out/answers.json";
 
     private static final String BODY_FIELD = "body";
     private static final String CATEGORY_FIELD = "main_category";
@@ -82,9 +82,10 @@ public class OxygenMain {
         //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity()};
         //similarities = new Similarity[] {new BooleanSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
         //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
+        //similarities = new Similarity[]{new OxygenCustomSimilarity(), new LMDirichletSimilarity(), new LMJelinekMercerSimilarity(0.3f)};
 
+        similarities = new Similarity[]{new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.4f)};
 
-        similarities = new Similarity[]{new OxygenCustomSimilarity(), new LMDirichletSimilarity(), new LMJelinekMercerSimilarity(0.3f)};
         similarity = new MultiSimilarity(similarities);
         termVector_t = new FieldType(TextField.TYPE_STORED);
         termVector_t.setStoreTermVectors(true);

@@ -32,9 +32,7 @@ public class OxygenAnalyzerWithShingles extends OxygenAnalyzerBase {
 
         result = new ShingleFilter(result);                 // min shingle is by default 2
         ((ShingleFilter) result).setOutputUnigrams(false);
-        result = new KStemFilter(result);
-
-        //result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
+        result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
 
 
         return new TokenStreamComponents(source, result);

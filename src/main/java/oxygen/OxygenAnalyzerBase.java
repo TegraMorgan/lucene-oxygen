@@ -100,8 +100,7 @@ public class OxygenAnalyzerBase extends StopwordAnalyzerBase {
         if (!stemExclusionSet.isEmpty()) {
             result = new SetKeywordMarkerFilter(result, stemExclusionSet); // Stemming exclusions
         }
-        result = new KStemFilter(result);                     // alternative stemmer
-        //result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
+        result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
         return new TokenStreamComponents(source, result);
     }
 
