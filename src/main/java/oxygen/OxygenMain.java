@@ -101,9 +101,9 @@ public class OxygenMain {
             }
             Collections.sort(sizes);
             if (sizes.size() % 2 == 1) {
-                threshold = 1 - (1 / sizes.get(sizes.size() / 2));
+                threshold = 1.0f - (1.0f / sizes.get(sizes.size() / 2));
             } else {
-                threshold = 1 - (1 / ((sizes.get(sizes.size() / 2 - 1) + sizes.get(sizes.size() / 2)) / 2));
+                threshold = 1.0f - (1.0f / ((sizes.get(sizes.size() / 2 - 1) + sizes.get(sizes.size() / 2)) / 2));
             }
         } catch (Exception e) {
             threshold = 0.7f;
@@ -135,6 +135,8 @@ public class OxygenMain {
         } catch (Exception e) {
             System.out.println("Cannot create " + PATH_TO_QUESTIONS + ". " + e.getMessage());
         }
+
+        System.out.println("Threshold is: " + threshold);
 
         try (Directory dirShingle = FSDirectory.open(new File(PATH_TO_INDEX1).toPath());
              Directory dirNoShingle = FSDirectory.open(new File(PATH_TO_INDEX2).toPath());
