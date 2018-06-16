@@ -2,6 +2,7 @@ package oxygen;
 
 import org.apache.lucene.analysis.*;
 import org.apache.lucene.analysis.en.EnglishPossessiveFilter;
+import org.apache.lucene.analysis.en.KStemFilter;
 import org.apache.lucene.analysis.en.PorterStemFilter;
 import org.apache.lucene.analysis.miscellaneous.SetKeywordMarkerFilter;
 import org.apache.lucene.analysis.pattern.PatternReplaceFilter;
@@ -99,7 +100,8 @@ public class OxygenAnalyzerBase extends StopwordAnalyzerBase {
         if (!stemExclusionSet.isEmpty()) {
             result = new SetKeywordMarkerFilter(result, stemExclusionSet); // Stemming exclusions
         }
-        result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
+        result = new KStemFilter(result);                     // alternative stemmer
+        //result = new PorterStemFilter(result);              // Common algo, results are as good as any other filter
         return new TokenStreamComponents(source, result);
     }
 
