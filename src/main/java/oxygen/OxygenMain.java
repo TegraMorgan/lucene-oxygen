@@ -57,6 +57,7 @@ public class OxygenMain {
     private static final String PATH_TO_INDEX1 = "./indexes/index";
     private static final String PATH_TO_INDEX2 = "./indexes/shingle_index";
     private static final String PATH_TO_QUESTIONS = "./test/questions2.txt";
+    private static final String PATH_TO_QUESTIONS_MAIN = "./test/questions.txt";
     private static final String PATH_TO_LAMBDA = "./test/lambda.txt";
     private static final String PATH_TO_ANSWERS_OUTPUT = "./test/out/answers.json";
 
@@ -87,7 +88,7 @@ public class OxygenMain {
         //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
         //similarities = new Similarity[]{new OxygenCustomSimilarity(), new LMDirichletSimilarity(), new LMJelinekMercerSimilarity(0.3f)};
 
-        try (BufferedReader br = new BufferedReader(new FileReader(PATH_TO_QUESTIONS))) {
+        try (BufferedReader br = new BufferedReader(new FileReader(PATH_TO_QUESTIONS_MAIN))) {
 
             List<Integer> sizes = new ArrayList<>();
 
