@@ -84,7 +84,7 @@ public class OxygenMain {
         //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
 
 
-        similarities = new Similarity[]{new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
+        similarities = new Similarity[]{new OxygenCustomSimilarity(),new LMJelinekMercerSimilarity(0.1f),new LMJelinekMercerSimilarity(0.4f),new LMJelinekMercerSimilarity(0.7f)};
         similarity = new MultiSimilarity(similarities);
         termVector_t = new FieldType(TextField.TYPE_STORED);
         termVector_t.setStoreTermVectors(true);
