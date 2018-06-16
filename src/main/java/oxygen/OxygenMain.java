@@ -56,7 +56,8 @@ public class OxygenMain {
     private static final String PATH_TO_JSON = "../nfL6.json";
     private static final String PATH_TO_INDEX1 = "./indexes/index";
     private static final String PATH_TO_INDEX2 = "./indexes/shingle_index";
-    private static final String PATH_TO_QUESTIONS = "./test/questions.txt";
+    private static final String PATH_TO_QUESTIONS = "./test/questions2.txt";
+    private static final String PATH_TO_LAMBDA = "./test/lambda.txt";
     private static final String PATH_TO_ANSWERS_OUTPUT = "./test/out/answers.json";
 
     private static final String BODY_FIELD = "body";
@@ -70,6 +71,8 @@ public class OxygenMain {
     private static long endQueryParse;
     private static long startSearch;
     private static long endSearch;
+    private static float threshold;
+
 
     private static Similarity[] similarities;
     private static MultiSimilarity similarity;
@@ -83,8 +86,31 @@ public class OxygenMain {
         //similarities = new Similarity[] {new BooleanSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
         //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
 
+        try (BufferedReader br = new BufferedReader(new FileReader(PATH_TO_QUESTIONS))) {
 
-        similarities = new Similarity[]{new OxygenCustomSimilarity(),new LMJelinekMercerSimilarity(0.1f),new LMJelinekMercerSimilarity(0.4f),new LMJelinekMercerSimilarity(0.7f)};
+            List<Integer> sizes = new ArrayList<>();
+
+            for (String line; (line = br.readLine()) != null; ) {
+
+                System.out.println("The line that was read from file: " + line);
+
+                String[] parts = line.split("\\s+");
+
+                sizes.add(parts.length - 1);
+            }
+            Collections.sort(sizes);
+            if (sizes.size() % 2 == 1) {
+                threshold = 1 - (1 / sizes.get(sizes.size() / 2));
+            } else {
+                threshold = 1 - (1 / ((sizes.get(sizes.size() / 2 - 1) + sizes.get(sizes.size() / 2)) / 2));
+            }
+        } catch (Exception e) {
+            threshold = 0.7f;
+            System.out.println("Cannot open " + PATH_TO_QUESTIONS + ". " + e.getMessage());
+        }
+
+
+        similarities = new Similarity[]{new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(threshold)};
         similarity = new MultiSimilarity(similarities);
         termVector_t = new FieldType(TextField.TYPE_STORED);
         termVector_t.setStoreTermVectors(true);
