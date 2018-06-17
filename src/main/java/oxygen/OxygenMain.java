@@ -56,10 +56,10 @@ public class OxygenMain {
     private static final String PATH_TO_JSON = "../nfL6.json";
     private static final String PATH_TO_INDEX1 = "./indexes/index";
     private static final String PATH_TO_INDEX2 = "./indexes/shingle_index";
-    private static final String PATH_TO_QUESTIONS = "./test/questions2.txt";
+    private static final String PATH_TO_QUESTIONS = "./test/questions1.txt";
     private static final String PATH_TO_QUESTIONS_MAIN = "./test/questions.txt";
-    private static final String PATH_TO_LAMBDA = "./test/lambda.txt";
     private static final String PATH_TO_ANSWERS_OUTPUT = "./test/out/answers.json";
+    private static final float DEFAULT_LAMBDA;
 
     private static final String BODY_FIELD = "body";
     private static final String CATEGORY_FIELD = "main_category";
@@ -72,47 +72,16 @@ public class OxygenMain {
     private static long endQueryParse;
     private static long startSearch;
     private static long endSearch;
-    private static float threshold;
-
+    private static float lambda;
 
     private static Similarity[] similarities;
     private static MultiSimilarity similarity;
 
     static {
-        //TODO check
-        //similarities = new Similarity[] {new BooleanSimilarity()};
-        //similarities = new Similarity[] {new OxygenCustomSimilarity()};
-        //similarities = new Similarity[] {new LMJelinekMercerSimilarity(0.7f)};
-        //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity()};
-        //similarities = new Similarity[] {new BooleanSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
-        //similarities = new Similarity[] {new BooleanSimilarity(), new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(0.7f)};
-        //similarities = new Similarity[]{new OxygenCustomSimilarity(), new LMDirichletSimilarity(), new LMJelinekMercerSimilarity(0.3f)};
 
-        try (BufferedReader br = new BufferedReader(new FileReader(PATH_TO_QUESTIONS_MAIN))) {
-
-            List<Integer> sizes = new ArrayList<>();
-
-            for (String line; (line = br.readLine()) != null; ) {
-
-                System.out.println("The line that was read from file: " + line);
-
-                String[] parts = line.split("\\s+");
-
-                sizes.add(parts.length - 1);
-            }
-            Collections.sort(sizes);
-            if (sizes.size() % 2 == 1) {
-                threshold = 1.0f - (1.0f / sizes.get(sizes.size() / 2));
-            } else {
-                threshold = 1.0f - (1.0f / ((sizes.get(sizes.size() / 2 - 1) + sizes.get(sizes.size() / 2)) / 2));
-            }
-        } catch (Exception e) {
-            threshold = 0.7f;
-            System.out.println("Cannot open " + PATH_TO_QUESTIONS + ". " + e.getMessage());
-        }
-
-
-        similarities = new Similarity[]{new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(threshold)};
+        DEFAULT_LAMBDA = 0.8888889f;
+        lambda = DEFAULT_LAMBDA;
+        similarities = new Similarity[]{new OxygenCustomSimilarity(), new LMJelinekMercerSimilarity(lambda)};
         similarity = new MultiSimilarity(similarities);
         termVector_t = new FieldType(TextField.TYPE_STORED);
         termVector_t.setStoreTermVectors(true);
@@ -120,6 +89,7 @@ public class OxygenMain {
         termVector_t.setStoreTermVectorOffsets(true);
         termVector_t.freeze();
     }
+
 
     public static void main(String[] args) throws Exception {
         CmdParser parser = new CmdParser();
@@ -133,11 +103,12 @@ public class OxygenMain {
                 createQuestionsJson(PATH_TO_JSON);
                 //System.exit(0);
             }
+            if (parser.hasCreateLambdaOption()) {
+                lambda = calculateLambda();
+            }
         } catch (Exception e) {
-            System.out.println("Cannot create " + PATH_TO_QUESTIONS + ". " + e.getMessage());
+            System.out.println("Exception caught:"  + e.getMessage());
         }
-
-        System.out.println("Threshold is: " + threshold);
 
         try (Directory dirShingle = FSDirectory.open(new File(PATH_TO_INDEX1).toPath());
              Directory dirNoShingle = FSDirectory.open(new File(PATH_TO_INDEX2).toPath());
@@ -312,6 +283,34 @@ public class OxygenMain {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    private static float calculateLambda() {
+
+        try (BufferedReader br = new BufferedReader(new FileReader(PATH_TO_QUESTIONS_MAIN))) {
+
+            List<Integer> sizes = new ArrayList<>();
+
+            for (String line; (line = br.readLine()) != null; ) {
+                String[] parts = line.split("\\s+");
+                sizes.add(parts.length - 1);
+            }
+
+            Collections.sort(sizes);
+
+            if (sizes.size() % 2 == 1) {
+                lambda = 1.0f - (1.0f / sizes.get(sizes.size() / 2));
+            } else {
+                lambda = 1.0f - (1.0f / ((sizes.get(sizes.size() / 2 - 1) + sizes.get(sizes.size() / 2)) / 2));
+            }
+
+        } catch (Exception e) {
+            System.out.println("Cannot open " + PATH_TO_QUESTIONS + ". " + e.getMessage());
+        }
+
+        System.out.println("Threshold is: " + lambda);
+
+        return lambda;
     }
 
     @SuppressWarnings("unused")
