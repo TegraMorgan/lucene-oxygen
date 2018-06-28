@@ -1,26 +1,24 @@
 package oxygen;
 
-import org.apache.lucene.analysis.*;
+import org.apache.lucene.analysis.LowerCaseFilter;
+import org.apache.lucene.analysis.TokenStream;
+import org.apache.lucene.analysis.Tokenizer;
 import org.apache.lucene.analysis.en.EnglishPossessiveFilter;
-import org.apache.lucene.analysis.en.KStemFilter;
 import org.apache.lucene.analysis.en.PorterStemFilter;
 import org.apache.lucene.analysis.miscellaneous.SetKeywordMarkerFilter;
-import org.apache.lucene.analysis.pattern.PatternReplaceFilter;
-import org.apache.lucene.analysis.pattern.PatternReplaceFilterFactory;
+import org.apache.lucene.analysis.shingle.ShingleFilter;
 import org.apache.lucene.analysis.standard.StandardFilter;
 import org.apache.lucene.analysis.standard.StandardTokenizer;
 
-import java.util.Arrays;
-import java.util.List;
-
-import org.apache.lucene.analysis.shingle.ShingleFilter;
 
 public class OxygenAnalyzerWithShingles extends OxygenAnalyzerBase {
 
+    public static String getShingleInfo() {
+        return new String("with shingles");
+    }
+
     @Override
     protected TokenStreamComponents createComponents(String fieldName) {
-        /* This is the main point of the analyzer - Tegra */
-        //TODO Change the analyzer
         final Tokenizer source = new StandardTokenizer();
         TokenStream result = new StandardFilter(source);    // Basic initialization
         result = new EnglishPossessiveFilter(result);       // Removes ' symbol (exmpl: Harry's book -> Harry book)
@@ -36,9 +34,5 @@ public class OxygenAnalyzerWithShingles extends OxygenAnalyzerBase {
 
 
         return new TokenStreamComponents(source, result);
-    }
-
-    public static String getShingleInfo(){
-        return new String("with shingles");
     }
 }
