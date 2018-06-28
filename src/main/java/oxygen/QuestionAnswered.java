@@ -32,6 +32,9 @@ import com.google.gson.reflect.TypeToken;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * A model that holds a list of {@link Answer}s and question id
+ */
 public class QuestionAnswered {
     private String id;
     private List<Answer> answers;
