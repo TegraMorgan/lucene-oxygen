@@ -166,7 +166,7 @@ public class OxygenMain {
                     allQuestionsAnswered.add(q);
                     br.mark(3000);
                     line = br.readLine();
-                    appendCommaToJson(q, fileWriter, line == null);
+                    appendToJson(q, fileWriter, line == null);
                     br.reset();
 
                 }
@@ -270,12 +270,12 @@ public class OxygenMain {
 
 
     /**
-     * Appends comma to Json file
+     * Appends answers to json file, and a comma if the line is not last
      *
      * @param q
      * @param writer
      */
-    private static void appendCommaToJson(QuestionAnswered q, FileWriter writer, boolean last) {
+    private static void appendToJson(QuestionAnswered q, FileWriter writer, boolean last) {
 
         try {
             writer.write(q.toString());
@@ -287,6 +287,12 @@ public class OxygenMain {
         }
     }
 
+    /**
+     * Extracts questions from raw data and writes them to new json file
+     *
+     * @param filename
+     * @throws IOException
+     */
     private static void createQuestionsJson(String filename) throws IOException {
 
         Gson gson = new Gson();
@@ -309,6 +315,10 @@ public class OxygenMain {
         }
     }
 
+    /**
+     * Calculates lambda \lambda = 1 - \displaystyle\dfrac{1}{n}\sum_{q \in C_q}{\vert d \vert}
+     * @return
+     */
     private static float calculateLambda() {
 
         try (BufferedReader br = new BufferedReader(new FileReader(PATH_TO_QUESTIONS_MAIN))) {
@@ -344,7 +354,14 @@ public class OxygenMain {
         }
     }
 
-
+    /**
+     * Outputs query breackdown to the screen
+     * @param originalQuery
+     * @param preFilteredQuery
+     * @param parsedQuery
+     * @param endQueryParseMillis
+     * @param startQueryParseMillis
+     */
     private static void printQueryInfo(String originalQuery, String preFilteredQuery, Query parsedQuery,
                                        long endQueryParseMillis, long startQueryParseMillis) {
         System.out.println();
