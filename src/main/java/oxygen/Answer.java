@@ -33,6 +33,6 @@ public class Answer {
     }
 
     public String toString() {
-        return new String(score  + " " + answer+ "\n");
+        return new String(score + " " + answer + "\n");
     }
 }

@@ -23,18 +23,21 @@
 /* -------------------------------------------------------------------------- */
 package oxygen;
 
-import com.google.gson.*;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonParser;
 import com.google.gson.reflect.TypeToken;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class QuestionAnswered {
-    private String  id;
+    private String id;
     private List<Answer> answers;
 
-    QuestionAnswered(String  questionId, List<Answer> answersArray) {
-        id = new String (questionId);
+    QuestionAnswered(String questionId, List<Answer> answersArray) {
+        id = new String(questionId);
         answers = new ArrayList<>();
         answers.addAll(answersArray);
     }

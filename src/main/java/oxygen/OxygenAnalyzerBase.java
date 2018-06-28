@@ -2,27 +2,23 @@ package oxygen;
 
 import org.apache.lucene.analysis.*;
 import org.apache.lucene.analysis.en.EnglishPossessiveFilter;
-import org.apache.lucene.analysis.en.KStemFilter;
 import org.apache.lucene.analysis.en.PorterStemFilter;
 import org.apache.lucene.analysis.miscellaneous.SetKeywordMarkerFilter;
-import org.apache.lucene.analysis.pattern.PatternReplaceFilter;
-import org.apache.lucene.analysis.pattern.PatternReplaceFilterFactory;
 import org.apache.lucene.analysis.standard.StandardFilter;
 import org.apache.lucene.analysis.standard.StandardTokenizer;
 
 import java.util.Arrays;
 import java.util.List;
 
-import org.apache.lucene.analysis.shingle.ShingleFilter;
-
+/**
+ * Base version of Oxygen Custom Analyzer
+ */
 public class OxygenAnalyzerBase extends StopwordAnalyzerBase {
     public static final CharArraySet OXYGEN_EXCLUSION_SET;
 
-    protected final CharArraySet stemExclusionSet;
-    protected final CharArraySet stopwords;
-
-
-    // US
+    /**
+     * List of stemming exclusions
+     */
     static {
         final List<String> exclusionSet = Arrays.asList(
                 "u.s.a", "u.s.a.", "u.s", "u.s."
@@ -31,12 +27,12 @@ public class OxygenAnalyzerBase extends StopwordAnalyzerBase {
         OXYGEN_EXCLUSION_SET = CharArraySet.unmodifiableSet(stopSet);
     }
 
+    protected final CharArraySet stemExclusionSet;
+    protected final CharArraySet stopwords;
 
-    //Abbigious abbr. removed
-    //TODO special quotation filter: (Eddisson) etc.
-
-
-
+    /**
+     * Creates default Oxygen Analyzer
+     */
     public OxygenAnalyzerBase() {
         this(getDefaultStopSet());
     }
@@ -64,13 +60,6 @@ public class OxygenAnalyzerBase extends StopwordAnalyzerBase {
         this(stopWords, OXYGEN_EXCLUSION_SET);
     }
 
-    @Override
-    protected TokenStream normalize(String fieldName, TokenStream in) {
-        TokenStream result = new StandardFilter(in);
-        result = new LowerCaseFilter(result);
-        return result;
-    }
-
     /**
      * Returns an unmodifiable instance of the default stop words set.
      *
@@ -80,12 +69,15 @@ public class OxygenAnalyzerBase extends StopwordAnalyzerBase {
         return DefaultSetHolder.DEFAULT_STOP_SET;
     }
 
-    /**
-     * Atomically loads the DEFAULT_STOP_SET in a lazy fashion once the outer class
-     * accesses the static final set the first time.;
-     */
-    private static class DefaultSetHolder {
-        static final CharArraySet DEFAULT_STOP_SET = Constants.OXYGEN_STOP_SET;
+    public static String getShingleInfo() {
+        return new String("without shingles");
+    }
+
+    @Override
+    protected TokenStream normalize(String fieldName, TokenStream in) {
+        TokenStream result = new StandardFilter(in);
+        result = new LowerCaseFilter(result);
+        return result;
     }
 
     @Override
@@ -104,7 +96,11 @@ public class OxygenAnalyzerBase extends StopwordAnalyzerBase {
         return new TokenStreamComponents(source, result);
     }
 
-    public static String getShingleInfo(){
-        return new String("without shingles");
+    /**
+     * Atomically loads the DEFAULT_STOP_SET in a lazy fashion once the outer class
+     * accesses the static final set the first time.;
+     */
+    private static class DefaultSetHolder {
+        static final CharArraySet DEFAULT_STOP_SET = Constants.OXYGEN_STOP_SET;
     }
 }

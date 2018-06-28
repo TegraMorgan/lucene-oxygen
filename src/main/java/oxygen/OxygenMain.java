@@ -16,40 +16,40 @@
  */
 package oxygen;
 
-import com.google.common.collect.Iterables;
-import com.google.gson.*;
+import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.google.gson.stream.JsonReader;
 import org.apache.lucene.analysis.Analyzer;
-
-
 import org.apache.lucene.codecs.simpletext.SimpleTextCodec;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field.Store;
 import org.apache.lucene.document.FieldType;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
-import org.apache.lucene.index.*;
+import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.IndexWriter;
+import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.IndexWriterConfig.OpenMode;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.*;
+import org.apache.lucene.search.similarities.LMJelinekMercerSimilarity;
+import org.apache.lucene.search.similarities.MultiSimilarity;
+import org.apache.lucene.search.similarities.Similarity;
 import org.apache.lucene.search.vectorhighlight.FastVectorHighlighter;
 import org.apache.lucene.search.vectorhighlight.FieldQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.search.similarities.*;
-
+import utils.CmdParser;
 
 import java.io.*;
-import java.lang.reflect.Type;
-import java.util.*;
-
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 import static oxygen.Utils.format;
 import static utils.QueryToLucene.symbolRemoval;
-
-import utils.CmdParser;
 
 public class OxygenMain {
 
@@ -107,7 +107,7 @@ public class OxygenMain {
                 lambda = calculateLambda();
             }
         } catch (Exception e) {
-            System.out.println("Exception caught:"  + e.getMessage());
+            System.out.println("Exception caught:" + e.getMessage());
         }
 
         try (Directory dirShingle = FSDirectory.open(new File(PATH_TO_INDEX1).toPath());
@@ -234,7 +234,7 @@ public class OxygenMain {
             List<Answer> answers = createAnswersArray(searcher, q, topDocs);
             return answers;
         } else {
-            System.out.printf("Search: %s not succeeded.\n", analyzer.getShingleInfo());
+            System.out.printf("Search: %s not succeeded.\n", OxygenAnalyzerBase.getShingleInfo());
             throw new OxygenNotFound();
         }
     }
