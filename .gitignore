@@ -27,4 +27,6 @@ src/main/main.iml
 .idea/*
 tmp/
 indexes/
+out/
+
 
