@@ -10,10 +10,15 @@ import org.apache.lucene.analysis.standard.StandardTokenizer;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Base version of Oxygen Custom Analyzer
+ */
 public class OxygenAnalyzerBase extends StopwordAnalyzerBase {
     public static final CharArraySet OXYGEN_EXCLUSION_SET;
 
-    // US
+    /**
+     * List of stemming exclusions
+     */
     static {
         final List<String> exclusionSet = Arrays.asList(
                 "u.s.a", "u.s.a.", "u.s", "u.s."
@@ -25,11 +30,9 @@ public class OxygenAnalyzerBase extends StopwordAnalyzerBase {
     protected final CharArraySet stemExclusionSet;
     protected final CharArraySet stopwords;
 
-
-    //Abbigious abbr. removed
-    //TODO special quotation filter: (Eddisson) etc.
-
-
+    /**
+     * Creates default Oxygen Analyzer
+     */
     public OxygenAnalyzerBase() {
         this(getDefaultStopSet());
     }

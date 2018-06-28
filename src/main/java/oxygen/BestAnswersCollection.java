@@ -1,6 +1,4 @@
 package oxygen;
 
-import java.util.List;
-
-public class BestAnswersCollection extends OriginalQuiestionObject{
+public class BestAnswersCollection extends OriginalQuiestionObject {
 }

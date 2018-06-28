@@ -23,8 +23,6 @@
 /* -------------------------------------------------------------------------- */
 package oxygen;
 
-import org.apache.lucene.analysis.TokenStream;
-
 import java.util.List;
 
 public class OxygenPreFilter {
@@ -32,7 +30,7 @@ public class OxygenPreFilter {
 
     public static String filter(String query, List<String> stopWords) {
         String filtered = query;
-        for (String word: stopWords){
+        for (String word : stopWords) {
             filtered = filtered.replaceAll("(?i)" + "\\b" + word + "\\b", "").trim();
         }
         return filtered;

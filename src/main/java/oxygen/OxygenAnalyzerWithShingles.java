@@ -11,12 +11,23 @@ import org.apache.lucene.analysis.standard.StandardFilter;
 import org.apache.lucene.analysis.standard.StandardTokenizer;
 
 
+/**
+ * A version of OxygenAnalyzer that uses bigrams
+ */
 public class OxygenAnalyzerWithShingles extends OxygenAnalyzerBase {
 
+    /**
+     * @return Oxygen-analyzer type
+     */
     public static String getShingleInfo() {
         return new String("with shingles");
     }
 
+    /**
+     * Creates tokens for search
+     * @param fieldName String to tokenize
+     * @return TokenStreamComponents
+     */
     @Override
     protected TokenStreamComponents createComponents(String fieldName) {
         final Tokenizer source = new StandardTokenizer();
