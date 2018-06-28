@@ -164,7 +164,12 @@ public class OxygenMain {
 
                     QuestionAnswered q = new QuestionAnswered(queryId, answers);
                     allQuestionsAnswered.add(q);
-                    appendToAnswersJson(q, fileWriter);
+                    br.mark(3000);
+                    if (br.readLine() != null) {
+                        appendCommaToJson(q, fileWriter);
+                    }
+                    br.reset();
+
                 }
                 fileWriter.write("\n]\n");
                 fileWriter.flush();
@@ -173,6 +178,13 @@ public class OxygenMain {
         }
     }
 
+    /**
+     * Creates index writer with provided analyzer and similarity
+     *
+     * @param analyzer   Analyzer used
+     * @param similarity Similarity used
+     * @return new IndexWriterConfing
+     */
     private static IndexWriterConfig newIndexWriterConfig(Analyzer analyzer, Similarity similarity) {
         return new IndexWriterConfig(analyzer)
                 .setSimilarity(similarity)
@@ -181,6 +193,13 @@ public class OxygenMain {
                 .setCommitOnClose(true);
     }
 
+    /**
+     * Writes the corpus to given directory from given json file using given analyzer and similarity
+     * @param dir
+     * @param jsonPath
+     * @param analyzer
+     * @param similarity
+     */
     private static void indexCorpus(Directory dir, String jsonPath, Analyzer analyzer, Similarity similarity) {
         try {
             BufferedReader br = new BufferedReader(new FileReader(jsonPath));
@@ -251,7 +270,13 @@ public class OxygenMain {
     }
 
 
-    private static void appendToAnswersJson(QuestionAnswered q, FileWriter writer) {
+    /**
+     * Appends comma to Json file
+     *
+     * @param q
+     * @param writer
+     */
+    private static void appendCommaToJson(QuestionAnswered q, FileWriter writer) {
 
         try {
             writer.write(q.toString());
