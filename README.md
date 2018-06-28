@@ -39,7 +39,9 @@ Lambda parameter calculated by this formula:
 This option needed for lambda parameter calculation, in case that there is no corpus of questions available. This requires regular .json file with corpus collection.
 
 # Source documentation
+
 Can be found here https://louiscyphre.github.io/lucene-oxygen/
+
 Additionally, it can be found here (same files) https://github.com/louiscyphre/lucene-oxygen/tree/master/docs
 
 
