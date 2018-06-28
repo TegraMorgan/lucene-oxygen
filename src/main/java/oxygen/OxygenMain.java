@@ -224,6 +224,18 @@ public class OxygenMain {
         }
     }
 
+    /**
+     * Main search function
+     *
+     * @param reader
+     * @param queryString
+     * @param preFilteredQuery
+     * @param analyzer
+     * @return
+     * @throws IOException
+     * @throws ParseException
+     * @throws OxygenNotFound
+     */
     private static List<Answer> search(DirectoryReader reader, String queryString, String preFilteredQuery,
                                        OxygenAnalyzerBase analyzer) throws IOException, ParseException, OxygenNotFound {
         final QueryParser qp = new QueryParser(BODY_FIELD, analyzer);     // Basic Query Parser creates
@@ -248,7 +260,6 @@ public class OxygenMain {
         overallTime += endSearch - startSearch;
 
         if (topDocs.scoreDocs.length > 0) {
-            //printSearchResults(topDocs, q, reader, searcher, endSearch - startSearch, overallTime);
             List<Answer> answers = createAnswersArray(searcher, q, topDocs);
             return answers;
         } else {

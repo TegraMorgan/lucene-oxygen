@@ -33,6 +33,9 @@ public class Constants {
 
     private static final List<String> stopWords;
 
+    /**
+     * Stopword list
+     */
     static {
         stopWords = Arrays.asList(
                 "a", "able", "about", "above", "abst", "accordance", "according", "accordingly", "across", "act",
@@ -91,6 +94,11 @@ public class Constants {
         OXYGEN_STOP_SET = CharArraySet.unmodifiableSet(stopSet);
     }
 
+    /**
+     * List of Oxygen stopwords
+     *
+     * @return const list
+     */
     static public List<String> getStopWords() {
         return stopWords;
     }

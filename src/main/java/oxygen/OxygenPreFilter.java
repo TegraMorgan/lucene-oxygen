@@ -27,7 +27,13 @@ import java.util.List;
 
 public class OxygenPreFilter {
 
-
+    /**
+     * Static function that removes stopwords completely
+     *
+     * @param query     Query to operate on
+     * @param stopWords list of words to filter out of query
+     * @return Query without stopwords
+     */
     public static String filter(String query, List<String> stopWords) {
         String filtered = query;
         for (String word : stopWords) {

@@ -23,6 +23,9 @@
 /* -------------------------------------------------------------------------- */
 package oxygen;
 
+/**
+ * Answer model
+ */
 public class Answer {
     private String answer;
     private String score;
