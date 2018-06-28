@@ -56,8 +56,8 @@ public class OxygenMain {
     private static final String PATH_TO_JSON = "../nfL6.json";
     private static final String PATH_TO_INDEX1 = "./indexes/index";
     private static final String PATH_TO_INDEX2 = "./indexes/shingle_index";
-    private static final String PATH_TO_QUESTIONS = "./test/questions.txt";
-    private static final String PATH_TO_QUESTIONS_MAIN = "./test/qq.txt";
+    private static final String PATH_TO_QUESTIONS = "./test/finalEval.txt";
+    private static final String PATH_TO_QUESTIONS_MAIN = "./test/questions.txt";
     private static final String PATH_TO_ANSWERS_OUTPUT = "./test/out/answers.json";
     private static final float DEFAULT_LAMBDA;
 
