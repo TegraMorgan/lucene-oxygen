@@ -69,6 +69,9 @@ public class OxygenAnalyzerBase extends StopwordAnalyzerBase {
         return DefaultSetHolder.DEFAULT_STOP_SET;
     }
 
+    /**
+     * @return Oxygen Analyzer type
+     */
     public static String getShingleInfo() {
         return new String("without shingles");
     }
@@ -82,8 +85,6 @@ public class OxygenAnalyzerBase extends StopwordAnalyzerBase {
 
     @Override
     protected TokenStreamComponents createComponents(String fieldName) {
-        /* This is the main point of the analyzer - Tegra */
-        //TODO Change the analyzer
         final Tokenizer source = new StandardTokenizer();
         TokenStream result = new StandardFilter(source);    // Basic initialization
         result = new EnglishPossessiveFilter(result);       // Removes ' symbol (exmpl: Harry's book -> Harry book)
