@@ -22,9 +22,9 @@ for arg in sys.argv:
 		print("Usage: eval.py <qrels filepath> <questions filepath> <answers filepath>")
 		sys.exit()
 
-qrls = sorted(json.load(open(sys.argv[1],'r')), key=lambda k: k['id'])
-questions = [line.rstrip('\n') for line in open(sys.argv[2],'r')]
-answers = sorted(json.load(open(sys.argv[3],'r')), key=lambda k: k['id'])
+qrls = sorted(json.load(open(sys.argv[1],'r', encoding='utf-8')), key=lambda k: k['id'])
+questions = [line.rstrip('\n') for line in open(sys.argv[2],'r', encoding='utf-8')]
+answers = sorted(json.load(open(sys.argv[3],'r', encoding='utf-8')), key=lambda k: k['id'])
 
 sumAccuracy = 0.0;
 sumMRR = 0.0;
@@ -56,6 +56,6 @@ meanAcc = sumAccuracy / len(questions);
 meanMRR = sumMRR / len(questions);
 print("Accuracy: {}".format(meanAcc))
 print("MRR@5: {}".format(meanMRR))
-
-
-
+		
+			
+	
