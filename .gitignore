@@ -30,3 +30,13 @@ indexes/
 out/
 
 
+
+test/\.idea/misc\.xml
+
+test/\.idea/modules\.xml
+
+test/\.idea/test\.iml
+
+test/\.idea/workspace\.xml
+
+test/qq\.txt
